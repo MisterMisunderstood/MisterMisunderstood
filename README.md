@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<header align="center"><img src="https://user-images.githubusercontent.com/83375136/196059303-476d05cb-0d54-4408-ac9a-4d708e9dd7d2.png" width="770px"/></header>
 
-![Imagem Header](https://user-images.githubusercontent.com/83375136/196059177-91e2c069-377a-41df-b124-f1942a112be1.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83375136/196059303-476d05cb-0d54-4408-ac9a-4d708e9dd7d2.png" width="770px" />
+</div>
+
+![Imagem Header](https://user-images.githubusercontent.com/83375136/196059303-476d05cb-0d54-4408-ac9a-4d708e9dd7d2.png)
