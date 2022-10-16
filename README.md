@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ##
-<img align="right" height="80" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83375136/196063264-6ed017ce-f659-439f-8e4f-a5390bc599b8.gif">
-</div>
 <div align="center">
   <a href="https://github.com/MisterMisunderstood">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MisterMisunderstood&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
