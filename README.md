@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## Projetos e práticas
 
 <div align="center">
-<a href="https://github.com/MisterMisunderstood/public.Collect"><img src="https://user-images.githubusercontent.com/83375136/196258952-6a26fa8d-6dfc-4907-9bda-be58c3adf1b6.png" width="200px" /></a>
+<a href="https://github.com/MisterMisunderstood/public.Collect"><img src="https://user-images.githubusercontent.com/83375136/196258952-6a26fa8d-6dfc-4907-9bda-be58c3adf1b6.png" width="200px" alt="Collect"/></a>
 <a href="https://mistermisunderstood.github.io/JoaoLemon/#" ><img src="https://user-images.githubusercontent.com/83375136/196258437-49b01ecd-32c0-437a-ba5b-a7bf1192f3fb.png" width="200px" /></a>
 <a href="https://github.com/MisterMisunderstood/LanchesMac/tree/master" ><img src="https://user-images.githubusercontent.com/83375136/196576384-3bbfe0bd-3210-49f9-89a9-d6fb6cc23720.png" width="200px" /></a>
 <a href="https://github.com/MisterMisunderstood/FilmesAPI" ><img src="https://user-images.githubusercontent.com/83375136/196589932-be2728ed-fa26-4007-ae10-ed6056181fb8.png" width="200px" /></a>
