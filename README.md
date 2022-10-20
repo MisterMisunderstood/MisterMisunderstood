@@ -46,6 +46,21 @@ Here are some ideas to get you started:
 <a href="https://github.com/MisterMisunderstood/FilmesAPI" ><img src="https://user-images.githubusercontent.com/83375136/196589932-be2728ed-fa26-4007-ae10-ed6056181fb8.png" width="200px" /></a>
 </div>  
 
+## 👇 Quer saber mais sobre mim? Abre aí 
+<details>
+    <summary>
+        🟣 <img src="https://img.shields.io/badge/projects-me-orange" />
+    </summary>
+    
+    
+## Que bom que clicou! 🙂
 
+<p>Vou falar um pouco sobre mim.<br>
+Oi, me chamo Ricardo. That's it!<br>
+Adoro tecnologia. Gosto de fuçar, mexer, fazer, explorar, aprender e fazer mais um pouco. 
+A programação pra mim é um laboratório para eu pôr em práticas esse desejo de criar. Só limitado, claro, pelo meu conhecimento. E por isso gosto, quero e preciso aprender mais e mais!<br>
+Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de programadores :D
 
+    
+</details>
 
