@@ -70,11 +70,14 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 ---
 <div align="center">
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"/></a>
-</div>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+  
+## Ciência e tecnologia
 
----
-## Blogs
+&nbsp; <br> 
+
 <!-- BLOG-POST-LIST:START -->
 - [NASA testa conceito de nave que se esborracha no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-quer-trocar-paraquedas-nave-se-esborracha-chao&id=010130221021)
 - [Chip de luz transmite duas vezes o tr�fego da internet por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-transmite-duas-vezes-trafego-internet-segundo&id=010150221021)
@@ -82,3 +85,17 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberto planeta com a densidade de marshmallow](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-densidade-marshmallow&id=020175221020)
 - [Lidando com erros no Node.js](https://www.alura.com.br/artigos/lidando-com-erros-node-js)
 <!-- BLOG-POST-LIST:END -->
+
+  </td>
+  <td width="50%">
+
+&nbsp;<div align="center">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"/></a>
+</div>
+
+  </p>
+  </td>
+</table>
+</div>
+
+
