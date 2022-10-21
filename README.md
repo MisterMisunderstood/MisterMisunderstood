@@ -72,9 +72,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <div align="center">
 <table width="100%"> 
   <tr>
+  
   <td width="50%">
   
-## Ciência e tecnologia
+## 🧐 Updates ciência e tecnologia
 
 &nbsp; <br> 
 
