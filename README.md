@@ -76,9 +76,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 ---
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Vencendo a Crise com Cris Parente (Quatrode15 #165)](https://www.deviante.com.br/podcasts/vencendo-a-crise-com-cris-parente-quatrode15-165/)
-- [Perseguição política, omissão de agente público e responsabilização – 13 Lunan (Spin#1806 – 21/10/2022)](https://www.deviante.com.br/podcasts/spin/spin-de-noticias-1806/)
 - [NASA testa conceito de nave que se esborracha no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-quer-trocar-paraquedas-nave-se-esborracha-chao&id=010130221021)
 - [Chip de luz transmite duas vezes o tr�fego da internet por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-transmite-duas-vezes-trafego-internet-segundo&id=010150221021)
-- [Poder Judiciário (SciCast #507)](https://www.deviante.com.br/podcasts/scicast-507/)
+- [Como as cobras conseguem esmagar suas presas e respirar ao mesmo tempo?](https://sciam.com.br/como-as-cobras-conseguem-esmagar-suas-presas-e-respirar-ao-mesmo-tempo/)
+- [Descoberto planeta com a densidade de marshmallow](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-densidade-marshmallow&id=020175221020)
+- [Lidando com erros no Node.js](https://www.alura.com.br/artigos/lidando-com-erros-node-js)
 <!-- BLOG-POST-LIST:END -->
