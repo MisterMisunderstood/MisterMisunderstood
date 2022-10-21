@@ -18,4 +18,4 @@ jobs:
           feed_list: "https://www.inovacaotecnologica.com.br/boletim/rss.xml,https://sciam.com.br/noticias/feed/,https://www.alura.com.br/artigos/rss,https://feeds.feedburner.com/tableless"
           disable_html_encoding: true
           max_post_count: 7
-          item_exec: "title = title.decodeURIComponent(escape(title));"
+          
