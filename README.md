@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 👇 Quer saber mais sobre mim? Abre aí 
 <details>
     <summary>
-        🟣 <a href="#" text-align: center; ><img src="https://img.shields.io/badge/projects-me-orange"/></a>
+        🟣 <a href="https://github.com/MisterMisunderstood/MisterMisunderstood/edit/main/README.md#-quer-saber-mais-sobre-mim-abre-a%C3%AD" text-align: center; ><img src="https://img.shields.io/badge/projects-me-orange"/></a>
     </summary>
     
     
