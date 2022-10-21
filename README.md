@@ -65,7 +65,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 ---
 <div align="center">
-<a align="center" href="https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq"><img src="https://spotify-stats-novatorem.vercel.app/api/spotify/?background_color=0A0C0F&border_color=6600FF"/></a>
+<a align="center" href="https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq"><img src="https://spotify-stats-novatorem.vercel.app/api/spotify/?background_color=000000&border_color=6600FF"/></a>
 </div>
 
 ---
