@@ -60,7 +60,9 @@ Oi, me chamo Ricardo. That's it!<br>
 Adoro tecnologia. Gosto de fuçar, mexer, fazer, explorar, aprender e fazer mais um pouco. 
 A programação pra mim é um laboratório para eu pôr em práticas esse desejo de criar. Só limitado, claro, pelo meu conhecimento. E por isso gosto, quero e preciso aprender mais e mais!<br>
 Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de programadores :D
-
     
 </details>
 
+---
+
+[![Spotify](https://spotify-stats-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq)  
