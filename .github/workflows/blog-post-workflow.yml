@@ -15,6 +15,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.inovacaotecnologica.com.br/boletim/rss.xml,https://sciam.com.br/noticias/feed/,http://www.deviante.com.br/feed/,https://geekblog.com.br/feed/,https://www.alura.com.br/artigos/rss,https://www.devmedia.com.br/feed/,https://feeds.feedburner.com/tableless"
+          feed_list: "https://www.inovacaotecnologica.com.br/boletim/rss.xml,https://sciam.com.br/noticias/feed/,http://www.deviante.com.br/feed/,https://www.alura.com.br/artigos/rss,https://www.devmedia.com.br/feed/,https://feeds.feedburner.com/tableless"
           disable_html_encoding: true
           max_post_count: 7
