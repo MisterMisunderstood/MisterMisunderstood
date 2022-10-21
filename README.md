@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 👇 Quer saber mais sobre mim? Abre aí 
 <details>
     <summary>
-        🟣 <a href="https://github.com/MisterMisunderstood/#-quer-saber-mais-sobre-mim-abre-a%C3%AD" text-align: center; ><img src="https://img.shields.io/badge/projects-me-orange"/></a>
+        🟣 <a href="https://github.com/MisterMisunderstood/#-quer-saber-mais-sobre-mim-abre-a%C3%AD" ><img src="https://img.shields.io/badge/projects-me-orange"/></a>
     </summary>
     
     
@@ -64,5 +64,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 </details>
 
 ---
+<div align="center">
+<a align="center" href="https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq"><img src="https://spotify-stats-novatorem.vercel.app/api/spotify/?background_color=0A0C0F&border_color=6600FF"/></a>
+</div>
 
-[![Spotify](https://spotify-stats-novatorem.vercel.app/api/spotify/?background_color=0A0C0F&border_color=6600FF)](https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq)  
+---
+<div align="center">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"/></a>
+</div>
