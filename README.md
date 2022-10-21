@@ -65,4 +65,4 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 ---
 
-[![Spotify](https://spotify-stats-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq)  
+[![Spotify](https://spotify-stats-novatorem.vercel.app/api/spotify/?background_color=0A0C0F&border_color=6600FF)](https://open.spotify.com/user/31sutrsnubzu6logfstxlrizzzyq)  
