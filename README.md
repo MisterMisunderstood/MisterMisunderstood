@@ -76,9 +76,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 ---
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Lidando com erros no Node.js](https://www.alura.com.br/artigos/lidando-com-erros-node-js)
 - [Como as cobras conseguem esmagar suas presas e respirar ao mesmo tempo?](https://sciam.com.br/como-as-cobras-conseguem-esmagar-suas-presas-e-respirar-ao-mesmo-tempo/)
 - [Descoberto planeta com a densidade de marshmallow](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-densidade-marshmallow&id=020175221020)
 - [Comprovado: Nosso c�rebro usa computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comprovado-nosso-cerebro-usa-computacao-quantica&id=010150221020)
 - [Criada uma rede neural mec�nica, que aprende e reage ativamente ao ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-mecanica&id=010180221020)
+- [Pilares da Cria��o vistos sob nova luz pelo Webb](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pilares-criacao-telescopio-webb&id=010175221020)
 <!-- BLOG-POST-LIST:END -->
