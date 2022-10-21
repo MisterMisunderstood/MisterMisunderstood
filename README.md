@@ -72,3 +72,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <div align="center">
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31sutrsnubzu6logfstxlrizzzyq&width=300"/></a>
 </div>
+
+---
+## Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
