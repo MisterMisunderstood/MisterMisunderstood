@@ -80,8 +80,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
 - [O que é UX Writing, a famosa Redação para UX?](https://www.alura.com.br/artigos/o-que-e-ux-writing-redacao-para-ux)
+- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
 - [NASA testa conceito de nave que se esborracha no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-quer-trocar-paraquedas-nave-se-esborracha-chao&id=010130221021)
 - [Chip de luz transmite duas vezes o tr�fego da internet por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-transmite-duas-vezes-trafego-internet-segundo&id=010150221021)
 - [Como as cobras conseguem esmagar suas presas e respirar ao mesmo tempo?](https://sciam.com.br/como-as-cobras-conseguem-esmagar-suas-presas-e-respirar-ao-mesmo-tempo/)
