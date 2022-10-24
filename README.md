@@ -80,13 +80,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Transmiss�o de energia solar do espa�o ser� testada em dezembro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-transmissao-energia-solar-espaco&id=010115221024)
+- [Vulc�es emitem som de trombone antes de entrar em erup��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulcao-emite-som-trombone-antes-entrar-erupcao&id=010125221024)
+- [Impressora fabrica metamateriais e metassuperf�cies sobre papel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-fabrica-metamateriais-metassuperficies-sobre-papel&id=010160221024)
 - [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
 - [O que é UX Writing, a famosa Redação para UX?](https://www.alura.com.br/artigos/o-que-e-ux-writing-redacao-para-ux)
 - [NASA testa conceito de nave que se esborracha no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-quer-trocar-paraquedas-nave-se-esborracha-chao&id=010130221021)
 - [Chip de luz transmite duas vezes o tr�fego da internet por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-transmite-duas-vezes-trafego-internet-segundo&id=010150221021)
-- [Como as cobras conseguem esmagar suas presas e respirar ao mesmo tempo?](https://sciam.com.br/como-as-cobras-conseguem-esmagar-suas-presas-e-respirar-ao-mesmo-tempo/)
-- [Descoberto planeta com a densidade de marshmallow](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-densidade-marshmallow&id=020175221020)
-- [Comprovado: Nosso c�rebro usa computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comprovado-nosso-cerebro-usa-computacao-quantica&id=010150221020)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
