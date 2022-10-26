@@ -89,13 +89,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [�m� c�smico fabricado na Terra pode desbancar �m�s de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-cosmico-desbancar-imas-terras-raras&id=020160221026)
+- [Pl�stico inteligente junta m�ltiplas propriedades no mesmo material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-inteligente&id=010160221026)
 - [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
 - [F�sicos combinam os dois fen�menos mais fantasmag�ricos da mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-combinam-dois-fenomenos-mais-fantasmagoricos-mecanica-quantica&id=010165221025)
 - [Abelhas geram tanta eletricidade quanto nuvem de tempestade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=abelhas-contribuem-eletricidade-atmosfera&id=010125221025)
 - [Voc� precisa ver este dedo rob�tico por dentro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voce-precisa-ver-este-dedo-robotico-dentro&id=010180221025)
 - [Ou�a o assustador som do campo magn�tico da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouca-assustador-som-campo-magnetico-terra&id=010175221024)
-- [Peixe-lua de 2.744 kg é o novo peixe ósseo mais pesado já medido](https://sciam.com.br/peixe-lua-de-2-744-kg-e-o-novo-peixe-osseo-mais-pesado-ja-medido/)
-- [Como instalar o Node.js no Windows, Linux e macOS](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
