@@ -95,7 +95,7 @@ Meus conhecimentos atualmente são em:
 - [Voc� precisa ver este dedo rob�tico por dentro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voce-precisa-ver-este-dedo-robotico-dentro&id=010180221025)
 - [Ou�a o assustador som do campo magn�tico da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouca-assustador-som-campo-magnetico-terra&id=010175221024)
 - [Peixe-lua de 2.744 kg é o novo peixe ósseo mais pesado já medido](https://sciam.com.br/peixe-lua-de-2-744-kg-e-o-novo-peixe-osseo-mais-pesado-ja-medido/)
-- [Transmiss�o de energia solar do espa�o ser� testada em dezembro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-transmissao-energia-solar-espaco&id=010115221024)
+- [Como instalar o Node.js no Windows, Linux e macOS](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
