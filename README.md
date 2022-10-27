@@ -89,13 +89,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Pesquisa mostra empresas de realidade estendida no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=censo-empresas-realidade-estendida-brasil&id=010175221027)
 - [An�is de �rvores revelam tempestades de radia��o devastadoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eventos-miyake-eventos-cosmicos-devastadores-ocorrer-cada-milenio&id=010125221027)
 - [Criado primeiro condensado de Bose-Einstein de quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condensado-bose-einstein-quasiparticulas&id=010130221027)
 - [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
 - [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
 - [�m� c�smico fabricado na Terra pode desbancar �m�s de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-cosmico-desbancar-imas-terras-raras&id=020160221026)
 - [Pl�stico inteligente junta m�ltiplas propriedades no mesmo material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-inteligente&id=010160221026)
-- [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
