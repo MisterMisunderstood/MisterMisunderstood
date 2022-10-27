@@ -89,13 +89,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Pesquisa mostra empresas de realidade estendida no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=censo-empresas-realidade-estendida-brasil&id=010175221027)
-- [An�is de �rvores revelam tempestades de radia��o devastadoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eventos-miyake-eventos-cosmicos-devastadores-ocorrer-cada-milenio&id=010125221027)
-- [Criado primeiro condensado de Bose-Einstein de quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condensado-bose-einstein-quasiparticulas&id=010130221027)
 - [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
 - [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
-- [�m� c�smico fabricado na Terra pode desbancar �m�s de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-cosmico-desbancar-imas-terras-raras&id=020160221026)
-- [Pl�stico inteligente junta m�ltiplas propriedades no mesmo material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-inteligente&id=010160221026)
+- [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
+- [Como instalar o Node.js no Windows, Linux e macOS](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos)
+- [Peixe-lua de 2.744 kg é o novo peixe ósseo mais pesado já medido](https://sciam.com.br/peixe-lua-de-2-744-kg-e-o-novo-peixe-osseo-mais-pesado-ja-medido/)
+- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
+- [O que é UX Writing, a famosa Redação para UX?](https://www.alura.com.br/artigos/o-que-e-ux-writing-redacao-para-ux)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
