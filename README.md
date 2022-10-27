@@ -90,9 +90,9 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
+- [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
 - [�m� c�smico fabricado na Terra pode desbancar �m�s de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-cosmico-desbancar-imas-terras-raras&id=020160221026)
 - [Pl�stico inteligente junta m�ltiplas propriedades no mesmo material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-inteligente&id=010160221026)
-- [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
 - [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
 - [F�sicos combinam os dois fen�menos mais fantasmag�ricos da mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-combinam-dois-fenomenos-mais-fantasmagoricos-mecanica-quantica&id=010165221025)
 - [Abelhas geram tanta eletricidade quanto nuvem de tempestade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=abelhas-contribuem-eletricidade-atmosfera&id=010125221025)
