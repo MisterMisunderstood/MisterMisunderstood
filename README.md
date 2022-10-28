@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
 - [Gravita��o de Newton � contestada por aglomerados estelares; teoria alternativa explica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerados-estelares-contestam-gravitacao-newton-apoiam-teoria-alternativa&id=010130221028)
 - [Como extrair eletricidade da diferen�a de salinidade entre rios e oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-extrair-eletricidade-diferenca-salinidade-entre-rios-oceanos&id=010115221028)
 - [NASA anuncia teste real de escudo de reentrada infl�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-teste-escudo-reentrada-inflavel&id=020130221027)
 - [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
 - [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
 - [Pesquisa mostra empresas de realidade estendida no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=censo-empresas-realidade-estendida-brasil&id=010175221027)
-- [An�is de �rvores revelam tempestades de radia��o devastadoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eventos-miyake-eventos-cosmicos-devastadores-ocorrer-cada-milenio&id=010125221027)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
