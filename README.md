@@ -68,6 +68,7 @@ Meus conhecimentos atualmente são em:
 * JavaScript
 * C# 
 * POO
+* Git
 * Entre outras
     
 </details>
