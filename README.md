@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA anuncia teste real de escudo de reentrada infl�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-teste-escudo-reentrada-inflavel&id=020130221027)
 - [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
-- [Pesquisa mostra empresas de realidade estendida no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=censo-empresas-realidade-estendida-brasil&id=010175221027)
-- [An�is de �rvores revelam tempestades de radia��o devastadoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eventos-miyake-eventos-cosmicos-devastadores-ocorrer-cada-milenio&id=010125221027)
-- [Criado primeiro condensado de Bose-Einstein de quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condensado-bose-einstein-quasiparticulas&id=010130221027)
 - [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
 - [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
+- [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
+- [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
+- [Peixe-lua de 2.744 kg é o novo peixe ósseo mais pesado já medido](https://sciam.com.br/peixe-lua-de-2-744-kg-e-o-novo-peixe-osseo-mais-pesado-ja-medido/)
+- [Como instalar o Node.js no Windows, Linux e macOS](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
