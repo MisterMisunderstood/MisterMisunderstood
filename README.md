@@ -94,9 +94,9 @@ Meus conhecimentos atualmente são em:
 - [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
 - [Gravita��o de Newton � contestada por aglomerados estelares; teoria alternativa explica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerados-estelares-contestam-gravitacao-newton-apoiam-teoria-alternativa&id=010130221028)
 - [Como extrair eletricidade da diferen�a de salinidade entre rios e oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-extrair-eletricidade-diferenca-salinidade-entre-rios-oceanos&id=010115221028)
+- [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
 - [NASA anuncia teste real de escudo de reentrada infl�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-teste-escudo-reentrada-inflavel&id=020130221027)
 - [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
-- [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
