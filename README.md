@@ -90,8 +90,8 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Maior c�mera digital do mundo come�a a tomar forma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-digital-mundo-comeca-tomar-forma&id=010150221028)
 - [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
+- [Maior c�mera digital do mundo come�a a tomar forma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-digital-mundo-comeca-tomar-forma&id=010150221028)
 - [Gravita��o de Newton � contestada por aglomerados estelares; teoria alternativa explica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerados-estelares-contestam-gravitacao-newton-apoiam-teoria-alternativa&id=010130221028)
 - [Como extrair eletricidade da diferen�a de salinidade entre rios e oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-extrair-eletricidade-diferenca-salinidade-entre-rios-oceanos&id=010115221028)
 - [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
