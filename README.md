@@ -96,7 +96,7 @@ Meus conhecimentos atualmente são em:
 - [Como extrair eletricidade da diferen�a de salinidade entre rios e oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-extrair-eletricidade-diferenca-salinidade-entre-rios-oceanos&id=010115221028)
 - [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
 - [NASA anuncia teste real de escudo de reentrada infl�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-teste-escudo-reentrada-inflavel&id=020130221027)
-- [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
+- [Pesquisa mostra empresas de realidade estendida no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=censo-empresas-realidade-estendida-brasil&id=010175221027)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
