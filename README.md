@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
 - [Asas de avi�es e drones ganham mem�ria de perigo com material inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-drones-memoria-perigo-material-inteligente&id=010170221031)
 - [Mold�vel como pl�stico, condutor como metal, material pode mudar eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-condutor-como-metal-fabricado-moldado-como-plastico&id=010160221031)
 - [Maior c�mera digital do mundo come�a a tomar forma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-digital-mundo-comeca-tomar-forma&id=010150221028)
 - [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
 - [Gravita��o de Newton � contestada por aglomerados estelares; teoria alternativa explica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerados-estelares-contestam-gravitacao-newton-apoiam-teoria-alternativa&id=010130221028)
 - [Como extrair eletricidade da diferen�a de salinidade entre rios e oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-extrair-eletricidade-diferenca-salinidade-entre-rios-oceanos&id=010115221028)
-- [NASA anuncia teste real de escudo de reentrada infl�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-teste-escudo-reentrada-inflavel&id=020130221027)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
