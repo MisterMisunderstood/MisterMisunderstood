@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Buracos negros podem ter m�ltiplas massas ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-ter-multiplas-massas-mesmo-tempo&id=010130221101)
+- [Material program�vel muda propriedades mec�nicas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-programavel-muda-propriedades-mecanicas-sob-demanda&id=010160221101)
 - [Descoberto maior asteroide potencialmente perigoso em oito anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-maior-asteroide-potencialmente-perigoso-oito-anos&id=010130221031)
 - [Supernova da Vela, o fantasma de uma estrela gigante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-vela-fantasma-estrela-gigante&id=010175221031)
-- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
 - [Asas de avi�es e drones ganham mem�ria de perigo com material inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-drones-memoria-perigo-material-inteligente&id=010170221031)
 - [Mold�vel como pl�stico, condutor como metal, material pode mudar eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-condutor-como-metal-fabricado-moldado-como-plastico&id=010160221031)
 - [Maior c�mera digital do mundo come�a a tomar forma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-digital-mundo-comeca-tomar-forma&id=010150221028)
-- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
