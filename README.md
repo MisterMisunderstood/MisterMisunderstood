@@ -96,7 +96,7 @@ Meus conhecimentos atualmente são em:
 - [Asas de avi�es e drones ganham mem�ria de perigo com material inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-drones-memoria-perigo-material-inteligente&id=010170221031)
 - [Mold�vel como pl�stico, condutor como metal, material pode mudar eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-condutor-como-metal-fabricado-moldado-como-plastico&id=010160221031)
 - [Maior c�mera digital do mundo come�a a tomar forma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-digital-mundo-comeca-tomar-forma&id=010150221028)
-- [Gravita��o de Newton � contestada por aglomerados estelares; teoria alternativa explica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerados-estelares-contestam-gravitacao-newton-apoiam-teoria-alternativa&id=010130221028)
+- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
