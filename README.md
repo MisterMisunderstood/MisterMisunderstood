@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz miniaturizada colocar� eletr�nica e fot�nica dentro do mesmo chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-miniaturizada-silicio-alcanca-dimensao-componentes-eletronicos&id=010110221102)
+- [Existe uma f�brica de diamantes no interior da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-diamantes-interior-terra&id=010125221102)
 - [Aranha macho dá salto para escapar do canibalismo depois do acasalamento](https://sciam.com.br/aranha-macho-da-salto-para-escapar-do-canibalismo-depois-do-acasalamento/)
 - [Buracos negros podem ter m�ltiplas massas ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-ter-multiplas-massas-mesmo-tempo&id=010130221101)
 - [Material program�vel muda propriedades mec�nicas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-programavel-muda-propriedades-mecanicas-sob-demanda&id=010160221101)
 - [Descoberto maior asteroide potencialmente perigoso em oito anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-maior-asteroide-potencialmente-perigoso-oito-anos&id=010130221031)
 - [Supernova da Vela, o fantasma de uma estrela gigante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-vela-fantasma-estrela-gigante&id=010175221031)
-- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
-- [Asas de avi�es e drones ganham mem�ria de perigo com material inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-drones-memoria-perigo-material-inteligente&id=010170221031)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
