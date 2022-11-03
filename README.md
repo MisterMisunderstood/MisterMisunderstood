@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Filhos planetas fazem m�es estrelas parecerem mais jovens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filhos-planetas-fazem-maes-estrelas-mais-jovens&id=010130221102)
-- [Luz miniaturizada colocar� eletr�nica e fot�nica dentro do mesmo chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-miniaturizada-silicio-alcanca-dimensao-componentes-eletronicos&id=010110221102)
-- [Existe uma f�brica de diamantes no interior da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-diamantes-interior-terra&id=010125221102)
 - [Aranha macho dá salto para escapar do canibalismo depois do acasalamento](https://sciam.com.br/aranha-macho-da-salto-para-escapar-do-canibalismo-depois-do-acasalamento/)
-- [Buracos negros t�m propriedades qu�nticas: M�ltiplas massas, por exemplo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-ter-multiplas-massas-mesmo-tempo&id=010130221101)
-- [Material program�vel muda propriedades mec�nicas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-programavel-muda-propriedades-mecanicas-sob-demanda&id=010160221101)
-- [Descoberto maior asteroide potencialmente perigoso em oito anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-maior-asteroide-potencialmente-perigoso-oito-anos&id=010130221031)
+- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
+- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
+- [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
+- [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
+- [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
+- [Sexta-feira livre com Gabs Ferreira](https://www.alura.com.br/artigos/sexta-feira-livre-gabs-ferreira)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
