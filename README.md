@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Cientistas rastreiam dietas de dinossauros para estudar sua evolução](https://sciam.com.br/cientistas-rastreiam-dietas-de-dinossauros-para-estudar-sua-evolucao/)
+- [Ex�tica mat�ria quark pode se originar em estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrelas-neutrons-criar-exotica-materia-quark&id=010130221103)
+- [Finalmente uma tecnologia que virtualiza o sentido do tato?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-virtualiza-sentido-tato&id=010180221103)
 - [Sexta-feira livre com SQL](https://www.alura.com.br/artigos/sexta-feira-livre-sql)
-- [Aranha macho dá salto para escapar do canibalismo depois do acasalamento](https://sciam.com.br/aranha-macho-da-salto-para-escapar-do-canibalismo-depois-do-acasalamento/)
-- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
-- [Estrutura de Dados: computação na prática com Java](https://www.alura.com.br/artigos/estrutura-dados-computacao-na-pratica-com-java)
-- [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
-- [Novidades do Node.js (versão 18)](https://www.alura.com.br/artigos/novidades-node-js-versao-18)
+- [Filhos planetas fazem m�es estrelas parecerem mais jovens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filhos-planetas-fazem-maes-estrelas-mais-jovens&id=010130221102)
+- [Luz miniaturizada colocar� eletr�nica e fot�nica dentro do mesmo chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-miniaturizada-silicio-alcanca-dimensao-componentes-eletronicos&id=010110221102)
+- [Existe uma f�brica de diamantes no interior da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-diamantes-interior-terra&id=010125221102)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
