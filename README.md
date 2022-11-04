@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o inteligente levanta 10 quest�es cient�ficas fundamentais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-inteligente&id=010150221104)
+- [Entenda como maior explos�o j� vista no Universo criou buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-ja-vista-universo-criou-buraco-negro&id=010130221104)
 - [Cientistas rastreiam dietas de dinossauros para estudar sua evolução](https://sciam.com.br/cientistas-rastreiam-dietas-de-dinossauros-para-estudar-sua-evolucao/)
 - [Ex�tica mat�ria quark pode se originar em estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrelas-neutrons-criar-exotica-materia-quark&id=010130221103)
 - [Finalmente uma tecnologia que virtualiza o sentido do tato?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-virtualiza-sentido-tato&id=010180221103)
 - [Sexta-feira livre com SQL](https://www.alura.com.br/artigos/sexta-feira-livre-sql)
 - [Filhos planetas fazem m�es estrelas parecerem mais jovens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filhos-planetas-fazem-maes-estrelas-mais-jovens&id=010130221102)
-- [Luz miniaturizada colocar� eletr�nica e fot�nica dentro do mesmo chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-miniaturizada-silicio-alcanca-dimensao-componentes-eletronicos&id=010110221102)
-- [Existe uma f�brica de diamantes no interior da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-diamantes-interior-terra&id=010125221102)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
