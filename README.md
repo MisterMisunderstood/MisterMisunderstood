@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Carros inteligentes ajudam a mapear ilhas de calor urbanas](https://sciam.com.br/carros-inteligentes-ajudam-a-mapear-ilhas-de-calor-urbanas/)
-- [Descoberto o buraco negro mais pr�ximo da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-proximo-terra-esta-adormecido&id=020130221104)
-- [Computa��o inteligente levanta 10 quest�es cient�ficas fundamentais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-inteligente&id=010150221104)
-- [Entenda como maior explos�o j� vista no Universo criou buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-ja-vista-universo-criou-buraco-negro&id=010130221104)
 - [Cientistas rastreiam dietas de dinossauros para estudar sua evolução](https://sciam.com.br/cientistas-rastreiam-dietas-de-dinossauros-para-estudar-sua-evolucao/)
-- [Ex�tica mat�ria quark pode se originar em estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrelas-neutrons-criar-exotica-materia-quark&id=010130221103)
-- [Finalmente uma tecnologia que virtualiza o sentido do tato?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-virtualiza-sentido-tato&id=010180221103)
+- [Aranha macho dá salto para escapar do canibalismo depois do acasalamento](https://sciam.com.br/aranha-macho-da-salto-para-escapar-do-canibalismo-depois-do-acasalamento/)
+- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
+- [Evolução: pesquisa conecta tartarugas a vertebrado vocal de 400 milhões de anos](https://sciam.com.br/evolucao-pesquisa-conecta-tartarugas-a-vertebrado-vocal-de-400-milhoes-de-anos/)
+- [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
+- [Veneno mortal de caramujo pode ajudar a criar insulina ultrarrápida](https://sciam.com.br/veneno-mortal-de-caramujo-pode-ajudar-a-criar-insulina-ultrarrapida/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
