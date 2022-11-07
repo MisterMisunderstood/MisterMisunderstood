@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Pontas de feltro de canetas são melhores em coletar amostras do que cotonetes comuns](https://sciam.com.br/pontas-de-feltro-de-canetas-sao-melhores-em-coletar-amostras-do-que-cotonetes-comuns/)
 - [V�rtices de luz levam muito mais informa��es - por fibra �ptica ou chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-componente-transmite-vortices-luz&id=010165221107)
 - [Materiais se autoconsertam no lugar e quantas vezes forem necess�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-se-autoconsertam&id=010160221107)
 - [Promissores isolantes topol�gicos chegam � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=isolantes-topologicos-temperatura-ambiente&id=010110221107)
 - [Carros inteligentes ajudam a mapear ilhas de calor urbanas](https://sciam.com.br/carros-inteligentes-ajudam-a-mapear-ilhas-de-calor-urbanas/)
 - [Descoberto o buraco negro mais pr�ximo da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-proximo-terra-esta-adormecido&id=020130221104)
 - [Computa��o inteligente levanta 10 quest�es cient�ficas fundamentais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-inteligente&id=010150221104)
-- [Entenda como maior explos�o j� vista no Universo criou buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-ja-vista-universo-criou-buraco-negro&id=010130221104)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
