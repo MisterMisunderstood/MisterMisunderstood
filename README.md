@@ -95,8 +95,8 @@ Meus conhecimentos atualmente são em:
 - [Leis da gravidade s�o reconstru�das para explicar o cosmos em larga escala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-gravidade-reconstruidas-cosmos-larga-escala&id=020130221108)
 - [SETI quer protocolo de contato alien�gena para quando ETs chegarem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-devemos-fazer-quando-extraterrestres-chegarem&id=020130221108)
 - [Neutrinos fornecem nova vis�o do n�cleo ativo de uma gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-imagem-neutrinos-galaxia-ativa&id=010130221108)
-- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
-- [Buraco negro expele restos de estrela anos após destruí-la](https://sciam.com.br/buraco-negro-expele-restos-de-estrela-anos-apos-destrui-la/)
+- [V�rtices de luz levam muito mais informa��es - por fibra �ptica ou chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-componente-transmite-vortices-luz&id=010165221107)
+- [Materiais se autoconsertam no lugar e quantas vezes forem necess�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-se-autoconsertam&id=010160221107)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
