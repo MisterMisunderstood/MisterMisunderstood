@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
 - [C�mera montada no pulso captura o corpo inteiro em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-montada-pulso-captura-corpo-inteiro-3d&id=010150221109)
 - [Circuitos nanofot�nicos prometem processamento de dados com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-nanofotonicos-prometem-processamento-dados-luz&id=010110221109)
 - [Leis da gravidade s�o reconstru�das para explicar o cosmos em larga escala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-gravidade-reconstruidas-cosmos-larga-escala&id=020130221108)
 - [SETI quer protocolo de contato alien�gena para quando ETs chegarem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-devemos-fazer-quando-extraterrestres-chegarem&id=020130221108)
 - [Neutrinos fornecem nova vis�o do n�cleo ativo de uma gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-imagem-neutrinos-galaxia-ativa&id=010130221108)
-- [V�rtices de luz levam muito mais informa��es - por fibra �ptica ou chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-componente-transmite-vortices-luz&id=010165221107)
-- [Materiais se autoconsertam no lugar e quantas vezes forem necess�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-se-autoconsertam&id=010160221107)
+- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
