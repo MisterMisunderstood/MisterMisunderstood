@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Circuitos nanofot�nicos prometem processamento de dados com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-nanofotonicos-prometem-processamento-dados-luz&id=010110221109)
 - [Leis da gravidade s�o reconstru�das para explicar o cosmos em larga escala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-gravidade-reconstruidas-cosmos-larga-escala&id=020130221108)
 - [SETI quer protocolo de contato alien�gena para quando ETs chegarem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-devemos-fazer-quando-extraterrestres-chegarem&id=020130221108)
 - [Neutrinos fornecem nova vis�o do n�cleo ativo de uma gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-imagem-neutrinos-galaxia-ativa&id=010130221108)
 - [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
 - [Buraco negro expele restos de estrela anos após destruí-la](https://sciam.com.br/buraco-negro-expele-restos-de-estrela-anos-apos-destrui-la/)
 - [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
-- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
