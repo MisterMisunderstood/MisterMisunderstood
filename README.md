@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
+- [Nebulosa do Cone: Uma f�brica de estrelas em forma de chamin�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nebulosa-cone-fabrica-estrelas&id=010175221110)
+- [Universo simulado em um �tomo mostra mat�ria emergindo do espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-simulado-atomo-materia-emergindo-espaco-vazio&id=010130221110)
+- [Calor que vira eletricidade: Termoel�tricos ficam baratos e verdes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-calor-termoeletricos-verdes-fabricacao-automatizada&id=010115221110)
+- [IBM apresenta computador qu�ntico com 433 qubits, o maior do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-computador-quantico-433-qubits-maior-mundo&id=020150221109)
 - [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
 - [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
-- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
-- [Buraco negro expele restos de estrela anos após destruí-la](https://sciam.com.br/buraco-negro-expele-restos-de-estrela-anos-apos-destrui-la/)
-- [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
-- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
