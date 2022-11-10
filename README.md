@@ -90,8 +90,8 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM apresenta computador qu�ntico com 433 qubits, o maior do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-computador-quantico-433-qubits-maior-mundo&id=020150221109)
 - [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
+- [IBM apresenta computador qu�ntico com 433 qubits, o maior do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-computador-quantico-433-qubits-maior-mundo&id=020150221109)
 - [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
 - [C�mera montada no pulso captura o corpo inteiro em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-montada-pulso-captura-corpo-inteiro-3d&id=010150221109)
 - [Circuitos nanofot�nicos prometem processamento de dados com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-nanofotonicos-prometem-processamento-dados-luz&id=010110221109)
