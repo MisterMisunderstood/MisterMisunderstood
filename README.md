@@ -96,7 +96,7 @@ Meus conhecimentos atualmente são em:
 - [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
 - [Nebulosa do Cone: Uma f�brica de estrelas em forma de chamin�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nebulosa-cone-fabrica-estrelas&id=010175221110)
 - [Universo simulado em um �tomo mostra mat�ria emergindo do espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-simulado-atomo-materia-emergindo-espaco-vazio&id=010130221110)
-- [Calor que vira eletricidade: Termoel�tricos ficam baratos e verdes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-calor-termoeletricos-verdes-fabricacao-automatizada&id=010115221110)
+- [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
