@@ -94,8 +94,8 @@ Meus conhecimentos atualmente são em:
 - [Como extrair 20% mais cobre do mesmo min�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-cobre-extraido-minerio-tecnica-mais-verde&id=010160221111)
 - [Gelo ex�tico pode explicar anomalias magn�ticas de Netuno e Urano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-exotico-explicar-anomalias-magneticas-netuno-urano&id=020130221110)
 - [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
-- [Nebulosa do Cone: Uma f�brica de estrelas em forma de chamin�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nebulosa-cone-fabrica-estrelas&id=010175221110)
 - [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
+- [Nebulosa do Cone: Uma f�brica de estrelas em forma de chamin�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nebulosa-cone-fabrica-estrelas&id=010175221110)
 - [Universo simulado em um �tomo mostra mat�ria emergindo do espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-simulado-atomo-materia-emergindo-espaco-vazio&id=010130221110)
 <!-- BLOG-POST-LIST:END -->
 
