@@ -96,7 +96,7 @@ Meus conhecimentos atualmente são em:
 - [Nebulosa do Cone: Uma f�brica de estrelas em forma de chamin�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nebulosa-cone-fabrica-estrelas&id=010175221110)
 - [Universo simulado em um �tomo mostra mat�ria emergindo do espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-simulado-atomo-materia-emergindo-espaco-vazio&id=010130221110)
 - [Calor que vira eletricidade: Termoel�tricos ficam baratos e verdes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-calor-termoeletricos-verdes-fabricacao-automatizada&id=010115221110)
-- [IBM apresenta computador qu�ntico com 433 qubits, o maior do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-computador-quantico-433-qubits-maior-mundo&id=020150221109)
+- [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
