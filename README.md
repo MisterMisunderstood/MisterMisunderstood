@@ -95,8 +95,8 @@ Meus conhecimentos atualmente são em:
 - [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
 - [Material imita como o c�rebro armazena mem�rias de longo prazo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-imita-como-cerebro-armazena-informacoes-durante-sono&id=010110221111)
 - [Como extrair 20% mais cobre do mesmo min�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-cobre-extraido-minerio-tecnica-mais-verde&id=010160221111)
-- [Gelo ex�tico pode explicar anomalias magn�ticas de Netuno e Urano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-exotico-explicar-anomalias-magneticas-netuno-urano&id=020130221110)
 - [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
+- [Gelo ex�tico pode explicar anomalias magn�ticas de Netuno e Urano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-exotico-explicar-anomalias-magneticas-netuno-urano&id=020130221110)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
