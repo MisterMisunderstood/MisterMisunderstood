@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de �ons de zinco agora � base de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-zinco-eletrolito-base-agua&id=010115221114)
+- [Mem�ria magn�tica molecular funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-magnetica-molecula-unica-primeira-funcionar-temperatura-ambiente&id=010110221114)
+- [Imitando a vida: Materiais n�o vivos reagem de modo programado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imitando-vida-materiais-nao-vivos-reagem-modo-programado&id=010180221114)
 - ["Maldito mist�rio da F�sica": Teste mais preciso j� feito do eletromagnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maldito-misterio-fisica-teste-preciso-eletromagnetismo&id=010130221111)
 - [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
 - [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
 - [Material imita como o c�rebro armazena mem�rias de longo prazo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-imita-como-cerebro-armazena-informacoes-durante-sono&id=010110221111)
-- [Como extrair 20% mais cobre do mesmo min�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-cobre-extraido-minerio-tecnica-mais-verde&id=010160221111)
-- [Gelo ex�tico pode explicar anomalias magn�ticas de Netuno e Urano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-exotico-explicar-anomalias-magneticas-netuno-urano&id=020130221110)
-- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
