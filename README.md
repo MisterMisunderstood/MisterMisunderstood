@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Dados: um panorama sobre a área](https://www.alura.com.br/artigos/engenharia-dados-panorama-sobre-a-area)
 - [Descoberto novo princ�pio fotovoltaico para cria��o de c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-principio-fotovoltaico-celulas-solares&id=010115221116)
 - [Estrela e seus planetas crescem juntos, ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-seus-planetas-crescem-juntos-mesmo-tempo&id=020130221116)
 - [NASA lan�a miss�o Artemis 1 rumo � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-lanca-missao-artemis-1-rumo-lua&id=010130221116)
 - [Sat�lite tentar� esclarecer erros do GPS no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-ira-estudar-incomodos-problemas-gps-brasil&id=010130221115)
 - [Bateria de �ons de zinco agora � base de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-zinco-eletrolito-base-agua&id=010115221114)
 - [Mem�ria magn�tica molecular funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-magnetica-molecula-unica-primeira-funcionar-temperatura-ambiente&id=010110221114)
+- [Imitando a vida: Materiais n�o vivos reagem de modo programado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imitando-vida-materiais-nao-vivos-reagem-modo-programado&id=010180221114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
