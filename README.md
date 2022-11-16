@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Engenharia de Dados: um panorama sobre a área](https://www.alura.com.br/artigos/engenharia-dados-panorama-sobre-a-area)
-- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
-- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
-- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
-- [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
-- [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
-- [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
+- [Descoberto novo princ�pio fotovoltaico para cria��o de c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-principio-fotovoltaico-celulas-solares&id=010115221116)
+- [Estrela e seus planetas crescem juntos, ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-seus-planetas-crescem-juntos-mesmo-tempo&id=020130221116)
+- [NASA lan�a miss�o Artemis 1 rumo � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-lanca-missao-artemis-1-rumo-lua&id=010130221116)
+- [Sat�lite tentar� esclarecer erros do GPS no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-ira-estudar-incomodos-problemas-gps-brasil&id=010130221115)
+- [Bateria de �ons de zinco agora � base de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-zinco-eletrolito-base-agua&id=010115221114)
+- [Mem�ria magn�tica molecular funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-magnetica-molecula-unica-primeira-funcionar-temperatura-ambiente&id=010110221114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
