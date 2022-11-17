@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
+- [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
+- [Ampulheta c�smica revela protoestrela ainda sem fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ampulheta-cosmica-protoestrela-sem-fusao-nuclear&id=010130221117)
 - [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
-- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
-- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
-- [Looker Studio, o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
-- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
-- [Sexta-feira livre em dose dupla](https://www.alura.com.br/artigos/sexta-feira-livre-dose-dupla)
+- [Descoberto novo princ�pio fotovoltaico para cria��o de c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-principio-fotovoltaico-celulas-solares&id=010115221116)
+- [Estrela e seus planetas crescem juntos, ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-seus-planetas-crescem-juntos-mesmo-tempo&id=020130221116)
+- [NASA lan�a miss�o Artemis 1 rumo � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-lanca-missao-artemis-1-rumo-lua&id=010130221116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
