@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
 - [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
 - [Ampulheta c�smica revela protoestrela ainda sem fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ampulheta-cosmica-protoestrela-sem-fusao-nuclear&id=010130221117)
 - [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
 - [Descoberto novo princ�pio fotovoltaico para cria��o de c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-principio-fotovoltaico-celulas-solares&id=010115221116)
 - [Estrela e seus planetas crescem juntos, ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-seus-planetas-crescem-juntos-mesmo-tempo&id=020130221116)
 - [NASA lan�a miss�o Artemis 1 rumo � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-lanca-missao-artemis-1-rumo-lua&id=010130221116)
-- [Sat�lite tentar� esclarecer erros do GPS no Brasil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-ira-estudar-incomodos-problemas-gps-brasil&id=010130221115)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
