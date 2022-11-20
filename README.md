@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motocicletas com seis far�is poder�o salvar vida dos motociclistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motos-seis-farois-aumentam-seguranca-motociclistas&id=010170221118)
+- [Uma part�cula em dois caminhos simultaneamente: A f�sica qu�ntica est� certa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-particula-dois-caminhos-simultaneamente-fisica-quantica-esta-certa&id=010115221118)
 - [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
+- [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
+- [Ampulheta c�smica revela protoestrela ainda sem fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ampulheta-cosmica-protoestrela-sem-fusao-nuclear&id=010130221117)
 - [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
-- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
-- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
-- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
-- [Looker Studio: o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
-- [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
+- [Descoberto novo princ�pio fotovoltaico para cria��o de c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-principio-fotovoltaico-celulas-solares&id=010115221116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
