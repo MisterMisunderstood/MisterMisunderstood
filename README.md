@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sistema de posicionamento alternativo ao GPS tem precis�o de 10cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-posicionamento-alternativo-gps-tem-precisao-10cm&id=010150221122)
+- [A Terra tem seu pr�prio mecanismo regulador de temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-terra-tem-seu-proprio-mecanismo-regulador-temperatura&id=010125221122)
+- ["Miceliotr�nica": Pele de fungo substitui placas de circuito impresso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miceliotronica-pele-fungo-substitui-placas-circuito-impresso&id=010110221122)
 - [Teste de escudo de reentrada infl�vel foi um sucesso, diz NASA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-escudo-reentrada-inflavel-foi-sucesso-diz-nasa&id=010175221121)
 - [Aprovados novos prefixos para n�meros muito grandes e muito pequenos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-prefixos-sistema-internacional-unidades-si&id=010170221121)
 - [Fotoss�ntese artificial fica 10 vezes mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotossintese-artificial-fica-10-vezes-mais-eficiente&id=010115221121)
 - [Uma nova maneira de medir a luz com infind�veis aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-nova-maneira-medir-luz-miniaturiza-espectrometros&id=010110221121)
-- [Motocicletas com seis far�is poder�o salvar vida dos motociclistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motos-seis-farois-aumentam-seguranca-motociclistas&id=010170221118)
-- [Uma part�cula em dois caminhos simultaneamente: A f�sica qu�ntica est� certa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-particula-dois-caminhos-simultaneamente-fisica-quantica-esta-certa&id=010115221118)
-- [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
