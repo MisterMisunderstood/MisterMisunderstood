@@ -90,13 +90,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Teste de escudo de reentrada infl�vel foi um sucesso, diz NASA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-escudo-reentrada-inflavel-foi-sucesso-diz-nasa&id=010175221121)
-- [Aprovados novos prefixos para n�meros muito grandes e muito pequenos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-prefixos-sistema-internacional-unidades-si&id=010170221121)
-- [Fotoss�ntese artificial fica 10 vezes mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotossintese-artificial-fica-10-vezes-mais-eficiente&id=010115221121)
-- [Uma nova maneira de medir a luz com infind�veis aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-nova-maneira-medir-luz-miniaturiza-espectrometros&id=010110221121)
-- [Motocicletas com seis far�is poder�o salvar vida dos motociclistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motos-seis-farois-aumentam-seguranca-motociclistas&id=010170221118)
-- [Uma part�cula em dois caminhos simultaneamente: A f�sica qu�ntica est� certa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-particula-dois-caminhos-simultaneamente-fisica-quantica-esta-certa&id=010115221118)
-- [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
+- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
+- [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
+- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
+- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
+- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
+- [Looker Studio: o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
+- [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
