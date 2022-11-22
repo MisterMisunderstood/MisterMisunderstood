@@ -91,12 +91,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Power BI: tipos de licenças](https://www.alura.com.br/artigos/power-bi-tipos-de-licencas)
-- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
-- [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
-- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
-- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
-- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
-- [Looker Studio: o que é?](https://www.alura.com.br/artigos/looker-studio-o-que-e)
+- [Sistema de posicionamento alternativo ao GPS tem precis�o de 10cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-posicionamento-alternativo-gps-tem-precisao-10cm&id=010150221122)
+- [A Terra tem seu pr�prio mecanismo regulador de temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-terra-tem-seu-proprio-mecanismo-regulador-temperatura&id=010125221122)
+- ["Miceliotr�nica": Pele de fungo substitui placas de circuito impresso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miceliotronica-pele-fungo-substitui-placas-circuito-impresso&id=010110221122)
+- [Teste de escudo de reentrada infl�vel foi um sucesso, diz NASA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-escudo-reentrada-inflavel-foi-sucesso-diz-nasa&id=010175221121)
+- [Aprovados novos prefixos para n�meros muito grandes e muito pequenos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-prefixos-sistema-internacional-unidades-si&id=010170221121)
+- [Fotoss�ntese artificial fica 10 vezes mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotossintese-artificial-fica-10-vezes-mais-eficiente&id=010115221121)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
