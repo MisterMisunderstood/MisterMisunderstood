@@ -96,7 +96,7 @@ Meus conhecimentos atualmente são em:
 - [Uma nova maneira de medir a luz com infind�veis aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-nova-maneira-medir-luz-miniaturiza-espectrometros&id=010110221121)
 - [Motocicletas com seis far�is poder�o salvar vida dos motociclistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motos-seis-farois-aumentam-seguranca-motociclistas&id=010170221118)
 - [Uma part�cula em dois caminhos simultaneamente: A f�sica qu�ntica est� certa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-particula-dois-caminhos-simultaneamente-fisica-quantica-esta-certa&id=010115221118)
-- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
+- [Conhe�a os 10 nanossat�lites que seguiram para a Lua com a Artemis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-10-cubesats-seguiram-lua-artemis&id=020130221117)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
