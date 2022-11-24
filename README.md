@@ -94,12 +94,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
+- [Mist�rio do brilho dos buracos negros pode ter sido desvendado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-brilho-buracos-negros-ter-sido-desvendado&id=010130221124)
+- [Neur�nio artificial de luz promete c�rebro fot�nico hipereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-luz-promete-cerebro-artificial-fotonico&id=010110221124)
+- [Biopl�stico de casca de coco � realmente bio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-casca-coco-realmente-bio&id=010125221124)
 - [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
 - [Black Friday: competição da Alura tem prêmios até o vigésimo lugar](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
-- [Power BI: tipos de licenças](https://www.alura.com.br/artigos/power-bi-tipos-de-licencas)
-- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
-- [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
-- [Segredos para uma boa iluminação de cena](https://www.alura.com.br/artigos/segredos-para-boa-iluminacao-de-cena)
+- [Armazenar hidrog�nio em sais - um passo rumo � energia mais limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-hidrogenio-sais-energia-mais-limpa&id=010115221123)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
