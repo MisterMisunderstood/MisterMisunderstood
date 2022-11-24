@@ -93,10 +93,10 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday: competição da Alura tem prêmios até o vigésimo lugar](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
-- [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
 - [Armazenar hidrog�nio em sais - um passo rumo � energia mais limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-hidrogenio-sais-energia-mais-limpa&id=010115221123)
 - [Nova t�cnica de fazer espelhos vai melhorar nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-fazer-espelhos-vai-melhorar-nossa-visao-universo&id=010130221123)
+- [Black Friday: competição da Alura tem prêmios até o vigésimo lugar](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
+- [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
 - [Power BI: tipos de licenças](https://www.alura.com.br/artigos/power-bi-tipos-de-licencas)
 - [Sistema de posicionamento alternativo ao GPS tem precis�o de 10cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-posicionamento-alternativo-gps-tem-precisao-10cm&id=010150221122)
 - [A Terra tem seu pr�prio mecanismo regulador de temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-terra-tem-seu-proprio-mecanismo-regulador-temperatura&id=010125221122)
