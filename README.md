@@ -99,7 +99,7 @@ Meus conhecimentos atualmente são em:
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
 - [Neur�nio artificial de luz promete c�rebro fot�nico hipereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-luz-promete-cerebro-artificial-fotonico&id=010110221124)
 - [Biopl�stico de casca de coco � realmente bio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-casca-coco-realmente-bio&id=010125221124)
-- [Armazenar hidrog�nio em sais - um passo rumo � energia mais limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-hidrogenio-sais-energia-mais-limpa&id=010115221123)
+- [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
