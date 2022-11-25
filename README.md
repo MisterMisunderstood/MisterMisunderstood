@@ -93,13 +93,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mist�rio do brilho dos buracos negros pode ter sido desvendado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-brilho-buracos-negros-ter-sido-desvendado&id=010130221124)
+- [Neur�nio artificial de luz promete c�rebro fot�nico hipereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-luz-promete-cerebro-artificial-fotonico&id=010110221124)
+- [Biopl�stico de casca de coco � realmente bio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-casca-coco-realmente-bio&id=010125221124)
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
+- [Armazenar hidrog�nio em sais - um passo rumo � energia mais limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-hidrogenio-sais-energia-mais-limpa&id=010115221123)
+- [Nova t�cnica de fazer espelhos vai melhorar nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-fazer-espelhos-vai-melhorar-nossa-visao-universo&id=010130221123)
 - [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
-- [Black Friday: competição da Alura tem prêmios até o vigésimo lugar](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
-- [Power BI: tipos de licenças](https://www.alura.com.br/artigos/power-bi-tipos-de-licencas)
-- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
-- [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
-- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
