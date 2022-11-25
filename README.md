@@ -93,13 +93,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Onde devemos mirar em um asteroide para efetivamente desviar sua �rbita?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-devemos-acertar-asteroide-efetivamente-desviar-sua-orbita&id=010130221125)
+- [Criado um novo tipo de qubit, o unimon](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-unimon&id=010110221125)
 - [Mist�rio do brilho dos buracos negros pode ter sido desvendado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-brilho-buracos-negros-ter-sido-desvendado&id=010130221124)
 - [Neur�nio artificial de luz promete c�rebro fot�nico hipereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-luz-promete-cerebro-artificial-fotonico&id=010110221124)
 - [Biopl�stico de casca de coco � realmente bio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-casca-coco-realmente-bio&id=010125221124)
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
 - [Armazenar hidrog�nio em sais - um passo rumo � energia mais limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-hidrogenio-sais-energia-mais-limpa&id=010115221123)
-- [Nova t�cnica de fazer espelhos vai melhorar nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-fazer-espelhos-vai-melhorar-nossa-visao-universo&id=010130221123)
-- [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
