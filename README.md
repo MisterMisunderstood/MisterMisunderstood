@@ -93,13 +93,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Por que os raios n�o caem em linha reta, mas em zigue-zague?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-raios-nao-caem-linha-reta-mas-ziguezague&id=010125221125)
+- [Hubble fotografa anel c�smico com duas p�rolas gal�cticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-fotografa-anel-cosmico-duas-perolas-galacticas&id=010175221125)
 - [O que é OKR? Significado, Exemplo prático, benefícios e cursos](https://www.alura.com.br/artigos/okr)
+- [Onde devemos mirar em um asteroide para efetivamente desviar sua �rbita?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-devemos-acertar-asteroide-efetivamente-desviar-sua-orbita&id=010130221125)
+- [Criado um novo tipo de qubit, o unimon](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-unimon&id=010110221125)
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
-- [Live coding de CSS com a Alura Star Natália F. Dev](https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev)
-- [Black Friday: competição da Alura tem prêmios até o vigésimo lugar](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
-- [Power BI: tipos de licenças](https://www.alura.com.br/artigos/power-bi-tipos-de-licencas)
-- [Mulheres em Tech: Líderes da Alura](https://www.alura.com.br/artigos/mulheres-tech-lideres-alura)
-- [Bate-papo ao vivo no Discord com Loiane Groner](https://www.alura.com.br/artigos/bate-papo-ao-vivo-discord-com-loiane-groner)
+- [Mist�rio do brilho dos buracos negros pode ter sido desvendado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-brilho-buracos-negros-ter-sido-desvendado&id=010130221124)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
