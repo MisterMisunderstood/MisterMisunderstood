@@ -94,8 +94,8 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Por que os raios n�o caem em linha reta, mas em zigue-zague?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-raios-nao-caem-linha-reta-mas-ziguezague&id=010125221125)
-- [Hubble fotografa anel c�smico com duas p�rolas gal�cticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-fotografa-anel-cosmico-duas-perolas-galacticas&id=010175221125)
 - [O que é OKR? Significado, Exemplo prático, benefícios e cursos](https://www.alura.com.br/artigos/okr)
+- [Hubble fotografa anel c�smico com duas p�rolas gal�cticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-fotografa-anel-cosmico-duas-perolas-galacticas&id=010175221125)
 - [Onde devemos mirar em um asteroide para efetivamente desviar sua �rbita?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-devemos-acertar-asteroide-efetivamente-desviar-sua-orbita&id=010130221125)
 - [Criado um novo tipo de qubit, o unimon](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-unimon&id=010110221125)
 - [React: lidando com colisão de nomes de componentes](https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes)
