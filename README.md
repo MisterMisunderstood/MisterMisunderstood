@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ![VStudio](https://img.shields.io/badge/VStudio-blueviolet?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F2331E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F75B00?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ##
 <div align="center">
   <a href="https://github.com/MisterMisunderstood">
