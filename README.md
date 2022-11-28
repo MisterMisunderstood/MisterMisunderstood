@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 👇 Quer saber mais sobre mim? Abre aí 
 <details>
     <summary>
-        🟣 <a href="https://github.com/MisterMisunderstood/MisterMisunderstood/edit/main/README.md#que-bom-que-clicou-" ><img src="https://img.shields.io/badge/project-me-orange"/></a>
+        🟣 <a href="https://github.com/MisterMisunderstood#que-bom-que-clicou-" ><img src="https://img.shields.io/badge/project-me-orange"/></a>
     </summary>
     
     
