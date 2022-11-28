@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-050038?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VStudio](https://img.shields.io/badge/VStudio-blueviolet?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F2331E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F75B00?style=for-the-badge&logo=postman&logoColor=white)
 ##
 <div align="center">
   <a href="https://github.com/MisterMisunderstood">
