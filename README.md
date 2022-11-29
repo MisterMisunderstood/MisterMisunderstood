@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Versionamento Semântico (SemVer): uma breve introdução](https://www.alura.com.br/artigos/versionamento-semantico-breve-introducao)
 - [Liga monocristalina de cobre apresenta elasticidade in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-monocristalina-cobre-apresenta-elasticidade-inedita&id=010170221129)
 - [Hidrog�nio limpo e verde produzido com luz de LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-limpo-verde-produzido-luz-leds&id=010115221129)
 - [Sincroniza��o de rel�gios �pticos chega ao padr�o "via sat�lite"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disseminacao-tempo-frequencia-bate-recorde&id=010130221129)
 - [Asas dos avi�es come�am a mudar de forma durante o voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-comecam-mudar-forma-durante-voo&id=010170221128)
 - [Papel reciclado melhora muito eletrodos das baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-reciclado-melhora-muito-eletrodos-baterias-litio&id=010115221128)
 - [MySQL: da instalação até a configuração](https://www.alura.com.br/artigos/mysql-instalacao-configuracao)
-- [Decifrado enigma do distanciamento entre a Terra e a Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enigma-distanciamento-terra-lua&id=010130221128)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
