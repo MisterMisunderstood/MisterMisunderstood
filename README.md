@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Buraco negro � flagrado engolindo uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-flagrado-engolindo-estrela&id=020130221130)
 - [As 4 principais Soft Skills para pessoas que atuam com desenvolvimento de tecnologias](https://www.alura.com.br/artigos/4-principais-soft-skills-carreira-desenvolvimento-tecnologia)
 - [Free friday em dose dupla: Vinicius Dias (PHP) e Rodrigo Ferreira (Java)](https://www.alura.com.br/artigos/free-friday-dose-dupla-vinicius-dias-rodrigo-ferreira)
 - [Fibras �pticas evoluem para fibras qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-evoluem-fibras-quanticas&id=010150221130)
 - [NASA enviar� uma lanterna laser para procurar �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-lanterna-lunar-procurar-agua-lua&id=010130221130)
 - [Versionamento Semântico (SemVer): uma breve introdução](https://www.alura.com.br/artigos/versionamento-semantico-breve-introducao)
 - [Ótimas notícias! Atualizações - Formação ASP.Net Core](https://www.alura.com.br/artigos/atualizacoes-formacao-asp-net-core)
-- [NASA contrata empreiteira para obras na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-contrata-empreiteira-obras-lua&id=020130221129)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
