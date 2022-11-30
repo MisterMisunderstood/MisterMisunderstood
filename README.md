@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA contrata empreiteira para obras na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-contrata-empreiteira-obras-lua&id=020130221129)
 - [Versionamento Semântico (SemVer): uma breve introdução](https://www.alura.com.br/artigos/versionamento-semantico-breve-introducao)
 - [Ótimas notícias! Atualizações - Formação ASP.Net Core](https://www.alura.com.br/artigos/atualizacoes-formacao-asp-net-core)
-- [NASA contrata empreiteira para obras na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-contrata-empreiteira-obras-lua&id=020130221129)
 - [Liga monocristalina de cobre apresenta elasticidade in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-monocristalina-cobre-apresenta-elasticidade-inedita&id=010170221129)
 - [Hidrog�nio limpo e verde produzido com luz de LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-limpo-verde-produzido-luz-leds&id=010115221129)
 - [Sincroniza��o de rel�gios �pticos chega ao padr�o "via sat�lite"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disseminacao-tempo-frequencia-bate-recorde&id=010130221129)
-- [MySQL: da instalação até a configuração](https://www.alura.com.br/artigos/mysql-instalacao-configuracao)
+- [Asas dos avi�es come�am a mudar de forma durante o voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-avioes-comecam-mudar-forma-durante-voo&id=010170221128)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
