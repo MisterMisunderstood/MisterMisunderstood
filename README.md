@@ -100,12 +100,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [5 novidades do Illustrator 2023](https://www.alura.com.br/artigos/5-novidadess-illustrator-2023)
+- [Ótimas notícias! Atualizações - Formação Spring Framework](https://www.alura.com.br/artigos/atualizacoes-formacao-spring-framework)
 - [Buracos de minhoca s�o simulados usando computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-simulados-usando-computador-quantico&id=010130221201)
 - [Nanogerador melhora colheita de energia em 90 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-melhora-colheita-energia-90-vezes&id=010115221201)
 - [Buraco negro � flagrado engolindo uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-flagrado-engolindo-estrela&id=020130221130)
-- [As 4 principais Soft Skills para pessoas que atuam com desenvolvimento de tecnologias](https://www.alura.com.br/artigos/4-principais-soft-skills-carreira-desenvolvimento-tecnologia)
 - [Free friday em dose dupla: Vinicius Dias (PHP) e Rodrigo Ferreira (Java)](https://www.alura.com.br/artigos/free-friday-dose-dupla-vinicius-dias-rodrigo-ferreira)
-- [Fibras �pticas evoluem para fibras qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-evoluem-fibras-quanticas&id=010150221130)
+- [As 4 principais Soft Skills para pessoas que atuam com desenvolvimento de tecnologias](https://www.alura.com.br/artigos/4-principais-soft-skills-carreira-desenvolvimento-tecnologia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
