@@ -101,11 +101,11 @@ Meus conhecimentos atualmente são em:
 <!-- BLOG-POST-LIST:START -->
 - [5 novidades do Illustrator 2023](https://www.alura.com.br/artigos/5-novidadess-illustrator-2023)
 - [Ótimas notícias! Atualizações - Formação Spring Framework](https://www.alura.com.br/artigos/atualizacoes-formacao-spring-framework)
+- [Como testar se estamos vivendo em uma simula��o de computador?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-testar-se-vivemos-simulacao-computador&id=020130221201)
+- [Buracos de minhoca s�o simulados usando computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-simulados-usando-computador-quantico&id=010130221201)
+- [Nanogerador melhora colheita de energia em 90 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-melhora-colheita-energia-90-vezes&id=010115221201)
 - [Free friday em dose dupla: Vinicius Dias (PHP) e Rodrigo Ferreira (Java)](https://www.alura.com.br/artigos/free-friday-dose-dupla-vinicius-dias-rodrigo-ferreira)
 - [As 4 principais Soft Skills para pessoas que atuam com desenvolvimento de tecnologias](https://www.alura.com.br/artigos/4-principais-soft-skills-carreira-desenvolvimento-tecnologia)
-- [Versionamento Semântico (SemVer): uma breve introdução](https://www.alura.com.br/artigos/versionamento-semantico-breve-introducao)
-- [Ótimas notícias! Atualizações - Formação ASP.Net Core](https://www.alura.com.br/artigos/atualizacoes-formacao-asp-net-core)
-- [MySQL: da instalação até a configuração](https://www.alura.com.br/artigos/mysql-instalacao-configuracao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
