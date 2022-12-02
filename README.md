@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Menor forma de vida capaz de se mover � criada em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-menor-forma-vida-capaz-se-mover&id=010180221202)
+- [Programa��o notacional transforma rascunhos e manuscritos em c�digo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-programcao-transforma-rascunhos-manuscritos-codigo&id=010150221202)
 - [Como testar se estamos vivendo em uma simula��o de computador?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-testar-se-vivemos-simulacao-computador&id=020130221201)
 - [Buracos de minhoca s�o simulados usando computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-simulados-usando-computador-quantico&id=010130221201)
 - [Nanogerador melhora colheita de energia em 90 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-melhora-colheita-energia-90-vezes&id=010115221201)
 - [5 novidades do Illustrator 2023](https://www.alura.com.br/artigos/5-novidadess-illustrator-2023)
 - [Ótimas notícias! Atualizações - Formação Spring Framework](https://www.alura.com.br/artigos/atualizacoes-formacao-spring-framework)
-- [Buraco negro � flagrado engolindo uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-flagrado-engolindo-estrela&id=020130221130)
-- [Fibras �pticas evoluem para fibras qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-evoluem-fibras-quanticas&id=010150221130)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
