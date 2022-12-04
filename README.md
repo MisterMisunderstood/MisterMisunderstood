@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [Menor forma de vida capaz de se mover � criada em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-menor-forma-vida-capaz-se-mover&id=010180221202)
 - [Programa��o notacional transforma rascunhos e manuscritos em c�digo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-programcao-transforma-rascunhos-manuscritos-codigo&id=010150221202)
 - [Como testar se estamos vivendo em uma simula��o de computador?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-testar-se-vivemos-simulacao-computador&id=020130221201)
-- [Buracos de minhoca s�o simulados usando computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-simulados-usando-computador-quantico&id=010130221201)
+- [Ótimas notícias! Atualizações - Formação Spring Framework](https://www.alura.com.br/artigos/atualizacoes-formacao-spring-framework)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
