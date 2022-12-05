@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud: falando um pouco sobre Infraestrutura](https://www.alura.com.br/artigos/cloud-falando-sobre-infraestrutura)
 - [5 novidades do InDesign 2023](https://www.alura.com.br/artigos/5-novidades-indesign-2023)
 - [Brasileiros desenvolvem eletrodos avan�ados para baterias s�lidas e baratas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-desenvolvem-eletrodos-avancados-baterias-solidas-baratas&id=020115221205)
 - [Energia geot�rmica pode produzir toda a energia limpa que o mundo necessita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-geotermica-produzir-energia-limpa-todo-mundo&id=010115221205)
 - [H�brido pol�mero-metal d� for�a e velocidade � nanoimpress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-nanoescala-100-vezes-mais-rapida-hibrido-polimero-metal&id=010165221205)
 - [Buracos de minhoca podem estar sendo confundidos com buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-quase-identicos-buracos-negros&id=010130221203)
 - [Vamos implementar uma função de comparação profunda em JS?](https://www.alura.com.br/artigos/vamos-implementar-funcao-comparacao-profunda-js)
-- [5 novidades do Photoshop 2023](https://www.alura.com.br/artigos/5-novidades-photoshop-2023)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
