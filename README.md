@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Energia geot�rmica pode produzir toda a energia limpa que o mundo necessita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-geotermica-produzir-energia-limpa-todo-mundo&id=010115221205)
+- [H�brido pol�mero-metal d� for�a e velocidade � nanoimpress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-nanoescala-100-vezes-mais-rapida-hibrido-polimero-metal&id=010165221205)
 - [Buracos de minhoca podem estar sendo confundidos com buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-quase-identicos-buracos-negros&id=010130221203)
 - [5 novidades do Photoshop 2023](https://www.alura.com.br/artigos/5-novidades-photoshop-2023)
 - [Vamos implementar uma função de comparação profunda em JS?](https://www.alura.com.br/artigos/vamos-implementar-funcao-comparacao-profunda-js)
 - [Menor forma de vida capaz de se mover � criada em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-menor-forma-vida-capaz-se-mover&id=010180221202)
 - [Programa��o notacional transforma rascunhos e manuscritos em c�digo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-programcao-transforma-rascunhos-manuscritos-codigo&id=010150221202)
-- [Como testar se estamos vivendo em uma simula��o de computador?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-testar-se-vivemos-simulacao-computador&id=020130221201)
-- [Buracos de minhoca s�o simulados usando computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-simulados-usando-computador-quantico&id=010130221201)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
