@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Heurísticas de Usabilidade para User Interface](https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface)
 - [Valor da for�a forte obtido por brasileiro � inclu�do no comp�ndio da F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valor-forca-forte-obtido-brasileiro-foi-incluido-compendio-fisica-particulas&id=010175221206)
 - [Crescem ind�cios de atividade vulc�nica em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=crescem-indicios-atividade-geologica-marte&id=010130221206)
 - [Afinal, o alum�nio enferruja ou n�o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-aluminio-nao-enferruja&id=010170221206)
 - [Os incr�veis materiais n�o vivos que t�m mem�ria, aprendem e reagem ao ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=os-incriveis-materiais-nao-vivos-tem-memoria-aprendem-reagem-ambiente&id=010160221206)
 - [Insensibilidade inesperada das nuvens diminui previs�es do aquecimento global](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nuvens-menos-sensiveis-clima-diminuindo-previsoes-aquecimento&id=010125221206)
-- [Brasileiros desenvolvem eletrodos avan�ados para baterias s�lidas e baratas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-desenvolvem-eletrodos-avancados-baterias-solidas-baratas&id=020115221205)
-- [Energia geot�rmica pode produzir toda a energia limpa que o mundo necessita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-geotermica-produzir-energia-limpa-todo-mundo&id=010115221205)
+- [5 novidades do InDesign 2023](https://www.alura.com.br/artigos/5-novidades-indesign-2023)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
