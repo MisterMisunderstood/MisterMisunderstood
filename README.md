@@ -100,12 +100,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Design Thinking: conheça essa metodologia de criação de produtos](https://www.alura.com.br/artigos/design-thinking-metodologia-criacao-de-produtos)
+- [Bate-papo sobre Integração e Entrega contínua (CI/CD) ao vivo](https://www.alura.com.br/artigos/bate-papo-integracao-entrega-continua-ao-vivo)
 - [Construa seu pr�prio nanogerador usando materiais caseiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construa-seu-proprio-nanogerador-triboeletrico&id=010115221207)
 - [Dem�nio de Maxwell reduz erros dos computadores qu�nticos de 20% para 1%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonio-maxwell-reduz-erros-computadores-quanticos-20-1&id=010150221207)
 - [Conheça o Microsoft Azure: ferramenta para criar serviços de nuvem](https://www.alura.com.br/artigos/microsoft-azure-ferramenta-servicos-de-nuvem)
-- [A Retrospectiva 2022 da Alura já está disponível!](https://www.alura.com.br/artigos/a-retrospectiva-2022-alura-esta-disponivel)
 - [10 Heurísticas de Usabilidade para User Interface](https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface)
-- [Valor da for�a forte obtido por brasileiro � inclu�do no comp�ndio da F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valor-forca-forte-obtido-brasileiro-foi-incluido-compendio-fisica-particulas&id=010175221206)
+- [A Retrospectiva 2022 da Alura já está disponível!](https://www.alura.com.br/artigos/a-retrospectiva-2022-alura-esta-disponivel)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
