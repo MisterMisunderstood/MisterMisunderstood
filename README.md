@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo conceito de propuls�o pode nos levar �s estrelas em 2,5 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-conceito-propulsao-levar-estrelas-2-5-anos&id=010130221208)
+- [Computador probabil�stico come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-comeca-virar-realidade&id=010150221208)
 - [Design Thinking: conheça essa metodologia de criação de produtos](https://www.alura.com.br/artigos/design-thinking-metodologia-criacao-de-produtos)
 - [Bate-papo sobre Integração e Entrega contínua (CI/CD) ao vivo](https://www.alura.com.br/artigos/bate-papo-integracao-entrega-continua-ao-vivo)
-- [Conheça o Microsoft Azure: ferramenta para criar serviços de nuvem](https://www.alura.com.br/artigos/microsoft-azure-ferramenta-servicos-de-nuvem)
-- [10 Heurísticas de Usabilidade para User Interface](https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface)
-- [A Retrospectiva 2022 da Alura já está disponível!](https://www.alura.com.br/artigos/a-retrospectiva-2022-alura-esta-disponivel)
-- [Parcerias de diversidade e inclusão da Alura](https://www.alura.com.br/artigos/parcerias-diversidade-inclusao-alura)
-- [5 novidades do InDesign 2023](https://www.alura.com.br/artigos/5-novidades-indesign-2023)
+- [Construa seu pr�prio nanogerador usando materiais caseiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construa-seu-proprio-nanogerador-triboeletrico&id=010115221207)
+- [Dem�nio de Maxwell reduz erros dos computadores qu�nticos de 20% para 1%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonio-maxwell-reduz-erros-computadores-quanticos-20-1&id=010150221207)
+- [Valor da for�a forte obtido por brasileiro � inclu�do no comp�ndio da F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valor-forca-forte-obtido-brasileiro-foi-incluido-compendio-fisica-particulas&id=010175221206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
