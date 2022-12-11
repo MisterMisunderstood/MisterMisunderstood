@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble revela brilho fantasmag�rico em torno do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-revela-brilho-fantasmagorico-torno-sistema-solar&id=010130221211)
 - [IntelliJ IDEA: dicas e truques para usar no dia a dia](https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia)
-- [Centro de pesquisa na Unicamp pretende preparar Brasil para a tecnologia 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=centro-pesquisa-unicamp-pretende-preparar-brasil-tecnologia-6g&id=010175221209)
-- [Conhe�a o material mais resistente da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-mais-resistente-terra&id=020170221209)
-- [F�sica do vaso sanit�rio mostra que nem tudo vai por �gua abaixo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisica-vaso-sanitario-mostra-nem-tudo-vai-agua-abaixo&id=010170221209)
 - [Java: um guia para iniciar nessa tecnologia](https://www.alura.com.br/artigos/java-guia-iniciar-nessa-tecnologia)
-- [Novo conceito de propuls�o pode nos levar �s estrelas em 2,5 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-conceito-propulsao-levar-estrelas-2-5-anos&id=010130221208)
+- [Bate-papo sobre Integração e Entrega contínua (CI/CD) ao vivo](https://www.alura.com.br/artigos/bate-papo-integracao-entrega-continua-ao-vivo)
+- [Design Thinking: conheça essa metodologia de criação de produtos](https://www.alura.com.br/artigos/design-thinking-metodologia-criacao-de-produtos)
+- [10 Heurísticas de Usabilidade para User Interface](https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface)
+- [A Retrospectiva 2022 da Alura já está disponível!](https://www.alura.com.br/artigos/a-retrospectiva-2022-alura-esta-disponivel)
+- [Conheça o Microsoft Azure: ferramenta para criar serviços de nuvem](https://www.alura.com.br/artigos/microsoft-azure-ferramenta-servicos-de-nuvem)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
