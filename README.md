@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [O que são cookies e como eles funcionam?](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
 - [Madeira mergulhada na �gua produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrovoltaica-produz-electricidade-mergulhando-madeira-agua&id=010115221212)
 - [IA aprende a desenvolver software por contra pr�pria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-aprende-desenvolver-software-contra-propria&id=010150221212)
 - [Luz substitui trans�stor e faz computa��o um milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=substituir-transistor-luz-faz-computacao-milhao-vezes-mais-rapida&id=010110221212)
 - [Hubble revela brilho fantasmag�rico em torno do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-revela-brilho-fantasmagorico-torno-sistema-solar&id=010130221211)
-- [IntelliJ IDEA: dicas e truques para usar no dia a dia](https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia)
 - [Centro de pesquisa na Unicamp pretende preparar Brasil para a tecnologia 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=centro-pesquisa-unicamp-pretende-preparar-brasil-tecnologia-6g&id=010175221209)
+- [Conhe�a o material mais resistente da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-mais-resistente-terra&id=020170221209)
+- [F�sica do vaso sanit�rio mostra que nem tudo vai por �gua abaixo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisica-vaso-sanitario-mostra-nem-tudo-vai-agua-abaixo&id=010170221209)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
