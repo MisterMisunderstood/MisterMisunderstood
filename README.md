@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Antimat�ria viaja meia Via L�ctea sem ser incomodada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-viajar-meia-via-lactea-sem-incomodada&id=010130221213)
+- [Bateria de s�dio-enxofre supera em 4 vezes as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-enxofre&id=020115221213)
+- [Biobateria s� gera energia dentro do corpo humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-so-gera-energia-dentro-corpo-humano&id=010115221213)
 - [O que são cookies e como eles funcionam?](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
-- [IntelliJ IDEA: dicas e truques para usar no dia a dia](https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia)
-- [Java: um guia para iniciar nessa tecnologia](https://www.alura.com.br/artigos/java-guia-iniciar-nessa-tecnologia)
-- [Bate-papo sobre Integração e Entrega contínua (CI/CD) ao vivo](https://www.alura.com.br/artigos/bate-papo-integracao-entrega-continua-ao-vivo)
-- [Design Thinking: conheça essa metodologia de criação de produtos](https://www.alura.com.br/artigos/design-thinking-metodologia-criacao-de-produtos)
-- [10 Heurísticas de Usabilidade para User Interface](https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface)
-- [Conheça o Microsoft Azure: ferramenta para criar serviços de nuvem](https://www.alura.com.br/artigos/microsoft-azure-ferramenta-servicos-de-nuvem)
+- [Madeira mergulhada na �gua produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrovoltaica-produz-electricidade-mergulhando-madeira-agua&id=010115221212)
+- [IA aprende a desenvolver software por contra pr�pria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-aprende-desenvolver-software-contra-propria&id=010150221212)
+- [Luz substitui trans�stor e faz computa��o um milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=substituir-transistor-luz-faz-computacao-milhao-vezes-mais-rapida&id=010110221212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
