@@ -104,8 +104,8 @@ Meus conhecimentos atualmente são em:
 - [Antimat�ria viaja meia Via L�ctea sem ser incomodada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-viajar-meia-via-lactea-sem-incomodada&id=010130221213)
 - [Bateria de s�dio-enxofre supera em 4 vezes as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-enxofre&id=020115221213)
 - [Biobateria s� gera energia dentro do corpo humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-so-gera-energia-dentro-corpo-humano&id=010115221213)
+- [O que são cookies e como eles funcionam?](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
 - [Madeira mergulhada na �gua produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrovoltaica-produz-electricidade-mergulhando-madeira-agua&id=010115221212)
-- [IA aprende a desenvolver software por contra pr�pria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-aprende-desenvolver-software-contra-propria&id=010150221212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
