@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bola de fogo contesta teoria de forma��o do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bola-fogo-contesta-teoria-formacao-sistema-solar&id=010130221214)
 - [Alura Stars: Full-text search, DOM Virtual, transição de carreira, CV para DevRel e mais!](https://www.alura.com.br/artigos/alura-stars-full-text-search-dom-virtual-transicao-carreira-devrel)
 - [Bate-papo ao vivo sobre o Azure com MVP da Microsoft](https://www.alura.com.br/artigos/bate-papo-ao-vivo-azure-com-mvp-microsoft)
 - [Igni��o da fus�o nuclear alcan�ada. O que esperar agora?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ignicao-fusao-nuclear-alcancada-e-agora&id=010115221214)
 - [Antiemba�ante solar para �culos e carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antiembacante-solar-oculos-carros&id=020160221214)
 - [Moldagem � dist�ncia: Material � manipulado em precisar ser tocado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molde-sem-toque-material-manipulado-distancia&id=010160221214)
 - [Antimat�ria viaja meia Via L�ctea sem ser incomodada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-viajar-meia-via-lactea-sem-incomodada&id=010130221213)
-- [Bateria de s�dio-enxofre supera em 4 vezes as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-enxofre&id=020115221213)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
