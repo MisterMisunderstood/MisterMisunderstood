@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Antimat�ria viaja meia Via L�ctea sem ser incomodada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-viajar-meia-via-lactea-sem-incomodada&id=010130221213)
-- [Bateria de s�dio-enxofre supera em 4 vezes as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-enxofre&id=020115221213)
-- [Biobateria s� gera energia dentro do corpo humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-so-gera-energia-dentro-corpo-humano&id=010115221213)
-- [Madeira mergulhada na �gua produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrovoltaica-produz-electricidade-mergulhando-madeira-agua&id=010115221212)
-- [IA aprende a desenvolver software por contra pr�pria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-aprende-desenvolver-software-contra-propria&id=010150221212)
-- [Luz substitui trans�stor e faz computa��o um milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=substituir-transistor-luz-faz-computacao-milhao-vezes-mais-rapida&id=010110221212)
-- [Hubble revela brilho fantasmag�rico em torno do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-revela-brilho-fantasmagorico-torno-sistema-solar&id=010130221211)
+- [Tutancâmon: 100 anos de mistérios arqueológicos, entenda](https://sciam.com.br/tutancamon-100-anos-de-misterios-arqueologicos-entenda/)
+- [Nasa avalia nova missão para estender a vida útil do Hubble. Vale a pena?](https://sciam.com.br/nasa-avalia-nova-missao-para-estender-a-vida-util-do-hubble-vale-a-pena/)
+- [Treinamento da Nasa contra impacto de asteroide mostra que não estamos bem-preparados](https://sciam.com.br/treinamento-nasa-contra-impacto-de-asteroide-mostra-que-nos-nao-estamos-bem-preparados/)
+- [Problema de calibração: cientistas são forçados a reavaliar as primeiras descobertas do JWST](https://sciam.com.br/problema-de-calibracao-cientistas-sao-forcados-a-reavaliar-as-primeiras-descobertas-do-jwst/)
+- [Buraco negro expele restos de estrela anos após destruí-la](https://sciam.com.br/buraco-negro-expele-restos-de-estrela-anos-apos-destrui-la/)
+- [Cientistas registram a mais brilhante erupção de raios gama até agora](https://sciam.com.br/cientistas-registram-a-mais-brilhante-erupcao-de-raios-gama-ja-detectada/)
+- [Nova imagem do JWST mostra espirais de “poeira” estelar](https://sciam.com.br/nova-imagem-do-jwst-mostra-espirais-de-poeira-estelar/)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
