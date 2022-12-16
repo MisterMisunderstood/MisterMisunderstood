@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum de um �ngulo revela constante fundamental do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quantum-angulo-revela-constante-fundamental-universo&id=010130221216)
-- [Computador qu�ntico cria janela transparente que bloqueia calor e economiza energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-cria-janela-transparente-bloqueia-calor-economiza-energia&id=010115221216)
-- [Desenvolvidas duas novas formas de produzir hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-novas-formas-produzir-hidrogenio&id=010115221215)
-- [Fonte hidrotermal no �rtico anima busca por vida extraterrestre e por ouro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fonte-hidrotermal-artico-busca-vida-extraterrestre-mineracao&id=010125221215)
-- [Bola de fogo contesta teoria da forma��o do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bola-fogo-contesta-teoria-formacao-sistema-solar&id=010130221214)
-- [Igni��o da fus�o nuclear alcan�ada. O que esperar agora?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ignicao-fusao-nuclear-alcancada-e-agora&id=010115221214)
-- [Antiemba�ante solar para �culos e carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antiembacante-solar-oculos-carros&id=020160221214)
+- [Alura Stars: Full-text search, DOM Virtual, transição de carreira, CV para DevRel e mais!](https://www.alura.com.br/artigos/alura-stars-full-text-search-dom-virtual-transicao-carreira-devrel)
+- [Bate-papo ao vivo sobre o Azure com MVP da Microsoft](https://www.alura.com.br/artigos/bate-papo-ao-vivo-azure-com-mvp-microsoft)
+- [O que são cookies e como eles funcionam?](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
+- [IntelliJ IDEA: dicas e truques para usar no dia a dia](https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia)
+- [Java: um guia para iniciar nessa tecnologia](https://www.alura.com.br/artigos/java-guia-iniciar-nessa-tecnologia)
+- [Bate-papo sobre Integração e Entrega contínua (CI/CD) ao vivo](https://www.alura.com.br/artigos/bate-papo-integracao-entrega-continua-ao-vivo)
+- [Design Thinking: conheça essa metodologia de criação de produtos](https://www.alura.com.br/artigos/design-thinking-metodologia-criacao-de-produtos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
