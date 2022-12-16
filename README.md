@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trello: o que é, como funciona e os principais recursos](https://www.alura.com.br/artigos/trello)
 - [Quantum de um �ngulo revela constante fundamental do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quantum-angulo-revela-constante-fundamental-universo&id=010130221216)
 - [Computador qu�ntico cria janela transparente que bloqueia calor e economiza energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-cria-janela-transparente-bloqueia-calor-economiza-energia&id=010115221216)
 - [Desenvolvidas duas novas formas de produzir hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-novas-formas-produzir-hidrogenio&id=010115221215)
 - [Fonte hidrotermal no �rtico anima busca por vida extraterrestre e por ouro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fonte-hidrotermal-artico-busca-vida-extraterrestre-mineracao&id=010125221215)
 - [Bola de fogo contesta teoria da forma��o do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bola-fogo-contesta-teoria-formacao-sistema-solar&id=010130221214)
 - [Alura Stars: Full-text search, DOM Virtual, transição de carreira, CV para DevRel e mais!](https://www.alura.com.br/artigos/alura-stars-full-text-search-dom-virtual-transicao-carreira-devrel)
-- [Bate-papo ao vivo sobre o Azure com MVP da Microsoft](https://www.alura.com.br/artigos/bate-papo-ao-vivo-azure-com-mvp-microsoft)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
