@@ -99,11 +99,11 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
-- [Últimos eventos do ano no Discord + Especial de Natal](https://www.alura.com.br/artigos/ultimos-eventos-do-ano-discord-especial-natal)
 - [Antena de espa�o-tempo reconfigur�vel aumenta seguran�a e viabiliza 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-metassuperficie-faz-codificacao-espaco-tempo-via-software&id=010110221219)
 - [Manipula��o com som: Ondas ac�sticas geram torque e for�a de radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipulacao-som-ondas-acusticas-geram-torque-forca-radiacao&id=010160221219)
 - [Biomembrana sint�tica avan�a compreens�o da computa��o e da mem�ria humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biomembrana-sintetica-avanca-compreensao-computacao-memoria-humana&id=010150221219)
+- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
+- [Últimos eventos do ano no Discord + Especial de Natal](https://www.alura.com.br/artigos/ultimos-eventos-do-ano-discord-especial-natal)
 - [Trello: o que é, como funciona e os principais recursos](https://www.alura.com.br/artigos/trello)
 - [Quantum de um �ngulo revela constante fundamental do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quantum-angulo-revela-constante-fundamental-universo&id=010130221216)
 <!-- BLOG-POST-LIST:END -->
