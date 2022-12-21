@@ -103,9 +103,9 @@ Meus conhecimentos atualmente são em:
 - [Absorvedor de choque feito com prote�na p�ra impactos supers�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-feito-proteina-impactos-supersonicos&id=010160221220)
 - [Caos � o elo perdido entre a f�sica qu�ntica e a termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caos-elo-perdido-entre-fisica-quantica-termodinamica&id=020115221220)
 - [Espuma termoexpansiva program�vel diminui gasto com ar-condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-termoexpansiva-programavel-substitui-ar-condicionado&id=010115221220)
-- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
-- [Últimos eventos do ano no Discord + Especial de Natal](https://www.alura.com.br/artigos/ultimos-eventos-do-ano-discord-especial-natal)
 - [Antena de espa�o-tempo reconfigur�vel aumenta seguran�a e viabiliza 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-metassuperficie-faz-codificacao-espaco-tempo-via-software&id=010110221219)
+- [Manipula��o com som: Ondas ac�sticas geram torque e for�a de radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipulacao-som-ondas-acusticas-geram-torque-forca-radiacao&id=010160221219)
+- [Biomembrana sint�tica avan�a compreens�o da computa��o e da mem�ria humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biomembrana-sintetica-avanca-compreensao-computacao-memoria-humana&id=010150221219)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
