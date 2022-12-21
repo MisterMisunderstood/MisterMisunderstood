@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trans�stor de �gua supera velocidade de todos os transistores eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-agua&id=010110221221)
+- [Conhe�a os Aquabots, rob�s feitos quase inteiramente de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquabots-robos-feitos-quase-inteiramente-agua&id=010180221221)
 - [F�sicos da USP obt�m entrela�amento entre feixes de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-usp-obtem-entrelacamento-entre-feixes-luz&id=010110221220)
 - [Absorvedor de choque feito com prote�na p�ra impactos supers�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-feito-proteina-impactos-supersonicos&id=010160221220)
 - [Caos � o elo perdido entre a f�sica qu�ntica e a termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caos-elo-perdido-entre-fisica-quantica-termodinamica&id=020115221220)
 - [Espuma termoexpansiva program�vel diminui gasto com ar-condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-termoexpansiva-programavel-substitui-ar-condicionado&id=010115221220)
-- [Antena de espa�o-tempo reconfigur�vel aumenta seguran�a e viabiliza 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-metassuperficie-faz-codificacao-espaco-tempo-via-software&id=010110221219)
-- [Manipula��o com som: Ondas ac�sticas geram torque e for�a de radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipulacao-som-ondas-acusticas-geram-torque-forca-radiacao&id=010160221219)
-- [Biomembrana sint�tica avan�a compreens�o da computa��o e da mem�ria humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biomembrana-sintetica-avanca-compreensao-computacao-memoria-humana&id=010150221219)
+- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
