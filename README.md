@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
+- [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
 - [Trans�stor de �gua supera velocidade de todos os transistores eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-agua&id=010110221221)
 - [Conhe�a os Aquabots, rob�s feitos quase inteiramente de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquabots-robos-feitos-quase-inteiramente-agua&id=010180221221)
 - [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
 - [F�sicos da USP obt�m entrela�amento entre feixes de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-usp-obtem-entrelacamento-entre-feixes-luz&id=010110221220)
 - [Absorvedor de choque feito com prote�na p�ra impactos supers�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-feito-proteina-impactos-supersonicos&id=010160221220)
-- [Caos � o elo perdido entre a f�sica qu�ntica e a termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caos-elo-perdido-entre-fisica-quantica-termodinamica&id=020115221220)
-- [Espuma termoexpansiva program�vel diminui gasto com ar-condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-termoexpansiva-programavel-substitui-ar-condicionado&id=010115221220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
