@@ -99,12 +99,12 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
 - [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
 - [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
-- [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
+- [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
 - [Trans�stor de �gua supera velocidade de todos os transistores eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-agua&id=010110221221)
 - [Conhe�a os Aquabots, rob�s feitos quase inteiramente de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquabots-robos-feitos-quase-inteiramente-agua&id=010180221221)
+- [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
 - [F�sicos da USP obt�m entrela�amento entre feixes de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-usp-obtem-entrelacamento-entre-feixes-luz&id=010110221220)
 <!-- BLOG-POST-LIST:END -->
 
