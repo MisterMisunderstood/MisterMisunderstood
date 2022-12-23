@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Umidade acima dos oceanos pode ser fonte inesgot�vel de �gua pot�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umidade-acima-oceanos-fonte-inesgotavel-agua-potavel&id=010125221223)
+- [Toalha de gel absorve tr�s vezes mais l�quidos que toalha de papel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=toalha-de-gel-superabsorvente&id=010160221223)
+- [NASA desativa sonda marciana InSight](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-marciana-i-insight-i-fica-sem-energia-e-desativada&id=010175221222)
 - [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
+- [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
+- [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
 - [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
-- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
-- [Últimos eventos do ano no Discord + Especial de Natal](https://www.alura.com.br/artigos/ultimos-eventos-do-ano-discord-especial-natal)
-- [Trello: o que é, como funciona e os principais recursos](https://www.alura.com.br/artigos/trello)
-- [Bate-papo ao vivo sobre o Azure com MVP da Microsoft](https://www.alura.com.br/artigos/bate-papo-ao-vivo-azure-com-mvp-microsoft)
-- [Alura Stars: Full-text search, DOM Virtual, transição de carreira, CV para DevRel e mais!](https://www.alura.com.br/artigos/alura-stars-full-text-search-dom-virtual-transicao-carreira-devrel)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
