@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Umidade acima dos oceanos pode ser fonte inesgot�vel de �gua pot�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umidade-acima-oceanos-fonte-inesgotavel-agua-potavel&id=010125221223)
+- [Toalha de gel absorve tr�s vezes mais l�quidos que toalha de papel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=toalha-de-gel-superabsorvente&id=010160221223)
+- [NASA desativa sonda marciana InSight](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-marciana-i-insight-i-fica-sem-energia-e-desativada&id=010175221222)
 - [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
 - [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
 - [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
 - [Trans�stor de �gua supera velocidade de todos os transistores eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-agua&id=010110221221)
-- [Conhe�a os Aquabots, rob�s feitos quase inteiramente de �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquabots-robos-feitos-quase-inteiramente-agua&id=010180221221)
-- [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
-- [F�sicos da USP obt�m entrela�amento entre feixes de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-usp-obtem-entrelacamento-entre-feixes-luz&id=010110221220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
