@@ -101,8 +101,8 @@ Meus conhecimentos atualmente são em:
 <!-- BLOG-POST-LIST:START -->
 - [Umidade acima dos oceanos pode ser fonte inesgot�vel de �gua pot�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umidade-acima-oceanos-fonte-inesgotavel-agua-potavel&id=010125221223)
 - [Toalha de gel absorve tr�s vezes mais l�quidos que toalha de papel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=toalha-de-gel-superabsorvente&id=010160221223)
-- [NASA desativa sonda marciana InSight](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-marciana-i-insight-i-fica-sem-energia-e-desativada&id=010175221222)
 - [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
+- [NASA desativa sonda marciana InSight](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-marciana-i-insight-i-fica-sem-energia-e-desativada&id=010175221222)
 - [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
 - [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
 - [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
