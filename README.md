@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [NASA desativa sonda marciana InSight](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-marciana-i-insight-i-fica-sem-energia-e-desativada&id=010175221222)
 - [Microsc�pio inspirado em telesc�pio v� mol�culas em 6D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inspirado-telescopio&id=010165221222)
 - [Supercomputador mais r�pido da Europa � conectado a computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercomputador-conectado-computador-quantico&id=010150221222)
-- [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
+- [Trans�stor de �gua supera velocidade de todos os transistores eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-agua&id=010110221221)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
