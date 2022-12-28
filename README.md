@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Refrigera��o ionocal�rica: Geladeiras e ar-condicionados sustent�veis e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-ionocalorica&id=010170221228)
+- [Vida na lua Enc�lado pode ser detectada por sonda orbital](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobrir-vida-lua-encelado-saturno&id=010130221228)
 - [Namespaces: como evitar conflitos no código em JavaScript](https://www.alura.com.br/artigos/namespaces-evitar-conflitos-codigo-javascript)
 - [Trans�stor FET qu�ntico pronto para operar em circuitos reais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-fet-tunelamento&id=010110221227)
 - [Computa��o magn�tica � mesclada com computa��o de reservat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-browniana-computacao-de-reservatorio&id=010150221227)
 - [Microrrob�s nadadores reestruturam a mat�ria em n�vel microsc�pico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microrrobos-nadadores-reestruturam-materia-nivel-microscopico&id=010180221227)
 - [L�mpadas de nanoantenas poder�o desbancar LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lampadas-nanoantenas-desbancar-led&id=010115221226)
-- [Objetos podem ser preparados para serem movidos por raio s�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-preparados-serem-movidos-raio-sonico&id=010170221226)
-- [NASA testa bra�o rob�tico que ir� para o frio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-testa-braco-robotico-ira-frio&id=010180221226)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
