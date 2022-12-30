@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Eletricidade da umidade do ar: Nanotecnologia viabiliza sonho de Tesla?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-higroeletricas-captam-eletricidade-umidade-ar&id=010115221229)
-- [Fabrica��o de pe�as com DNA automatizada com software livre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-pecas-dna-automatizada-software-livre&id=010165221229)
 - [React: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/react-o-que-e-tudo-sobre-framework)
 - [React e Context API: testes de unidade](https://www.alura.com.br/artigos/react-context-api-testes-de-unidade)
-- [Rob� bate recorde mundial na caverna mais profunda do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-recorde-mundial-caverna-mais-profunda-mundo&id=010180221228)
-- [Refrigera��o ionocal�rica: Geladeiras e ar-condicionados sustent�veis e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-ionocalorica&id=010170221228)
-- [Vida na lua Enc�lado pode ser detectada por sonda orbital](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobrir-vida-lua-encelado-saturno&id=010130221228)
+- [Android e Jetpack Compose: crie menus flexíveis com Slot API](https://www.alura.com.br/artigos/slot-api-utiliza-lo-criar-menus-aplicacoes-android-jetpack-compose)
+- [Namespaces: como evitar conflitos no código em JavaScript](https://www.alura.com.br/artigos/namespaces-evitar-conflitos-codigo-javascript)
+- [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
+- [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
+- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
