@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [React e Context API: testes de unidade](https://www.alura.com.br/artigos/react-context-api-testes-de-unidade)
 - [Eletricidade da umidade do ar: Nanotecnologia viabiliza sonho de Tesla?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-higroeletricas-captam-eletricidade-umidade-ar&id=010115221229)
 - [Fabrica��o de pe�as com DNA automatizada com software livre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-pecas-dna-automatizada-software-livre&id=010165221229)
-- [Rob� bate recorde mundial na caverna mais profunda do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-recorde-mundial-caverna-mais-profunda-mundo&id=010180221228)
+- [Android e Jetpack Compose: crie menus flexíveis com Slot API](https://www.alura.com.br/artigos/slot-api-utiliza-lo-criar-menus-aplicacoes-android-jetpack-compose)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
