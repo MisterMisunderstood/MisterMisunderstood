@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberto quasicristal formado naturalmente na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-quasicristal-formado-naturalmente-terra&id=010160230102)
+- [Nova t�cnica mede tempo em bilion�simos de bilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-permite-medir-tempos-bilionesimos-bilionesimo-segundo&id=010165230102)
+- [Purificador de �gua supereficiente remove micropl�sticos em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-agua-supereficiente-remove-microplasticos-segundos&id=010125230102)
+- [Como voc� ver� o Universo se viajar mais r�pido que a luz?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-voce-vera-universo-se-viajar-mais-rapido-luz&id=010130221230)
+- [Hidrof�lios imitam barbatanas de baleia para reduzir cavita��o e ru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrofolios-inspirados-barbatanas-baleia-reduzem-cavitacao-ruido&id=010170221230)
 - [React: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/react-o-que-e-tudo-sobre-framework)
 - [React e Context API: testes de unidade](https://www.alura.com.br/artigos/react-context-api-testes-de-unidade)
-- [Android e Jetpack Compose: crie menus flexíveis com Slot API](https://www.alura.com.br/artigos/slot-api-utiliza-lo-criar-menus-aplicacoes-android-jetpack-compose)
-- [Namespaces: como evitar conflitos no código em JavaScript](https://www.alura.com.br/artigos/namespaces-evitar-conflitos-codigo-javascript)
-- [Mulheres em tech: conheça as Alura Stars!](https://www.alura.com.br/artigos/mulheres-tech-alura-stars)
-- [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers)
-- [Executores do Airflow: tipos e funções](https://www.alura.com.br/artigos/executores-airflow-tipos-funcoes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
