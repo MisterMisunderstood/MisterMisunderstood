@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [A importância das cores no produto](https://www.alura.com.br/artigos/importancia-das-cores-no-produto)
 - [Descoberto quasicristal formado naturalmente na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-quasicristal-formado-naturalmente-terra&id=010160230102)
 - [Nova t�cnica mede tempo em bilion�simos de bilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-permite-medir-tempos-bilionesimos-bilionesimo-segundo&id=010165230102)
 - [Purificador de �gua supereficiente remove micropl�sticos em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-agua-supereficiente-remove-microplasticos-segundos&id=010125230102)
 - [Como voc� ver� o Universo se viajar mais r�pido que a luz?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-voce-vera-universo-se-viajar-mais-rapido-luz&id=010130221230)
 - [Hidrof�lios imitam barbatanas de baleia para reduzir cavita��o e ru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrofolios-inspirados-barbatanas-baleia-reduzem-cavitacao-ruido&id=010170221230)
 - [React: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/react-o-que-e-tudo-sobre-framework)
-- [React e Context API: testes de unidade](https://www.alura.com.br/artigos/react-context-api-testes-de-unidade)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
