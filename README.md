@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Soldagem de pl�sticos com metais vai revolucionar ind�stria automotiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soldagem-plasticos-metais&id=010170230103)
+- [Nova fonte de alimenta��o tem vida �til de mais de 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-alimentacao-chaveadas-vida-util-50-anos&id=010115230103)
+- [Pele eletr�nica borrifada na pele entende todos os seus gestos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-borrifada-pele-entende-todos-seus-gestos&id=010110230103)
+- [A importância das cores no produto](https://www.alura.com.br/artigos/importancia-das-cores-no-produto)
 - [Descoberto quasicristal formado naturalmente na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-quasicristal-formado-naturalmente-terra&id=010160230102)
 - [Nova t�cnica mede tempo em bilion�simos de bilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-permite-medir-tempos-bilionesimos-bilionesimo-segundo&id=010165230102)
 - [Purificador de �gua supereficiente remove micropl�sticos em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-agua-supereficiente-remove-microplasticos-segundos&id=010125230102)
-- [A importância das cores no produto](https://www.alura.com.br/artigos/importancia-das-cores-no-produto)
-- [Como voc� ver� o Universo se viajar mais r�pido que a luz?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-voce-vera-universo-se-viajar-mais-rapido-luz&id=010130221230)
-- [Hidrof�lios imitam barbatanas de baleia para reduzir cavita��o e ru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrofolios-inspirados-barbatanas-baleia-reduzem-cavitacao-ruido&id=010170221230)
-- [Eletricidade da umidade do ar: Nanotecnologia viabiliza sonho de Tesla?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-higroeletricas-captam-eletricidade-umidade-ar&id=010115221229)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
