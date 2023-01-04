@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferro pode armazenar energias renov�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energias-renovaveis-armazenadas-usando-ferro&id=010115230104)
+- [Bolhas de sab�o s�o muito mais frias do que o ar ao seu redor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-sabao-muito-mais-frias-ar-seu-redor&id=010170230104)
+- [Prototype: descubra como quase tudo no JavaScript é um Objeto](https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto)
 - [Soldagem de pl�sticos com metais vai revolucionar ind�stria automotiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soldagem-plasticos-metais&id=010170230103)
 - [Nova fonte de alimenta��o tem vida �til de mais de 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-alimentacao-chaveadas-vida-util-50-anos&id=010115230103)
 - [Pele eletr�nica borrifada na pele entende todos os seus gestos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-borrifada-pele-entende-todos-seus-gestos&id=010110230103)
-- [Prototype: descubra como quase tudo no JavaScript é um Objeto](https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto)
-- [Descoberto quasicristal formado naturalmente na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-quasicristal-formado-naturalmente-terra&id=010160230102)
-- [Nova t�cnica mede tempo em bilion�simos de bilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-permite-medir-tempos-bilionesimos-bilionesimo-segundo&id=010165230102)
-- [Purificador de �gua supereficiente remove micropl�sticos em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-agua-supereficiente-remove-microplasticos-segundos&id=010125230102)
+- [A importância das cores no produto](https://www.alura.com.br/artigos/importancia-das-cores-no-produto)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
