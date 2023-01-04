@@ -100,12 +100,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Caminhos: entenda as diferenças entre absolutos e relativos](https://www.alura.com.br/artigos/caminhos-entenda-diferencas-entre-absolutos-relativos)
+- [Serpente do c�u � capturada em imagem de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-serpente-ceu-capturada-telescopio&id=010175230104)
 - [Ferro pode armazenar energias renov�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energias-renovaveis-armazenadas-usando-ferro&id=010115230104)
 - [Bolhas de sab�o s�o muito mais frias do que o ar ao seu redor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-sabao-muito-mais-frias-ar-seu-redor&id=010170230104)
 - [Prototype: descubra como quase tudo no JavaScript é um Objeto](https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto)
 - [Soldagem de pl�sticos com metais vai revolucionar ind�stria automotiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soldagem-plasticos-metais&id=010170230103)
 - [Nova fonte de alimenta��o tem vida �til de mais de 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-alimentacao-chaveadas-vida-util-50-anos&id=010115230103)
-- [Pele eletr�nica borrifada na pele entende todos os seus gestos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-borrifada-pele-entende-todos-seus-gestos&id=010110230103)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
