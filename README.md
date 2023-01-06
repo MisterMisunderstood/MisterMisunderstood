@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [Come�a teste de energia solar espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-teste-energia-solar-espacial&id=010115230105)
 - [Principais acontecimentos em Dev de 2022 para os Alura Stars](https://www.alura.com.br/artigos/principais-acontecimentos-dev-2022-alura-stars)
 - [Serpente do c�u � capturada em imagem de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-serpente-ceu-capturada-telescopio&id=010175230104)
-- [Ferro pode armazenar energias renov�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energias-renovaveis-armazenadas-usando-ferro&id=010115230104)
+- [Caminhos: entenda as diferenças entre absolutos e relativos](https://www.alura.com.br/artigos/caminhos-entenda-diferencas-entre-absolutos-relativos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
