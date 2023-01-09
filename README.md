@@ -99,9 +99,9 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Usando o Firestore para criar um Chat com React Native](https://www.alura.com.br/artigos/usando-firestore-criar-chat-react-native)
 - [Come�a maior busca j� feita por sinais de vida extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-maior-busca-ja-feita-sinais-vida-extraterrestre&id=010130230106)
 - [Descoberto um primo superat�mico do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafulereno&id=010165230106)
-- [Usando o Firestore para criar um Chat com React Native](https://www.alura.com.br/artigos/usando-firestore-criar-chat-react-native)
 - [Dois passos rumo ao hidrog�nio extra�do do ar com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-rumo-hidrogenio-extraido-ar-energia-solar&id=020115230105)
 - [Come�a teste de energia solar espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-teste-energia-solar-espacial&id=010115230105)
 - [Principais acontecimentos em Dev de 2022 para os Alura Stars](https://www.alura.com.br/artigos/principais-acontecimentos-dev-2022-alura-stars)
