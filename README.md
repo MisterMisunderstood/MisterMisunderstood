@@ -102,10 +102,10 @@ Meus conhecimentos atualmente são em:
 - [Inova��o revolucion�ria coloca laser vis�vel dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-revolucionaria-coloca-laser-visivel-dentro-chips&id=010115230109)
 - [F�sicos confirmam origem das ondas assobiadoras no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-confirmam-origem-ondas-assobiadoras-espaco&id=010130230109)
 - [Rob� todo-terreno de baixo custo quer entrar em sua casa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-todo-terreno-baixo-custo-vence-qualquer-obstaculo&id=010180230109)
-- [Usando o Firestore para criar um Chat com React Native](https://www.alura.com.br/artigos/usando-firestore-criar-chat-react-native)
 - [Come�a maior busca j� feita por sinais de vida extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-maior-busca-ja-feita-sinais-vida-extraterrestre&id=010130230106)
 - [Descoberto um primo superat�mico do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafulereno&id=010165230106)
-- [Principais acontecimentos em Dev de 2022 para os Alura Stars](https://www.alura.com.br/artigos/principais-acontecimentos-dev-2022-alura-stars)
+- [Usando o Firestore para criar um Chat com React Native](https://www.alura.com.br/artigos/usando-firestore-criar-chat-react-native)
+- [Dois passos rumo ao hidrog�nio extra�do do ar com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-rumo-hidrogenio-extraido-ar-energia-solar&id=020115230105)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
