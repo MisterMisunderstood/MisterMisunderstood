@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Inova��o revolucion�ria coloca laser vis�vel dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-revolucionaria-coloca-laser-visivel-dentro-chips&id=010115230109)
+- [F�sicos confirmam origem das ondas assobiadoras no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-confirmam-origem-ondas-assobiadoras-espaco&id=010130230109)
+- [Rob� todo-terreno de baixo custo quer entrar em sua casa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-todo-terreno-baixo-custo-vence-qualquer-obstaculo&id=010180230109)
 - [Usando o Firestore para criar um Chat com React Native](https://www.alura.com.br/artigos/usando-firestore-criar-chat-react-native)
-- [Principais acontecimentos em Dev de 2022 para os Alura Stars](https://www.alura.com.br/artigos/principais-acontecimentos-dev-2022-alura-stars)
-- [Caminhos: entenda as diferenças entre absolutos e relativos](https://www.alura.com.br/artigos/caminhos-entenda-diferencas-entre-absolutos-relativos)
-- [Prototype: descubra como quase tudo no JavaScript é um Objeto](https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto)
-- [A importância das cores no produto](https://www.alura.com.br/artigos/importancia-das-cores-no-produto)
-- [React e Context API: testes de unidade](https://www.alura.com.br/artigos/react-context-api-testes-de-unidade)
-- [React: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/react-o-que-e-tudo-sobre-framework)
+- [Come�a maior busca j� feita por sinais de vida extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-maior-busca-ja-feita-sinais-vida-extraterrestre&id=010130230106)
+- [Descoberto um primo superat�mico do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafulereno&id=010165230106)
+- [Dois passos rumo ao hidrog�nio extra�do do ar com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-rumo-hidrogenio-extraido-ar-energia-solar&id=020115230105)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
