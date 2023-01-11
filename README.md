@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Java: o que é, linguagem e um Guia para iniciar na tecnologia](https://www.alura.com.br/artigos/java)
 - [Cloud: o que é, História e Guia da computação em nuvem](https://www.alura.com.br/artigos/cloud)
 - [NASA anuncia Telesc�pio dos Mundos Habit�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-mundos-habitaveis&id=020130230111)
 - [Gal�xias plenamente formadas no Universo jovem desafiam teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-plenamente-formadas-inicio-universo-desafiam-teorias&id=010130230111)
 - [Progresso cient�fico e tecnol�gico est� desacelerando  - e n�o sabemos o porqu�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=progresso-cientifico-tecnologico-esta-desacelerando-nao-sabemos-porque&id=010150230110)
 - [Nanofibras de celulose surpreendem ao dissipar calor com efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanofibras-celulose-surpreendem-apresentar-alta-condutividade-termal&id=010160230110)
 - [Cristal acelerador de el�trons miniaturiza aceleradores de part�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-acelerador-eletrons-miniaturiza-aceleradores-particulas&id=010115230110)
-- [Inova��o revolucion�ria coloca laser vis�vel dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-revolucionaria-coloca-laser-visivel-dentro-chips&id=010115230109)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
