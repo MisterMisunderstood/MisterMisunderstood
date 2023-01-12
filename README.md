@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Alura está entre empresas de educação mais transformadoras do mundo](https://www.alura.com.br/artigos/alura-empresa-educacao-mais-transformadora-mundo-gsv-edtech-150)
 - [Superbolha c�smica tem campo magn�tico mapeado em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superbolha-cosmica-tem-campo-magnetico-mapeado-3d-pela-primeira-vez&id=010130230112)
 - [Criado um motor el�trico em escala molecular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-molecular&id=010165230112)
 - [Raio trator a laser poder� puxar objetos em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-trator-laser-puxa-objetos-macroscopicos&id=010170230112)
 - [Java: o que é, linguagem e um Guia para iniciar na tecnologia](https://www.alura.com.br/artigos/java)
 - [Cloud: o que é, História e Guia da computação em nuvem](https://www.alura.com.br/artigos/cloud)
 - [NASA anuncia Telesc�pio dos Mundos Habit�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-mundos-habitaveis&id=020130230111)
-- [Gal�xias plenamente formadas no Universo jovem desafiam teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-plenamente-formadas-inicio-universo-desafiam-teorias&id=010130230111)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
