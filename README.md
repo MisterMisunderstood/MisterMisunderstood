@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [Criado um motor el�trico em escala molecular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-molecular&id=010165230112)
 - [Raio trator a laser poder� puxar objetos em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-trator-laser-puxa-objetos-macroscopicos&id=010170230112)
 - [Alura está entre empresas de educação mais transformadoras do mundo](https://www.alura.com.br/artigos/alura-empresa-educacao-mais-transformadora-mundo-gsv-edtech-150)
-- [NASA anuncia Telesc�pio dos Mundos Habit�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-mundos-habitaveis&id=020130230111)
+- [Cloud: o que é, História e Guia da computação em nuvem](https://www.alura.com.br/artigos/cloud)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
