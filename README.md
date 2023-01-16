@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria � base de �gua evita que carros el�tricos peguem fogo em enchentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-agua-evita-carros-eletricos-peguem-fogo-enchentes&id=010115230116)
+- [Fotodetectores s�o fabricados com papel e l�pis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotodetectores-fabricados-papel-lapis&id=010110230116)
+- [Mapa mostra temperaturas dos �ltimos 11.000 ver�es e invernos da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-mostra-temperaturas-ultimos-11-000-veroes-invernos-terra&id=010125230116)
+- [Maior dep�sito de terras raras da Europa � descoberto na Su�cia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-deposito-terras-raras-europa-suecia&id=010175230113)
 - [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
 - [Neutrinos est�reis n�o existem, revela experimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrinos-estereis-nao-existem-revela-experimento&id=020130230113)
 - [Descoberto um exoplaneta com fus�o nuclear em seu n�cleo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-fusao-nuclear-nucleo&id=010130230113)
-- [Superbolha c�smica tem campo magn�tico mapeado em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superbolha-cosmica-tem-campo-magnetico-mapeado-3d-pela-primeira-vez&id=010130230112)
-- [Criado um motor el�trico em escala molecular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-molecular&id=010165230112)
-- [Raio trator a laser poder� puxar objetos em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-trator-laser-puxa-objetos-macroscopicos&id=010170230112)
-- [Alura está entre empresas de educação mais transformadoras do mundo](https://www.alura.com.br/artigos/alura-empresa-educacao-mais-transformadora-mundo-gsv-edtech-150)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
