@@ -99,12 +99,12 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
 - [Bateria � base de �gua evita que carros el�tricos peguem fogo em enchentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-agua-evita-carros-eletricos-peguem-fogo-enchentes&id=010115230116)
 - [Fotodetectores s�o fabricados com papel e l�pis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotodetectores-fabricados-papel-lapis&id=010110230116)
 - [Mapa mostra temperaturas dos �ltimos 11.000 ver�es e invernos da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-mostra-temperaturas-ultimos-11-000-veroes-invernos-terra&id=010125230116)
-- [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
+- [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
 - [Maior dep�sito de terras raras da Europa � descoberto na Su�cia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-deposito-terras-raras-europa-suecia&id=010175230113)
+- [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
 - [Neutrinos est�reis n�o existem, revela experimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrinos-estereis-nao-existem-revela-experimento&id=020130230113)
 <!-- BLOG-POST-LIST:END -->
 
