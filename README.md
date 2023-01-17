@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [React: o que é, como funciona e um Guia dessa popular ferramenta JS](https://www.alura.com.br/artigos/react-js)
 - [Para-raios a laser � aprovado em seu primeiro teste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-raios-laser&id=010125230117)
 - [Processador de luz faz aprendizado profundo massivamente paralelo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-faz-aprendizado-profundo-massivamente-paralelo&id=010150230117)
 - [Nave-m�e liberar� pequenos rob�s para vistoriar dutos subterr�neos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-desentupidor-evitar-escavacoes-consertar-encanamentos&id=010180230117)
 - [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
 - [Bateria � base de �gua evita que carros el�tricos peguem fogo em enchentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-agua-evita-carros-eletricos-peguem-fogo-enchentes&id=010115230116)
 - [Fotodetectores s�o fabricados com papel e l�pis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotodetectores-fabricados-papel-lapis&id=010110230116)
-- [Mapa mostra temperaturas dos �ltimos 11.000 ver�es e invernos da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-mostra-temperaturas-ultimos-11-000-veroes-invernos-terra&id=010125230116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
