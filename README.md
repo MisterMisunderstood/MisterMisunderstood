@@ -101,11 +101,11 @@ Meus conhecimentos atualmente são em:
 <!-- BLOG-POST-LIST:START -->
 - [Boas práticas ao escrever código em React js](https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js)
 - [React: o que é, como funciona e um Guia dessa popular ferramenta JS](https://www.alura.com.br/artigos/react-js)
+- [Como se proteger de uma explos�o nuclear?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-proteger-de-uma-explosao-nuclear&id=020125230117)
 - [Para-raios a laser � aprovado em seu primeiro teste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-raios-laser&id=010125230117)
 - [Processador de luz faz aprendizado profundo massivamente paralelo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-faz-aprendizado-profundo-massivamente-paralelo&id=010150230117)
 - [Nave-m�e liberar� pequenos rob�s para vistoriar dutos subterr�neos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-desentupidor-evitar-escavacoes-consertar-encanamentos&id=010180230117)
 - [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
-- [Bateria � base de �gua evita que carros el�tricos peguem fogo em enchentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-agua-evita-carros-eletricos-peguem-fogo-enchentes&id=010115230116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
