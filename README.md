@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Veja a melhor foto da Lua j� tirada da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-foto-lua-ja-tirada-terra&id=020130230118)
 - [Construtores no Dart: conhecendo tipos de construtores e como usá-los](https://www.alura.com.br/artigos/construtores-dart-tipos-como-usa-los)
+- [Escudo eletromagn�tico bloqueia comunica��es e interfer�ncia ao toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-bloqueia-comunicacoes-interferencia&id=010110230118)
+- [Novo instrumento observar� o c�u com 2.400 olhos simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-instrumento-observara-ceu-2-400-olhos-simultaneamente&id=010130230118)
+- [Como se proteger de uma explos�o nuclear?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-proteger-de-uma-explosao-nuclear&id=020125230117)
 - [Boas práticas ao escrever código em React js](https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js)
 - [React: o que é, como funciona e um Guia dessa popular ferramenta JS](https://www.alura.com.br/artigos/react-js)
-- [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
-- [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
-- [Alura está entre empresas de educação mais transformadoras do mundo](https://www.alura.com.br/artigos/alura-empresa-educacao-mais-transformadora-mundo-gsv-edtech-150)
-- [Cloud: o que é, História e Guia da computação em nuvem](https://www.alura.com.br/artigos/cloud)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
