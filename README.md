@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Veja a melhor foto da Lua j� tirada da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-foto-lua-ja-tirada-terra&id=020130230118)
 - [Construtores no Dart: conhecendo tipos de construtores e como usá-los](https://www.alura.com.br/artigos/construtores-dart-tipos-como-usa-los)
+- [Veja a melhor foto da Lua j� tirada da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-foto-lua-ja-tirada-terra&id=020130230118)
 - [Escudo eletromagn�tico bloqueia comunica��es e interfer�ncia ao toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-bloqueia-comunicacoes-interferencia&id=010110230118)
 - [Novo instrumento observar� o c�u com 2.400 olhos simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-instrumento-observara-ceu-2-400-olhos-simultaneamente&id=010130230118)
-- [Como se proteger de uma explos�o nuclear?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-proteger-de-uma-explosao-nuclear&id=020125230117)
 - [Boas práticas ao escrever código em React js](https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js)
 - [React: o que é, como funciona e um Guia dessa popular ferramenta JS](https://www.alura.com.br/artigos/react-js)
+- [Como se proteger de uma explos�o nuclear?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-proteger-de-uma-explosao-nuclear&id=020125230117)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
