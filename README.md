@@ -105,7 +105,7 @@ Meus conhecimentos atualmente são em:
 - [Para-raios a laser � aprovado em seu primeiro teste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-raios-laser&id=010125230117)
 - [Processador de luz faz aprendizado profundo massivamente paralelo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-faz-aprendizado-profundo-massivamente-paralelo&id=010150230117)
 - [Nave-m�e liberar� pequenos rob�s para vistoriar dutos subterr�neos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-desentupidor-evitar-escavacoes-consertar-encanamentos&id=010180230117)
-- [Bateria � base de �gua evita que carros el�tricos peguem fogo em enchentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-agua-evita-carros-eletricos-peguem-fogo-enchentes&id=010115230116)
+- [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
