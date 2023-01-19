@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados-o-que-e-o-que-faz-guia-completo)
 - [Meteorito de 7,6kg � encontrado na Ant�rtica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-7-6kg-encontrado-antartica&id=010175230119)
 - [Revestimento � simultaneamente antiemba�ante e antirreflexo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antiembacante-antirreflexo&id=010160230119)
 - [Minas abandonadas podem virar baterias de gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minas-abandonadas-baterias-gravidade&id=020115230119)
 - [C�lulas a combust�vel ganham 35% de pot�ncia com engenharia at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-combustivel-ganham-35-potencia-nanotecnologia&id=010115230119)
 - [Veja a melhor foto da Lua j� tirada da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-foto-lua-ja-tirada-terra&id=020130230118)
 - [Construtores no Dart: conhecendo tipos de construtores e como usá-los](https://www.alura.com.br/artigos/construtores-dart-tipos-como-usa-los)
+- [Escudo eletromagn�tico bloqueia comunica��es e interfer�ncia ao toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-bloqueia-comunicacoes-interferencia&id=010110230118)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
