@@ -103,9 +103,9 @@ Meus conhecimentos atualmente são em:
 - [Revestimento � simultaneamente antiemba�ante e antirreflexo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antiembacante-antirreflexo&id=010160230119)
 - [Minas abandonadas podem virar baterias de gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minas-abandonadas-baterias-gravidade&id=020115230119)
 - [C�lulas a combust�vel ganham 35% de pot�ncia com engenharia at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-combustivel-ganham-35-potencia-nanotecnologia&id=010115230119)
-- [Construtores no Dart: conhecendo tipos de construtores e como usá-los](https://www.alura.com.br/artigos/construtores-dart-tipos-como-usa-los)
 - [Veja a melhor foto da Lua j� tirada da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-foto-lua-ja-tirada-terra&id=020130230118)
 - [Escudo eletromagn�tico bloqueia comunica��es e interfer�ncia ao toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-bloqueia-comunicacoes-interferencia&id=010110230118)
+- [Novo instrumento observar� o c�u com 2.400 olhos simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-instrumento-observara-ceu-2-400-olhos-simultaneamente&id=010130230118)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
