@@ -100,12 +100,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Dotenv: gerenciando variáveis de ambiente](https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente)
-- [Construtores no Dart: conhecendo tipos de construtores e como usá-los](https://www.alura.com.br/artigos/construtores-dart-tipos-como-usa-los)
-- [Boas práticas ao escrever código em React js](https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js)
-- [React: o que é, como funciona e um Guia dessa popular ferramenta JS](https://www.alura.com.br/artigos/react-js)
-- [Cronograma de eventos no Discord (16-20) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord)
-- [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
-- [Alura está entre empresas de educação mais transformadoras do mundo](https://www.alura.com.br/artigos/alura-empresa-educacao-mais-transformadora-mundo-gsv-edtech-150)
+- [Estrelas est�o se apagando ante nossos olhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-homem-esta-apagando-estrelas-ceu&id=020130230120)
+- [Conhe�a a Internet da Luz, que integra ilumina��o, comunica��o e bem-estar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-da-luz-iol&id=010150230120)
+- [Decifradas ondas misteriosas que pareciam atravessar magnetosfera da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decifradas-ondas-misteriosas-pareciam-atravessar-magnetosfera-terra&id=010130230120)
+- [Meteorito de 7,6kg � encontrado na Ant�rtica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-7-6kg-encontrado-antartica&id=010175230119)
+- [Revestimento � simultaneamente antiemba�ante e antirreflexo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antiembacante-antirreflexo&id=010160230119)
+- [Minas abandonadas podem virar baterias de gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minas-abandonadas-baterias-gravidade&id=020115230119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
