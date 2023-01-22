@@ -100,12 +100,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Estrelas est�o se apagando ante nossos olhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-homem-esta-apagando-estrelas-ceu&id=020130230120)
+- [Dotenv: gerenciando variáveis de ambiente](https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente)
 - [Conhe�a a Internet da Luz, que integra ilumina��o, comunica��o e bem-estar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-da-luz-iol&id=010150230120)
 - [Decifradas ondas misteriosas que pareciam atravessar magnetosfera da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decifradas-ondas-misteriosas-pareciam-atravessar-magnetosfera-terra&id=010130230120)
 - [Meteorito de 7,6kg � encontrado na Ant�rtica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-7-6kg-encontrado-antartica&id=010175230119)
 - [Revestimento � simultaneamente antiemba�ante e antirreflexo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antiembacante-antirreflexo&id=010160230119)
 - [Minas abandonadas podem virar baterias de gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minas-abandonadas-baterias-gravidade&id=020115230119)
-- [C�lulas a combust�vel ganham 35% de pot�ncia com engenharia at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-combustivel-ganham-35-potencia-nanotecnologia&id=010115230119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
