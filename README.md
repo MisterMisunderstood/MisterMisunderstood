@@ -102,10 +102,10 @@ Meus conhecimentos atualmente são em:
 - [Rel�gio de luz: A busca por um tempo que mec�nica qu�ntica e relatividade entendam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-luz-redefinindo-tempo-usando-relogios-luz-quantica&id=010130230123)
 - [Neurotrans�stor, uma c�lula nervosa artificial quase biol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-nervosas-artificiais-aproximam-se-biologicas&id=010110230123)
 - [Controlador de luz program�vel abre caminho para telas hologr�ficas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controlador-luz-programavel-abre-caminho-telas-holograficas-3d&id=010150230123)
+- [Cronograma de eventos no Discord (23-27) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord-23-27-janeiro)
 - [Estrelas est�o se apagando ante nossos olhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-homem-esta-apagando-estrelas-ceu&id=020130230120)
+- [Dotenv: gerenciando variáveis de ambiente](https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente)
 - [Conhe�a a Internet da Luz, que integra ilumina��o, comunica��o e bem-estar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-da-luz-iol&id=010150230120)
-- [Decifradas ondas misteriosas que pareciam atravessar magnetosfera da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decifradas-ondas-misteriosas-pareciam-atravessar-magnetosfera-terra&id=010130230120)
-- [Meteorito de 7,6kg � encontrado na Ant�rtica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-7-6kg-encontrado-antartica&id=010175230119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
