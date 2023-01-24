@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
+- [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
 - [Rota��o do n�cleo interno da Terra pode estar se invertendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-nucleo-interno-terra-estar-se-invertendo&id=010125230124)
 - [Ondas gravitacionais podem dar informa��es sobre in�cio dos tempos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-gravitacionais-dar-informacoes-sobre-inicio-tempos&id=010130230124)
 - [Internet da Energia promete distribuir energia na forma de pacotes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-energia-promete-distribuir-energia-forma-pacotes&id=010115230124)
 - [Pesquisadora da USP cria mem�ria de computador inovadora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadora-usp-cria-memoria-computador-inovadora&id=010110230124)
 - [Cronograma de eventos no Discord (23-27) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord-23-27-janeiro)
-- [Rel�gio de luz: A busca por um tempo que mec�nica qu�ntica e relatividade entendam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-luz-redefinindo-tempo-usando-relogios-luz-quantica&id=010130230123)
-- [Neurotrans�stor, uma c�lula nervosa artificial quase biol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-nervosas-artificiais-aproximam-se-biologicas&id=010110230123)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
