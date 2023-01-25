@@ -99,13 +99,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
-- [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
-- [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
 - [Rota��o do n�cleo interno da Terra pode estar se invertendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-nucleo-interno-terra-estar-se-invertendo&id=010125230124)
 - [Ondas gravitacionais podem dar informa��es sobre in�cio dos tempos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-gravitacionais-dar-informacoes-sobre-inicio-tempos&id=010130230124)
 - [Internet da Energia promete distribuir energia na forma de pacotes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-energia-promete-distribuir-energia-forma-pacotes&id=010115230124)
 - [Pesquisadora da USP cria mem�ria de computador inovadora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadora-usp-cria-memoria-computador-inovadora&id=010110230124)
+- [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
+- [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
+- [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
