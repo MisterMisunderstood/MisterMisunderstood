@@ -102,10 +102,10 @@ Meus conhecimentos atualmente são em:
 - [Avi�o sem partes m�veis externas come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-sem-partes-moveis-externas&id=010170230126)
 - [Estas joias foram criadas usando a teoria do caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estas-joias-foram-criadas-pelo-efeito-borboleta-teoria-caos&id=010170230125)
 - [NASA anuncia teste de foguete com propuls�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-anuncia-teste-foguete-motor-nuclear&id=010130230125)
-- [Rota��o do n�cleo interno da Terra pode estar se invertendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-nucleo-interno-terra-estar-se-invertendo&id=010125230124)
 - [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
 - [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
 - [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
+- [Rota��o do n�cleo interno da Terra pode estar se invertendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-nucleo-interno-terra-estar-se-invertendo&id=010125230124)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
