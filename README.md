@@ -73,14 +73,24 @@ Meus conhecimentos atualmente são em:
 
 * HTML5
 * CSS3
-* Design responsivo / Media query
-* Animações com Transition e Animation / Layout, Grid e Flexbox
 * JavaScript
-* C# 
-* POO
-* Git
-* Entre outras
-    
+* Node.js
+* JQuery
+* Bootstrap
+* React
+* Next.js
+* Styled-Components
+* MVC
+* POO - Orientaçao a objetos
+* VSCode
+* Figma
+* Supabase
+* Vercel
+* Github
+* Postman
+* Visual Studio Code
+* Entre outras...
+  
 </details>
 
 ---
