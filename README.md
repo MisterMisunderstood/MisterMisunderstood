@@ -110,13 +110,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Transição de carreira em UX: dicas de como realizar esse processo](https://www.alura.com.br/artigos/transicao-carreira-ux-dicas-realizar-esse-processo)
 - [Gravidade artificial � gerada com ondas sonoras e plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-artificial-gerada-ondas-sonoras-plasma&id=010130230126)
 - [Avi�o sem partes m�veis externas come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-sem-partes-moveis-externas&id=010170230126)
 - [Estas joias foram criadas usando a teoria do caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estas-joias-foram-criadas-pelo-efeito-borboleta-teoria-caos&id=010170230125)
 - [NASA anuncia teste de foguete com propuls�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-anuncia-teste-foguete-motor-nuclear&id=010130230125)
-- [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
-- [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
 - [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
+- [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
