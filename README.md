@@ -111,12 +111,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [UX Design e sua relação com a área de negócios](https://www.alura.com.br/artigos/ux-design-relacao-area-de-negocios)
-- [Pulso de el�trons mais curto j� criado dura 53 attossegundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulso-eletrons-mais-curto-ja-criado&id=010115230127)
-- [Quasipart�culas n�o s�o s� qu�nticas: Encontrada primeira quasipart�cula cl�ssica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-classica&id=010165230127)
-- [Equipamento robotizado detecta contaminantes na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-robotizado-detecta-contaminantes-agua&id=010180230127)
 - [Transição de carreira em UX: dicas de como realizar esse processo](https://www.alura.com.br/artigos/transicao-carreira-ux-dicas-realizar-esse-processo)
 - [Resoluções para 2023 dos Alura Stars](https://www.alura.com.br/artigos/resolucao-2023-alura-stars)
-- [Sonda Lucy visitar� asteroide n�o planejado para testar sistema de navega��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-lucy-visitara-asteroide-nao-planejado-testar-sistema-navegacao&id=010175230126)
+- [O que são ambientes?](https://www.alura.com.br/artigos/o-que-sao-ambientes)
+- [Faculdade de TI ou Tecnologia vale a pena?](https://www.alura.com.br/artigos/faculdade-ti-tecnologia-vale-a-pena)
+- [Data Driven: o que é esse termo e o que isso significa para os profissionais](https://www.alura.com.br/artigos/data-driven-o-que-e-o-que-significa-para-profissionais)
+- [Cronograma de eventos no Discord (23-27) de janeiro](https://www.alura.com.br/artigos/cronograma-eventos-discord-23-27-janeiro)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
