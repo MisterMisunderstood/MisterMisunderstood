@@ -116,7 +116,7 @@ Meus conhecimentos atualmente são em:
 - [Equipamento robotizado detecta contaminantes na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-robotizado-detecta-contaminantes-agua&id=010180230127)
 - [Sonda Lucy visitar� asteroide n�o planejado para testar sistema de navega��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-lucy-visitara-asteroide-nao-planejado-testar-sistema-navegacao&id=010175230126)
 - [Gravidade artificial � gerada com ondas sonoras e plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-artificial-gerada-ondas-sonoras-plasma&id=010130230126)
-- [Avi�o sem partes m�veis externas come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-sem-partes-moveis-externas&id=010170230126)
+- [Transição de carreira em UX: dicas de como realizar esse processo](https://www.alura.com.br/artigos/transicao-carreira-ux-dicas-realizar-esse-processo)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
