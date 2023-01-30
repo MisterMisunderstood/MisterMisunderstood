@@ -110,13 +110,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [UX Design e sua relação com a área de negócios](https://www.alura.com.br/artigos/ux-design-relacao-area-de-negocios)
 - [Pulso de el�trons mais curto j� criado dura 53 attossegundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulso-eletrons-mais-curto-ja-criado&id=010115230127)
 - [Quasipart�culas n�o s�o s� qu�nticas: Encontrada primeira quasipart�cula cl�ssica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-classica&id=010165230127)
 - [Equipamento robotizado detecta contaminantes na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-robotizado-detecta-contaminantes-agua&id=010180230127)
-- [Transição de carreira em UX: dicas de como realizar esse processo](https://www.alura.com.br/artigos/transicao-carreira-ux-dicas-realizar-esse-processo)
-- [Resoluções para 2023 dos Alura Stars](https://www.alura.com.br/artigos/resolucao-2023-alura-stars)
 - [Sonda Lucy visitar� asteroide n�o planejado para testar sistema de navega��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-lucy-visitara-asteroide-nao-planejado-testar-sistema-navegacao&id=010175230126)
+- [Gravidade artificial � gerada com ondas sonoras e plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-artificial-gerada-ondas-sonoras-plasma&id=010130230126)
+- [Avi�o sem partes m�veis externas come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-sem-partes-moveis-externas&id=010170230126)
+- [Estas joias foram criadas usando a teoria do caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estas-joias-foram-criadas-pelo-efeito-borboleta-teoria-caos&id=010170230125)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
