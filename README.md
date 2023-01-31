@@ -110,13 +110,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA encontra oito candidatos a sinais de intelig�ncia extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-encontra-oito-candidatos-sinais-inteligencia-extraterrestre&id=010130230131)
+- [Anti-laser agora n�o absorve nem amplifica a luz: Ele a redireciona](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antilaser-agora-nao-absorve-nem-amplifica-luz-ele-redireciona&id=010115230131)
+- [Fada rob�tica brilhante voa pela for�a do vento e da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fada-robotica-brilhante-voa-pela-forca-vento-luz&id=010180230131)
 - [Aparelho torna �gua do mar pot�vel usando apenas energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-torna-agua-mar-potavel-usando-apenas-energia-solar&id=010125230130)
 - [Motores i�nicos espaciais ficam 10 vezes mais potentes - ou mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motores-ionicos-espaciais-ficam-10-vezes-mais-potentes&id=010130230130)
 - [Fibra de nanotubos de carbono que gera energia atinge novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-nanotubos-carbono-gera-energia-atinge-novo-patamar&id=010115230130)
 - [Cronograma de eventos no Discord de janeiro e fevereiro](https://www.alura.com.br/artigos/cronograma-eventos-discord-janeiro-fevereiro)
-- [Guia básico de manuseio do computador](https://www.alura.com.br/artigos/guia-basico-manuseio-computador)
-- [UX Design e sua relação com a área de negócios](https://www.alura.com.br/artigos/ux-design-relacao-area-de-negocios)
-- [Pulso de el�trons mais curto j� criado dura 53 attossegundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulso-eletrons-mais-curto-ja-criado&id=010115230127)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
