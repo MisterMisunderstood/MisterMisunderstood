@@ -112,8 +112,8 @@ Meus conhecimentos atualmente são em:
 <!-- BLOG-POST-LIST:START -->
 - [Avi�o hipers�nico: Motor h�brido faz transi��o de turbojato para ramjato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-hipersonico-motor-hibrido-faz-transicao-turbojato-ramjato&id=010170230202)
 - [Criados canudos de papel 100% biodegrad�veis que n�o encharcam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-canudos-papel-100-biodegradaveis-nao-encharcam&id=010160230202)
-- [Gota de �gua iluminada vira �tomo artificial vis�vel a olho nu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-agua-atomo-artificial&id=010165230201)
 - [Como testar a sua interface digital](https://www.alura.com.br/artigos/como-testar-sua-interface-digital)
+- [Gota de �gua iluminada vira �tomo artificial vis�vel a olho nu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-agua-atomo-artificial&id=010165230201)
 - [Mapa da mat�ria no Universo mostra rachaduras na teoria cosmol�gica padr�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-materia-universo-mostra-rachaduras-teoria-cosmologica-padrao&id=010130230201)
 - [Entendendo o Firebase e suas principais funcionalidades](https://www.alura.com.br/artigos/entendendo-firebase-principais-funcionalidades)
 - [IA encontra oito candidatos a sinais de intelig�ncia extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-encontra-oito-candidatos-sinais-inteligencia-extraterrestre&id=010130230131)
