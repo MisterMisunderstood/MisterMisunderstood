@@ -110,9 +110,9 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como testar a sua interface digital](https://www.alura.com.br/artigos/como-testar-sua-interface-digital)
 - [Gota de �gua iluminada vira �tomo artificial vis�vel a olho nu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-agua-atomo-artificial&id=010165230201)
 - [Mapa da mat�ria no Universo mostra rachaduras na teoria cosmol�gica padr�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-materia-universo-mostra-rachaduras-teoria-cosmologica-padrao&id=010130230201)
+- [Como testar a sua interface digital](https://www.alura.com.br/artigos/como-testar-sua-interface-digital)
 - [Entendendo o Firebase e suas principais funcionalidades](https://www.alura.com.br/artigos/entendendo-firebase-principais-funcionalidades)
 - [IA encontra oito candidatos a sinais de intelig�ncia extraterrestre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-encontra-oito-candidatos-sinais-inteligencia-extraterrestre&id=010130230131)
 - [Anti-laser agora n�o absorve nem amplifica a luz: Ele a redireciona](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antilaser-agora-nao-absorve-nem-amplifica-luz-ele-redireciona&id=010115230131)
