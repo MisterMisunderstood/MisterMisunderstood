@@ -111,12 +111,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Como formatar datas, horas e moedas em JavaScript?](https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript)
-- [Criptografia com raios c�smicos � imune a qualquer ataque j� imaginado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-raios-cosmicos-imune-qualquer-ataque-imaginado&id=010150230203)
-- [Descoberta de novo tipo de gelo muda nossa compreens�o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-novo-tipo-gelo-compreensao-agua&id=010160230203)
 - [PHP: validação de Dados Nacionais (BR)](https://www.alura.com.br/artigos/php-validacao-dados-nacionais-br)
-- [Avi�o hipers�nico: Motor h�brido faz transi��o de turbojato para ramjato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-hipersonico-motor-hibrido-faz-transicao-turbojato-ramjato&id=010170230202)
-- [Criados canudos de papel 100% biodegrad�veis que n�o encharcam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-canudos-papel-100-biodegradaveis-nao-encharcam&id=010160230202)
 - [Como testar a sua interface digital](https://www.alura.com.br/artigos/como-testar-sua-interface-digital)
+- [Entendendo o Firebase e suas principais funcionalidades](https://www.alura.com.br/artigos/entendendo-firebase-principais-funcionalidades)
+- [Cronograma de eventos no Discord de janeiro e fevereiro](https://www.alura.com.br/artigos/cronograma-eventos-discord-janeiro-fevereiro)
+- [Guia básico de manuseio do computador](https://www.alura.com.br/artigos/guia-basico-manuseio-computador)
+- [UX Design e sua relação com a área de negócios](https://www.alura.com.br/artigos/ux-design-relacao-area-de-negocios)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
