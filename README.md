@@ -111,12 +111,12 @@ Meus conhecimentos atualmente são em:
 
 <!-- BLOG-POST-LIST:START -->
 - [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
+- [Dialogs no Jetpack Compose](https://www.alura.com.br/artigos/dialogs-jetpack-compose)
 - [AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações](https://www.alura.com.br/artigos/aws)
 - [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
 - [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
 - [Anel de luz propaga-se sem se desfazer, como se fosse uma part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anel-luz-propaga-se-sem-se-desfazer-como-se-fosse-particula&id=010110230206)
 - [Como formatar datas, horas e moedas em JavaScript?](https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript)
-- [Criptografia com raios c�smicos � imune a qualquer ataque j� imaginado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-raios-cosmicos-imune-qualquer-ataque-imaginado&id=010150230203)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
