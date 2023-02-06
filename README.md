@@ -110,13 +110,13 @@ Meus conhecimentos atualmente são em:
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
+- [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
+- [Anel de luz propaga-se sem se desfazer, como se fosse uma part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anel-luz-propaga-se-sem-se-desfazer-como-se-fosse-particula&id=010110230206)
 - [Como formatar datas, horas e moedas em JavaScript?](https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript)
 - [Criptografia com raios c�smicos � imune a qualquer ataque j� imaginado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-raios-cosmicos-imune-qualquer-ataque-imaginado&id=010150230203)
 - [Descoberta de novo tipo de gelo muda nossa compreens�o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-novo-tipo-gelo-compreensao-agua&id=010160230203)
 - [PHP: validação de Dados Nacionais (BR)](https://www.alura.com.br/artigos/php-validacao-dados-nacionais-br)
-- [Avi�o hipers�nico: Motor h�brido faz transi��o de turbojato para ramjato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-hipersonico-motor-hibrido-faz-transicao-turbojato-ramjato&id=010170230202)
-- [Criados canudos de papel 100% biodegrad�veis que n�o encharcam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-canudos-papel-100-biodegradaveis-nao-encharcam&id=010160230202)
-- [Gota de �gua iluminada vira �tomo artificial vis�vel a olho nu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-agua-atomo-artificial&id=010165230201)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
