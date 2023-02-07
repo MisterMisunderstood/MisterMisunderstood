@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [LEDs verticais far�o telas que ultrapassam capacidade da vis�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-verticais-farao-telas-ultrapassam-capacidade-visao-humana&id=010110230207)
 - [Material n�o biol�gico apresenta mem�ria similar � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inorganico-apresenta-memoria-similar-cerebro&id=010160230207)
 - [Rob�tica sonha em transformar voc� no Doutor Octopus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roboticistas-querem-lhe-dar-terceiro-braco-ou-perna&id=010180230207)
-- [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
-- [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
-- [Anel de luz propaga-se sem se desfazer, como se fosse uma part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anel-luz-propaga-se-sem-se-desfazer-como-se-fosse-particula&id=010110230206)
 - [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
+- [Dialogs no Jetpack Compose](https://www.alura.com.br/artigos/dialogs-jetpack-compose)
+- [AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações](https://www.alura.com.br/artigos/aws)
+- [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
