@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
 - [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
 - [Anel de luz propaga-se sem se desfazer, como se fosse uma part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anel-luz-propaga-se-sem-se-desfazer-como-se-fosse-particula&id=010110230206)
-- [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
-- [Dialogs no Jetpack Compose](https://www.alura.com.br/artigos/dialogs-jetpack-compose)
-- [AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações](https://www.alura.com.br/artigos/aws)
-- [Como formatar datas, horas e moedas em JavaScript?](https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript)
+- [Criptografia com raios c�smicos � imune a qualquer ataque j� imaginado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-raios-cosmicos-imune-qualquer-ataque-imaginado&id=010150230203)
+- [Descoberta de novo tipo de gelo muda nossa compreens�o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-novo-tipo-gelo-compreensao-agua&id=010160230203)
+- [Avi�o hipers�nico: Motor h�brido faz transi��o de turbojato para ramjato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-hipersonico-motor-hibrido-faz-transicao-turbojato-ramjato&id=010170230202)
+- [Criados canudos de papel 100% biodegrad�veis que n�o encharcam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-canudos-papel-100-biodegradaveis-nao-encharcam&id=010160230202)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
