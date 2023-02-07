@@ -69,7 +69,7 @@ Adoro tecnologia. Gosto de fuçar, mexer, fazer, explorar, aprender e fazer mais
 A programação pra mim é um laboratório para eu pôr em prática esse desejo de criar. Só limitado, claro, pelo meu conhecimento. E por isso gosto, quero e preciso aprender mais e mais!<br>
 Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de programadores :D
 
-Meus conhecimentos atualmente são em: 
+### Meus conhecimentos atualmente são em: 
 
 * HTML5
 * CSS3
@@ -90,6 +90,20 @@ Meus conhecimentos atualmente são em:
 * Postman
 * Visual Studio Code
 * Entre outras...
+
+### Cursos e Eventos
+
+* Front-End Design - Udemy - Certificado
+
+* Evento Data Universe II - Data Science, Eng. Data, BI & Data Analytics - 20hrs - Certificado
+
+* Curso C#, introdução POO - CFB Cursos - Concluído
+
+* Curso Fundamentos da ASP .NET Core MVC - Udemy - Concluído
+
+* Curso .NET 6 - Criando uma Web API - Alura - Concluído
+
+* Imersao React Aluratube 2022 - Introdução React/Next/Styled Components - Alura - Concluído
   
 </details>
 
