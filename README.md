@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [LEDs verticais far�o telas que ultrapassam capacidade da vis�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-verticais-farao-telas-ultrapassam-capacidade-visao-humana&id=010110230207)
+- [Material n�o biol�gico apresenta mem�ria similar � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inorganico-apresenta-memoria-similar-cerebro&id=010160230207)
+- [Rob�tica sonha em transformar voc� no Doutor Octopus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roboticistas-querem-lhe-dar-terceiro-braco-ou-perna&id=010180230207)
 - [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
 - [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
 - [Anel de luz propaga-se sem se desfazer, como se fosse uma part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anel-luz-propaga-se-sem-se-desfazer-como-se-fosse-particula&id=010110230206)
-- [Criptografia com raios c�smicos � imune a qualquer ataque j� imaginado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-raios-cosmicos-imune-qualquer-ataque-imaginado&id=010150230203)
-- [Descoberta de novo tipo de gelo muda nossa compreens�o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-novo-tipo-gelo-compreensao-agua&id=010160230203)
-- [Avi�o hipers�nico: Motor h�brido faz transi��o de turbojato para ramjato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-hipersonico-motor-hibrido-faz-transicao-turbojato-ramjato&id=010170230202)
-- [Criados canudos de papel 100% biodegrad�veis que n�o encharcam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-canudos-papel-100-biodegradaveis-nao-encharcam&id=010160230202)
+- [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
