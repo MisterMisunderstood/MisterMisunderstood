@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sem�foros poder�o ter quarta luz branca para ve�culos aut�nomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semaforos-quarta-luz-branca-veiculos-autonomos&id=010170230208)
+- [Luz � esculpida em 3D para carregar mais informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ressonador-supermodo-esculpe-luz-3d-carregar-mais-informacoes&id=010115230208)
 - [Arquitetura do Node.js: entenda o loop de eventos](https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos)
 - [Criando o APK do Android e publicando um App no GitHub](https://www.alura.com.br/artigos/criando-apk-android-publicando-app-github)
 - [LEDs verticais far�o telas que ultrapassam capacidade da vis�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-verticais-farao-telas-ultrapassam-capacidade-visao-humana&id=010110230207)
 - [Material n�o biol�gico apresenta mem�ria similar � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inorganico-apresenta-memoria-similar-cerebro&id=010160230207)
 - [Rob�tica sonha em transformar voc� no Doutor Octopus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roboticistas-querem-lhe-dar-terceiro-braco-ou-perna&id=010180230207)
-- [Sonar inspirado em golfinhos melhora imagens subaqu�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-inspirado-golfinhos&id=010170230206)
-- [Refrigera��o radiativa, que n�o gasta energia, agora controlada eletronicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-radiativa-nao-gasta-energia-controlada-eletronicamente&id=010115230206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
