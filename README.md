@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetura do Node.js: entenda o que são threads e processos](https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos)
 - [Arquitetura do Node.js: conheça seus componentes](https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes)
+- [Sem�foros poder�o ter quarta luz branca para ve�culos aut�nomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semaforos-quarta-luz-branca-veiculos-autonomos&id=010170230208)
+- [Luz � esculpida em 3D para carregar mais informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ressonador-supermodo-esculpe-luz-3d-carregar-mais-informacoes&id=010115230208)
 - [Arquitetura do Node.js: entenda o loop de eventos](https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos)
 - [Criando o APK do Android e publicando um App no GitHub](https://www.alura.com.br/artigos/criando-apk-android-publicando-app-github)
-- [AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações](https://www.alura.com.br/artigos/aws)
-- [Dialogs no Jetpack Compose](https://www.alura.com.br/artigos/dialogs-jetpack-compose)
-- [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
-- [Como formatar datas, horas e moedas em JavaScript?](https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript)
+- [LEDs verticais far�o telas que ultrapassam capacidade da vis�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-verticais-farao-telas-ultrapassam-capacidade-visao-humana&id=010110230207)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
