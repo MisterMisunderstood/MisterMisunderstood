@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Interconex�o de qubits pode tirar computadores qu�nticos dos laborat�rios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interconexao-qubits-tirar-computadores-quanticos-laboratorios&id=010150230209)
-- [Descoberto sistema de an�is ao redor do planeta an�o Quaoar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-aneis-redor-planeta-anao-quaoar-desafiam-teorias&id=010130230209)
-- [Cientistas prop�em lan�ar poeira da Lua no espa�o para resfriar a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-propoem-lancar-poeira-lua-espaco-resfriar-terra&id=010125230208)
 - [Arquitetura do Node.js: entenda o que são threads e processos](https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos)
 - [Arquitetura do Node.js: conheça seus componentes](https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes)
-- [Sem�foros poder�o ter quarta luz branca para ve�culos aut�nomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semaforos-quarta-luz-branca-veiculos-autonomos&id=010170230208)
-- [Luz � esculpida em 3D para carregar mais informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ressonador-supermodo-esculpe-luz-3d-carregar-mais-informacoes&id=010115230208)
+- [Arquitetura do Node.js: entenda o loop de eventos](https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos)
+- [Criando o APK do Android e publicando um App no GitHub](https://www.alura.com.br/artigos/criando-apk-android-publicando-app-github)
+- [Dialogs no Jetpack Compose](https://www.alura.com.br/artigos/dialogs-jetpack-compose)
+- [AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações](https://www.alura.com.br/artigos/aws)
+- [Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades](https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
