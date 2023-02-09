@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura do Node.js: entenda o que são threads e processos](https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos)
-- [Arquitetura do Node.js: conheça seus componentes](https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes)
 - [Cientistas prop�em lan�ar poeira da Lua no espa�o para resfriar a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-propoem-lancar-poeira-lua-espaco-resfriar-terra&id=010125230208)
 - [Sem�foros poder�o ter quarta luz branca para ve�culos aut�nomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semaforos-quarta-luz-branca-veiculos-autonomos&id=010170230208)
 - [Luz � esculpida em 3D para carregar mais informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ressonador-supermodo-esculpe-luz-3d-carregar-mais-informacoes&id=010115230208)
+- [Arquitetura do Node.js: entenda o que são threads e processos](https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos)
+- [Arquitetura do Node.js: conheça seus componentes](https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes)
+- [LEDs verticais far�o telas que ultrapassam capacidade da vis�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-verticais-farao-telas-ultrapassam-capacidade-visao-humana&id=010110230207)
 - [Arquitetura do Node.js: entenda o loop de eventos](https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos)
-- [Criando o APK do Android e publicando um App no GitHub](https://www.alura.com.br/artigos/criando-apk-android-publicando-app-github)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
