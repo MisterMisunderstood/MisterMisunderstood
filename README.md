@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Como obter dados da internet no Flutter usando HTTP](https://www.alura.com.br/artigos/obter-dados-internet-flutter-usando-http)
-- [Pós-Graduação Alura + FIAP e os próximos passos da Alura](https://www.alura.com.br/artigos/pos-graduacao-alura-fiap-hipsters-tech-guide-carreira-faculdade-dev-leaders-conference-2023)
+- [Próximos passos da Alura: Pós Tech com a FIAP, Hipsters, Imersão Java e mais](https://www.alura.com.br/artigos/pos-graduacao-alura-fiap-hipsters-tech-guide-carreira-faculdade-dev-leaders-conference-2023)
 - [IA j� est� aprendendo sem que precisemos lhe ensinar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ja-esta-aprendendo-sem-precisemos-lhe-ensinar&id=010150230210)
 - [Metal e pol�mero s�o finalmente integrados em um �nico material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-polimero-finalmente-integrados-unico-material&id=010160230210)
 - [Arquitetura do Node.js: o Node.js é single-threaded?](https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded)
