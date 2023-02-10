@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA j� est� aprendendo sem que precisemos lhe ensinar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ja-esta-aprendendo-sem-precisemos-lhe-ensinar&id=010150230210)
+- [Metal e pol�mero s�o finalmente integrados em um �nico material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-polimero-finalmente-integrados-unico-material&id=010160230210)
 - [Camada de rocha derretida pode se estender por metade da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camada-rocha-derretida-se-estender-metade-terra&id=010125230209)
 - [Interconex�o de qubits pode tirar computadores qu�nticos dos laborat�rios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interconexao-qubits-tirar-computadores-quanticos-laboratorios&id=010150230209)
 - [Descoberto sistema de an�is ao redor do planeta an�o Quaoar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-aneis-redor-planeta-anao-quaoar-desafiam-teorias&id=010130230209)
 - [Arquitetura do Node.js: o Node.js é single-threaded?](https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded)
 - [Cientistas prop�em lan�ar poeira da Lua no espa�o para resfriar a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-propoem-lancar-poeira-lua-espaco-resfriar-terra&id=010125230208)
-- [Sem�foros poder�o ter quarta luz branca para ve�culos aut�nomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semaforos-quarta-luz-branca-veiculos-autonomos&id=010170230208)
-- [Luz � esculpida em 3D para carregar mais informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ressonador-supermodo-esculpe-luz-3d-carregar-mais-informacoes&id=010115230208)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
