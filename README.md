@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [IA j� est� aprendendo sem que precisemos lhe ensinar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ja-esta-aprendendo-sem-precisemos-lhe-ensinar&id=010150230210)
 - [Metal e pol�mero s�o finalmente integrados em um �nico material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-polimero-finalmente-integrados-unico-material&id=010160230210)
 - [Camada de rocha derretida pode se estender por metade da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camada-rocha-derretida-se-estender-metade-terra&id=010125230209)
-- [Interconex�o de qubits pode tirar computadores qu�nticos dos laborat�rios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interconexao-qubits-tirar-computadores-quanticos-laboratorios&id=010150230209)
+- [Arquitetura do Node.js: o Node.js é single-threaded?](https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
