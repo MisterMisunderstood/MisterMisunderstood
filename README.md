@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
 - [Engenharia mec�nica une-se ao eletromagnetismo para criar antenas 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-mecanica-une-se-eletromagnetismo-criar-antenas-reconfiguraveis&id=010170230215)
 - [Condu��o de calor � controlada eletricamente por quasipart�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-transfere-calor-sob-controle-eletrico&id=010115230215)
-- [N�o, som do foguete da NASA n�o derrete concreto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-foguete-nasa-derrete-concreto&id=010130230214)
 - [Testes com Jetpack Compose](https://www.alura.com.br/artigos/testes-jetpack-compose)
+- [N�o, som do foguete da NASA n�o derrete concreto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-foguete-nasa-derrete-concreto&id=010130230214)
 - [Qubit com controle el�trico, idealizado por brasileiro, vira realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-flip-flop&id=010110230214)
 - [Desmentido princ�pio da f�sica que calor sempre vai mais r�pido conforme press�o aumenta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-contradiz-principio-fisica-calor-sempre-se-move-mais-rapido-conforme-pressao-aumenta&id=010115230214)
 <!-- BLOG-POST-LIST:END -->
