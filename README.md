@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia mec�nica une-se ao eletromagnetismo para criar antenas 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-mecanica-une-se-eletromagnetismo-criar-antenas-reconfiguraveis&id=010170230215)
-- [Condu��o de calor � controlada eletricamente por quasipart�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-transfere-calor-sob-controle-eletrico&id=010115230215)
 - [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
-- [N�o, som do foguete da NASA n�o derrete concreto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-foguete-nasa-derrete-concreto&id=010130230214)
 - [Testes com Jetpack Compose](https://www.alura.com.br/artigos/testes-jetpack-compose)
-- [Qubit com controle el�trico, idealizado por brasileiro, vira realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-flip-flop&id=010110230214)
-- [Desmentido princ�pio da f�sica que calor sempre vai mais r�pido conforme press�o aumenta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-contradiz-principio-fisica-calor-sempre-se-move-mais-rapido-conforme-pressao-aumenta&id=010115230214)
+- [Programação na comunidade da Alura: uma semana de aprendizado e conexão no Discord](https://www.alura.com.br/artigos/programacao-comunidade-alura-semana-conexao-discord)
+- [Próximos passos da Alura: Pós Tech com a FIAP, Hipsters, Imersão Java e mais](https://www.alura.com.br/artigos/pos-graduacao-alura-fiap-hipsters-tech-guide-carreira-faculdade-dev-leaders-conference-2023)
+- [Como obter dados da internet no Flutter usando HTTP](https://www.alura.com.br/artigos/obter-dados-internet-flutter-usando-http)
+- [Arquitetura do Node.js: o Node.js é single-threaded?](https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded)
+- [Arquitetura do Node.js: conheça seus componentes](https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
