@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementando fluxo de login com o Navigation no Jetpack Compose](https://www.alura.com.br/artigos/implementando-fluxo-login-navigation-jetpack-compose)
 - [Sistemas planet�rios parecem vir em quatro sabores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quatro-classes-sistemas-planetarios&id=010130230216)
 - [Canais de dados qu�nticos e cl�ssicos fluem pela mesma fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=canais-dados-quanticos-classicos-fluem-pela-mesma-fibra-optica&id=010150230216)
 - [Laser l�quido sobrevive no ambiente e � ajust�vel pelo vento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-liquido-robusto-ambiente-ajustavel-pelo-vento&id=010115230216)
-- [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
+- [Implementando fluxo de login com o Navigation no Jetpack Compose](https://www.alura.com.br/artigos/implementando-fluxo-login-navigation-jetpack-compose)
 - [Engenharia mec�nica une-se ao eletromagnetismo para criar antenas 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-mecanica-une-se-eletromagnetismo-criar-antenas-reconfiguraveis&id=010170230215)
 - [Condu��o de calor � controlada eletricamente por quasipart�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-transfere-calor-sob-controle-eletrico&id=010115230215)
+- [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
