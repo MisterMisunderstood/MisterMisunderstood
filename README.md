@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistemas planet�rios parecem vir em quatro sabores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quatro-classes-sistemas-planetarios&id=010130230216)
 - [Implementando fluxo de login com o Navigation no Jetpack Compose](https://www.alura.com.br/artigos/implementando-fluxo-login-navigation-jetpack-compose)
+- [Sistemas planet�rios parecem vir em quatro sabores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quatro-classes-sistemas-planetarios&id=010130230216)
 - [Canais de dados qu�nticos e cl�ssicos fluem pela mesma fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=canais-dados-quanticos-classicos-fluem-pela-mesma-fibra-optica&id=010150230216)
 - [Laser l�quido sobrevive no ambiente e � ajust�vel pelo vento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-liquido-robusto-ambiente-ajustavel-pelo-vento&id=010115230216)
 - [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
