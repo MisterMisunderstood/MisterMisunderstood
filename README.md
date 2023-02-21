@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [PHP: da instalação ao primeiro código](https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo)
 - [Componente eletr�nico imita sinapses usando oxig�nio, como o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-eletronico-imita-sinapses-usando-oxigenio-como-cerebro&id=010110230217)
 - [Recuo qu�ntico � demonstrado experimentalmente depois de 80 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recuo-quantico&id=010115230217)
-- [Implementando fluxo de login com o Navigation no Jetpack Compose](https://www.alura.com.br/artigos/implementando-fluxo-login-navigation-jetpack-compose)
+- [Sistemas planet�rios parecem vir em quatro sabores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quatro-classes-sistemas-planetarios&id=010130230216)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
