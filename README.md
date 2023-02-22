@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vantagem qu�ntica est� longe de ser realidade para problemas pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vantagem-quantica-esta-longe-realidade-problemas-praticos&id=010150230222)
+- [Este trans�stor quer colocar a eletr�nica dentro de voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-eletroquimico-ionico-vertical&id=010110230222)
+- [N�o existe uma "segunda lei do entrela�amento", comprovam f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-existe-segunda-lei-entrelacamento-comprovam-fisicos&id=010165230220)
+- [Para lidar com as mudan�as clim�ticas, use a sabedoria pr�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sabedoria-pratica-mudancas-climaticas&id=010125230220)
 - [JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo](https://www.alura.com.br/artigos/javascript)
 - [PHP: da instalação ao primeiro código](https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo)
-- [Implementando fluxo de login com o Navigation no Jetpack Compose](https://www.alura.com.br/artigos/implementando-fluxo-login-navigation-jetpack-compose)
-- [CTE: o que é e para que serve no SQL](https://www.alura.com.br/artigos/cte-o-que-e-para-que-serve-sql)
-- [Testes com Jetpack Compose](https://www.alura.com.br/artigos/testes-jetpack-compose)
-- [Programação na comunidade da Alura: uma semana de aprendizado e conexão no Discord](https://www.alura.com.br/artigos/programacao-comunidade-alura-semana-conexao-discord)
-- [Próximos passos da Alura: Pós Tech com a FIAP, Hipsters, Imersão Java e mais](https://www.alura.com.br/artigos/pos-graduacao-alura-fiap-hipsters-tech-guide-carreira-faculdade-dev-leaders-conference-2023)
+- [Componente eletr�nico imita sinapses usando oxig�nio, como o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-eletronico-imita-sinapses-usando-oxigenio-como-cerebro&id=010110230217)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
