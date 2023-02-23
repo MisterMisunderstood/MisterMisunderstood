@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gal�xias que n�o deveriam existir questionam modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-nao-deveriam-existir-questionam-modelo-big-bang&id=010130230223)
 - [Luz � detectada ligada e desligada ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-detectada-ligada-desligada-mesmo-tempo&id=010110230223)
 - [UI Design: entenda o que é, o que faz e como entrar na área](https://www.alura.com.br/artigos/ui-design-o-que-e-o-que-faz-como-entrar-na-area)
 - [Vantagem qu�ntica est� longe de ser realidade para problemas pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vantagem-quantica-esta-longe-realidade-problemas-praticos&id=010150230222)
 - [Este trans�stor quer colocar a eletr�nica dentro de voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-eletroquimico-ionico-vertical&id=010110230222)
 - [N�o existe uma "segunda lei do entrela�amento", comprovam f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-existe-segunda-lei-entrelacamento-comprovam-fisicos&id=010165230220)
 - [Para lidar com as mudan�as clim�ticas, use a sabedoria pr�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sabedoria-pratica-mudancas-climaticas&id=010125230220)
-- [PHP: da instalação ao primeiro código](https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
