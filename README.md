@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Planeta gigante orbitando estrela pequena desafia teorias de forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-gigante-orbitando-estrela-pequena-desafia-teorias-formacao-gigantes-gasosos&id=020130230223)
 - [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi)
 - [JVM: conhecendo o processo de execução de código](https://www.alura.com.br/artigos/jvm-conhecendo-processo-execucao-de-codigo)
+- [Planeta gigante orbitando estrela pequena desafia teorias de forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-gigante-orbitando-estrela-pequena-desafia-teorias-formacao-gigantes-gasosos&id=020130230223)
 - [Gal�xias que n�o deveriam existir questionam modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-nao-deveriam-existir-questionam-modelo-big-bang&id=010130230223)
 - [Luz � detectada ligada e desligada ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-detectada-ligada-desligada-mesmo-tempo&id=010110230223)
 - [UI Design: entenda o que é, o que faz e como entrar na área](https://www.alura.com.br/artigos/ui-design-o-que-e-o-que-faz-como-entrar-na-area)
