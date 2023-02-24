@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criando Alert Dialogs com Navigation - Jetpack Compose](https://www.alura.com.br/artigos/alert-dialogs-navigation-jetpack-compose)
 - [Primeira Lei da Termodin�mica tem atualiza��o hist�rica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-lei-termodinamica-atualizacao&id=010115230224)
 - [� poss�vel construir um computador com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-unico-atomo&id=010150230224)
 - [Planeta gigante orbitando estrela pequena desafia teorias de forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-gigante-orbitando-estrela-pequena-desafia-teorias-formacao-gigantes-gasosos&id=020130230223)
 - [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi)
 - [JVM: conhecendo o processo de execução de código](https://www.alura.com.br/artigos/jvm-conhecendo-processo-execucao-de-codigo)
 - [Gal�xias que n�o deveriam existir questionam modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-nao-deveriam-existir-questionam-modelo-big-bang&id=010130230223)
-- [Luz � detectada ligada e desligada ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-detectada-ligada-desligada-mesmo-tempo&id=010110230223)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
