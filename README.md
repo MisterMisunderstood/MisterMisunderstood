@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado primeiro trans�stor t�rmico de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-transistor-termico-estado-solido&id=010110230227)
+- [Luz interage consigo mesma em comportamento emergente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-apresenta-comportamento-emergente-interagindo-consigo-mesma&id=010115230227)
+- [Simulador qu�ntico retorce �tomos no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulador-quantico-retorce-atomos-espaco-tempo&id=010130230227)
 - [Material transforma �gua residual em �gua pot�vel e ainda gera eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-transforma-agua-residual-agua-potavel-gera-eletricidade-simultaneamente&id=010125230224)
 - [Criando Alert Dialogs com Navigation - Jetpack Compose](https://www.alura.com.br/artigos/alert-dialogs-navigation-jetpack-compose)
 - [Primeira Lei da Termodin�mica tem atualiza��o hist�rica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-lei-termodinamica-atualizacao&id=010115230224)
 - [� poss�vel construir um computador com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-unico-atomo&id=010150230224)
-- [Planeta gigante orbitando estrela pequena desafia teorias de forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-gigante-orbitando-estrela-pequena-desafia-teorias-formacao-gigantes-gasosos&id=020130230223)
-- [Gal�xias que n�o deveriam existir questionam modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-nao-deveriam-existir-questionam-modelo-big-bang&id=010130230223)
-- [Luz � detectada ligada e desligada ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-detectada-ligada-desligada-mesmo-tempo&id=010110230223)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
