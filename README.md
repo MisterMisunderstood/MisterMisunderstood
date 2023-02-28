@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Baterias de estado s�lido ficam melhores usando v�rios metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-estado-solido-ficam-melhores-usando-varios-metais&id=010115230228)
 - [Ent�o os "molicircuitos qu�nticos" s�o mesmo reais?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molicircuitos-quanticos-reais&id=010110230228)
 - [Entrela�amento qu�ntico detectado pela primeira vez entre part�culas diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-detectado-pela-primeira-vez-entre-particulas-diferentes&id=010165230228)
-- [Criado primeiro trans�stor t�rmico de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-transistor-termico-estado-solido&id=010110230227)
 - [Crie montagens divertidas com seu celular](https://www.alura.com.br/artigos/montagens-divertidas-com-celular)
+- [Criado primeiro trans�stor t�rmico de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-transistor-termico-estado-solido&id=010110230227)
 - [Luz interage consigo mesma em comportamento emergente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-apresenta-comportamento-emergente-interagindo-consigo-mesma&id=010115230227)
 - [Simulador qu�ntico retorce �tomos no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulador-quantico-retorce-atomos-espaco-tempo&id=010130230227)
 <!-- BLOG-POST-LIST:END -->
