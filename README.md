@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
+- [Diferenças entre câmera de celular e câmera fotográfica](https://www.alura.com.br/artigos/diferencas-entre-camera-celular-camera-fotografica)
 - [Intelig�ncia Organoide: Minic�rebros poder�o virar biocomputadores?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-organoide-biocomputador-celulas-cerebrais-vivas&id=020150230301)
 - [ChatGPT faz pl�gio muito mais sofisticado que simplesmente copiar e colar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chatgpt-faz-plagio&id=010150230301)
-- [Diferenças entre câmera de celular e câmera fotográfica](https://www.alura.com.br/artigos/diferencas-entre-camera-celular-camera-fotografica)
 - [Como posar melhor em retratos](https://www.alura.com.br/artigos/como-posar-melhor-em-retratos)
 - [O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem](https://www.alura.com.br/artigos/python)
 - [Baterias de estado s�lido ficam melhores usando v�rios metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-estado-solido-ficam-melhores-usando-varios-metais&id=010115230228)
-- [Ent�o os "molicircuitos qu�nticos" s�o mesmo reais?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molicircuitos-quanticos-reais&id=010110230228)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
