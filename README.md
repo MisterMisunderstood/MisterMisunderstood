@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Como escolher a melhor câmera de celular](https://www.alura.com.br/artigos/como-escolher-melhor-camera-celular)
+- [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
 - [Diferenças entre câmera de celular e câmera fotográfica](https://www.alura.com.br/artigos/diferencas-entre-camera-celular-camera-fotografica)
+- [Intelig�ncia Organoide: Minic�rebros poder�o virar biocomputadores?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-organoide-biocomputador-celulas-cerebrais-vivas&id=020150230301)
+- [ChatGPT faz pl�gio muito mais sofisticado que simplesmente copiar e colar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chatgpt-faz-plagio&id=010150230301)
 - [Como posar melhor em retratos](https://www.alura.com.br/artigos/como-posar-melhor-em-retratos)
 - [O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem](https://www.alura.com.br/artigos/python)
-- [Crie montagens divertidas com seu celular](https://www.alura.com.br/artigos/montagens-divertidas-com-celular)
-- [Criando Alert Dialogs com Navigation - Jetpack Compose](https://www.alura.com.br/artigos/alert-dialogs-navigation-jetpack-compose)
-- [Power BI: o que é, para que serve, quem utiliza e um Guia para iniciar](https://www.alura.com.br/artigos/power-bi)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
