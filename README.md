@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Usina experimental na Alemanha come�a a produzir carbono a partir do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-experimental-alemanha-produz-carbono-do-ar&id=010125230303)
 - [Superpropuls�o: Inseto arremessa got�cula a mais de 40 Gs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superpropulsao&id=010170230303)
 - [Conhe�a o rob� humanoide que pretende dominar o planeta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-humanoide-viavel&id=010180230302)
-- [Impacto no asteroide: Cientistas publicam suas conclus�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conclusoes-missao-se-chocou-asteroide&id=010130230302)
 - [Principais erros de edição na fotografia](https://www.alura.com.br/artigos/principais-erros-edicao-fotografia)
 - [Como escolher a melhor câmera de celular](https://www.alura.com.br/artigos/como-escolher-melhor-camera-celular)
 - [Node.JS: o que é, como funciona esse ambiente de execução JavaScript e um Guia para iniciar](https://www.alura.com.br/artigos/node-js)
+- [Impacto no asteroide: Cientistas publicam suas conclus�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conclusoes-missao-se-chocou-asteroide&id=010130230302)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
