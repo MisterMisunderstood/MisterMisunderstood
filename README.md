@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Conhe�a o rob� humanoide que pretende dominar o planeta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-humanoide-viavel&id=010180230302)
 - [Impacto no asteroide: Cientistas publicam suas conclus�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conclusoes-missao-se-chocou-asteroide&id=010130230302)
-- [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
 - [Principais erros de edição na fotografia](https://www.alura.com.br/artigos/principais-erros-edicao-fotografia)
 - [Como escolher a melhor câmera de celular](https://www.alura.com.br/artigos/como-escolher-melhor-camera-celular)
 - [Node.JS: o que é, como funciona esse ambiente de execução JavaScript e um Guia para iniciar](https://www.alura.com.br/artigos/node-js)
-- [Intelig�ncia Organoide: Minic�rebros poder�o virar biocomputadores?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-organoide-biocomputador-celulas-cerebrais-vivas&id=020150230301)
+- [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
+- [Diferenças entre câmera de celular e câmera fotográfica](https://www.alura.com.br/artigos/diferencas-entre-camera-celular-camera-fotografica)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
