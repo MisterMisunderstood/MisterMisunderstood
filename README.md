@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Superpropuls�o: Inseto arremessa got�cula a mais de 40 Gs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superpropulsao&id=010170230303)
 - [Conhe�a o rob� humanoide que pretende dominar o planeta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-humanoide-viavel&id=010180230302)
 - [Impacto no asteroide: Cientistas publicam suas conclus�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conclusoes-missao-se-chocou-asteroide&id=010130230302)
-- [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
+- [Principais erros de edição na fotografia](https://www.alura.com.br/artigos/principais-erros-edicao-fotografia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
