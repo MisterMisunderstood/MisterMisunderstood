@@ -125,9 +125,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - ["Os buracos negros s�o a energia escura", prop�em astrof�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-sao-energia-escura&id=010130230303)
+- [Buscando referências na fotografia](https://www.alura.com.br/artigos/buscando-referencias-fotografia)
 - [Usina experimental na Alemanha come�a a produzir carbono a partir do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-experimental-alemanha-produz-carbono-do-ar&id=010125230303)
 - [Superpropuls�o: Inseto arremessa got�cula a mais de 40 Gs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superpropulsao&id=010170230303)
-- [Buscando referências na fotografia](https://www.alura.com.br/artigos/buscando-referencias-fotografia)
 - [Conhe�a o rob� humanoide que pretende dominar o planeta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-humanoide-viavel&id=010180230302)
 - [Impacto no asteroide: Cientistas publicam suas conclus�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conclusoes-missao-se-chocou-asteroide&id=010130230302)
 - [Fus�o nuclear de hidrog�nio e boro � alcan�ada em reator experimental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-hidrogenio-boro&id=010115230302)
