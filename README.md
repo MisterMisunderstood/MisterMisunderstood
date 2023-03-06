@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhecendo melhor o Maven](https://www.alura.com.br/artigos/conhecendo-melhor-maven)
 - [React: o que é a arquitetura Saga?](https://www.alura.com.br/artigos/react-o-que-e-arquitetura-saga)
+- [Come�amos a desvendar a caixa-preta da intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-desvendamos-caixa-preta-inteligencia-artificial&id=010150230306)
 - [Uma vis�o artificial que faz tudo: V�, processa e armazena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-visao-artificial&id=010110230306)
 - [Tecidos responsivos mudam de forma conforme a temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-responsivos-mudam-forma-conforme-temperatura&id=010160230306)
 - ["Os buracos negros s�o a energia escura", prop�em astrof�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-sao-energia-escura&id=010130230303)
 - [Buscando referências na fotografia](https://www.alura.com.br/artigos/buscando-referencias-fotografia)
-- [Usina experimental na Alemanha come�a a produzir carbono a partir do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-experimental-alemanha-produz-carbono-do-ar&id=010125230303)
-- [Superpropuls�o: Inseto arremessa got�cula a mais de 40 Gs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superpropulsao&id=010170230303)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
