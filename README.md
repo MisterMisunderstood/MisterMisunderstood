@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Eletr�nica comest�vel: Algas marinhas viram sensores de sa�de](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-comestivel-algas-marinhas-viram-sensores-saude&id=010110230307)
 - [Duas fun��es neurais b�sicas s�o embutidas em um �nico chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-funcoes-neurais-basicas-embutidas-unico-chip&id=010150230307)
 - [Come�amos a desvendar a caixa-preta da intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-desvendamos-caixa-preta-inteligencia-artificial&id=010150230306)
-- [Uma vis�o artificial que faz tudo: V�, processa e armazena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-visao-artificial&id=010110230306)
-- [Tecidos responsivos mudam de forma conforme a temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-responsivos-mudam-forma-conforme-temperatura&id=010160230306)
 - [Conhecendo melhor o Maven](https://www.alura.com.br/artigos/conhecendo-melhor-maven)
+- [React: o que é a arquitetura Saga?](https://www.alura.com.br/artigos/react-o-que-e-arquitetura-saga)
+- [Uma vis�o artificial que faz tudo: V�, processa e armazena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-visao-artificial&id=010110230306)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
