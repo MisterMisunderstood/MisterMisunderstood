@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
 - [Representatividade feminina e Lives do mês da mulher](https://www.alura.com.br/artigos/representatividade-feminina-live-mes-da-mulher)
 - [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
 - [Planeta que n�o existe acabaria com a vida na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-nao-existe-traria-caos-sistema-solar&id=010130230308)
 - [Cromocriptografia codifica segredos usando cores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cromocriptografia-codifica-segredos-usando-cores&id=010150230308)
 - [Am�nia com alta efici�ncia energ�tica � caminho para economia do hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amonia-alta-eficiencia-energetica-economia-hidrogenio&id=010115230308)
 - [Normalização em Banco de Dados - Estrutura](https://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura)
-- [Big Bang Escuro pode explicar origem da mat�ria escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=big-bang-escuro&id=010130230307)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
