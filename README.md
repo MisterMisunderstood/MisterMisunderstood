@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
 - [�gua j� est� presente em discos de forma��o de estrelas e planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-ja-esta-presente-discos-formacao-estrelas-planetas&id=010130230309)
 - [Microsc�pio inteligente descobre sozinho onde tirar a foto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inteligente&id=010165230309)
 - [Sensor de luz "m�gico" atinge efici�ncia energ�tica de 200%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-magico-atinge-eficiencia-energetica-200&id=010110230309)
 - [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
-- [Representatividade feminina e Lives do mês da mulher](https://www.alura.com.br/artigos/representatividade-feminina-live-mes-da-mulher)
 - [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
-- [Planeta que n�o existe acabaria com a vida na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-nao-existe-traria-caos-sistema-solar&id=010130230308)
+- [Representatividade feminina e Lives do mês da mulher](https://www.alura.com.br/artigos/representatividade-feminina-live-mes-da-mulher)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
