@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
 - [Finalmente um supercondutor vi�vel? Talvez seja melhor esperar pelo VAR](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-viavel&id=010115230310)
 - [Criada a primeira tinta com cor f�sica, sem corantes ou pigmentos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-primeira-tinta-cor-fisica-sem-corantes-ou-pigmentos&id=010160230310)
 - [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
 - [�gua j� est� presente em discos de forma��o de estrelas e planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-ja-esta-presente-discos-formacao-estrelas-planetas&id=010130230309)
 - [Microsc�pio inteligente descobre sozinho onde tirar a foto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inteligente&id=010165230309)
 - [Sensor de luz "m�gico" atinge efici�ncia energ�tica de 200%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-magico-atinge-eficiencia-energetica-200&id=010110230309)
-- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
