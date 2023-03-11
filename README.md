@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
 - [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
+- [Finalmente um supercondutor vi�vel? Talvez seja melhor esperar pelo VAR](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-viavel&id=010115230310)
+- [Criada a primeira tinta com cor f�sica, sem corantes ou pigmentos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-primeira-tinta-cor-fisica-sem-corantes-ou-pigmentos&id=010160230310)
+- [�gua j� est� presente em discos de forma��o de estrelas e planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-ja-esta-presente-discos-formacao-estrelas-planetas&id=010130230309)
 - [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
-- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
-- [Representatividade feminina e Lives do mês da mulher](https://www.alura.com.br/artigos/representatividade-feminina-live-mes-da-mulher)
-- [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
-- [Normalização em Banco de Dados - Estrutura](https://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura)
+- [Microsc�pio inteligente descobre sozinho onde tirar a foto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-inteligente&id=010165230309)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
