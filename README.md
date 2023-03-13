@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
+- [Dois princ�pios fundamentais da teoria qu�ntica podem ocorrer simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-localidade-contextualidade-ocorrer-simultaneamente&id=010165230313)
 - [Enzima gera eletricidade do ar aproveitando hidrog�nio ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-enzima-produz-eletricidade-usando-hidrogenio-ar-ambiente&id=010115230313)
 - [Trans�stor de fulereno � 1 milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-fulereno-1-milhao-vezes-mais-rapido&id=010110230313)
 - [Radar dom�stico previne queda de idosos e pacientes neurol�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=radar-domestico-prevenir-queda-idosos-pacientes-neurologicos&id=010180230313)
 - [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
 - [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
-- [Finalmente um supercondutor vi�vel? Talvez seja melhor esperar pelo VAR](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-viavel&id=010115230310)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
