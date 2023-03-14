@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Enzima gera eletricidade do ar aproveitando hidrog�nio ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-enzima-produz-eletricidade-usando-hidrogenio-ar-ambiente&id=010115230313)
 - [Trans�stor de fulereno � 1 milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-fulereno-1-milhao-vezes-mais-rapido&id=010110230313)
 - [Radar dom�stico previne queda de idosos e pacientes neurol�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=radar-domestico-prevenir-queda-idosos-pacientes-neurologicos&id=010180230313)
-- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
-- [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
-- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
+- [Finalmente um supercondutor vi�vel? Talvez seja melhor esperar pelo VAR](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-viavel&id=010115230310)
+- [Criada a primeira tinta com cor f�sica, sem corantes ou pigmentos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-primeira-tinta-cor-fisica-sem-corantes-ou-pigmentos&id=010160230310)
+- [�gua j� est� presente em discos de forma��o de estrelas e planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-ja-esta-presente-discos-formacao-estrelas-planetas&id=010130230309)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
