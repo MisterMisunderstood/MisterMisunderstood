@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novas tecnologias de indu��o recarregam grandes ve�culos el�tricos � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inducao-recarregamento-grandes-veiculos-eletricos&id=010115230315)
+- [Qu�mico com mercado de US$ 7 trilh�es � produzido com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peroxido-hidrogenio-produzido-energia-solar&id=010160230315)
 - [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
 - [Buraco de minhoca poder� ser criado dentro de computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=receita-criar-buraco-minhoca-atravessavel-laboratorio&id=010130230314)
 - [Coletor de energia adapta-se automaticamente �s vibra��es do ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-adapta-se-automaticamente-vibracoes-ambiente&id=010115230314)
 - [Mem�rias antiferromagn�ticas aproximam-se da faixa dos terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-antiferromagneticas-aproximam-se-faixa-terahertz&id=010110230314)
 - [Dois princ�pios fundamentais da teoria qu�ntica podem ocorrer simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-localidade-contextualidade-ocorrer-simultaneamente&id=010165230313)
-- [Enzima gera eletricidade do ar aproveitando hidrog�nio ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-enzima-produz-eletricidade-usando-hidrogenio-ar-ambiente&id=010115230313)
-- [Trans�stor de fulereno � 1 milh�o de vezes mais r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-fulereno-1-milhao-vezes-mais-rapido&id=010110230313)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
