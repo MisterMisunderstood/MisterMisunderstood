@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Buraco de minhoca poder� ser criado dentro de computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=receita-criar-buraco-minhoca-atravessavel-laboratorio&id=010130230314)
 - [Coletor de energia adapta-se automaticamente �s vibra��es do ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-adapta-se-automaticamente-vibracoes-ambiente&id=010115230314)
 - [Mem�rias antiferromagn�ticas aproximam-se da faixa dos terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-antiferromagneticas-aproximam-se-faixa-terahertz&id=010110230314)
-- [Dois princ�pios fundamentais da teoria qu�ntica podem ocorrer simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-localidade-contextualidade-ocorrer-simultaneamente&id=010165230313)
+- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
