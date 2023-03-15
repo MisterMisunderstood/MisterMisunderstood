@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novas tecnologias de indu��o recarregam grandes ve�culos el�tricos � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inducao-recarregamento-grandes-veiculos-eletricos&id=010115230315)
+- [Qu�mico com mercado de US$ 7 trilh�es � produzido com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peroxido-hidrogenio-produzido-energia-solar&id=010160230315)
 - [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
-- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
-- [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
-- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
-- [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
-- [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
-- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
+- [Buraco de minhoca poder� ser criado dentro de computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=receita-criar-buraco-minhoca-atravessavel-laboratorio&id=010130230314)
+- [Coletor de energia adapta-se automaticamente �s vibra��es do ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-adapta-se-automaticamente-vibracoes-ambiente&id=010115230314)
+- [Mem�rias antiferromagn�ticas aproximam-se da faixa dos terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-antiferromagneticas-aproximam-se-faixa-terahertz&id=010110230314)
+- [Dois princ�pios fundamentais da teoria qu�ntica podem ocorrer simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-localidade-contextualidade-ocorrer-simultaneamente&id=010165230313)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
