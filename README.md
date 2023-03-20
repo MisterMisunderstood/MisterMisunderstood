@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Fa�a voc� mesmo seu pr�prio sensor de polui��o do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-voce-mesmo-seu-proprio-sensor-poluicao-ar&id=010125230317)
-- [Aceleradores de part�culas multivoltas gastam uma fra��o da energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aceleradores-particulas-multivoltas&id=010115230317)
-- [Rob�s movidos por c�lulas biol�gicas ganham controle remoto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-movidos-celulas-biologicas-controle-remoto&id=010180230317)
-- [�gua da Terra n�o veio a bordo de meteoritos derretidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-terra-nao-veio-bordo-meteoritos-derretidos&id=010130230316)
-- [Espelho do tempo mostra suas costas em vez do seu rosto - e sua voz vem ao contr�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelho-tempo-reflexao-temporal&id=010115230316)
-- [V�m a� as telas de metassuperf�cie, com super-resolu��o e baixo consumo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telas-metassuperficies&id=010150230316)
-- [Novas tecnologias de indu��o recarregam grandes ve�culos el�tricos � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inducao-recarregamento-grandes-veiculos-eletricos&id=010115230315)
+- [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
+- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
+- [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
+- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
+- [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
+- [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
+- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
