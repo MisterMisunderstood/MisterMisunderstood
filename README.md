@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Por que a Lua precisa do seu pr�prio fuso hor�rio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fuso-horario-lua&id=010175230320)
 - [Engenheiros criam "concreto que fala" e "concreto c�smico"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-concreto-fala-concreto-cosmico&id=010170230320)
 - [C�lula termofotovoltaica viabiliza convers�o de calor em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-termofotovoltaica-duas-faces-conversao-calor-eletricidade&id=010115230320)
 - [F�tons para processadores �pticos e qu�nticos gerados em chip de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotons-unicos-silicio&id=010110230320)
 - [Fa�a voc� mesmo seu pr�prio sensor de polui��o do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-voce-mesmo-seu-proprio-sensor-poluicao-ar&id=010125230317)
 - [Aceleradores de part�culas multivoltas gastam uma fra��o da energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aceleradores-particulas-multivoltas&id=010115230317)
 - [Rob�s movidos por c�lulas biol�gicas ganham controle remoto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-movidos-celulas-biologicas-controle-remoto&id=010180230317)
-- [�gua da Terra n�o veio a bordo de meteoritos derretidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-terra-nao-veio-bordo-meteoritos-derretidos&id=010130230316)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
