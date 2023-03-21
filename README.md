@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Criado um vidro biodegrad�vel e biocompat�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-biodegradavel-biocompativel&id=010160230321)
-- [Rob�s macios passam rapidamente de andarilhos para nadadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-macios-passam-rapidamente-andarilhos-nadadores&id=010180230321)
-- [Desenvolvida uma nova tecnologia de laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-niobato-litio&id=010110230321)
-- [Por que a Lua precisa do seu pr�prio fuso hor�rio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fuso-horario-lua&id=010175230320)
-- [Engenheiros criam "concreto que fala" e "concreto c�smico"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-concreto-fala-concreto-cosmico&id=010170230320)
-- [C�lula termofotovoltaica viabiliza convers�o de calor em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-termofotovoltaica-duas-faces-conversao-calor-eletricidade&id=010115230320)
-- [F�tons para processadores �pticos e qu�nticos gerados em chip de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotons-unicos-silicio&id=010110230320)
+- [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
+- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
+- [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
+- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
+- [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
+- [Os destaques do Java 8 em diante](https://www.alura.com.br/artigos/destaques-java-8-em-diante)
+- [Iniciando um repositório com Git](https://www.alura.com.br/artigos/iniciando-repositorio-git)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
