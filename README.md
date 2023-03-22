@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
+- [Folha artificial bate recorde na convers�o de CO2 e H2O em combust�veis sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-bate-recorde-combustiveis-sustentaveis&id=010115230322)
 - [Telesc�pios rastreiam asteroide ap�s impacto da sonda DART](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-rastreiam-asteroide-apos-impacto-sonda-dart&id=010130230321)
 - [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-desenvolvem-frontend)
 - [Criado um vidro biodegrad�vel e biocompat�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-biodegradavel-biocompativel&id=010160230321)
 - [Rob�s macios passam rapidamente de andarilhos para nadadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-macios-passam-rapidamente-andarilhos-nadadores&id=010180230321)
 - [Desenvolvida uma nova tecnologia de laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-niobato-litio&id=010110230321)
-- [Por que a Lua precisa do seu pr�prio fuso hor�rio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fuso-horario-lua&id=010175230320)
-- [Engenheiros criam "concreto que fala" e "concreto c�smico"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-concreto-fala-concreto-cosmico&id=010170230320)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
