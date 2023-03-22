@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
 - [Folha artificial bate recorde na convers�o de CO2 e H2O em combust�veis sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-bate-recorde-combustiveis-sustentaveis&id=010115230322)
-- [Telesc�pios rastreiam asteroide ap�s impacto da sonda DART](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-rastreiam-asteroide-apos-impacto-sonda-dart&id=010130230321)
 - [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-desenvolvem-frontend)
+- [Telesc�pios rastreiam asteroide ap�s impacto da sonda DART](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-rastreiam-asteroide-apos-impacto-sonda-dart&id=010130230321)
 - [Criado um vidro biodegrad�vel e biocompat�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-biodegradavel-biocompativel&id=010160230321)
 <!-- BLOG-POST-LIST:END -->
 
