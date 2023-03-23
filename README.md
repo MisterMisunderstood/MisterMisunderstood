@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambientes de Código: conheça as vantagens e desvantagens](https://www.alura.com.br/artigos/ambientes-de-codigo-vantagens-desvantagens)
 - [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
 - [Folha artificial bate recorde na convers�o de CO2 e H2O em combust�veis sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-bate-recorde-combustiveis-sustentaveis&id=010115230322)
-- [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-desenvolvem-frontend)
+- [Ambientes de Código: conheça as vantagens e desvantagens](https://www.alura.com.br/artigos/ambientes-de-codigo-vantagens-desvantagens)
 - [Telesc�pios rastreiam asteroide ap�s impacto da sonda DART](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-rastreiam-asteroide-apos-impacto-sonda-dart&id=010130230321)
 - [Criado um vidro biodegrad�vel e biocompat�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-biodegradavel-biocompativel&id=010160230321)
+- [Rob�s macios passam rapidamente de andarilhos para nadadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-macios-passam-rapidamente-andarilhos-nadadores&id=010180230321)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
