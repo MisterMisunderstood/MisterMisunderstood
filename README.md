@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Alura Stars: conheça o programa e quem faz parte dele](https://www.alura.com.br/artigos/alura-stars-programa-quem-faz-parte-dele)
 - [Conceito f�sico fundamental garantir� telas com cores mais brilhantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceito-fisico-fundamental-garantira-telas-cores-mais-brilhantes&id=010110230323)
 - [Pele espacial ultraleve criada para suportar condi��es extremas do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-espacial-ultraleve-criada-suportar-condicoes-extremas-espaco&id=010165230323)
-- [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Ambientes de Código: conheça as vantagens e desvantagens](https://www.alura.com.br/artigos/ambientes-de-codigo-vantagens-desvantagens)
+- [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
 <!-- BLOG-POST-LIST:END -->
 
