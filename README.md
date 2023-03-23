@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conceito f�sico fundamental garantir� telas com cores mais brilhantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceito-fisico-fundamental-garantira-telas-cores-mais-brilhantes&id=010110230323)
+- [Pele espacial ultraleve criada para suportar condi��es extremas do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-espacial-ultraleve-criada-suportar-condicoes-extremas-espaco&id=010165230323)
+- [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Ambientes de Código: conheça as vantagens e desvantagens](https://www.alura.com.br/artigos/ambientes-de-codigo-vantagens-desvantagens)
-- [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-desenvolvem-frontend)
-- [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
-- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
-- [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github)
-- [Discord Alura: conectando a aprendizagem na Escola de Data Science](https://www.alura.com.br/artigos/discord-alura-conectando-aprendizagem-escola-data-science)
-- [Criando um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github)
+- [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
+- [Folha artificial bate recorde na convers�o de CO2 e H2O em combust�veis sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-bate-recorde-combustiveis-sustentaveis&id=010115230322)
+- [Telesc�pios rastreiam asteroide ap�s impacto da sonda DART](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-rastreiam-asteroide-apos-impacto-sonda-dart&id=010130230321)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
