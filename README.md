@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cientistas fazem semicondutores cooperarem e trabalharem em equipe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-fazem-semicondutores-cooperem-trabalhem-equipe&id=010110230324)
+- [H�lice inovadora viabiliza avi�es el�tricos silenciosos e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helice-inovadora-viabiliza-avioes-eletricos-silenciosos-eficientes&id=010170230324)
 - [Conceito f�sico fundamental garantir� telas com cores mais brilhantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceito-fisico-fundamental-garantira-telas-cores-mais-brilhantes&id=010110230323)
 - [Pele espacial ultraleve criada para suportar condi��es extremas do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-espacial-ultraleve-criada-suportar-condicoes-extremas-espaco&id=010165230323)
-- [Databricks: o que é e para que serve?](https://www.alura.com.br/artigos/databricks-o-que-e-para-que-serve)
-- [Alura Stars: conheça o programa e quem faz parte dele](https://www.alura.com.br/artigos/alura-stars-programa-quem-faz-parte-dele)
 - [Cometa ou nave alien�gena? Astr�nomos prop�em "combust�vel" do 'Oumuamua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-oumuamua-cometa-nave-alienigena&id=010130230322)
 - [Sobremesa impressa em 3D agora com sabor de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sobremesa-impressa-3d&id=010160230322)
 - [Folha artificial bate recorde na convers�o de CO2 e H2O em combust�veis sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-bate-recorde-combustiveis-sustentaveis&id=010115230322)
