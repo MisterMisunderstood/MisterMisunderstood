@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Para que serve o Adobe Illustrator?](https://www.alura.com.br/artigos/para-que-serve-adobe-illustrator)
 - [Cientistas fazem semicondutores cooperarem e trabalharem em equipe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-fazem-semicondutores-cooperem-trabalhem-equipe&id=010110230324)
 - [H�lice inovadora viabiliza avi�es el�tricos silenciosos e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helice-inovadora-viabiliza-avioes-eletricos-silenciosos-eficientes&id=010170230324)
-- [Databricks: o que é e para que serve?](https://www.alura.com.br/artigos/databricks-o-que-e-para-que-serve)
-- [Alura Stars: conheça o programa e quem faz parte dele](https://www.alura.com.br/artigos/alura-stars-programa-quem-faz-parte-dele)
 - [Conceito f�sico fundamental garantir� telas com cores mais brilhantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceito-fisico-fundamental-garantira-telas-cores-mais-brilhantes&id=010110230323)
 - [Pele espacial ultraleve criada para suportar condi��es extremas do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-espacial-ultraleve-criada-suportar-condicoes-extremas-espaco&id=010165230323)
+- [Databricks: o que é e para que serve?](https://www.alura.com.br/artigos/databricks-o-que-e-para-que-serve)
+- [Alura Stars: conheça o programa e quem faz parte dele](https://www.alura.com.br/artigos/alura-stars-programa-quem-faz-parte-dele)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
