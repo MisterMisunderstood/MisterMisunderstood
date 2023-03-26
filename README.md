@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Para que serve o Adobe Illustrator?](https://www.alura.com.br/artigos/para-que-serve-adobe-illustrator)
+- [Cientistas fazem semicondutores cooperarem e trabalharem em equipe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-fazem-semicondutores-cooperem-trabalhem-equipe&id=010110230324)
+- [H�lice inovadora viabiliza avi�es el�tricos silenciosos e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helice-inovadora-viabiliza-avioes-eletricos-silenciosos-eficientes&id=010170230324)
 - [Databricks: o que é e para que serve?](https://www.alura.com.br/artigos/databricks-o-que-e-para-que-serve)
 - [Alura Stars: conheça o programa e quem faz parte dele](https://www.alura.com.br/artigos/alura-stars-programa-quem-faz-parte-dele)
-- [Ambientes de Código: conheça as vantagens e desvantagens](https://www.alura.com.br/artigos/ambientes-de-codigo-vantagens-desvantagens)
-- [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-desenvolvem-frontend)
-- [O que são regras de negócio?](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
-- [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
+- [Conceito f�sico fundamental garantir� telas com cores mais brilhantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceito-fisico-fundamental-garantira-telas-cores-mais-brilhantes&id=010110230323)
+- [Pele espacial ultraleve criada para suportar condi��es extremas do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-espacial-ultraleve-criada-suportar-condicoes-extremas-espaco&id=010165230323)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
