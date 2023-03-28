@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Power BI ou Excel para Business Intelligence?](https://www.alura.com.br/artigos/power-bi-excel-business-intelligence)
 - [Vem a� a bateria de �ons de oxig�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-oxigenio&id=010115230327)
 - [Nova arquitetura de computa��o qu�ntica diminui qubits e erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arquitetura-computacao-quantica-correcao-erros&id=010150230327)
 - [Uma pele eletr�nica t�o sens�vel quanto pele de crocodilo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-pele-crocodilo&id=010180230327)
+- [Power BI ou Excel para Business Intelligence?](https://www.alura.com.br/artigos/power-bi-excel-business-intelligence)
 - [Para que serve o Adobe Illustrator?](https://www.alura.com.br/artigos/para-que-serve-adobe-illustrator)
 - [Cientistas fazem semicondutores cooperarem e trabalharem em equipe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-fazem-semicondutores-cooperem-trabalhem-equipe&id=010110230324)
 - [H�lice inovadora viabiliza avi�es el�tricos silenciosos e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helice-inovadora-viabiliza-avioes-eletricos-silenciosos-eficientes&id=010170230324)
