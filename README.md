@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Este microchip incorpora duas t�cnicas ganhadoras do Pr�mio Nobel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-microchip-incorpora-duas-tecnicas-ganhadoras-premio-nobel&id=010110230328)
 - [Vari�veis fora do tempo - nem no passado e nem no futuro - violam causalidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=variaveis-fora-tempo-nem-passado-nem-futuro-violam-conceito-causalidade&id=010130230328)
 - [Nanotecnologia coloca a mec�nica dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotecnologia-coloca-mecanica-acionada-luz-dentro-chips&id=010165230328)
 - [Power BI ou Excel para Business Intelligence?](https://www.alura.com.br/artigos/power-bi-excel-business-intelligence)
 - [Vem a� a bateria de �ons de oxig�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-oxigenio&id=010115230327)
 - [Nova arquitetura de computa��o qu�ntica diminui qubits e erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arquitetura-computacao-quantica-correcao-erros&id=010150230327)
-- [Uma pele eletr�nica t�o sens�vel quanto pele de crocodilo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-pele-crocodilo&id=010180230327)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
