@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- ["C�rebro" de IA criado com materiais usados nas TVs OLED](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cerebro-ia-criado-materiais-usados-tvs-oled&id=010110230330)
 - [Descoberto efeito piezoel�trico em l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-piezoeletrico-liquidos&id=010170230330)
 - [Agora � poss�vel fazer origami de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-vidro-como-fazer&id=010160230329)
 - [Explos�o de raios gama mais brilhante j� observada desafia explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-raios-gama-mais-brilhante-ja-observada&id=010130230329)
 - [Encontrado novo reservat�rio de �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-novo-reservatorio-agua-lua&id=020130230328)
 - [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Este microchip incorpora duas t�cnicas ganhadoras do Pr�mio Nobel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-microchip-incorpora-duas-tecnicas-ganhadoras-premio-nobel&id=010110230328)
-- [Vari�veis fora do tempo - nem no passado e nem no futuro - violam causalidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=variaveis-fora-tempo-nem-passado-nem-futuro-violam-conceito-causalidade&id=010130230328)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
