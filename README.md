@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Agora � poss�vel fazer origami de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-vidro-como-fazer&id=010160230329)
 - [Explos�o de raios gama mais brilhante j� observada desafia explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-raios-gama-mais-brilhante-ja-observada&id=010130230329)
 - [Encontrado novo reservat�rio de �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-novo-reservatorio-agua-lua&id=020130230328)
+- [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Este microchip incorpora duas t�cnicas ganhadoras do Pr�mio Nobel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-microchip-incorpora-duas-tecnicas-ganhadoras-premio-nobel&id=010110230328)
 - [Vari�veis fora do tempo - nem no passado e nem no futuro - violam causalidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=variaveis-fora-tempo-nem-passado-nem-futuro-violam-conceito-causalidade&id=010130230328)
-- [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Nanotecnologia coloca a mec�nica dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotecnologia-coloca-mecanica-acionada-luz-dentro-chips&id=010165230328)
 <!-- BLOG-POST-LIST:END -->
 
