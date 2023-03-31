@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberto efeito piezoel�trico em l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-piezoeletrico-liquidos&id=010170230330)
 - [Agora � poss�vel fazer origami de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-vidro-como-fazer&id=010160230329)
 - [Explos�o de raios gama mais brilhante j� observada desafia explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-raios-gama-mais-brilhante-ja-observada&id=010130230329)
-- [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Encontrado novo reservat�rio de �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-novo-reservatorio-agua-lua&id=020130230328)
+- [10 dicas incríveis para trabalhar com o Illustrator](https://www.alura.com.br/artigos/10-dicas-trabalhar-com-Illustrator)
 - [Este microchip incorpora duas t�cnicas ganhadoras do Pr�mio Nobel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-microchip-incorpora-duas-tecnicas-ganhadoras-premio-nobel&id=010110230328)
 <!-- BLOG-POST-LIST:END -->
 
