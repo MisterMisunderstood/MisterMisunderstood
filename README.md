@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [O que é gerenciamento de estados no Flutter e principais ferramentas](https://www.alura.com.br/artigos/gerenciamento-de-estados-flutter-principais-ferramentas)
+- [Observada no espa�o uma explos�o quase plana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-plana-espaco&id=010130230331)
 - [Acelerador para intelig�ncia artificial torna-se compat�vel com microeletr�nica do sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-inteligencia-artificial&id=010150230331)
 - [Pr�tons parecem ter tamanhos diferentes dependendo de como voc� os olha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protons-parecem-ter-tamanhos-diferentes-dependendo-como-voce-olha&id=010165230331)
 - ["C�rebro" de IA criado com materiais usados nas TVs OLED](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cerebro-ia-criado-materiais-usados-tvs-oled&id=010110230330)
 - [Descoberto efeito piezoel�trico em l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-piezoeletrico-liquidos&id=010170230330)
 - [Agora � poss�vel fazer origami de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-vidro-como-fazer&id=010160230329)
-- [Explos�o de raios gama mais brilhante j� observada desafia explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-raios-gama-mais-brilhante-ja-observada&id=010130230329)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
