@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [DevPRConf 2023: para onde vai a tecnologia](https://www.alura.com.br/artigos/devprconf-2023-tecnologia)
 - [Torres de madeira para turbinas e�licas entram no mercado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-madeira&id=010115230403)
 - [Fen�meno qu�ntico � flagrado na escala dos microgramas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-flagrado-escala-microgramas&id=010165230403)
 - [Gera��o de hidrog�nio verde fica 50% mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geracao-hidrogenio-verde-eficiente&id=010115230331)
 - [Observada no espa�o uma explos�o quase plana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-plana-espaco&id=010130230331)
 - [O que é gerenciamento de estados no Flutter e principais ferramentas](https://www.alura.com.br/artigos/gerenciamento-de-estados-flutter-principais-ferramentas)
 - [Acelerador para intelig�ncia artificial torna-se compat�vel com microeletr�nica do sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-inteligencia-artificial&id=010150230331)
-- [Pr�tons parecem ter tamanhos diferentes dependendo de como voc� os olha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protons-parecem-ter-tamanhos-diferentes-dependendo-como-voce-olha&id=010165230331)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
