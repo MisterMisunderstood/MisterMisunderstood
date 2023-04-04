@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria termal de coco, lim�o e madeira economiza energia do ar condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-termal-coco-limao-madeira&id=010115230404)
+- [Material inanimado ouve sons e diz que n�mero foi falado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inanimado-ouve-sons-diz-numero-foi-falado&id=010150230404)
+- [Bombas sem partes m�veis simplificam tecnologias de vestir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-formato-fios-simplificam-tecnologias-vestir&id=010180230404)
 - [Reciclagem de baterias: 70% do l�tio � recuperado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-baterias-70-litio-recuperado&id=010125230403)
 - [Brasil precisa regulamentar intelig�ncia artificial, alertam pesquisadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasil-precisa-regulamentar-inteligencia-artificial-alertam-pesquisadores&id=010150230403)
 - [Torres de madeira para turbinas e�licas entram no mercado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-madeira&id=010115230403)
 - [Fen�meno qu�ntico � flagrado na escala dos microgramas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-flagrado-escala-microgramas&id=010165230403)
-- [DevPRConf 2023: para onde vai a tecnologia](https://www.alura.com.br/artigos/devprconf-2023-tecnologia)
-- [Gera��o de hidrog�nio verde fica 50% mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geracao-hidrogenio-verde-eficiente&id=010115230331)
-- [Observada no espa�o uma explos�o quase plana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-plana-espaco&id=010130230331)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
