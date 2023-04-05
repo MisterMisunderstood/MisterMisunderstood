@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Espelhos flex�veis para telesc�pios subir�o ao espa�o enrolados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelhos-flexiveis-telescopios-espaciais&id=010130230405)
 - [Baterias � base de �gua t�m capacidade muito maior do que se calculava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-base-agua-tem-capacidade-muito-maior-se-calculava&id=010115230405)
-- [Temperatura das erup��es do Sol aumenta nossa compreens�o da din�mica solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=temperatura-erupcoes-sol-aumenta-nossa-compreensao-dinamica-solar&id=010130230404)
 - [O que é IA Generativa? A importância e o uso das Inteligências Artificiais como ChatGPT, MidJourney e outras](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney)
+- [Temperatura das erup��es do Sol aumenta nossa compreens�o da din�mica solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=temperatura-erupcoes-sol-aumenta-nossa-compreensao-dinamica-solar&id=010130230404)
 - [Bateria termal de coco, lim�o e madeira economiza energia do ar condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-termal-coco-limao-madeira&id=010115230404)
 - [Material inanimado ouve sons e diz que n�mero foi falado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inanimado-ouve-sons-diz-numero-foi-falado&id=010150230404)
 - [Bombas sem partes m�veis simplificam tecnologias de vestir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-formato-fios-simplificam-tecnologias-vestir&id=010180230404)
