@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Business Intelligence: o que é?](https://www.alura.com.br/artigos/business-intelligence)
 - [Ensino superior: o que é e por que é tão importante?](https://www.alura.com.br/artigos/ensino-superior)
+- [Buraco negro em disparada cria impressionante rastro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-disparada-cria-impressionante-rastro-estrelas&id=010130230406)
+- [An�is de Urano aparecem majestosos em nova imagem do Webb](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aneis-de-urano&id=010175230406)
 - [Ex�tico g�s de luz fica infinitamente quente ou vai abaixo do zero absoluto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exotico-gas-luz-fica-infinitamente-quente-ou-vai-abaixo-zero-absoluto&id=010115230406)
 - [Navios a vela tiram proveito de nova tecnologia aerodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=navios-vela-tiram-proveito-nova-tecnologia-aerodinamica&id=010170230406)
 - [Espelhos flex�veis para telesc�pios subir�o ao espa�o enrolados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelhos-flexiveis-telescopios-espaciais&id=010130230405)
-- [Baterias � base de �gua t�m capacidade muito maior do que se calculava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-base-agua-tem-capacidade-muito-maior-se-calculava&id=010115230405)
-- [O que é IA Generativa? A importância e o uso das Inteligências Artificiais como ChatGPT, MidJourney e outras](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
