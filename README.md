@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [�culos equipados com IA entendem fala silenciosa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-equipados-ia-entendem-fala-silenciosa&id=010150230410)
 - [Algoritmo mescla informa��es qu�nticas e cl�ssicas para melhorar imagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imagens-alta-qualidade-mesclando-informacoes-quanticas-classicas&id=010110230410)
 - [Tecnologia dos metamateriais chega ao concreto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-metamateriais-chega-concreto&id=010160230410)
-- [Buraco negro em disparada cria impressionante rastro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-disparada-cria-impressionante-rastro-estrelas&id=010130230406)
-- [An�is de Urano aparecem majestosos em nova imagem do Webb](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aneis-de-urano&id=010175230406)
 - [Business Intelligence: o que é?](https://www.alura.com.br/artigos/business-intelligence)
 - [Ensino superior: o que é e por que é tão importante?](https://www.alura.com.br/artigos/ensino-superior)
+- [Buraco negro em disparada cria impressionante rastro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-disparada-cria-impressionante-rastro-estrelas&id=010130230406)
+- [An�is de Urano aparecem majestosos em nova imagem do Webb](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aneis-de-urano&id=010175230406)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
