@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimento da dupla fenda dupla � refeito no tempo, em vez de no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-dupla-refeito-tempo-vez-espaco&id=010130230411)
+- [Experimento da dupla fenda � refeito no tempo, em vez de no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-dupla-refeito-tempo-vez-espaco&id=010130230411)
 - [Transfer�ncia de calor pode ser acelerada, diminu�da e at� invertida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transferencia-calor-acelerada-diminuida-ate-invertida&id=010115230411)
 - [�culos equipados com IA entendem fala silenciosa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-equipados-ia-entendem-fala-silenciosa&id=010150230410)
 - [Algoritmo mescla informa��es qu�nticas e cl�ssicas para melhorar imagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imagens-alta-qualidade-mesclando-informacoes-quanticas-classicas&id=010110230410)
