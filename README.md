@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trabalhando com diferentes versões do Angular](https://www.alura.com.br/artigos/trabalhando-diferentes-versoes-angular)
 - [Alto-falantes com m�sculos artificiais dispensam �m�s e gastam menos energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alto-falantes-musculos-artificiais-dispensam-imas-gastam-menos-energia&id=010170230412)
 - [Mapa da mat�ria escura refor�a enigma da taxa de expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-materia-escura-reforca-enigma-taxa-expansao-universo&id=010130230412)
 - [Raio cai em �rvore e cria mineral  nunca antes encontrado na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-arvore-cria-material-fertilizante-nunca-antes-encontrado-terra&id=020130230411)
 - [Experimento da dupla fenda � refeito no tempo, em vez de no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-dupla-refeito-tempo-vez-espaco&id=010130230411)
 - [Transfer�ncia de calor pode ser acelerada, diminu�da e at� invertida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transferencia-calor-acelerada-diminuida-ate-invertida&id=010115230411)
 - [�culos equipados com IA entendem fala silenciosa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-equipados-ia-entendem-fala-silenciosa&id=010150230410)
-- [Algoritmo mescla informa��es qu�nticas e cl�ssicas para melhorar imagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imagens-alta-qualidade-mesclando-informacoes-quanticas-classicas&id=010110230410)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
