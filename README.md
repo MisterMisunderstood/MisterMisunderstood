@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Devs em início de carreira: por onde começar?](https://www.alura.com.br/artigos/devs-inicio-carreira-onde-comecar)
+- [Erup��es solares s�o geradas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcoes-solares-geradas-laboratorio&id=010130230413)
 - [Descoberto novo componente eletr�nico fundamental, o memoindutor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoindutor&id=010110230413)
 - [Cristal do tempo amplifica a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-fotonico-amplifica-luz&id=010160230413)
 - [Afinal, o Sol � mesmo uma estrela do tipo solar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=afinal-sol-mesmo-estrela-tipo-solar&id=020130230412)
 - [Trabalhando com diferentes versões do Angular](https://www.alura.com.br/artigos/trabalhando-diferentes-versoes-angular)
 - [Alto-falantes com m�sculos artificiais dispensam �m�s e gastam menos energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alto-falantes-musculos-artificiais-dispensam-imas-gastam-menos-energia&id=010170230412)
-- [Mapa da mat�ria escura refor�a enigma da taxa de expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-materia-escura-reforca-enigma-taxa-expansao-universo&id=010130230412)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
