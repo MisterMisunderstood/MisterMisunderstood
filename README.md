@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [L�mpada incandescente que recicla calor fica t�o eficiente quanto LED](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lampada-incandescente-tao-eficiente-quanto-led-reciclando-calor&id=010115230414)
+- [Era p�s-grafeno: Conhe�a os materiais 2,5D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-nova-era-emerge-materiais-2-5d&id=010165230414)
 - [Imagem mais n�tida mostra buraco negro M87 bem mais magro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imagem-mais-nitida-buraco-negro-m87&id=020130230413)
 - [Erup��es solares s�o geradas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcoes-solares-geradas-laboratorio&id=010130230413)
 - [Descoberto novo componente eletr�nico fundamental, o memoindutor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoindutor&id=010110230413)
 - [Cristal do tempo amplifica a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-fotonico-amplifica-luz&id=010160230413)
 - [Devs em início de carreira: por onde começar?](https://www.alura.com.br/artigos/devs-inicio-carreira-onde-comecar)
-- [Afinal, o Sol � mesmo uma estrela do tipo solar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=afinal-sol-mesmo-estrela-tipo-solar&id=020130230412)
-- [Alto-falantes com m�sculos artificiais dispensam �m�s e gastam menos energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alto-falantes-musculos-artificiais-dispensam-imas-gastam-menos-energia&id=010170230412)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
