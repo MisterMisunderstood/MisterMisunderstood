@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas para descolar seu primeiro emprego Dev - Parte 1](https://www.alura.com.br/artigos/dicas-descolar-primeiro-emprego-dev-parte-1)
 - [Material 2D magn�tico abre caminho para computadores sustent�veis ultrarr�pidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-2d-magnetico-abre-caminho-computadores-sustentaveis-ultrarrapidos&id=010110230417)
 - [Nova teoria prop�e explica��o para origem da �gua da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-propoe-explicacao-origem-agua-terra&id=010130230417)
 - [Sensores foliares alertam para pat�genos e estresse nas plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-foliares-detectam-patogenos-estresse-agricultura&id=010125230417)
 - [Biobateria de bact�rias tem vida �til de 100 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-bacterias-tem-vida-util-100-anos&id=020115230414)
 - [Helic�ptero Engenhosidade completa 50� voo em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helicoptero-engenhosidade-completa-50-voo-marte&id=020175230414)
 - [Como inovar em suas videoaulas com 3 boas práticas de narração inclusiva](https://www.alura.com.br/artigos/narracao-inclusiva-3-boas-praticas-videoaulas)
-- [Centro de Agricultura Digital vai prover tecnologias para pequenos produtores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=centro-agricultura-digital-vai-prover-tecnologias-pequenos-produtores&id=010175230414)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
