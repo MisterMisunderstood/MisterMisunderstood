@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vers�o qu�ntica da terceira lei da termodin�mica mostra suas regras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=versao-quantica-terceira-lei-termodinamica&id=010115230418)
+- [Telesc�pio Webb lan�a novas d�vidas sobre modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-webb-lanca-novas-duvidas-sobre-modelo-big-bang&id=010130230418)
 - [Objeto que n�o deveria existir brilha 10 milh�es de vezes mais que o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objeto-nao-deveria-existir-brilha-milhoes-vezes-sol&id=020130230417)
 - [Material 2D magn�tico abre caminho para computadores sustent�veis ultrarr�pidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-2d-magnetico-abre-caminho-computadores-sustentaveis-ultrarrapidos&id=010110230417)
 - [Nova teoria prop�e explica��o para origem da �gua da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-propoe-explicacao-origem-agua-terra&id=010130230417)
 - [Sensores foliares alertam para pat�genos e estresse nas plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-foliares-detectam-patogenos-estresse-agricultura&id=010125230417)
 - [Inteligência Artificial aplicada – Hipsters: Fora de Controle #01](https://www.alura.com.br/artigos/inteligencia-artificial-aplicada-hispters-fora-de-controle-ep-01)
-- [Dicas para descolar seu primeiro emprego Dev - Parte 1](https://www.alura.com.br/artigos/dicas-descolar-primeiro-emprego-dev-parte-1)
-- [Biobateria de bact�rias tem vida �til de 100 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-bacterias-tem-vida-util-100-anos&id=020115230414)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
