@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Descoberta acidental: Reatores de fus�o nuclear podem ser muito menores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-acidental-reatores-fusao-nuclear-muito-menores&id=010115230419)
 - [Componentes eletr�nicos m�veis podem mudar modo como se faz computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-eletronicos-moveis&id=010110230419)
-- [Bateria recarreg�vel � feita inteiramente de comida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-comestivel-comida&id=020115230418)
 - [Como usar ícones em interfaces digitais](https://www.alura.com.br/artigos/usar-icones-interfaces-digitais)
+- [Bateria recarreg�vel � feita inteiramente de comida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-comestivel-comida&id=020115230418)
 - [Vers�o qu�ntica da terceira lei da termodin�mica mostra suas regras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=versao-quantica-terceira-lei-termodinamica&id=010115230418)
 - [Telesc�pio Webb lan�a novas d�vidas sobre modelo do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-webb-lanca-novas-duvidas-sobre-modelo-big-bang&id=010130230418)
 - [Objeto que n�o deveria existir brilha 10 milh�es de vezes mais que o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objeto-nao-deveria-existir-brilha-milhoes-vezes-sol&id=020130230417)
