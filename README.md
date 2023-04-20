@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [A evolução do desenvolvimento React: porque outras ferramentas estão ganhando espaço sobre o create-react-app](https://www.alura.com.br/artigos/evolucao-desenvolvimento-react)
 - [In�dito: Energia mec�nica � canalizada em uma dire��o preferencial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-mecanica-canalizada-direcao-preferencial&id=010170230420)
 - [Mem�ria em �tomos rompe gargalo do hardware para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-atomos-rompe-gargalo-hardware-ia&id=010150230420)
 - [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-que-desenvolvem-frontend)
 - [Descoberta acidental: Reatores de fus�o nuclear podem ser muito menores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-acidental-reatores-fusao-nuclear-muito-menores&id=010115230419)
 - [Componentes eletr�nicos m�veis podem mudar modo como se faz computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-eletronicos-moveis&id=010110230419)
 - [Como usar ícones em interfaces digitais](https://www.alura.com.br/artigos/usar-icones-interfaces-digitais)
-- [Bateria recarreg�vel � feita inteiramente de comida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-comestivel-comida&id=020115230418)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
