@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress)
 - [C�psulas pl�sticas de caf� viram filamentos para impressoras 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capsulas-plasticas-cafe-viram-filamentos-impressoras-3d&id=020160230424)
 - [Espionagem via hardware pode ser evitada com spintr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espionagem-via-hardware-spintronica&id=010110230424)
 - [Mais um passo rumo ao controle da mat�ria pela luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-passo-rumo-controle-materia-pela-luz&id=010160230424)
 - [A evolução do desenvolvimento React: porque outras ferramentas estão ganhando espaço sobre o create-react-app](https://www.alura.com.br/artigos/evolucao-desenvolvimento-react)
 - [In�dito: Energia mec�nica � canalizada em uma dire��o preferencial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-mecanica-canalizada-direcao-preferencial&id=010170230420)
 - [Mem�ria em �tomos rompe gargalo do hardware para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-atomos-rompe-gargalo-hardware-ia&id=010150230420)
-- [Guia essencial do GraphQL para pessoas que desenvolvem frontend](https://www.alura.com.br/artigos/guia-graphql-pessoas-que-desenvolvem-frontend)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
