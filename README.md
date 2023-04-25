@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trans�stor de madeira levar� eletr�nica para �rvores e agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-madeira&id=010110230425)
 - [N�o, isto n�o � um buraco negro; � um s�liton topol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-isto-nao-buraco-negro-soliton-topologico&id=010130230425)
 - [Equa��o h� muito esquecida supera m�todos computacionais para converter CO2 em combust�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equacao-arcaica-bate-metodos-computacionais-converter-dioxido-carbono&id=010125230425)
 - [Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress)
 - [C�psulas pl�sticas de caf� viram filamentos para impressoras 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capsulas-plasticas-cafe-viram-filamentos-impressoras-3d&id=020160230424)
 - [Espionagem via hardware pode ser evitada com spintr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espionagem-via-hardware-spintronica&id=010110230424)
 - [Mais um passo rumo ao controle da mat�ria pela luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-passo-rumo-controle-materia-pela-luz&id=010160230424)
-- [A evolução do desenvolvimento React: porque outras ferramentas estão ganhando espaço sobre o create-react-app](https://www.alura.com.br/artigos/evolucao-desenvolvimento-react)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
