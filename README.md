@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacking de IAs, experimentos em games e IA reflexiva – Hipsters: Fora de Controle #02](https://www.alura.com.br/artigos/stacking-ia-experimentos-games-ia-reflexiva-hispters-fora-de-controle-ep-02)
 - [Astr�nomos resolvem mist�rio dos quasares, objetos mais brilhantes do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-sao-quasares&id=010130230426)
 - [C�lulas solares para ambientes internos batem recorde de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-ambientes-internos-batem-recorde-eficiencia&id=010115230426)
 - [Sensor neurom�rfico reconhece e prev� movimento em um �nico quadro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-neuromorfico-reconhece-preve-movimento-unico-quadro&id=010150230426)
 - [Trans�stor de madeira levar� eletr�nica para �rvores e agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-madeira&id=010110230425)
 - [N�o, isto n�o � um buraco negro; � um s�liton topol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-isto-nao-buraco-negro-soliton-topologico&id=010130230425)
 - [Equa��o h� muito esquecida supera m�todos computacionais para converter CO2 em combust�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equacao-arcaica-bate-metodos-computacionais-converter-dioxido-carbono&id=010125230425)
-- [Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
