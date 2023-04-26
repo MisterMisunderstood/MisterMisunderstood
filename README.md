@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [C�psulas pl�sticas de caf� viram filamentos para impressoras 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capsulas-plasticas-cafe-viram-filamentos-impressoras-3d&id=020160230424)
 - [Espionagem via hardware pode ser evitada com spintr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espionagem-via-hardware-spintronica&id=010110230424)
 - [Mais um passo rumo ao controle da mat�ria pela luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mais-passo-rumo-controle-materia-pela-luz&id=010160230424)
-- [In�dito: Energia mec�nica � canalizada em uma dire��o preferencial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-mecanica-canalizada-direcao-preferencial&id=010170230420)
+- [Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
