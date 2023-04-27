@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbus apresenta esta��o espacial futurista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=airbus-apresenta-estacao-espacial-futurista&id=010130230427)
+- [Biodrones: Rob�s feitos de batata v�o monitorar a natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biodrones-robos-feitos-batata-vao-monitorar-natureza&id=010180230427)
 - [Imagem mostra pela primeira vez buraco negro expelindo jato de mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-expelindo-jato-materia&id=020130230426)
 - [Astr�nomos resolvem mist�rio dos quasares, objetos mais brilhantes do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-sao-quasares&id=010130230426)
+- [Stacking de IAs, experimentos em games e IA reflexiva – Hipsters: Fora de Controle #02](https://www.alura.com.br/artigos/stacking-ia-experimentos-games-ia-reflexiva-hispters-fora-de-controle-ep-02)
 - [C�lulas solares para ambientes internos batem recorde de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-ambientes-internos-batem-recorde-eficiencia&id=010115230426)
 - [Sensor neurom�rfico reconhece e prev� movimento em um �nico quadro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-neuromorfico-reconhece-preve-movimento-unico-quadro&id=010150230426)
-- [Stacking de IAs, experimentos em games e IA reflexiva – Hipsters: Fora de Controle #02](https://www.alura.com.br/artigos/stacking-ia-experimentos-games-ia-reflexiva-hispters-fora-de-controle-ep-02)
-- [Trans�stor de madeira levar� eletr�nica para �rvores e agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-madeira&id=010110230425)
-- [N�o, isto n�o � um buraco negro; � um s�liton topol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-isto-nao-buraco-negro-soliton-topologico&id=010130230425)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
