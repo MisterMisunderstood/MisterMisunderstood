@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Airbus apresenta esta��o espacial futurista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=airbus-apresenta-estacao-espacial-futurista&id=010130230427)
 - [Biodrones: Rob�s feitos de batata v�o monitorar a natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biodrones-robos-feitos-batata-vao-monitorar-natureza&id=010180230427)
 - [Imagem mostra pela primeira vez buraco negro expelindo jato de mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-expelindo-jato-materia&id=020130230426)
-- [Astr�nomos resolvem mist�rio dos quasares, objetos mais brilhantes do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-sao-quasares&id=010130230426)
+- [Stacking de IAs, experimentos em games e IA reflexiva – Hipsters: Fora de Controle #02](https://www.alura.com.br/artigos/stacking-ia-experimentos-games-ia-reflexiva-hispters-fora-de-controle-ep-02)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
