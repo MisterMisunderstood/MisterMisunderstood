@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Desenvolvido um concreto que captura carbono em vez de emiti-lo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-carbono-negativo&id=010125230502)
 - [Anima��o da NASA mostra dimens�es dos maiores buracos negros conhecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=animacao-nasa-mostra-dimensoes-maiores-buracos-negros-universo&id=010175230501)
 - [Voyager ganha mais alguns anos com nova estrat�gia de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voyager-ganha-mais-alguns-anos-nova-estrategia-energia&id=010175230428)
-- [Rover Zhurong encontra evid�ncias de �gua em baixas latitudes de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-zhurong-encontra-evidencias-agua-baixas-latitudes-marte&id=010130230428)
 - [Dicas para desenvolver testes unitários e de integração no Front-end](https://www.alura.com.br/artigos/dicas-desenvolver-testes-unitarios-integracao-front-end)
+- [Rover Zhurong encontra evid�ncias de �gua em baixas latitudes de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-zhurong-encontra-evidencias-agua-baixas-latitudes-marte&id=010130230428)
 - [Ferro e magn�sio finalmente se unem, para alegria da ind�stria automotiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ligacao-mecanica-ferro-magnesio&id=010170230428)
 <!-- BLOG-POST-LIST:END -->
 
