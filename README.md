@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Ajuda entre IAs, limitação de tokens, intimidade artificial e mais – Hipsters: Fora de Controle #03](https://www.alura.com.br/artigos/ajuda-entre-ia-limitacao-tokens-intimidade-artificial-hipsters-fora-de-controle-ep-03)
 - [Dicas essenciais para escrever testes end to end melhores](https://www.alura.com.br/artigos/dicas-essenciais-escrever-testes-end-to-end-melhores)
+- [Estrela engolindo planeta ilustra destino final da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-engolindo-planeta-ilustra-destino-final-terra&id=010130230503)
+- [Descobertas nuvens de g�s resultantes da explos�o das primeiras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-nuvens-gas-resultantes-explosao-primeiras-estrelas&id=010175230503)
 - [Ar s�lido pode ser o impulso que faltava para Economia do Hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-solido-impulso-faltava-economia-hidrogenio&id=010115230503)
 - [Efeito castanha-do-brasil n�o precisa de energia externa para desafiar gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-anha-brasil-nao-precisa-energia-externa-desafiar-gravidade&id=010170230503)
 - [Fen�meno qu�ntico paradoxal � confirmado experimentalmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-paradoxal-confirmado-experimentalmente&id=010165230502)
-- [Diamante agora serve tanto para computa��o quanto para comunica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-agora-serve-tanto-computacao-quanto-comunicacao-quantica&id=010110230502)
-- [Desenvolvido um concreto que captura carbono em vez de emiti-lo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-carbono-negativo&id=010125230502)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
