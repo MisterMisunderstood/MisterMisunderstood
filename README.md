@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ar s�lido pode ser o impulso que faltava para Economia do Hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-solido-impulso-faltava-economia-hidrogenio&id=010115230503)
+- [Efeito castanha-do-brasil n�o precisa de energia externa para desafiar gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-anha-brasil-nao-precisa-energia-externa-desafiar-gravidade&id=010170230503)
 - [Fen�meno qu�ntico paradoxal � confirmado experimentalmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-paradoxal-confirmado-experimentalmente&id=010165230502)
 - [Diamante agora serve tanto para computa��o quanto para comunica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-agora-serve-tanto-computacao-quanto-comunicacao-quantica&id=010110230502)
 - [Desenvolvido um concreto que captura carbono em vez de emiti-lo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-carbono-negativo&id=010125230502)
 - [Anima��o da NASA mostra dimens�es dos maiores buracos negros conhecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=animacao-nasa-mostra-dimensoes-maiores-buracos-negros-universo&id=010175230501)
 - [Voyager ganha mais alguns anos com nova estrat�gia de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voyager-ganha-mais-alguns-anos-nova-estrategia-energia&id=010175230428)
-- [Rover Zhurong encontra evid�ncias de �gua em baixas latitudes de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-zhurong-encontra-evidencias-agua-baixas-latitudes-marte&id=010130230428)
-- [Dicas para desenvolver testes unitários e de integração no Front-end](https://www.alura.com.br/artigos/dicas-desenvolver-testes-unitarios-integracao-front-end)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
