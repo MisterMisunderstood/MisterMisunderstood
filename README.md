@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
 - [Carros com levita��o magn�tica vi�veis com rodovia que transporta eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rodovia-transporta-eletricidade-viabiliza-carros-levitacao-magnetica&id=010170230504)
 - [Ecocomputa��o promete IA feita por sistemas naturais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ecocomputacao-promete-ia-feita-sistemas-naturais&id=010150230504)
 - [Estrela engolindo planeta ilustra destino final da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-engolindo-planeta-ilustra-destino-final-terra&id=010130230503)
 - [Descobertas nuvens de g�s resultantes da explos�o das primeiras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-nuvens-gas-resultantes-explosao-primeiras-estrelas&id=010175230503)
 - [Ajuda entre IAs, limitação de tokens, intimidade artificial e mais – Hipsters: Fora de Controle #03](https://www.alura.com.br/artigos/ajuda-entre-ia-limitacao-tokens-intimidade-artificial-hipsters-fora-de-controle-ep-03)
 - [Dicas essenciais para escrever testes end to end melhores](https://www.alura.com.br/artigos/dicas-essenciais-escrever-testes-end-to-end-melhores)
-- [Ar s�lido pode ser o impulso que faltava para Economia do Hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-solido-impulso-faltava-economia-hidrogenio&id=010115230503)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
