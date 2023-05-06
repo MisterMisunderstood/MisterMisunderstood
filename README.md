@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dicas de otimização para desenhos vetoriais no Illustrator](https://www.alura.com.br/artigos/dicas-otimizacao-desenhos-vetoriais-illustrator)
 - [Computador qu�ntico funciona de marcha-a-r� para acelerar c�lculos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-funciona-marcha-re-resolver-fatoracao&id=020150230505)
 - [Fibra �ptica forma-se no ar ambiente e opera continuamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-de-ar&id=010150230505)
+- [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
 - [Carros com levita��o magn�tica vi�veis com rodovia que transporta eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rodovia-transporta-eletricidade-viabiliza-carros-levitacao-magnetica&id=010170230504)
 - [Ecocomputa��o promete IA feita por sistemas naturais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ecocomputacao-promete-ia-feita-sistemas-naturais&id=010150230504)
-- [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
 - [Estrela engolindo planeta ilustra destino final da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-engolindo-planeta-ilustra-destino-final-terra&id=010130230503)
 <!-- BLOG-POST-LIST:END -->
 
