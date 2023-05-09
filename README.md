@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gato de Schrodinger mais pesado at� hoje amplia superposi��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-mais-pesado-amplia-superposicao-quantica&id=010110230509)
 - [Tijolos de vidro: Luz dentro, calor fora, e agora suportando cargas estruturais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tijolos-vidro-isolantes-transparentes-suportam-cargas-estruturais&id=010170230509)
 - [T�cnica revolucion�ria produz am�nia para fertilizantes usando ar e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amonia-verde-fertilizantes-tecnica-revolucionaria-usa-apenas-ar-agua&id=010125230509)
+- [Aprenda a aplicar suas ilustrações em objetos 3D no Illustrator](https://www.alura.com.br/artigos/aprenda-aplicar-ilustracoes-objetos-3d-illustrator)
 - [C�lulas solares refrigeradas a �gua integram gera��o com armazenamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-refrigeradas-agua-integram-geracao-solar-armazenamento-termico&id=010115230508)
 - [L�quido qu�ntico torna-se s�lido quando aquecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquido-quantico-torna-se-solido-quando-aquecido&id=010160230508)
 - [Tecidos inteligentes saem dos laborat�rios para as f�bricas de tecelagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-inteligentes-saem-laboratorios-fabricas-tecelagens&id=010110230508)
-- [Aprenda a aplicar suas ilustrações em objetos 3D no Illustrator](https://www.alura.com.br/artigos/aprenda-aplicar-ilustracoes-objetos-3d-illustrator)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
