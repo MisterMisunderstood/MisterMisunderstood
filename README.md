@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [L�quido qu�ntico torna-se s�lido quando aquecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquido-quantico-torna-se-solido-quando-aquecido&id=010160230508)
 - [Tecidos inteligentes saem dos laborat�rios para as f�bricas de tecelagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-inteligentes-saem-laboratorios-fabricas-tecelagens&id=010110230508)
 - [Aprenda a aplicar suas ilustrações em objetos 3D no Illustrator](https://www.alura.com.br/artigos/aprenda-aplicar-ilustracoes-objetos-3d-illustrator)
+- [Dicas de otimização para desenhos vetoriais no Illustrator](https://www.alura.com.br/artigos/dicas-otimizacao-desenhos-vetoriais-illustrator)
 - [Computador qu�ntico funciona de marcha-a-r� para acelerar c�lculos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-funciona-marcha-re-resolver-fatoracao&id=020150230505)
 - [Fibra �ptica forma-se no ar ambiente e opera continuamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-de-ar&id=010150230505)
-- [Dicas de otimização para desenhos vetoriais no Illustrator](https://www.alura.com.br/artigos/dicas-otimizacao-desenhos-vetoriais-illustrator)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
