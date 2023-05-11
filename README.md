@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [150 caminh�es a hidrog�nio prontos para rodar nas estradas europeias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhoes-hidrogenio-estradas-europa&id=010170230510)
 - [Algoritmo transforma sinais de sat�lites de comunica��o em sinais de GPS](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algoritmo-transforma-sinais-satelites-comunicacao-sinais-gps&id=010130230510)
 - [Armazenamento de dados em DNA mais pr�ximo das centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenamento-dados-dna-mais-proximo-centrais-dados&id=010150230510)
-- [IAs multimodais, extração de pensamentos e vantagens do open source – Hipsters: Fora de Controle #04](https://www.alura.com.br/artigos/ias-multimodais-extracao-pensamentos-vantagens-inteligencia-artifical-open-source-hispters-fora-de-controle-ep-04)
 - [Gato de Schrodinger mais pesado at� hoje amplia superposi��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-mais-pesado-amplia-superposicao-quantica&id=010110230509)
+- [IAs multimodais, extração de pensamentos e vantagens do open source – Hipsters: Fora de Controle #04](https://www.alura.com.br/artigos/ias-multimodais-extracao-pensamentos-vantagens-inteligencia-artifical-open-source-hispters-fora-de-controle-ep-04)
 - [Tijolos de vidro: Luz dentro, calor fora, e agora suportando cargas estruturais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tijolos-vidro-isolantes-transparentes-suportam-cargas-estruturais&id=010170230509)
 - [T�cnica revolucion�ria produz am�nia para fertilizantes usando ar e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amonia-verde-fertilizantes-tecnica-revolucionaria-usa-apenas-ar-agua&id=010125230509)
 <!-- BLOG-POST-LIST:END -->
