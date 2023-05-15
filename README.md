@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rede neural de nanofios aprende e lembra como um c�rebro humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-nanofios-aprende-lembra-como-cerebro-humano&id=010150230515)
+- [Camuflagem para submarinos oferece furtividade subaqu�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-fornece-furtividade-subaquatica&id=010160230515)
+- [Eletrifica��o de ve�culos ter� impacto enorme na cadeia de suprimentos de metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrificacao-veiculos-tera-impacto-enorme-cadeia-suprimentos-metais&id=010170230515)
 - [Como a madeira pode ser caminho para uma vida ambientalmente amig�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-madeira-caminho-vida-ambientalmente-amigavel&id=010125230512)
 - [�nyon: Part�cula ex�tica que lembra seu passado � descoberta por computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=anyon-particula-exotica-lembra-seu-passado-descoberta-computador-quantico&id=010110230512)
 - [Qubits trocam informa��es mais r�pido que velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-trocam-informacoes-mais-rapido-velocidade-luz&id=010150230511)
 - [Geladeiras de estado s�lido impulsionadas por m�sculo artificial met�lico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geladeiras-estado-solido-impulsionadas-musculo-artificial-metalico&id=010115230511)
-- [150 caminh�es a hidrog�nio prontos para rodar nas estradas europeias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhoes-hidrogenio-estradas-europa&id=010170230510)
-- [Algoritmo transforma sinais de sat�lites de comunica��o em sinais de GPS](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algoritmo-transforma-sinais-satelites-comunicacao-sinais-gps&id=010130230510)
-- [Armazenamento de dados em DNA mais pr�ximo das centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenamento-dados-dna-mais-proximo-centrais-dados&id=010150230510)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
