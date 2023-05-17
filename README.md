@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O, desenvolvimento responsável e modelos multimodais – Hipsters: Fora de Controle #05](https://www.alura.com.br/artigos/google-io-desenvolvimento-responsavel-modelos-multimodais-ia-hipsters-fora-de-controle-ep-05)
 - [T�cnica inovadora obt�m materiais vitrocer�micos com menos tempo e energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-inovadora-obtem-materiais-vitroceramicos-menos-tempo-energia&id=010160230516)
 - [Temperatura para fus�o nuclear � alcan�ada em reator esf�rico de pequeno porte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=temperatura-fusao-nuclear-alcancada-reator-esferico-pequeno-porte&id=010115230516)
 - [Disco de acre��o de buracos negros � recriado em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disco-acrecao-buracos-negros-recriado-laboratorio&id=010130230516)
 - [Cientistas conseguem primeira imagem do n�cleo do �tomo de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-conseguem-primeira-imagem-nucleo-atomo-carbono&id=010165230516)
+- [Google I/O, desenvolvimento responsável e modelos multimodais – Hipsters: Fora de Controle #05](https://www.alura.com.br/artigos/google-io-desenvolvimento-responsavel-modelos-multimodais-ia-hipsters-fora-de-controle-ep-05)
 - [Cometa que vive no Cintur�o de Asteroides tem �gua e um novo mist�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confirmada-presenca-agua-cometa-cinturao-asteroides&id=010130230515)
 - [Rede neural de nanofios aprende e lembra como um c�rebro humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-nanofios-aprende-lembra-como-cerebro-humano&id=010150230515)
 <!-- BLOG-POST-LIST:END -->
