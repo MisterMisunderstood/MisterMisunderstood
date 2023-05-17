@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Descoberto cristal que derrete quando iluminado, sem precisar ser aquecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-derrete-com-luz&id=010160230517)
 - [Novo fen�meno f�sico torna �tomos transparentes para certas cores da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-transparencia-induzida-coletivamente&id=010110230517)
-- [T�cnica inovadora obt�m materiais vitrocer�micos com menos tempo e energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-inovadora-obtem-materiais-vitroceramicos-menos-tempo-energia&id=010160230516)
 - [Google I/O, desenvolvimento responsável e modelos multimodais – Hipsters: Fora de Controle #05](https://www.alura.com.br/artigos/google-io-desenvolvimento-responsavel-modelos-multimodais-ia-hipsters-fora-de-controle-ep-05)
+- [T�cnica inovadora obt�m materiais vitrocer�micos com menos tempo e energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-inovadora-obtem-materiais-vitroceramicos-menos-tempo-energia&id=010160230516)
 - [Temperatura para fus�o nuclear � alcan�ada em reator esf�rico de pequeno porte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=temperatura-fusao-nuclear-alcancada-reator-esferico-pequeno-porte&id=010115230516)
 - [Disco de acre��o de buracos negros � recriado em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disco-acrecao-buracos-negros-recriado-laboratorio&id=010130230516)
 - [Cientistas conseguem primeira imagem do n�cleo do �tomo de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-conseguem-primeira-imagem-nucleo-atomo-carbono&id=010165230516)
