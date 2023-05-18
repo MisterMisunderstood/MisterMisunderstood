@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL e NoSQL: trabalhando com bancos relacionais e não relacionais](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
 - [Nova liga metal-cer�mica � 600 vezes mais resistente - e outros "mais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-liga-metal-ceramica-600-vezes-mais-resistente-outros-mais&id=010170230518)
 - [Aprendizado profundo n�o � ingrediente necess�rio da Intelig�ncia Artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aprendizado-profundo-nao-ingrediente-necessario-inteligencia-artificial&id=010150230518)
 - [Torrefa��o torna sacolas de papel mais fortes, mesmo quando molhadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=torrefacao-torna-sacolas-papel-mais-fortes-mesmo-quando-molhadas&id=010125230517)
 - [Descoberto cristal que derrete quando iluminado, sem precisar ser aquecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-derrete-com-luz&id=010160230517)
 - [Novo fen�meno f�sico torna �tomos transparentes para certas cores da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-transparencia-induzida-coletivamente&id=010110230517)
 - [T�cnica inovadora obt�m materiais vitrocer�micos com menos tempo e energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-inovadora-obtem-materiais-vitroceramicos-menos-tempo-energia&id=010160230516)
-- [Google I/O, desenvolvimento responsável e modelos multimodais – Hipsters: Fora de Controle #05](https://www.alura.com.br/artigos/google-io-desenvolvimento-responsavel-modelos-multimodais-ia-hipsters-fora-de-controle-ep-05)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
