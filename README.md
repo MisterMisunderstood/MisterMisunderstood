@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Torrefa��o torna sacolas de papel mais fortes, mesmo quando molhadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=torrefacao-torna-sacolas-papel-mais-fortes-mesmo-quando-molhadas&id=010125230517)
 - [Descoberto cristal que derrete quando iluminado, sem precisar ser aquecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-derrete-com-luz&id=010160230517)
 - [Novo fen�meno f�sico torna �tomos transparentes para certas cores da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-transparencia-induzida-coletivamente&id=010110230517)
-- [T�cnica inovadora obt�m materiais vitrocer�micos com menos tempo e energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-inovadora-obtem-materiais-vitroceramicos-menos-tempo-energia&id=010160230516)
+- [Google I/O, desenvolvimento responsável e modelos multimodais – Hipsters: Fora de Controle #05](https://www.alura.com.br/artigos/google-io-desenvolvimento-responsavel-modelos-multimodais-ia-hipsters-fora-de-controle-ep-05)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
