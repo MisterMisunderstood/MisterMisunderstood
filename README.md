@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Modelo de Segurança Zero Trust: entenda como funciona e sua importância](https://www.alura.com.br/artigos/modelo-seguranca-zero-trust-como-funciona)
+- [Material inteligente desafia leis do movimento de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inteligente-desafia-leis-movimento-newton&id=020160230519)
 - [Baterias de zinco e �gua: 5 novidades promissoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-agua-novidades&id=010115230519)
 - [Comp�sito qu�ntico traz fr�geis fen�menos qu�nticos para aplica��es do mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-quantico&id=010160230519)
 - [SQL e NoSQL: trabalhando com bancos relacionais e não relacionais](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
 - [Nova liga metal-cer�mica � 600 vezes mais resistente - e outros "mais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-liga-metal-ceramica-600-vezes-mais-resistente-outros-mais&id=010170230518)
 - [Aprendizado profundo n�o � ingrediente necess�rio da Intelig�ncia Artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aprendizado-profundo-nao-ingrediente-necessario-inteligencia-artificial&id=010150230518)
-- [Torrefa��o torna sacolas de papel mais fortes, mesmo quando molhadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=torrefacao-torna-sacolas-papel-mais-fortes-mesmo-quando-molhadas&id=010125230517)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
