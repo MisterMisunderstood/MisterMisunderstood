@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Material inteligente desafia leis do movimento de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inteligente-desafia-leis-movimento-newton&id=020160230519)
 - [Modelo de Segurança Zero Trust: entenda como funciona e sua importância](https://www.alura.com.br/artigos/modelo-seguranca-zero-trust-como-funciona)
+- [Material inteligente desafia leis do movimento de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inteligente-desafia-leis-movimento-newton&id=020160230519)
 - [Baterias de zinco e �gua: 5 novidades promissoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-agua-novidades&id=010115230519)
 - [Comp�sito qu�ntico traz fr�geis fen�menos qu�nticos para aplica��es do mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-quantico&id=010160230519)
 - [SQL e NoSQL: trabalhando com bancos relacionais e não relacionais](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
