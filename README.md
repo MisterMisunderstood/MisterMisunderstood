@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Ética e Inteligência Artificial (IA) para profissionais de tecnologia: navegando no mundo digital de forma responsável](https://www.alura.com.br/artigos/etica-e-inteligencia-artificial)
+- [Plugins no ChatGPT, IA constitucional e machine learning ético – Hipsters: Fora de Controle #06](https://www.alura.com.br/artigos/plugins-chatgpt-ia-constitucional-e-machine-learning-etico-hipsters-fora-de-controle-06)
 - [Bateria recarreg�vel de �ons de c�lcio atinge vida �til competitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-ions-calcio&id=010115230524)
 - [Criptografia qu�ntica quase pronta para os telefones celulares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-quase-pronta-usada-celulares&id=010150230524)
 - [Utilizando o Ktor para criar um CRUD e REST API com Kotlin](https://www.alura.com.br/artigos/utilizando-ktor-criar-crud-rest-api-kotlin)
 - [Lan�ado primeiro modelo de linguagem aberta de IA em portugu�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancado-primeiro-modelo-linguagem-aberta-ia-portugues&id=020150230523)
 - [Espa�o-tempo curvo � simulado junto com mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-quantica-espaco-tempo-curvo-produzido-usando-simulador-quantico&id=010130230523)
-- [Tela flex�vel para realidade aumentada pode ser colada em qualquer superf�cie](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-flexivel-realidade-aumentada-colada-qualquer-superficie&id=010150230523)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
