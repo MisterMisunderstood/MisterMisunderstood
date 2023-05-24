@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria recarreg�vel de �ons de c�lcio atinge vida �til competitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-ions-calcio&id=010115230524)
+- [Criptografia qu�ntica quase pronta para os telefones celulares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-quase-pronta-usada-celulares&id=010150230524)
 - [Utilizando o Ktor para criar um CRUD e REST API com Kotlin](https://www.alura.com.br/artigos/utilizando-ktor-criar-crud-rest-api-kotlin)
 - [Lan�ado primeiro modelo de linguagem aberta de IA em portugu�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancado-primeiro-modelo-linguagem-aberta-ia-portugues&id=020150230523)
 - [Espa�o-tempo curvo � simulado junto com mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-quantica-espaco-tempo-curvo-produzido-usando-simulador-quantico&id=010130230523)
 - [Tela flex�vel para realidade aumentada pode ser colada em qualquer superf�cie](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-flexivel-realidade-aumentada-colada-qualquer-superficie&id=010150230523)
 - [Terra receber� mensagem extraterrestre nesta quarta-feira. Participe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-contato-terra-recebera-mensagem-extraterrestre-nesta-quarta-feira&id=020130230522)
-- [NASA seleciona segunda nave para pousar na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-seleciona-segunda-nave-pousar-lua&id=010130230522)
-- [Ferramenta orienta extra��o eficiente de energia de fontes qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ferramenta-orienta-extracao-eficiente-energia-fontes-quanticas&id=010115230522)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
