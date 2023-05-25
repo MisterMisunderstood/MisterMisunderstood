@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Vale a pena aprender Swift UI hoje?](https://www.alura.com.br/artigos/vale-a-pena-aprender-swift-ui-hoje)
 - [Eletricidade pode ser gerada do ar usando qualquer material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-gerada-umidade-ar&id=010115230525)
 - [Pele eletr�nica envia sinais diretamente para o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-envia-sinais-diretamente-cerebro&id=010180230525)
-- [Demonstra��o de repetidor qu�ntico d� impulso para internet qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=repetidor-quantico-impulso-internet-quantica&id=020150230524)
 - [Plugins no ChatGPT, IA constitucional e machine learning ético – Hipsters: Fora de Controle #06](https://www.alura.com.br/artigos/plugins-chatgpt-ia-constitucional-e-machine-learning-etico-hipsters-fora-de-controle-06)
 - [Ética e Inteligência Artificial (IA) para profissionais de tecnologia: navegando no mundo digital de forma responsável](https://www.alura.com.br/artigos/etica-e-inteligencia-artificial)
+- [Demonstra��o de repetidor qu�ntico d� impulso para internet qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=repetidor-quantico-impulso-internet-quantica&id=020150230524)
 - [Bateria recarreg�vel de �ons de c�lcio atinge vida �til competitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-recarregavel-ions-calcio&id=010115230524)
 <!-- BLOG-POST-LIST:END -->
 
