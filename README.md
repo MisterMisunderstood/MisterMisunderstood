@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sat�lite de madeira: Magn�lia � selecionada como madeira espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnolia-selecionada-construcao-primeiro-satelite-madeira&id=010130230526)
 - [P� at�xico reutiliz�vel mata bact�rias na �gua em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=po-atoxico-reutilizavel-mata-bacterias-agua-segundos&id=010125230525)
 - [Eletricidade pode ser gerada do ar usando qualquer material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-gerada-umidade-ar&id=010115230525)
-- [Pele eletr�nica envia sinais diretamente para o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-envia-sinais-diretamente-cerebro&id=010180230525)
+- [Vale a pena aprender Swift UI hoje?](https://www.alura.com.br/artigos/vale-a-pena-aprender-swift-ui-hoje)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
