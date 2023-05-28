@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Rob�s devem ter direitos? Confucionismo tem alternativa melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-devem-ter-direitos-confucionismo-tem-alternativa-melhor&id=010180230526)
 - [Rel�gio nuclear entre na reta final para ultrapassar rel�gios at�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-nuclear-superar-relogio-atomico&id=010165230526)
+- [Georreferenciamento: o que é, uso e ferramentas](https://www.alura.com.br/artigos/georreferenciamento-uso-ferramentas)
 - [Sat�lite de madeira: Magn�lia � selecionada como madeira espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnolia-selecionada-construcao-primeiro-satelite-madeira&id=010130230526)
 - [P� at�xico reutiliz�vel mata bact�rias na �gua em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=po-atoxico-reutilizavel-mata-bacterias-agua-segundos&id=010125230525)
 - [Eletricidade pode ser gerada do ar usando qualquer material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-gerada-umidade-ar&id=010115230525)
 - [Pele eletr�nica envia sinais diretamente para o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-envia-sinais-diretamente-cerebro&id=010180230525)
-- [Demonstra��o de repetidor qu�ntico d� impulso para internet qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=repetidor-quantico-impulso-internet-quantica&id=020150230524)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
