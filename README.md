@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [O que é Inteligência Artificial? Como funciona uma IA, quais os tipos e exemplos](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Entenda o que é Secure Software Development Life Cycle](https://www.alura.com.br/artigos/secure-software-development-life-cycle)
 - [Rob�s devem ter direitos? Confucionismo tem alternativa melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-devem-ter-direitos-confucionismo-tem-alternativa-melhor&id=010180230526)
-- [Rel�gio nuclear entre na reta final para ultrapassar rel�gios at�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-nuclear-superar-relogio-atomico&id=010165230526)
+- [Georreferenciamento: o que é, uso e ferramentas](https://www.alura.com.br/artigos/georreferenciamento-uso-ferramentas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
