@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 - [O que é Inteligência Artificial? Como funciona uma IA, quais os tipos e exemplos](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Entenda o que é Secure Software Development Life Cycle](https://www.alura.com.br/artigos/secure-software-development-life-cycle)
 - [Supremacia qu�ntica � demonstrada em problemas pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supremacia-quantica-demonstrada-problemas-praticos-otimizacao-combinatorial&id=010150230529)
 - [Microsc�pio �ptico com resolu��o �ngstrom revoluciona como vemos a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-optico-resolucao-angstrom-revoluciona-como-vemos-vida&id=010165230529)
 - [Folha artificial produz combust�veis l�quidos limpos e prontos para uso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-produz-combustiveis-liquidos-limpos-prontos-uso&id=010115230529)
 - [Rob�s devem ter direitos? Confucionismo tem alternativa melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-devem-ter-direitos-confucionismo-tem-alternativa-melhor&id=010180230526)
-- [Georreferenciamento: o que é, uso e ferramentas](https://www.alura.com.br/artigos/georreferenciamento-uso-ferramentas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
