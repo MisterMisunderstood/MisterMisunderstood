@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 - [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
+- [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 - [Computador anal�gico usa ondas de �gua para prever o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-analogico-usa-ondas-agua-prever-futuro&id=010150230530)
 - [M�o rob�tica em nanoescala feita de DNA agarra e inativa v�rus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-nanoescala-feita-dna-agarra-inativa-virus&id=010165230530)
 - [Acess�rio de baixo custo monitora press�o arterial pelo celular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acessorio-baixo-custo-monitora-pressao-arterial-pelo-celular&id=010180230530)
-- [O que é Inteligência Artificial? Como funciona uma IA, quais os tipos e exemplos](https://www.alura.com.br/artigos/inteligencia-artificial)
-- [Entenda o que é Secure Software Development Life Cycle](https://www.alura.com.br/artigos/secure-software-development-life-cycle)
+- [Supremacia qu�ntica � demonstrada em problemas pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supremacia-quantica-demonstrada-problemas-praticos-otimizacao-combinatorial&id=010150230529)
+- [Microsc�pio �ptico com resolu��o �ngstrom revoluciona como vemos a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-optico-resolucao-angstrom-revoluciona-como-vemos-vida&id=010165230529)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
