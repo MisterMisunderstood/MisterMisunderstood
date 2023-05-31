@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
 - [Raio laser transforma isopor em hidrog�nio met�lico e diamante. Ser�?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-metalico-diamantes-feitos-isopor&id=010160230531)
 - [E se voc� puder usar um carro velho como base para construir um novo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-voce-puder-usar-carro-velho-como-base-construir-novo&id=010170230531)
 - [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
 - [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 - [Computador anal�gico usa ondas de �gua para prever o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-analogico-usa-ondas-agua-prever-futuro&id=010150230530)
 - [M�o rob�tica em nanoescala feita de DNA agarra e inativa v�rus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-nanoescala-feita-dna-agarra-inativa-virus&id=010165230530)
-- [Acess�rio de baixo custo monitora press�o arterial pelo celular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acessorio-baixo-custo-monitora-pressao-arterial-pelo-celular&id=010180230530)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
