@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Erup��o de �gua de Enc�lado � 20 vezes maior que di�metro da lua de Saturno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcao-agua-encelado-20-vezes-maior-diametro-lua-saturno&id=010130230531)
 - [Raio laser transforma isopor em hidrog�nio met�lico e diamante. Ser�?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-metalico-diamantes-feitos-isopor&id=010160230531)
 - [E se voc� puder usar um carro velho como base para construir um novo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-voce-puder-usar-carro-velho-como-base-construir-novo&id=010170230531)
-- [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
 - [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
+- [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
