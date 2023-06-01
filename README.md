@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Preenchimento generativo de imagem, data science com plugins, lidando com margens de erro – Hipsters: Fora de Controle #07](https://www.alura.com.br/artigos/preenchimento-generativo-de-imagem-data-science-com-plugins-lidando-com-margens-de-erro-hipsters-fora-de-controle-07)
-- [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
 - [Erup��o de �gua de Enc�lado � 20 vezes maior que di�metro da lua de Saturno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcao-agua-encelado-20-vezes-maior-diametro-lua-saturno&id=010130230531)
 - [Raio laser transforma isopor em hidrog�nio met�lico e diamante. Ser�?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-metalico-diamantes-feitos-isopor&id=010160230531)
 - [E se voc� puder usar um carro velho como base para construir um novo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-voce-puder-usar-carro-velho-como-base-construir-novo&id=010170230531)
-- [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
+- [Preenchimento generativo de imagem, data science com plugins, lidando com margens de erro – Hipsters: Fora de Controle #07](https://www.alura.com.br/artigos/preenchimento-generativo-de-imagem-data-science-com-plugins-lidando-com-margens-de-erro-hipsters-fora-de-controle-07)
+- [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
 - [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
+- [Computador anal�gico usa ondas de �gua para prever o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-analogico-usa-ondas-agua-prever-futuro&id=010150230530)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
