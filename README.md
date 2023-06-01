@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Preenchimento generativo de imagem, data science com plugins, lidando com margens de erro – Hipsters: Fora de Controle #07](https://www.alura.com.br/artigos/preenchimento-generativo-de-imagem-data-science-com-plugins-lidando-com-margens-de-erro-hipsters-fora-de-controle-07)
 - [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
 - [Busca por sinais alien�genas vai focar no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=busca-sinais-alienigenas-centro-via-lactea&id=010130230530)
-- [Computador anal�gico usa ondas de �gua para prever o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-analogico-usa-ondas-agua-prever-futuro&id=010150230530)
+- [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
