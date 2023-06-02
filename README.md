@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gerencie as expectativas de stakeholders em projetos ágeis](https://www.alura.com.br/artigos/gerenciamento-expectativas)
 - [Cientistas fazem o primeiro raio X de um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-x-atomo-individual-feito-pela-primeira-vez&id=010165230601)
 - [Fibra �ptica padr�o da ind�stria mais r�pida do mundo chega a 1,7 Pbits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-padrao-industria-mais-rapida-mundo-pbits&id=010150230601)
-- [O que a NASA falou sobre os OVNIs?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-nasa-disse-sobre-ovnis&id=020130230531)
-- [Preenchimento generativo de imagem, data science com plugins, lidando com margens de erro – Hipsters: Fora de Controle #07](https://www.alura.com.br/artigos/preenchimento-generativo-de-imagem-data-science-com-plugins-lidando-com-margens-de-erro-hipsters-fora-de-controle-07)
 - [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
+- [Preenchimento generativo de imagem, data science com plugins, lidando com margens de erro – Hipsters: Fora de Controle #07](https://www.alura.com.br/artigos/preenchimento-generativo-de-imagem-data-science-com-plugins-lidando-com-margens-de-erro-hipsters-fora-de-controle-07)
+- [O que a NASA falou sobre os OVNIs?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-nasa-disse-sobre-ovnis&id=020130230531)
 - [Erup��o de �gua de Enc�lado � 20 vezes maior que di�metro da lua de Saturno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcao-agua-encelado-20-vezes-maior-diametro-lua-saturno&id=010130230531)
 <!-- BLOG-POST-LIST:END -->
 
