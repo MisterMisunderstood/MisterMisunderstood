@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gerencie as expectativas de stakeholders em projetos ágeis](https://www.alura.com.br/artigos/gerenciamento-expectativas)
 - [Cientistas fazem o primeiro raio X de um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-x-atomo-individual-feito-pela-primeira-vez&id=010165230601)
 - [Fibra �ptica padr�o da ind�stria mais r�pida do mundo chega a 1,7 Pbits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-padrao-industria-mais-rapida-mundo-pbits&id=010150230601)
-- [O que a NASA falou sobre os OVNIs?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-nasa-disse-sobre-ovnis&id=020130230531)
+- [Full Stack: o que é, o que faz e um Guia desta Profissão](https://www.alura.com.br/artigos/full-stack)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
