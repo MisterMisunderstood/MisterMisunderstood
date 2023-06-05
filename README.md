@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: o que é, como usar e dicas de comandos para o dia a dia](https://www.alura.com.br/artigos/chatgpt)
+- [O Universo inteiro vai evaporar, e n�o apenas os buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evaporacao-cosmica-nao-so-buracos-negros-evaporam&id=010130230605)
+- [Gelo de fogo pode ser feito com nanopart�culas e uma pitada de entropia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-fogo-feito-nanoparticulas-pitada-entropia&id=010160230605)
+- [Novo material viabiliza IA com efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-material-viabiliza-ia-eficiencia-energetica&id=010110230605)
 - [Por que a China est� perfurando um buraco com mais de 11.000 metros de profundidade?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-china-esta-perfurando-buraco-mais-11-000-metros-profundidade&id=010125230603)
 - [Descobertos tra�os misteriosos no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-tracos-misteriosos-centro-via-lactea&id=010130230602)
 - [Pain�is solares de sil�cio ficam flex�veis sem perder efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-silicio-ficam-flexiveis&id=010115230602)
-- [Armadilha mata pernilongos usando colheitadeira de eletricidade est�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armadilha-mata-pernilongos-usando-colheitadeira-eletricidade-estatica&id=010125230602)
-- [Gerencie as expectativas de stakeholders em projetos ágeis](https://www.alura.com.br/artigos/gerenciamento-expectativas)
-- [Cientistas fazem o primeiro raio X de um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-x-atomo-individual-feito-pela-primeira-vez&id=010165230601)
-- [Fibra �ptica padr�o da ind�stria mais r�pida do mundo chega a 1,7 Pbits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-padrao-industria-mais-rapida-mundo-pbits&id=010150230601)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
