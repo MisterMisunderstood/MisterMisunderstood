@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descobertos tra�os misteriosos no centro da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-tracos-misteriosos-centro-via-lactea&id=010130230602)
 - [Pain�is solares de sil�cio ficam flex�veis sem perder efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-silicio-ficam-flexiveis&id=010115230602)
 - [Armadilha mata pernilongos usando colheitadeira de eletricidade est�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armadilha-mata-pernilongos-usando-colheitadeira-eletricidade-estatica&id=010125230602)
+- [Gerencie as expectativas de stakeholders em projetos ágeis](https://www.alura.com.br/artigos/gerenciamento-expectativas)
 - [Cientistas fazem o primeiro raio X de um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-x-atomo-individual-feito-pela-primeira-vez&id=010165230601)
 - [Fibra �ptica padr�o da ind�stria mais r�pida do mundo chega a 1,7 Pbits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-padrao-industria-mais-rapida-mundo-pbits&id=010150230601)
-- [Gerencie as expectativas de stakeholders em projetos ágeis](https://www.alura.com.br/artigos/gerenciamento-expectativas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
