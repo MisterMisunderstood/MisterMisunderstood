@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Linguagens de programação: uma breve introdução contextualizada](https://www.alura.com.br/artigos/linguagem-programacao)
 - [Flap com rigidez vari�vel melhora muito sustenta��o de avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flap-rigidez-variavel-melhora-muito-sustentacao-avioes&id=010170230607)
 - [Vantagem qu�ntica: Processador fot�nico resolve problemas gr�ficos na hora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-resolve-problemas-graficos-hora&id=010150230607)
-- [Linguagem Kotlin: o que é, para que serve e um guia para aprender](https://www.alura.com.br/artigos/kotlin)
 - [A importância do motion design na experiência do usuário](https://www.alura.com.br/artigos/importancia-motion-design-experiencia-usuario)
+- [Linguagem Kotlin: o que é, para que serve e um guia para aprender](https://www.alura.com.br/artigos/kotlin)
 - [Raios tratores espaciais n�o ser�o apenas fic��o cient�fica por muito mais tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-tratores-espaciais-nao-serao-apenas-ficcao-cientifica-muito-mais-tempo&id=010130230606)
 - [Como as montanhas se formam? N�o � bem como os cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-montanhas-se-formam-nao-exatamente-como-cientistas-pensavam&id=010125230606)
-- [Semicondutores 3D flex�veis controlar�o �rg�os vivos dentro de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutores-3d-flexiveis-controlarao-orgaos-vivos-dentro-chips&id=010110230606)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
