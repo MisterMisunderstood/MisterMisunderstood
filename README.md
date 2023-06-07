@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Raios tratores espaciais n�o ser�o apenas fic��o cient�fica por muito mais tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-tratores-espaciais-nao-serao-apenas-ficcao-cientifica-muito-mais-tempo&id=010130230606)
 - [Como as montanhas se formam? N�o � bem como os cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-montanhas-se-formam-nao-exatamente-como-cientistas-pensavam&id=010125230606)
 - [Semicondutores 3D flex�veis controlar�o �rg�os vivos dentro de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutores-3d-flexiveis-controlarao-orgaos-vivos-dentro-chips&id=010110230606)
-- [ChatGPT: o que é, como usar e dicas de comandos para o dia a dia](https://www.alura.com.br/artigos/chatgpt)
 - [O Universo inteiro vai evaporar, e n�o apenas os buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evaporacao-cosmica-nao-so-buracos-negros-evaporam&id=010130230605)
+- [Gelo de fogo pode ser feito com nanopart�culas e uma pitada de entropia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-fogo-feito-nanoparticulas-pitada-entropia&id=010160230605)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
