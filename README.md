@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
 - [Linguagens de programação: uma breve introdução contextualizada](https://www.alura.com.br/artigos/linguagem-programacao)
+- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
 - [Flap com rigidez vari�vel melhora muito sustenta��o de avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flap-rigidez-variavel-melhora-muito-sustentacao-avioes&id=010170230607)
 - [Vantagem qu�ntica: Processador fot�nico resolve problemas gr�ficos na hora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-resolve-problemas-graficos-hora&id=010150230607)
 - [A importância do motion design na experiência do usuário](https://www.alura.com.br/artigos/importancia-motion-design-experiencia-usuario)
