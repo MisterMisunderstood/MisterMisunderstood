@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Scala para engenharia de dados: primeiros passos](https://www.alura.com.br/artigos/scala-engenharia-dados-primeiros-passos)
-- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
-- [Linguagens de programação: uma breve introdução contextualizada](https://www.alura.com.br/artigos/linguagem-programacao)
 - [Flap com rigidez vari�vel melhora muito sustenta��o de avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flap-rigidez-variavel-melhora-muito-sustentacao-avioes&id=010170230607)
 - [Vantagem qu�ntica: Processador fot�nico resolve problemas gr�ficos na hora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-resolve-problemas-graficos-hora&id=010150230607)
-- [Linguagem Kotlin: o que é, para que serve e um Guia para aprender](https://www.alura.com.br/artigos/kotlin)
-- [A importância do motion design na experiência do usuário](https://www.alura.com.br/artigos/importancia-motion-design-experiencia-usuario)
+- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
+- [Linguagens de programação: uma breve introdução contextualizada](https://www.alura.com.br/artigos/linguagem-programacao)
+- [Raios tratores espaciais n�o ser�o apenas fic��o cient�fica por muito mais tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-tratores-espaciais-nao-serao-apenas-ficcao-cientifica-muito-mais-tempo&id=010130230606)
+- [Como as montanhas se formam? N�o � bem como os cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-montanhas-se-formam-nao-exatamente-como-cientistas-pensavam&id=010125230606)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
