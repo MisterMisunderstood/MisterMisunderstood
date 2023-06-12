@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Scala para engenharia de dados: primeiros passos](https://www.alura.com.br/artigos/scala-engenharia-dados-primeiros-passos)
 - [Computa��o com ondas magn�ticas muda paradigma da computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnonica-computacao-ondas-magneticas-mudar-paradigma-computacao&id=010110230609)
 - [Como e por que a madeira racha ou empena quando seca?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-madeira-racha-ou-empena-quando-seca&id=010160230609)
-- [Linguagens de programação: uma breve introdução contextualizada](https://www.alura.com.br/artigos/linguagem-programacao)
+- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
