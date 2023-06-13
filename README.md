@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Telesc�pio invertido faz microsc�pio mais vers�til e mais barato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-feito-telescopio-invertido-mais-versatil-mais-barato&id=010165230613)
+- [Dessalinizador termossolar port�til opera sem energia da rede](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizador-termossolar-portatil-opera-sem-energia-rede&id=010125230613)
+- [MIT apresenta motor el�trico de classe megawatt para avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-megawatt-eletrificar-avioes-passageiros&id=010170230612)
 - [Quais são os 4 tipos de aprendizagem na IA, algoritmos e usos no dia a dia](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial)
 - [Leis da f�sica nem sempre foram sim�tricas. E isso explica porque voc� existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-fisica-nem-sempre-foram-simetricas-isso-explica-porque-voce-existe&id=010130230612)
 - [Calor transformado em eletricidade com viabilidade t�cnica e econ�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-conversao-calor-eletricidade-tecnica-economicamente-viavel&id=010115230612)
 - [Scala para engenharia de dados: primeiros passos](https://www.alura.com.br/artigos/scala-engenharia-dados-primeiros-passos)
-- [Computa��o com ondas magn�ticas muda paradigma da computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnonica-computacao-ondas-magneticas-mudar-paradigma-computacao&id=010110230609)
-- [Como e por que a madeira racha ou empena quando seca?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-madeira-racha-ou-empena-quando-seca&id=010160230609)
-- [Ajuda com pesquisas, os ciclos da IA, e novo paradigma tecnoeconômico – Hipsters: Fora de Controle #08](https://www.alura.com.br/artigos/ajuda-com-pesquisas-ciclos-da-ia-e-novo-paradigma-tecnoeconomico-hipsters-fora-de-controle-08)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
