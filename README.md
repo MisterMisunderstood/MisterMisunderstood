@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT projeta rob� colhedor de tomates que funciona de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chatgpt-projeta-robo-colhedor-tomates&id=010180230614)
+- [Spin do el�tron � medido pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=spin-eletron-medido-pela-primeira-vez&id=010110230614)
 - [Por um bilh�o de anos, dias na Terra duravam apenas 19 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-bilhao-anos-dias-terra-duravam-apenas-19-horas&id=020125230613)
 - [NASA escolhe op��o "vintage" para novo avi�o do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-escolhe-opcao-vintage-novo-aviao-futuro&id=010170230613)
 - [Telesc�pio invertido faz microsc�pio mais vers�til e mais barato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-feito-telescopio-invertido-mais-versatil-mais-barato&id=010165230613)
 - [Dessalinizador termossolar port�til opera sem energia da rede](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizador-termossolar-portatil-opera-sem-energia-rede&id=010125230613)
 - [MIT apresenta motor el�trico de classe megawatt para avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-megawatt-eletrificar-avioes-passageiros&id=010170230612)
-- [Quais são os 4 tipos de aprendizagem na IA, algoritmos e usos no dia a dia](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial)
-- [Leis da f�sica nem sempre foram sim�tricas. E isso explica porque voc� existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-fisica-nem-sempre-foram-simetricas-isso-explica-porque-voce-existe&id=010130230612)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
