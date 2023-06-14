@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [NASA escolhe op��o "vintage" para novo avi�o do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-escolhe-opcao-vintage-novo-aviao-futuro&id=010170230613)
 - [Telesc�pio invertido faz microsc�pio mais vers�til e mais barato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-feito-telescopio-invertido-mais-versatil-mais-barato&id=010165230613)
 - [Dessalinizador termossolar port�til opera sem energia da rede](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizador-termossolar-portatil-opera-sem-energia-rede&id=010125230613)
-- [Quais são os 4 tipos de aprendizagem na IA, algoritmos e usos no dia a dia](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial)
 - [MIT apresenta motor el�trico de classe megawatt para avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrico-megawatt-eletrificar-avioes-passageiros&id=010170230612)
+- [Quais são os 4 tipos de aprendizagem na IA, algoritmos e usos no dia a dia](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial)
 - [Leis da f�sica nem sempre foram sim�tricas. E isso explica porque voc� existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-fisica-nem-sempre-foram-simetricas-isso-explica-porque-voce-existe&id=010130230612)
 <!-- BLOG-POST-LIST:END -->
 
