@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Engenharia de prompt, estilização de QR Codes, riscos da injeção de prompts – Hipsters: Fora de Controle #09](https://www.alura.com.br/artigos/engenharia-prompt-estilizacao-qr-codes-riscos-injecao-prompts-hipsters-fora-de-controle-09)
+- [Folha de palmeira substitui isopor em pain�is de isolamento t�rmico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-palmeira-substitui-isopor-paineis-estruturais-isolamento-termico&id=010160230615)
 - [IBM mostra avan�os na computa��o qu�ntica. Entenda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-mostra-avancos-correcao-erros-computadores-quanticos&id=020150230615)
 - [Processador neurom�rfico e org�nico pode interagir com nossos corpos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-feito-materiais-organicos-interagir-nossos-corpos&id=010150230615)
 - [Fosfato, elemento fundamental da vida, � encontrado na lua Enc�lado, de Saturno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fosfato-elemento-fundamental-vida-encontrado-lua-encelado-saturno&id=020130230614)
 - [Estrela est� se transformando em um diamante c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-esta-se-transformando-diamante-cosmico&id=010130230614)
 - [ChatGPT projeta rob� colhedor de tomates que funciona de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chatgpt-projeta-robo-colhedor-tomates&id=010180230614)
-- [Spin do el�tron � medido pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=spin-eletron-medido-pela-primeira-vez&id=010110230614)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
