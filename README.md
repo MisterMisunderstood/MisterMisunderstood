@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Engenharia de prompt, estilização de QR Codes, riscos da injeção de prompts – Hipsters: Fora de Controle #09](https://www.alura.com.br/artigos/engenharia-prompt-estilizacao-qr-codes-riscos-injecao-prompts-hipsters-fora-de-controle-09)
+- [IBM mostra avan�os na computa��o qu�ntica. Entenda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-mostra-avancos-correcao-erros-computadores-quanticos&id=020150230615)
 - [Processador neurom�rfico e org�nico pode interagir com nossos corpos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-feito-materiais-organicos-interagir-nossos-corpos&id=010150230615)
 - [Fosfato, elemento fundamental da vida, � encontrado na lua Enc�lado, de Saturno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fosfato-elemento-fundamental-vida-encontrado-lua-encelado-saturno&id=020130230614)
 - [Estrela est� se transformando em um diamante c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-esta-se-transformando-diamante-cosmico&id=010130230614)
 - [ChatGPT projeta rob� colhedor de tomates que funciona de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chatgpt-projeta-robo-colhedor-tomates&id=010180230614)
 - [Spin do el�tron � medido pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=spin-eletron-medido-pela-primeira-vez&id=010110230614)
-- [Por um bilh�o de anos, dias na Terra duravam apenas 19 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-bilhao-anos-dias-terra-duravam-apenas-19-horas&id=020125230613)
-- [NASA escolhe op��o "vintage" para novo avi�o do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-escolhe-opcao-vintage-novo-aviao-futuro&id=010170230613)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
