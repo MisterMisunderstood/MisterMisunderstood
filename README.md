@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Bombeamento de �guas subterr�neas alterou equil�brio da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombeamento-aguas-subterraneas-altera-equilibrio-terra&id=020125230616)
 - [Os 12 princípios da animação](https://www.alura.com.br/artigos/12-principios-animacao)
+- [Bombeamento de �guas subterr�neas alterou equil�brio da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombeamento-aguas-subterraneas-altera-equilibrio-terra&id=020125230616)
 - [Descoberta correla��o misteriosa entre terremotos e raios c�smicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-correlacao-entre-terremotos-raios-cosmicos&id=010125230616)
 - [Chip neurom�rfico imita retina e c�rebro juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-neuromorfico-imita-retina-cerebro-juntos&id=010110230616)
 - [Cientistas estendem conceito de direcionalidade e prop�em nova classe de materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quiralidade-nivel-superior&id=010160230616)
