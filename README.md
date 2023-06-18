@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberta correla��o misteriosa entre terremotos e raios c�smicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-correlacao-entre-terremotos-raios-cosmicos&id=010125230616)
 - [Chip neurom�rfico imita retina e c�rebro juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-neuromorfico-imita-retina-cerebro-juntos&id=010110230616)
 - [Cientistas estendem conceito de direcionalidade e prop�em nova classe de materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quiralidade-nivel-superior&id=010160230616)
-- [Folha de palmeira substitui isopor em pain�is de isolamento t�rmico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-palmeira-substitui-isopor-paineis-estruturais-isolamento-termico&id=010160230615)
 - [Engenharia de prompt, estilização de QR Codes, riscos da injeção de prompts – Hipsters: Fora de Controle #09](https://www.alura.com.br/artigos/engenharia-prompt-estilizacao-qr-codes-riscos-injecao-prompts-hipsters-fora-de-controle-09)
+- [Folha de palmeira substitui isopor em pain�is de isolamento t�rmico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-palmeira-substitui-isopor-paineis-estruturais-isolamento-termico&id=010160230615)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
