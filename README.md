@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Trans�stor de pl�stico amplifica sinais bioqu�micos emitidos pelo corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-plastico-amplifica-sinais-bioquimicos-emitidos-pelo-corpo&id=010110230619)
 - [Cientistas pedem esfor�o global para avaliar impactos do tr�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impactos-ambientais-tricio&id=010125230619)
 - [Bombeamento de �guas subterr�neas alterou equil�brio da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombeamento-aguas-subterraneas-altera-equilibrio-terra&id=020125230616)
-- [Descoberta correla��o misteriosa entre terremotos e raios c�smicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-correlacao-entre-terremotos-raios-cosmicos&id=010125230616)
 - [Os 12 princípios da animação](https://www.alura.com.br/artigos/12-principios-animacao)
+- [Descoberta correla��o misteriosa entre terremotos e raios c�smicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-correlacao-entre-terremotos-raios-cosmicos&id=010125230616)
 - [Chip neurom�rfico imita retina e c�rebro juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-neuromorfico-imita-retina-cerebro-juntos&id=010110230616)
 <!-- BLOG-POST-LIST:END -->
 
