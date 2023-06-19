@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [GPT-3 e GPT-4: o que é, diferenças e como a inteligência artificial pode te ajudar](https://www.alura.com.br/artigos/o-que-e-gpt-3-gpt-4)
+- [Próximos passos da sua carreira e a Inteligência artificial](https://www.alura.com.br/artigos/proximos-passos-carreira-inteligencia-artificial)
 - [Computador pneum�tico usa press�o em vez de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-pneumatico-usa-pressao-vez-eletricidade&id=010150230619)
 - [Trans�stor de pl�stico amplifica sinais bioqu�micos emitidos pelo corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-plastico-amplifica-sinais-bioquimicos-emitidos-pelo-corpo&id=010110230619)
 - [Cientistas pedem esfor�o global para avaliar impactos do tr�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impactos-ambientais-tricio&id=010125230619)
 - [Os 12 princípios da animação](https://www.alura.com.br/artigos/12-principios-animacao)
 - [Bombeamento de �guas subterr�neas alterou equil�brio da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombeamento-aguas-subterraneas-altera-equilibrio-terra&id=020125230616)
-- [Descoberta correla��o misteriosa entre terremotos e raios c�smicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-correlacao-entre-terremotos-raios-cosmicos&id=010125230616)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
