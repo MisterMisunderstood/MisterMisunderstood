@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Networking online: o que é, como fazer e usar as redes sociais para expandir sua rede de contatos](https://www.alura.com.br/artigos/networking-online)
+- [Vulc�o Hunga gerou mais rel�mpagos que qualquer tempestade na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulcao-hunga-gerou-mais-relampagos-qualquer-tempestade-terra&id=010125230620)
 - [Bateria de l�tio alcan�a densidade recorde de 710 Wh/kg](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-recorde-densidade&id=020115230620)
 - [Descoberta primeira vulnerabilidade da criptografia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-vulnerabilidade-criptografia-quantica&id=020150230620)
 - [Ajude a intelig�ncia artificial a projetar seu pr�prio rosto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=jogo-ensina-inteligencia-artificial-projetar-seu-proprio-rosto&id=010150230620)
 - [Criada uma bateria org�nica a ar totalmente s�lida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-bateria-organica-ar-totalmente-solida&id=010115230620)
 - [GPT-3 e GPT-4: o que é, diferenças e como a inteligência artificial pode te ajudar](https://www.alura.com.br/artigos/o-que-e-gpt-3-gpt-4)
-- [Próximos passos da sua carreira e a Inteligência artificial](https://www.alura.com.br/artigos/proximos-passos-carreira-inteligencia-artificial)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
