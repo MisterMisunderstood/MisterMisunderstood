@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Ajude a intelig�ncia artificial a projetar seu pr�prio rosto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=jogo-ensina-inteligencia-artificial-projetar-seu-proprio-rosto&id=010150230620)
 - [Criada uma bateria org�nica a ar totalmente s�lida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-bateria-organica-ar-totalmente-solida&id=010115230620)
 - [Computador pneum�tico usa press�o em vez de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-pneumatico-usa-pressao-vez-eletricidade&id=010150230619)
-- [Trans�stor de pl�stico amplifica sinais bioqu�micos emitidos pelo corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-plastico-amplifica-sinais-bioquimicos-emitidos-pelo-corpo&id=010110230619)
-- [Cientistas pedem esfor�o global para avaliar impactos do tr�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impactos-ambientais-tricio&id=010125230619)
 - [GPT-3 e GPT-4: o que é, diferenças e como a inteligência artificial pode te ajudar](https://www.alura.com.br/artigos/o-que-e-gpt-3-gpt-4)
+- [Próximos passos da sua carreira e a Inteligência artificial](https://www.alura.com.br/artigos/proximos-passos-carreira-inteligencia-artificial)
+- [Trans�stor de pl�stico amplifica sinais bioqu�micos emitidos pelo corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-plastico-amplifica-sinais-bioquimicos-emitidos-pelo-corpo&id=010110230619)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
