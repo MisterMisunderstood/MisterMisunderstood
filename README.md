@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Software livre ajudar� a acelerar a pesquisa qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=software-codigo-aberto-acelerar-pesquisa-quantica&id=010150230621)
 - [Como manipular �tomos para criar emissores de luz e sensores magn�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-manipular-atomos&id=010165230621)
 - [Vulc�o Hunga gerou mais rel�mpagos que qualquer tempestade na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulcao-hunga-gerou-mais-relampagos-qualquer-tempestade-terra&id=010125230620)
-- [Bateria de l�tio alcan�a densidade recorde de 710 Wh/kg](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-recorde-densidade&id=020115230620)
 - [Networking online: o que é, como fazer e usar as redes sociais para expandir sua rede de contatos](https://www.alura.com.br/artigos/networking-online)
+- [Bateria de l�tio alcan�a densidade recorde de 710 Wh/kg](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-recorde-densidade&id=020115230620)
 - [Descoberta primeira vulnerabilidade da criptografia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-vulnerabilidade-criptografia-quantica&id=020150230620)
 <!-- BLOG-POST-LIST:END -->
 
