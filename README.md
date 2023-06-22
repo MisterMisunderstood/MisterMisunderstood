@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Reactions no MobX com Flutter: o que são e como utilizá-las?](https://www.alura.com.br/artigos/reactions-mobx-flutter-como-utiliza-las)
 - [Vulc�o Hunga gerou mais rel�mpagos que qualquer tempestade na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulcao-hunga-gerou-mais-relampagos-qualquer-tempestade-terra&id=010125230620)
 - [Bateria de l�tio alcan�a densidade recorde de 710 Wh/kg](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-recorde-densidade&id=020115230620)
+- [Networking online: o que é, como fazer e usar as redes sociais para expandir sua rede de contatos](https://www.alura.com.br/artigos/networking-online)
 - [Descoberta primeira vulnerabilidade da criptografia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-vulnerabilidade-criptografia-quantica&id=020150230620)
-- [Ajude a intelig�ncia artificial a projetar seu pr�prio rosto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=jogo-ensina-inteligencia-artificial-projetar-seu-proprio-rosto&id=010150230620)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
