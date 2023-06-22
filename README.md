@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML: o que é, a importância para a Web, como aprender e um Guia para iniciantes](https://www.alura.com.br/artigos/html)
 - [Computador qu�ntico baseado em som ganha seu primeiro componente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-baseado-som-ganha-seu-primeiro-componente&id=010110230622)
 - [Nanoestruturas de vidro para guiar a luz dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoestruturas-vidro-construidas-dentro-chips&id=010165230622)
 - [Reactions no MobX com Flutter: o que são e como utilizá-las?](https://www.alura.com.br/artigos/reactions-mobx-flutter-como-utiliza-las)
 - [Software livre ajudar� a acelerar a pesquisa qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=software-codigo-aberto-acelerar-pesquisa-quantica&id=010150230621)
 - [Como manipular �tomos para criar emissores de luz e sensores magn�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-manipular-atomos&id=010165230621)
 - [Vulc�o Hunga gerou mais rel�mpagos que qualquer tempestade na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulcao-hunga-gerou-mais-relampagos-qualquer-tempestade-terra&id=010125230620)
-- [Bateria de l�tio alcan�a densidade recorde de 710 Wh/kg](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-recorde-densidade&id=020115230620)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
