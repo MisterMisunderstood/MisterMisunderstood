@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Su�cia vai construir uma cidade inteira de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suecia-vai-construir-cidade-inteira-madeira&id=020125230623)
 - [Um dia na Terra: O que a humanidade fica fazendo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=um-dia-terra-humanidade-fica-fazendo&id=010125230623)
 - [Novas observa��es refor�am modelos da gravidade qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-quantica-ganha-pontos-neutrinos-explosoes-raios-gama&id=010130230623)
-- [Corremos o risco de uma superexplos�o no Sol?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-sol-produzir-superexplosao-estelar&id=010130230622)
 - [HTML: o que é, a importância para a Web, como aprender e um Guia para iniciantes](https://www.alura.com.br/artigos/html)
+- [Corremos o risco de uma superexplos�o no Sol?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-sol-produzir-superexplosao-estelar&id=010130230622)
 - [Computador qu�ntico baseado em som ganha seu primeiro componente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-baseado-som-ganha-seu-primeiro-componente&id=010110230622)
 <!-- BLOG-POST-LIST:END -->
 
