@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Um dia na Terra: O que a humanidade fica fazendo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=um-dia-terra-humanidade-fica-fazendo&id=010125230623)
 - [Novas observa��es refor�am modelos da gravidade qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-quantica-ganha-pontos-neutrinos-explosoes-raios-gama&id=010130230623)
 - [Corremos o risco de uma superexplos�o no Sol?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-sol-produzir-superexplosao-estelar&id=010130230622)
+- [HTML: o que é, a importância para a Web, como aprender e um Guia para iniciantes](https://www.alura.com.br/artigos/html)
 - [Computador qu�ntico baseado em som ganha seu primeiro componente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-baseado-som-ganha-seu-primeiro-componente&id=010110230622)
 - [Nanoestruturas de vidro para guiar a luz dentro dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoestruturas-vidro-construidas-dentro-chips&id=010165230622)
-- [HTML: o que é, a importância para a Web, como aprender e um Guia para iniciantes](https://www.alura.com.br/artigos/html)
-- [Software livre ajudar� a acelerar a pesquisa qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=software-codigo-aberto-acelerar-pesquisa-quantica&id=010150230621)
+- [Reactions no MobX com Flutter: o que são e como utilizá-las?](https://www.alura.com.br/artigos/reactions-mobx-flutter-como-utiliza-las)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
