@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Mem�ria anal�gica multiplica armazenamento e reduz consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-analogica-multiplica-armazenamento-reduz-consumo-energia&id=010110230626)
 - [P�ndulos de luz que se sincronizam trazem oportunidades para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pendulos-luz-se-sincronizam-trazem-oportunidades-tecnologias-quanticas&id=010170230626)
 - [F�sicos geram um ex�tico estado da mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estado-laughlin-fisicos-geram-exotico-estado-materia&id=010165230624)
-- [Su�cia vai construir uma cidade inteira de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suecia-vai-construir-cidade-inteira-madeira&id=020125230623)
 - [CSS: o que é, como usar no HTML e um Guia para iniciar](https://www.alura.com.br/artigos/css)
+- [Su�cia vai construir uma cidade inteira de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suecia-vai-construir-cidade-inteira-madeira&id=020125230623)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
