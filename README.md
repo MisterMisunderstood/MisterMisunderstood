@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sensor revolucion�rio monitora alimentos em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-revolucionario-monitora-alimentos-tempo-real&id=010110230627)
 - [Webb detecta no espa�o mol�cula de carbono importante para a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=webb-detecta-espaco-molecula-carbono-importante-vida&id=020175230626)
 - [Sat�lite brasileiro SCD-1 bate recorde mundial de opera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-brasileiro-scd-1-bate-recorde-mundial-operacao&id=010175230626)
+- [Como criar uma Inteligência Artificial? O que é preciso, quais os exemplos e como uma IA pode te ajudar](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
 - [Fita adesiva recortada fica 60 vezes mais forte e mais f�cil de retirar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=kirigami-deixa-fita-adesiva-60-vezes-mais-forte-mas-mais-facil-retirar&id=010160230626)
-- [Mem�ria anal�gica multiplica armazenamento e reduz consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-analogica-multiplica-armazenamento-reduz-consumo-energia&id=010110230626)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
