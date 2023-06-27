@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gato c�smico: Conhe�a a Nebulosa do Gato Sorridente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-cosmico-conheca-nebulosa-gato-sorridente&id=010130230627)
 - [IA na ind�stria revoluciona controle de qualidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-industria-controle-qualidade&id=010170230627)
 - [Tecido regula ativamente a temperatura com o toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-regula-ativamente-temperatura-toque-botao&id=010160230627)
 - [Sensor revolucion�rio monitora alimentos em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-revolucionario-monitora-alimentos-tempo-real&id=010110230627)
 - [Webb detecta no espa�o mol�cula de carbono importante para a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=webb-detecta-espaco-molecula-carbono-importante-vida&id=020175230626)
 - [Como criar uma Inteligência Artificial? O que é preciso, quais os exemplos e como uma IA pode te ajudar](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
 - [Sat�lite brasileiro SCD-1 bate recorde mundial de opera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-brasileiro-scd-1-bate-recorde-mundial-operacao&id=010175230626)
-- [Fita adesiva recortada fica 60 vezes mais forte e mais f�cil de retirar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=kirigami-deixa-fita-adesiva-60-vezes-mais-forte-mas-mais-facil-retirar&id=010160230626)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
