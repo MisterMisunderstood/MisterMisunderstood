@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [IA na ind�stria revoluciona controle de qualidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-industria-controle-qualidade&id=010170230627)
 - [Tecido regula ativamente a temperatura com o toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-regula-ativamente-temperatura-toque-botao&id=010160230627)
 - [Sensor revolucion�rio monitora alimentos em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-revolucionario-monitora-alimentos-tempo-real&id=010110230627)
-- [Webb detecta no espa�o mol�cula de carbono importante para a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=webb-detecta-espaco-molecula-carbono-importante-vida&id=020175230626)
 - [Como criar uma Inteligência Artificial? O que é preciso, quais os exemplos e como uma IA pode te ajudar](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
+- [Webb detecta no espa�o mol�cula de carbono importante para a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=webb-detecta-espaco-molecula-carbono-importante-vida&id=020175230626)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
