@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Este planeta mergulhou em sua estrela e sobreviveu. Ou talvez n�o.](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-planeta-mergulhou-sua-estrela-sobreviveu-ou-talvez-nao&id=010130230628)
 - [Conhe�a as 10 principais tecnologias emergentes de 2023](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-mostra-10-principais-tecnologias-emergentes-2023&id=020150230628)
 - [Matem�tica ou matem�gica? Encontrado 9� N�mero de Dedekind](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=numero-dedekind&id=010150230628)
 - [Rel�gio at�mico de pulso come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-pulso-comeca-virar-realidade&id=010165230628)
 - [Geração de imagens, ‘Her’ da vida real, mudanças nas APIs da OpenAI – Hipsters: Fora de Controle #10](https://www.alura.com.br/artigos/geracao-imagens-inteligencia-artificial-her-da-vida-real-mudancas-api-openai-hipsters-fora-de-controle-10)
 - [Gato c�smico: Conhe�a a Nebulosa do Gato Sorridente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-cosmico-conheca-nebulosa-gato-sorridente&id=010130230627)
 - [IA na ind�stria revoluciona controle de qualidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-industria-controle-qualidade&id=010170230627)
-- [Tecido regula ativamente a temperatura com o toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-regula-ativamente-temperatura-toque-botao&id=010160230627)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
