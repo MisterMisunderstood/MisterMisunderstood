@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Matem�tica ou matem�gica? Encontrado 9� N�mero de Dedekind](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=numero-dedekind&id=010150230628)
 - [Rel�gio at�mico de pulso come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-pulso-comeca-virar-realidade&id=010165230628)
-- [Gato c�smico: Conhe�a a Nebulosa do Gato Sorridente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-cosmico-conheca-nebulosa-gato-sorridente&id=010130230627)
 - [Geração de imagens, ‘Her’ da vida real, mudanças nas APIs da OpenAI – Hipsters: Fora de Controle #10](https://www.alura.com.br/artigos/geracao-imagens-inteligencia-artificial-her-da-vida-real-mudancas-api-openai-hipsters-fora-de-controle-10)
+- [Gato c�smico: Conhe�a a Nebulosa do Gato Sorridente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-cosmico-conheca-nebulosa-gato-sorridente&id=010130230627)
 - [IA na ind�stria revoluciona controle de qualidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-industria-controle-qualidade&id=010170230627)
 - [Tecido regula ativamente a temperatura com o toque de um bot�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-regula-ativamente-temperatura-toque-botao&id=010160230627)
 - [Sensor revolucion�rio monitora alimentos em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-revolucionario-monitora-alimentos-tempo-real&id=010110230627)
