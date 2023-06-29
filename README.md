@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [WWDC - As principais novidades no desenvolvimento do mundo da Apple](https://www.alura.com.br/artigos/wwdc-principais-novidades-mundo-apple)
 - [Antena c�smica capta zumbido de fundo de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-cosmica-capta-zumbido-fundo-ondas-gravitacionais&id=010130230629)
 - [Problema da Banana Solit�ria exp�e falha da IA para entender mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=problema-banana-solitaria-questiona-confiabilidade-inteligencia-artificial&id=010150230629)
 - [Novo material transforma luz de baixa energia em luz de alta energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-material-transforma-luz-baixa-energia-luz-alta-energia&id=010160230629)
 - [Este planeta mergulhou em sua estrela e sobreviveu. Ou talvez n�o.](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-planeta-mergulhou-sua-estrela-sobreviveu-ou-talvez-nao&id=010130230628)
 - [Conhe�a as 10 principais tecnologias emergentes de 2023](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-mostra-10-principais-tecnologias-emergentes-2023&id=020150230628)
 - [Matem�tica ou matem�gica? Encontrado 9� N�mero de Dedekind](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=numero-dedekind&id=010150230628)
-- [Rel�gio at�mico de pulso come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-pulso-comeca-virar-realidade&id=010165230628)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
