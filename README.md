@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Via L�ctea � escura quando vista em neutrinos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-via-lactea-vista-neutrinos&id=010130230630)
 - [Antena c�smica capta zumbido de fundo de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-cosmica-capta-zumbido-fundo-ondas-gravitacionais&id=010130230629)
 - [WWDC - As principais novidades no desenvolvimento do mundo da Apple](https://www.alura.com.br/artigos/wwdc-principais-novidades-mundo-apple)
+- [O que é Firebase? Para que serve, principais característica e um Guia dessa ferramenta Google](https://www.alura.com.br/artigos/firebase)
 - [Problema da Banana Solit�ria exp�e falha da IA para entender mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=problema-banana-solitaria-questiona-confiabilidade-inteligencia-artificial&id=010150230629)
-- [Novo material transforma luz de baixa energia em luz de alta energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-material-transforma-luz-baixa-energia-luz-alta-energia&id=010160230629)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
