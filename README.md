@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Microsoft revela computador anal�gico que funciona com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-revela-computador-optico-analogico-problemas-otimizacao&id=010150230630)
 - [Via L�ctea � escura quando vista em neutrinos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-via-lactea-vista-neutrinos&id=010130230630)
 - [Antena c�smica capta zumbido de fundo de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-cosmica-capta-zumbido-fundo-ondas-gravitacionais&id=010130230629)
-- [Problema da Banana Solit�ria exp�e falha da IA para entender mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=problema-banana-solitaria-questiona-confiabilidade-inteligencia-artificial&id=010150230629)
-- [Novo material transforma luz de baixa energia em luz de alta energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-material-transforma-luz-baixa-energia-luz-alta-energia&id=010160230629)
+- [WWDC 2023: as principais novidades que impactaram o mundo de desenvolvimento iOS e de produtos da Apple](https://www.alura.com.br/artigos/wwdc-principais-novidades-mundo-apple)
+- [O que é Firebase? Para que serve, principais característica e um Guia dessa ferramenta Google](https://www.alura.com.br/artigos/firebase)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
