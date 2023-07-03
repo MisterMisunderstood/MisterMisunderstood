@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Prote��o contra terremotos: Esferas macias tornam meios porosos mais r�gidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protecao-contra-terremotos-esferas-macias-tornam-meios-porosos-mais-rigidos&id=010170230703)
+- [Qubit mec�nico come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-mecanico-comeca-virar-realidade&id=010110230703)
+- [Colisores de el�trons s�o constru�dos dentro de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisores-de-eletrons-dentro-chips&id=010165230703)
 - [Telesc�pios espaciais Euclides e Roman: �ltima chance para a energia escura?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-espaciais-euclides-roman-ultima-chance-energia-escura&id=020130230630)
 - [Virgin Galactic realiza primeiro voo de turismo espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=virgin-galactic-realiza-primeiro-voo-espacial-comercial&id=010175230630)
 - [Microsoft revela computador anal�gico que funciona com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-revela-computador-optico-analogico-problemas-otimizacao&id=010150230630)
 - [Via L�ctea � escura quando vista em neutrinos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-via-lactea-vista-neutrinos&id=010130230630)
-- [Antena c�smica capta zumbido de fundo de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-cosmica-capta-zumbido-fundo-ondas-gravitacionais&id=010130230629)
-- [WWDC 2023: as principais novidades que impactaram o mundo de desenvolvimento iOS e de produtos da Apple](https://www.alura.com.br/artigos/wwdc-principais-novidades-mundo-apple)
-- [O que é Firebase? Para que serve, principais característica e um Guia dessa ferramenta Google](https://www.alura.com.br/artigos/firebase)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
