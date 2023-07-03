@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é service design e sua aplicação em negócios digitais](https://www.alura.com.br/artigos/service-design-aplicacao-negocios-digitais)
 - [Prote��o contra terremotos: Esferas macias tornam meios porosos mais r�gidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protecao-contra-terremotos-esferas-macias-tornam-meios-porosos-mais-rigidos&id=010170230703)
 - [Qubit mec�nico come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-mecanico-comeca-virar-realidade&id=010110230703)
 - [Colisores de el�trons s�o constru�dos dentro de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisores-de-eletrons-dentro-chips&id=010165230703)
 - [Telesc�pio Euclides decola em busca do mist�rio da mat�ria escura e da energia escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-euclides-decola-busca-misterio-materia-escura-energia-escura&id=010130230703)
 - [Telesc�pios espaciais Euclides e Roman: �ltima chance para a energia escura?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-espaciais-euclides-roman-ultima-chance-energia-escura&id=020130230630)
 - [Virgin Galactic realiza primeiro voo de turismo espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=virgin-galactic-realiza-primeiro-voo-espacial-comercial&id=010175230630)
-- [Microsoft revela computador anal�gico que funciona com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-revela-computador-optico-analogico-problemas-otimizacao&id=010150230630)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
