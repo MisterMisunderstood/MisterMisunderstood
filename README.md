@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Inteligência Artificial (IA) para criar desenhos e imagens: principais ferramentas do mercado e aplicações](https://www.alura.com.br/artigos/inteligencia-artificial-desenha-e-cria-imagens)
-- [O que é service design e sua aplicação em negócios digitais](https://www.alura.com.br/artigos/service-design-aplicacao-negocios-digitais)
 - [Prote��o contra terremotos: Esferas macias tornam meios porosos mais r�gidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protecao-contra-terremotos-esferas-macias-tornam-meios-porosos-mais-rigidos&id=010170230703)
 - [Qubit mec�nico come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-mecanico-comeca-virar-realidade&id=010110230703)
 - [Colisores de el�trons s�o constru�dos dentro de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisores-de-eletrons-dentro-chips&id=010165230703)
 - [Telesc�pio Euclides decola em busca do mist�rio da mat�ria escura e da energia escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-euclides-decola-busca-misterio-materia-escura-energia-escura&id=010130230703)
+- [Inteligência Artificial (IA) para criar desenhos e imagens: principais ferramentas do mercado e aplicações](https://www.alura.com.br/artigos/inteligencia-artificial-desenha-e-cria-imagens)
+- [O que é service design e sua aplicação em negócios digitais](https://www.alura.com.br/artigos/service-design-aplicacao-negocios-digitais)
 - [Telesc�pios espaciais Euclides e Roman: �ltima chance para a energia escura?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-espaciais-euclides-roman-ultima-chance-energia-escura&id=020130230630)
 <!-- BLOG-POST-LIST:END -->
 
