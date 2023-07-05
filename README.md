@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Batido recorde de dia mais quente j� registrado na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dia-mais-quente-ja-registrado-terra&id=010175230705)
+- [Revolu��o �ptica na pr�tica: Metassuperf�cies feitas com di�metro de 30 cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-optica-pratica-metassuperficies-feitas-diametro-30-cm&id=020160230705)
+- [Criado vidro 10 vezes mais resistente e mais f�cil de fabricar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-tipo-vidro-10-vezes-mais-resistente-gasta-menos-energia&id=010160230705)
 - [Universo era cinco vezes mais lento logo ap�s o Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-era-cinco-vezes-mais-lento-logo-apos-big-bang&id=020130230704)
 - [Efici�ncia da fotoss�ntese pode ser explicada pela desorganiza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eficiencia-fotossintese-explicada-pela-desorganizacao&id=010115230704)
 - [Metamaterial sabe contar at� 10 sem nenhum circuito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-sabe-contar-ate-10-sem-nenhum-circuito-eletronico&id=010160230704)
 - [F�sicos criam um cristal feito de cargas el�tricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-criam-cristal-feito-bosons&id=010110230704)
-- [Planeta-sandu�che pode explicar forma��o de planetas pequenos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-sanduiche-explicar-formacao-planetas-pequenos&id=010130230704)
-- [Inteligência Artificial (IA) para criar desenhos e imagens: principais ferramentas do mercado e aplicações](https://www.alura.com.br/artigos/inteligencia-artificial-desenha-e-cria-imagens)
-- [O que é service design e sua aplicação em negócios digitais](https://www.alura.com.br/artigos/service-design-aplicacao-negocios-digitais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
