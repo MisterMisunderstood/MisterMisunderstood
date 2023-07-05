@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Entenda como a GDPR, a LGPD e o NIST ajudam na proteção de dados pessoais](https://www.alura.com.br/artigos/gdpr-lgpd-nist-ajudam-protecao-dados-pessoais)
 - [Aplicando IA na educação, trazendo as IAs para o seu contexto, avanços em pesquisas científicas – Hipsters: Fora de Controle #11](https://www.alura.com.br/artigos/ia-aplicada-educacao-ia-contexto-dia-a-dia-avancos-em-pesquisas-cientificas-hipsters-fora-de-controle-11)
+- [Terra tem auroras invis�veis para os seres humanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-tem-auroras-invisiveis-seres-humanos&id=010130230705)
 - [Batido recorde de dia mais quente j� registrado na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dia-mais-quente-ja-registrado-terra&id=010175230705)
 - [Revolu��o �ptica na pr�tica: Metassuperf�cies feitas com di�metro de 30 cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-optica-pratica-metassuperficies-feitas-diametro-30-cm&id=020160230705)
 - [Criado vidro 10 vezes mais resistente e mais f�cil de fabricar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-tipo-vidro-10-vezes-mais-resistente-gasta-menos-energia&id=010160230705)
 - [Universo era cinco vezes mais lento logo ap�s o Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-era-cinco-vezes-mais-lento-logo-apos-big-bang&id=020130230704)
-- [Efici�ncia da fotoss�ntese pode ser explicada pela desorganiza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eficiencia-fotossintese-explicada-pela-desorganizacao&id=010115230704)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
