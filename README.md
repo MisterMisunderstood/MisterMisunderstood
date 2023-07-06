@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Planeta mais vermelho j� visto cria bra�os espirais ao redor de sua estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-mais-vermelho-cria-bracos-espirais-redor-sua-estrela&id=020130230706)
 - [O que é Security By Design?](https://www.alura.com.br/artigos/o-que-e-security-by-design)
+- [Planeta mais vermelho j� visto cria bra�os espirais ao redor de sua estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-mais-vermelho-cria-bracos-espirais-redor-sua-estrela&id=020130230706)
 - [O que aconteceu com a Teoria de Tudo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-aconteceu-teoria-tudo&id=010130230706)
 - [Gel met�lico imprime objetos de metal a frio e permite impress�o 4D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gel-metalico-transforma-impressao-3d-impressao-4d&id=010170230706)
 - [Entenda como a GDPR, a LGPD e o NIST ajudam na proteção de dados pessoais](https://www.alura.com.br/artigos/gdpr-lgpd-nist-ajudam-protecao-dados-pessoais)
