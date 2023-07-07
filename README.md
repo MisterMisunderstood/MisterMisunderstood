@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que � o "buraco gravitacional" da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-buraco-gravitacional-terra&id=010125230707)
 - [Processador e mem�ria integrados em 3D aceleram computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-memoria-integrados-3d&id=010110230707)
 - [Material multifuncional gera telas coloridas feitas de celulose](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-camaleao-gera-telas-coloridas-feitas-celulose&id=010160230707)
 - [Planeta mais vermelho j� visto cria bra�os espirais ao redor de sua estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-mais-vermelho-cria-bracos-espirais-redor-sua-estrela&id=020130230706)
 - [O que é Security By Design?](https://www.alura.com.br/artigos/o-que-e-security-by-design)
 - [O que aconteceu com a Teoria de Tudo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-aconteceu-teoria-tudo&id=010130230706)
 - [Gel met�lico imprime objetos de metal a frio e permite impress�o 4D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gel-metalico-transforma-impressao-3d-impressao-4d&id=010170230706)
-- [Terra tem auroras invis�veis para os seres humanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-tem-auroras-invisiveis-seres-humanos&id=010130230705)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
