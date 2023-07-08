@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
 - [Equipe da USP fica em 2� em competi��o mundial de foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-usp-fica-2-competicao-mundial-foguetes&id=010175230707)
 - [O que � o "buraco gravitacional" da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-buraco-gravitacional-terra&id=010125230707)
-- [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
-- [Design Auxiliado por Inteligência Artificial: desbloqueando novas possibilidades criativas](https://www.alura.com.br/artigos/design-auxiliado-inteligencia-artificial)
 - [Processador e mem�ria integrados em 3D aceleram computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-memoria-integrados-3d&id=010110230707)
 - [Material multifuncional gera telas coloridas feitas de celulose](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-camaleao-gera-telas-coloridas-feitas-celulose&id=010160230707)
+- [Planeta mais vermelho j� visto cria bra�os espirais ao redor de sua estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-mais-vermelho-cria-bracos-espirais-redor-sua-estrela&id=020130230706)
+- [O que aconteceu com a Teoria de Tudo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-aconteceu-teoria-tudo&id=010130230706)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
