@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Conhe�a os dois avi�es supers�nicos mais pr�ximos da decolagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-dois-avioes-supersonicos-mais-proximos-decolagem&id=010170230710)
 - [Pesquisadores ajustam condutividade t�rmica de materiais em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadores-ajustam-condutividade-termica-materiais-tempo-voo&id=010115230710)
 - [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
-- [Equipe da USP fica em 2� em competi��o mundial de foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-usp-fica-2-competicao-mundial-foguetes&id=010175230707)
 - [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
 - [Design Auxiliado por Inteligência Artificial: desbloqueando novas possibilidades criativas](https://www.alura.com.br/artigos/design-auxiliado-inteligencia-artificial)
+- [Equipe da USP fica em 2� em competi��o mundial de foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-usp-fica-2-competicao-mundial-foguetes&id=010175230707)
 - [O que � o "buraco gravitacional" da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-buraco-gravitacional-terra&id=010125230707)
 <!-- BLOG-POST-LIST:END -->
 
