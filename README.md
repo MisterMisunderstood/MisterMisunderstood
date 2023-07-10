@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
-- [Design Auxiliado por Inteligência Artificial: desbloqueando novas possibilidades criativas](https://www.alura.com.br/artigos/design-auxiliado-inteligencia-artificial)
 - [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
 - [Equipe da USP fica em 2� em competi��o mundial de foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-usp-fica-2-competicao-mundial-foguetes&id=010175230707)
 - [O que � o "buraco gravitacional" da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-buraco-gravitacional-terra&id=010125230707)
+- [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
+- [Design Auxiliado por Inteligência Artificial: desbloqueando novas possibilidades criativas](https://www.alura.com.br/artigos/design-auxiliado-inteligencia-artificial)
 - [Processador e mem�ria integrados em 3D aceleram computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-memoria-integrados-3d&id=010110230707)
 - [Material multifuncional gera telas coloridas feitas de celulose](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-camaleao-gera-telas-coloridas-feitas-celulose&id=010160230707)
 <!-- BLOG-POST-LIST:END -->
