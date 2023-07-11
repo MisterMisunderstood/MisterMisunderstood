@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolu��o na cosmologia: Universo pode ter 26,7 bilh�es de anos de idade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=idade-do-universo-26-7-bilhoes-anos&id=010130230711)
+- [Material inspirado em lulas controla passagem de luz, calor e micro-ondas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-macio-inspirado-lulas-bloqueia-ou-deixa-passar-luz-calor-micro-ondas&id=010160230711)
+- [N�ilon de base biol�gica come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nailon-base-biologica&id=010125230711)
+- [Novo pol�mero ferroel�trico promete dar m�sculos humanos a rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-polimero-ferroeletrico-promete-dar-musculos-humanos-robos&id=010180230711)
 - [Conhe�a os dois avi�es supers�nicos mais pr�ximos da decolagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-dois-avioes-supersonicos-mais-proximos-decolagem&id=010170230710)
 - [Pesquisadores ajustam condutividade t�rmica de materiais em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadores-ajustam-condutividade-termica-materiais-tempo-voo&id=010115230710)
 - [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
-- [Design Auxiliado por Inteligência Artificial: desbloqueando novas possibilidades criativas](https://www.alura.com.br/artigos/design-auxiliado-inteligencia-artificial)
-- [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
-- [Equipe da USP fica em 2� em competi��o mundial de foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-usp-fica-2-competicao-mundial-foguetes&id=010175230707)
-- [O que � o "buraco gravitacional" da Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-buraco-gravitacional-terra&id=010125230707)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
