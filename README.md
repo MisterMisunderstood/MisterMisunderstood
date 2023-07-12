@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Novo pol�mero ferroel�trico promete dar m�sculos humanos a rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-polimero-ferroeletrico-promete-dar-musculos-humanos-robos&id=010180230711)
 - [Conhe�a os dois avi�es supers�nicos mais pr�ximos da decolagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-dois-avioes-supersonicos-mais-proximos-decolagem&id=010170230710)
 - [Pesquisadores ajustam condutividade t�rmica de materiais em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadores-ajustam-condutividade-termica-materiais-tempo-voo&id=010115230710)
-- [Conheça livros de cabeceira dos Devs (parte 1)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-1)
+- [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
