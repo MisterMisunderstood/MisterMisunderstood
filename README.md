@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motor de foguete movido a fus�o nuclear: O sonho continua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-foguete-movido-fusao-nuclear-sonho-continua&id=010130230712)
+- [A��car faz baterias de fluxo baterem novos recordes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acucar-faz-baterias-fluxo-baterem-novos-recordes&id=010115230712)
 - [Revolu��o na cosmologia: Universo pode ter 26,7 bilh�es de anos de idade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=idade-do-universo-26-7-bilhoes-anos&id=010130230711)
 - [Material inspirado em lulas controla passagem de luz, calor e micro-ondas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-macio-inspirado-lulas-bloqueia-ou-deixa-passar-luz-calor-micro-ondas&id=010160230711)
 - [N�ilon de base biol�gica come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nailon-base-biologica&id=010125230711)
 - [Novo pol�mero ferroel�trico promete dar m�sculos humanos a rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-polimero-ferroeletrico-promete-dar-musculos-humanos-robos&id=010180230711)
 - [Conhe�a os dois avi�es supers�nicos mais pr�ximos da decolagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-dois-avioes-supersonicos-mais-proximos-decolagem&id=010170230710)
-- [Pesquisadores ajustam condutividade t�rmica de materiais em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pesquisadores-ajustam-condutividade-termica-materiais-tempo-voo&id=010115230710)
-- [Grande bat�lito de granito quente � descoberto enterrado na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-massa-granito-quente-descoberta-enterrada-lua&id=010130230707)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
