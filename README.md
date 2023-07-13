@@ -126,7 +126,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Conheça livros de cabeceira dos Devs (parte 2)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-2)
 - [Bancos de dados na nuvem](https://www.alura.com.br/artigos/bancos-dados-nuvem)
-- [Marte revela novos compostos org�nicos e era do gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
+- [Marte revela novos compostos org�nicos e Era do Gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
 - [Camuflagem termal mant�m seu carro frio ao sol e quente � noite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-termal-passiva-protege-baterias-carros-eletricos&id=010170230713)
 - [Novo biopl�stico degrada-se no mesmo tempo que uma casca de banana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-biodegradavel-mesmo-tempo-casca-banana&id=010160230713)
 - [CSS: seletores avançados que facilitam o desenvolvimento de aplicações wev](https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-wev)
