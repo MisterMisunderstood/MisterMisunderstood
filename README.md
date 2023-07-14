@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [�ndia lan�a miss�o Chandrayaan-3 para estudar a Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=india-lanca-missao-chandrayaan-3-estudar-lua&id=010130230714)
 - [Fus�o nuclear com combust�vel l�quido usando ondas de choque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-choque-combustivel-liquido-fusao-nuclear&id=010115230714)
 - [Antena inteligente come�a a ser testada pela ind�stria de telecomunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-inteligente-comeca-testada-pela-industria-telecomunicacoes&id=010150230714)
 - [Conheça livros de cabeceira dos Devs (parte 2)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-2)
 - [Bancos de dados na nuvem](https://www.alura.com.br/artigos/bancos-dados-nuvem)
 - [Marte revela novos compostos org�nicos e Era do Gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
 - [Camuflagem termal mant�m seu carro frio ao sol e quente � noite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-termal-passiva-protege-baterias-carros-eletricos&id=010170230713)
-- [Novo biopl�stico degrada-se no mesmo tempo que uma casca de banana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-biodegradavel-mesmo-tempo-casca-banana&id=010160230713)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
