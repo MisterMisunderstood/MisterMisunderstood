@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Banco de dados relacionais: conhecendo conceitos, terminologias e ferramentas](https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias-ferramentas)
 - [Fus�o nuclear com combust�vel l�quido usando ondas de choque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-choque-combustivel-liquido-fusao-nuclear&id=010115230714)
 - [Antena inteligente come�a a ser testada pela ind�stria de telecomunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-inteligente-comeca-testada-pela-industria-telecomunicacoes&id=010150230714)
-- [Marte revela novos compostos org�nicos e Era do Gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
 - [Bancos de dados na nuvem](https://www.alura.com.br/artigos/bancos-dados-nuvem)
 - [Conheça livros de cabeceira dos Devs (parte 2)](https://www.alura.com.br/artigos/conheca-livros-cabeceira-devs-parte-2)
+- [Marte revela novos compostos org�nicos e Era do Gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
