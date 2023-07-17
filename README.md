@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motor de 1 tempo pode salvar ve�culos a combust�o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-1-tempo&id=010170230717)
 - [O solo est� se deformando e os pr�dios n�o est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mudancas-climaticas-subterraneas&id=010125230717)
 - [�mido-ware: Fazendo o hardware mais parecido com nosso c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umido-ware-fazendo-hardware-mais-parecido-nosso-cerebro&id=010110230717)
 - [�ndia lan�a miss�o Chandrayaan-3 para estudar a Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=india-lanca-missao-chandrayaan-3-estudar-lua&id=010130230714)
 - [Banco de dados relacionais: conhecendo conceitos, terminologias e ferramentas](https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias-ferramentas)
 - [Fus�o nuclear com combust�vel l�quido usando ondas de choque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-choque-combustivel-liquido-fusao-nuclear&id=010115230714)
 - [Antena inteligente come�a a ser testada pela ind�stria de telecomunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-inteligente-comeca-testada-pela-industria-telecomunicacoes&id=010150230714)
-- [Marte revela novos compostos org�nicos e Era do Gelo recente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-revela-novos-compostos-organicos-era-gelo-recente&id=010130230713)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
