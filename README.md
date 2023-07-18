@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Luz estruturada permite comunica��es ao ar livre e at� embaixo d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-estruturada-permite-comunicacoes-ar-livre-ate-embaixo-d-agua&id=010150230718)
 - [Digitaliza��o de cupinzeiros mostra como economizar com ar-condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cupins-cupinzeiros-economizar-ar-condicionado-aquecimento-edificios&id=010170230718)
 - [Motor de 1 tempo pode salvar ve�culos a combust�o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-1-tempo&id=010170230717)
+- [Deeplinks em SwiftUI: o que são e como utilizar](https://www.alura.com.br/artigos/deeplinks-swiftui-o-que-sao-como-utilizar)
 - [O solo est� se deformando e os pr�dios n�o est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mudancas-climaticas-subterraneas&id=010125230717)
 - [�mido-ware: Fazendo o hardware mais parecido com nosso c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umido-ware-fazendo-hardware-mais-parecido-nosso-cerebro&id=010110230717)
-- [�ndia lan�a miss�o Chandrayaan-3 para estudar a Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=india-lanca-missao-chandrayaan-3-estudar-lua&id=010130230714)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
