@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Motor de 1 tempo pode salvar ve�culos a combust�o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-1-tempo&id=010170230717)
 - [O solo est� se deformando e os pr�dios n�o est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mudancas-climaticas-subterraneas&id=010125230717)
 - [�mido-ware: Fazendo o hardware mais parecido com nosso c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umido-ware-fazendo-hardware-mais-parecido-nosso-cerebro&id=010110230717)
-- [Deeplinks em SwiftUI: o que são e como utilizar](https://www.alura.com.br/artigos/deeplinks-swiftui-o-que-sao-como-utilizar)
+- [�ndia lan�a miss�o Chandrayaan-3 para estudar a Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=india-lanca-missao-chandrayaan-3-estudar-lua&id=010130230714)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
