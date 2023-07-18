@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
 - [Baterias de Carnot armazenar�o excedente de energia solar e e�lica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-carnot-como-armazenamento-energia-futuro&id=010115230718)
 - [Luz estruturada permite comunica��es ao ar livre e at� embaixo d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-estruturada-permite-comunicacoes-ar-livre-ate-embaixo-d-agua&id=010150230718)
 - [Digitaliza��o de cupinzeiros mostra como economizar com ar-condicionado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cupins-cupinzeiros-economizar-ar-condicionado-aquecimento-edificios&id=010170230718)
 - [Deeplinks em SwiftUI: o que são e como utilizar](https://www.alura.com.br/artigos/deeplinks-swiftui-o-que-sao-como-utilizar)
 - [Motor de 1 tempo pode salvar ve�culos a combust�o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-1-tempo&id=010170230717)
 - [O solo est� se deformando e os pr�dios n�o est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mudancas-climaticas-subterraneas&id=010125230717)
-- [�mido-ware: Fazendo o hardware mais parecido com nosso c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=umido-ware-fazendo-hardware-mais-parecido-nosso-cerebro&id=010110230717)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
