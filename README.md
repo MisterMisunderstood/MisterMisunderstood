@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [O planejamento como ferramenta de crescimento de negócio](https://www.alura.com.br/artigos/planejamento-ferramenta-crescimento-negocio)
 - [Estrela de duas faces tem um lado de hidrog�nio e outro lado de h�lio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-duas-faces-tem-lado-hidrogenio-outro-lado-helio&id=010130230720)
 - [Chip fot�nico milim�trico elimina gargalo nas centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-fotonico-milimetrico-elimina-gargalo-centrais-dados&id=010150230720)
+- [UI Design: o que é, UX vs UI e um Guia da profissão de UI Designer](https://www.alura.com.br/artigos/ui-design)
 - [Dois exoplanetas parecem compartilhar mesma �rbita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-troianos&id=010175230719)
 - [Fazenda solar espacial poder� viabilizar coloniza��o da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fazenda-solar-espacial-podera-viabilizar-colonizacao-lua&id=010130230719)
 - [C�mera biol�gica captura e guarda imagens no DNA de c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-biologica-imagens-dna-celulas-vivas&id=010110230719)
-- [Como saber se um sinal vem mesmo de uma civiliza��o extraterrestre?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-saber-se-sinal-vem-mesmo-civilizacao-extraterrestre&id=010130230718)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
