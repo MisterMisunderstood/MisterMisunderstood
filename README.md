@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dois exoplanetas parecem compartilhar mesma �rbita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-troianos&id=010175230719)
 - [Fazenda solar espacial poder� viabilizar coloniza��o da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fazenda-solar-espacial-podera-viabilizar-colonizacao-lua&id=010130230719)
 - [C�mera biol�gica captura e guarda imagens no DNA de c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-biologica-imagens-dna-celulas-vivas&id=010110230719)
-- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
-- [UX Design: o que é, profissões e um guia para iniciar na área](https://www.alura.com.br/artigos/ux-design)
 - [Como saber se um sinal vem mesmo de uma civiliza��o extraterrestre?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-saber-se-sinal-vem-mesmo-civilizacao-extraterrestre&id=010130230718)
 - [Baterias de Carnot armazenar�o excedente de energia solar e e�lica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-carnot-como-armazenamento-energia-futuro&id=010115230718)
+- [Luz estruturada permite comunica��es ao ar livre e at� embaixo d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-estruturada-permite-comunicacoes-ar-livre-ate-embaixo-d-agua&id=010150230718)
+- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
