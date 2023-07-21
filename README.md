@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nossa vis�o do Universo est� ultrapassada?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nossa-visao-universo-esta-ultrapassada&id=010130230721)
+- [Metais podem se autocurar, cicatrizando trincas sozinhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-se-autocurar-cicatrizando-trincas-sozinhos&id=010170230721)
 - [Asteroide atingido por impacto parece estar se despeda�ando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroide-atingido-impacto-parece-estar-se-despedacando&id=020130230720)
 - [Estrela de duas faces tem um lado de hidrog�nio e outro lado de h�lio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-duas-faces-tem-lado-hidrogenio-outro-lado-helio&id=010130230720)
 - [Chip fot�nico milim�trico elimina gargalo nas centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-fotonico-milimetrico-elimina-gargalo-centrais-dados&id=010150230720)
 - [O planejamento como ferramenta de crescimento de negócio](https://www.alura.com.br/artigos/planejamento-ferramenta-crescimento-negocio)
 - [Dois exoplanetas parecem compartilhar mesma �rbita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-troianos&id=010175230719)
-- [Fazenda solar espacial poder� viabilizar coloniza��o da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fazenda-solar-espacial-podera-viabilizar-colonizacao-lua&id=010130230719)
-- [C�mera biol�gica captura e guarda imagens no DNA de c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-biologica-imagens-dna-celulas-vivas&id=010110230719)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
