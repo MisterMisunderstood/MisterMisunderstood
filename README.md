@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Nossa vis�o do Universo est� ultrapassada?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nossa-visao-universo-esta-ultrapassada&id=010130230721)
 - [Metais podem se autocurar, cicatrizando trincas sozinhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-se-autocurar-cicatrizando-trincas-sozinhos&id=010170230721)
 - [Asteroide atingido por impacto parece estar se despeda�ando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroide-atingido-impacto-parece-estar-se-despedacando&id=020130230720)
+- [O planejamento como ferramenta de crescimento de negócio](https://www.alura.com.br/artigos/planejamento-ferramenta-crescimento-negocio)
 - [Estrela de duas faces tem um lado de hidrog�nio e outro lado de h�lio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-duas-faces-tem-lado-hidrogenio-outro-lado-helio&id=010130230720)
-- [Chip fot�nico milim�trico elimina gargalo nas centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-fotonico-milimetrico-elimina-gargalo-centrais-dados&id=010150230720)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
