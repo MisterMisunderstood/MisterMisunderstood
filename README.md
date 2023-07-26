@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é um pipeline de dados?](https://www.alura.com.br/artigos/o-que-pipeline-dados)
 - [Ondas magn�ticas podem explicar maior mist�rio do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-magneticas-explicar-maior-misterio-sol&id=010130230726)
 - [Brasil prop�e � Nasa parceria para construir sat�lite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasil-propoe-nasa-parceria-construir-satelite&id=010175230726)
 - [Computa��o probabil�stica � implementada com luz pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-probabilistica-implementada-luz-pela-primeira-vez&id=010150230726)
 - [M�o rob�tica manipula objetos usando apenas o tato, sem vis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-manipula-objetos-usando-apenas-tato-sem-visao&id=010180230726)
 - [Batido recorde de efici�ncia na produ��o de hidrog�nio com luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-produzido-luz-solar-eficiencia-recorde&id=010115230725)
 - [Origami e termopl�sticos adicionam dimens�o totalmente nova � impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-termoplasticos-adicionam-nova-dimensao-impressao-3d&id=010170230725)
-- [Novos supercondutores s�o constru�dos �tomo por �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanofabricacao-atomo-atomo-constroi-dois-novos-supercondutores&id=010165230725)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
