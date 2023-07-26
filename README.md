@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sil�ncio puro: Isolamento ac�stico de plasma absorve 100% do som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silencio-puro-isolamento-acustico-plasma-absorve-100-som&id=010170230724)
 - [Conhe�a a eficiente mem�ria prot�nica, onde pr�tons substituem el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-protonica-protons-substituem-eletrons-memoria&id=010110230724)
 - [De �tomos a materiais: Algoritmo qu�ntico inventa novos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=de-atomos-materiais-algoritmo-quantico-inventa-novos-materiais&id=010160230724)
-- [GPS pode prever terremotos com duas horas de anteced�ncia - mas h� um problema](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gps-prever-terremotos-duas-horas-antecedencia&id=010125230721)
+- [React e VSCode: como as extensões podem transformar sua produtividade](https://www.alura.com.br/artigos/react-vscode-extensoes-produtividade)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
