@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Diamantes formam-se nas profundezas, mas como eles chegam � superf�cie?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-tenta-explicar-como-diamantes-chegam-superficie-terra&id=020125230727)
 - [Vida na Terra n�o emergiu pelo aumento de oxig�nio atmosf�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-terra-nao-emergiu-pelo-aumento-oxigenio-atmosferico&id=010125230727)
 - [NASA anuncia detalhes da nave com propuls�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-detalhes-teste-nave-propulsao-nuclear&id=010130230727)
-- [Ondas magn�ticas podem explicar maior mist�rio do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-magneticas-explicar-maior-misterio-sol&id=010130230726)
 - [Novidades do Aluraverso: tudo o que você precisa saber sobre os lançamentos da Alura](https://www.alura.com.br/artigos/novidades-aluraverso-lancamentos-alura)
+- [O que é um pipeline de dados?](https://www.alura.com.br/artigos/o-que-pipeline-dados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
