@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA erra comandos e perde contato com a hist�rica Voyager 2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-erra-comandos-perde-contato-historica-voyager-2&id=010130230728)
-- [Calor latente � usado para gerar eletricidade pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termocelula-transforma-calor-latente-eletricidade&id=010115230728)
-- [Atrito qu�ntico negativo acelera movimento de um objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atrito-quantico-negativo&id=010170230728)
-- [Diamantes formam-se nas profundezas, mas como eles chegam � superf�cie?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-tenta-explicar-como-diamantes-chegam-superficie-terra&id=020125230727)
-- [Vida na Terra n�o emergiu pelo aumento de oxig�nio atmosf�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-terra-nao-emergiu-pelo-aumento-oxigenio-atmosferico&id=010125230727)
-- [NASA anuncia detalhes da nave com propuls�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-detalhes-teste-nave-propulsao-nuclear&id=010130230727)
 - [Novidades do Aluraverso: tudo o que você precisa saber sobre os lançamentos da Alura](https://www.alura.com.br/artigos/novidades-aluraverso-lancamentos-alura)
+- [O que é um pipeline de dados?](https://www.alura.com.br/artigos/o-que-pipeline-dados)
+- [React e VSCode: como as extensões podem transformar sua produtividade](https://www.alura.com.br/artigos/react-vscode-extensoes-produtividade)
+- [O planejamento como ferramenta de crescimento de negócio](https://www.alura.com.br/artigos/planejamento-ferramenta-crescimento-negocio)
+- [UI Design: o que é, UX vs UI e um Guia da profissão de UI Designer](https://www.alura.com.br/artigos/ui-design)
+- [UX Design: o que é, profissões e um guia para iniciar na área](https://www.alura.com.br/artigos/ux-design)
+- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
