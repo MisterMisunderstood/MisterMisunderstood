@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [React e VSCode: como as extensões podem transformar sua produtividade](https://www.alura.com.br/artigos/react-vscode-extensoes-produtividade)
 - [O planejamento como ferramenta de crescimento de negócio](https://www.alura.com.br/artigos/planejamento-ferramenta-crescimento-negocio)
 - [UI Design: o que é, UX vs UI e um Guia da profissão de UI Designer](https://www.alura.com.br/artigos/ui-design)
-- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
 - [UX Design: o que é, profissões e um guia para iniciar na área](https://www.alura.com.br/artigos/ux-design)
+- [Como criar um servidor com Node.js sem o apoio de frameworks](https://www.alura.com.br/artigos/criar-servidor-node-js-sem-apoio-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
