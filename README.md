@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Como uma gestão financeira eficiente pode fazer a diferença no seu projeto autônomo](https://www.alura.com.br/artigos/desafios-do-empreendedorismo)
+- [Qual � o custo-benef�cio de implantar um telhado verde?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qual-custo-beneficio-implantar-telhado-verde&id=010125230731)
 - [Telesc�pios BlackGEM iniciam busca por origem das fontes de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-blackgem-localizacao-fontes-ondas-gravitacionais&id=010130230731)
 - [Nova imagem revela segredos sobre nascimento de planetas gigantes quentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-imagem-revela-segredos-sobre-nascimento-planetas-jupiteres-quentes&id=010175230731)
 - [Vida artificial torna-se hardware ideal para computa��o fot�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liberando-poder-computacao-fotonica-usando-vida-artificial&id=010150230731)
 - [Corrente i�nica � mais lenta que corrente eletr�nica, certo? N�o.](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ions-mais-lentos-eletrons-porque-mais-pesados-certo-nao&id=020115230731)
 - [Miniaturiza��o da luz rompe escala dos nan�metros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-luz-supera-escala-nanometros&id=010115230731)
-- [NASA erra comandos e perde contato com a hist�rica Voyager 2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-erra-comandos-perde-contato-historica-voyager-2&id=010130230728)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
