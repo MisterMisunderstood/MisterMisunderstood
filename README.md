@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Bateria de pr�tons de baixo custo come�a a sair dos laborat�rios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-protons&id=010115230801)
 - [Ni�bio cria novos tipos de vidros especiais de alta tecnologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=niobio-cria-novos-tipos-vidros-especiais-alta-tecnologia&id=010160230801)
 - [Qual � o custo-benef�cio de implantar um telhado verde?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qual-custo-beneficio-implantar-telhado-verde&id=010125230731)
-- [Telesc�pios BlackGEM iniciam busca por origem das fontes de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-blackgem-localizacao-fontes-ondas-gravitacionais&id=010130230731)
 - [Como uma gestão financeira eficiente pode fazer a diferença no seu projeto autônomo](https://www.alura.com.br/artigos/desafios-do-empreendedorismo)
+- [Telesc�pios BlackGEM iniciam busca por origem das fontes de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-blackgem-localizacao-fontes-ondas-gravitacionais&id=010130230731)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
