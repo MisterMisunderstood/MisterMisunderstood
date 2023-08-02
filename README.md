@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mat�ria l�quida met�lica pulsa ritmicamente, rumo a cora��o e pulm�o bi�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-liquida-metalica-pulsa-ritmicamente-como-tecido-biologico&id=010160230802)
+- [Diodo supercondutor pode reduzir drasticamente uso de energia na computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-supercondutor-reduzir-drasticamente-uso-energia-computacao&id=010110230802)
 - [Data lake: On premises versus Nuvem](https://www.alura.com.br/artigos/data-lake-on-premises-versus-nuvem)
 - [Cimento com carbono transforma casas e estradas em baterias quase ilimitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-carbono-baterias-quase-ilimitadas&id=020115230801)
 - [Bateria de pr�tons de baixo custo come�a a sair dos laborat�rios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-protons&id=010115230801)
 - [Ni�bio cria novos tipos de vidros especiais de alta tecnologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=niobio-cria-novos-tipos-vidros-especiais-alta-tecnologia&id=010160230801)
 - [Qual � o custo-benef�cio de implantar um telhado verde?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qual-custo-beneficio-implantar-telhado-verde&id=010125230731)
-- [Telesc�pios BlackGEM iniciam busca por origem das fontes de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopios-blackgem-localizacao-fontes-ondas-gravitacionais&id=010130230731)
-- [Nova imagem revela segredos sobre nascimento de planetas gigantes quentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-imagem-revela-segredos-sobre-nascimento-planetas-jupiteres-quentes&id=010175230731)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
