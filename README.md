@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Diodo supercondutor pode reduzir drasticamente uso de energia na computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-supercondutor-reduzir-drasticamente-uso-energia-computacao&id=010110230802)
 - [Os 8 princípios da Arquitetura da Informação](https://www.alura.com.br/artigos/8-principios-arquitetura-informacao)
 - [Luri: A Inteligência Artificial da Alura](https://www.alura.com.br/artigos/luri)
-- [Cimento com carbono transforma casas e estradas em baterias quase ilimitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-carbono-baterias-quase-ilimitadas&id=020115230801)
 - [Data lake: On premises versus Nuvem](https://www.alura.com.br/artigos/data-lake-on-premises-versus-nuvem)
+- [Cimento com carbono transforma casas e estradas em baterias quase ilimitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-carbono-baterias-quase-ilimitadas&id=020115230801)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
