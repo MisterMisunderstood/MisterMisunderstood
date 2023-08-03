@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mec�nica Qu�ntica e Termodin�mica s�o verdadeiras simultaneamente, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mecanica-quantica-termodinamica-verdadeiras-dizem-fisicos&id=010115230803)
+- [C�lulas artificiais comprovam: A vida sempre encontra um caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-artificiais-comprovam-vida-sempre-encontra-caminho&id=010125230803)
 - [Ventr�culo card�aco impresso em 3D pulsa e bombeia de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-cardiaco-impresso-3d-bate-verdade&id=010180230802)
-- [Mat�ria l�quida met�lica pulsa ritmicamente, rumo a cora��o e pulm�o bi�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-liquida-metalica-pulsa-ritmicamente-como-tecido-biologico&id=010160230802)
-- [Diodo supercondutor pode reduzir drasticamente uso de energia na computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-supercondutor-reduzir-drasticamente-uso-energia-computacao&id=010110230802)
 - [Os 8 princípios da Arquitetura da Informação](https://www.alura.com.br/artigos/8-principios-arquitetura-informacao)
 - [Luri: A Inteligência Artificial da Alura](https://www.alura.com.br/artigos/luri)
-- [Data lake: On premises versus Nuvem](https://www.alura.com.br/artigos/data-lake-on-premises-versus-nuvem)
-- [Cimento com carbono transforma casas e estradas em baterias quase ilimitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-carbono-baterias-quase-ilimitadas&id=020115230801)
+- [Mat�ria l�quida met�lica pulsa ritmicamente, rumo a cora��o e pulm�o bi�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-liquida-metalica-pulsa-ritmicamente-como-tecido-biologico&id=010160230802)
+- [Diodo supercondutor pode reduzir drasticamente uso de energia na computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-supercondutor-reduzir-drasticamente-uso-energia-computacao&id=010110230802)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
