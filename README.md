@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberta da verdadeira forma do l�tio pode viabilizar potentes baterias de l�tio met�lico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-verdadeira-forma-litio-viabilizar-potentes-baterias-litio-metalico&id=020115230807)
+- [Bateria solar: Novo material absorve luz e armazena energia simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-solar-absorve-luz-armazena-energia&id=010115230807)
+- [Maior fita de grafeno j� produzida abre possibilidades pr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-fita-grafeno-ja-produzida-abre-possibilidades-praticas&id=010165230807)
 - [Asas de borboleta inspiram m�sculos artificiais e produzem eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quitina-vira-musculo-artificial-produz-eletricidade&id=010160230804)
 - [Super-Radar supera limite centen�rio no alcance dos radares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=super-radar-supera-dificuldade-centenaria-limitava-resolucao-radares&id=010110230804)
 - [Detectada luz mais forte j� emitida pelo Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectada-luz-mais-forte-ja-emitida-pelo-sol&id=010130230804)
 - [Mec�nica Qu�ntica e Termodin�mica s�o verdadeiras simultaneamente, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mecanica-quantica-termodinamica-verdadeiras-dizem-fisicos&id=010115230803)
-- [C�lulas artificiais comprovam: A vida sempre encontra um caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-artificiais-comprovam-vida-sempre-encontra-caminho&id=010125230803)
-- [Impress�o 3D cria ventr�culo card�aco que pulsa e bombeia de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-cardiaco-impresso-3d-bate-verdade&id=010180230802)
-- [Os 8 princípios da Arquitetura da Informação](https://www.alura.com.br/artigos/8-principios-arquitetura-informacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
