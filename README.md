@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Baterias de zinco guardam eletricidade e produzem hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-guardam-eletricidade-produzem-hidrogenio&id=010115230809)
 - [Neur�nios artificiais finalmente replicam habilidades cerebrais complexas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-replicar-habilidades-cerebrais-complexas&id=010110230809)
 - [Como a neuroci�ncia ajudou a desfazer mito sobre as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurociencia-ajuda-desfazer-mito-sobre-trincas-baterias-litio&id=010115230808)
+- [Data Lake: conceitos, vantagens e desafios](https://www.alura.com.br/artigos/data-lake-conceitos-vantagens-desafios)
 - [Motor revolucion�rio de atua��o sim�trica produz efeito de tesoura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-revolucionario-atuacao-simetrica-produz-efeito-tesoura&id=010170230808)
 - [Tela resistente � �gua? Melhor do que isso, esta � uma tela lav�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-lavavel&id=010110230808)
 - [Controle de ondas 4D trar� de camuflagens antiterremoto a computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-ondas-energia-4d&id=010160230808)
-- [Data Lake: conceitos, vantagens e desafios](https://www.alura.com.br/artigos/data-lake-conceitos-vantagens-desafios)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
