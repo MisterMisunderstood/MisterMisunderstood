@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Config 2023: descubra as novas funcionalidades do Figma](https://www.alura.com.br/artigos/config-2023-novas-funcionalidades-figma)
 - [Descoberta "part�cula dem�nio" que pode explicar supercondutividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonio-pines-supercondutividade&id=010115230810)
 - [O som pode ser transmitido atrav�s do v�cuo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-move-atraves-vacuo&id=010170230810)
 - [Baterias de zinco guardam eletricidade e produzem hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-guardam-eletricidade-produzem-hidrogenio&id=010115230809)
 - [Neur�nios artificiais finalmente replicam habilidades cerebrais complexas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-replicar-habilidades-cerebrais-complexas&id=010110230809)
 - [Como a neuroci�ncia ajudou a desfazer mito sobre as baterias de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurociencia-ajuda-desfazer-mito-sobre-trincas-baterias-litio&id=010115230808)
 - [Data Lake: conceitos, vantagens e desafios](https://www.alura.com.br/artigos/data-lake-conceitos-vantagens-desafios)
-- [Motor revolucion�rio de atua��o sim�trica produz efeito de tesoura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-revolucionario-atuacao-simetrica-produz-efeito-tesoura&id=010170230808)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
