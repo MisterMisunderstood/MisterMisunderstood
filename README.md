@@ -125,11 +125,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Aprendizado contínuo: como criar o hábito de aprender sempre em um mundo de mudanças](https://www.alura.com.br/artigos/aprendizado-continuo-habito-aprender-mundo-mudancas)
+- [IBM apresenta processador anal�gico para intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-processador-analogico-inteligencia-artificial&id=020150230811)
 - [Medi��o dos m�ons mant�m possibilidade de quinta for�a da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=muons-mantem-possibilidade-quinta-forca-natureza&id=010130230811)
 - [USP ter� primeira esta��o de hidrog�nio de etanol do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-tera-primeira-estacao-hidrogenio-etanol-mundo&id=010175230811)
 - [Como a fot�nica est� revolucionando a intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fotonica-esta-revolucionando-inteligencia-artificial&id=010150230811)
 - [Devemos programar uma alma humana na intelig�ncia artificial, prop�e pesquisadora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=devemos-programar-alma-humana-inteligencia-artificial&id=010180230811)
-- [Caneta comum com tinta especial desenha LEDs totalmente funcionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caneta-comum-desenha-led&id=020115230810)
 - [Config 2023: descubra as novas funcionalidades do Figma](https://www.alura.com.br/artigos/config-2023-novas-funcionalidades-figma)
 <!-- BLOG-POST-LIST:END -->
 
