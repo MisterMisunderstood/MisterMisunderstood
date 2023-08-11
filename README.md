@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [USP ter� primeira esta��o de hidrog�nio de etanol do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-tera-primeira-estacao-hidrogenio-etanol-mundo&id=010175230811)
 - [Como a fot�nica est� revolucionando a intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fotonica-esta-revolucionando-inteligencia-artificial&id=010150230811)
 - [Devemos programar uma alma humana na intelig�ncia artificial, prop�e pesquisadora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=devemos-programar-alma-humana-inteligencia-artificial&id=010180230811)
 - [Caneta comum com tinta especial desenha LEDs totalmente funcionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caneta-comum-desenha-led&id=020115230810)
 - [Descoberta "part�cula dem�nio" que pode explicar supercondutividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonio-pines-supercondutividade&id=010115230810)
 - [O som pode ser transmitido atrav�s do v�cuo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-move-atraves-vacuo&id=010170230810)
 - [Config 2023: descubra as novas funcionalidades do Figma](https://www.alura.com.br/artigos/config-2023-novas-funcionalidades-figma)
-- [Baterias de zinco guardam eletricidade e produzem hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-guardam-eletricidade-produzem-hidrogenio&id=010115230809)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
