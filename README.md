@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Material de algas marinhas armazena quatro vezes mais calor para reutiliza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-algas-marinhas-armazena-quatro-vezes-mais-calor-reutilizacao&id=010115230814)
 - [Criados �m�s ajust�veis por tens�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-imas-ajustaveis-tensao&id=010110230814)
 - [IBM apresenta processador anal�gico para intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-processador-analogico-inteligencia-artificial&id=020150230811)
-- [Medi��o dos m�ons mant�m possibilidade de quinta for�a da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=muons-mantem-possibilidade-quinta-forca-natureza&id=010130230811)
 - [Aprendizado contínuo: como criar o hábito de aprender sempre em um mundo de mudanças](https://www.alura.com.br/artigos/aprendizado-continuo-habito-aprender-mundo-mudancas)
+- [Medi��o dos m�ons mant�m possibilidade de quinta for�a da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=muons-mantem-possibilidade-quinta-forca-natureza&id=010130230811)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
