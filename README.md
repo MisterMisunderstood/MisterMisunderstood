@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o neurom�rfica d� salto com componentes padr�o CMOS](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-feita-componentes-padrao-cmos-convencionais&id=010110230815)
 - [Dispositivo viola lei da F�sica para absorver mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-viola-lei-kirchhoff-absorver-mais-energia&id=010115230815)
 - [Poeira c�smica n�o se agrega e frustra simula��o da forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-cosmica-nao-se-agrega-simulacao-formacao-planetas&id=010130230815)
 - [Informa��es gen�ticas e material biol�gico armazenados em estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-biologicos-informacoes-geneticas-agora-armazenadas-estado-solido&id=010160230815)
 - [As melhores práticas para criar protótipos de Service Design](https://www.alura.com.br/artigos/melhores-praticas-criar-prototipos-service-design)
 - [Linux: o que é esse sistema operacional, como instalar e um Guia para iniciar](https://www.alura.com.br/artigos/linux)
 - [Respira��o dos �tomos: Descoberto novo mecanismo para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=respiracao-entre-atomos-descoberto-novo-mecanismo-tecnologias-quanticas&id=010165230814)
-- [Material de algas marinhas armazena quatro vezes mais calor para reutiliza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-algas-marinhas-armazena-quatro-vezes-mais-calor-reutilizacao&id=010115230814)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
