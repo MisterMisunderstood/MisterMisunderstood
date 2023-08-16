@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dispositivo viola lei da F�sica para absorver mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-viola-lei-kirchhoff-absorver-mais-energia&id=010115230815)
 - [Poeira c�smica n�o se agrega e frustra simula��o da forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-cosmica-nao-se-agrega-simulacao-formacao-planetas&id=010130230815)
 - [Informa��es gen�ticas e material biol�gico armazenados em estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-biologicos-informacoes-geneticas-agora-armazenadas-estado-solido&id=010160230815)
-- [Respira��o dos �tomos: Descoberto novo mecanismo para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=respiracao-entre-atomos-descoberto-novo-mecanismo-tecnologias-quanticas&id=010165230814)
+- [As melhores práticas para criar protótipos de Service Design](https://www.alura.com.br/artigos/melhores-praticas-criar-prototipos-service-design)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
