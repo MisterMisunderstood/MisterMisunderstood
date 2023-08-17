@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Painel fotorreator produz eletricidade e qu�micos com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotorreator-abre-caminho-futuro-neutro-carbono&id=010115230817)
+- [Grafeno com fios de nanotubos criam tecnologia qu�ntica do carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanofitas-grafeno-conectadas-eletrodos-nanotubos-carbono&id=010165230817)
 - [Cromo substitui metais nobres raros e caros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cromo-substitui-metais-nobres-raros-caros&id=010160230816)
 - [Revolucion�rio: Ondas eletromagn�ticas podem sofrer colis�es frontais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucionario-ondas-eletromagneticas-sofrer-colisoes-frontais&id=010115230816)
 - [Tinta t�rmica mant�m calor de fora no ver�o e dentro no inverno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-termica-mantem-calor-fora-verao-dentro-inverno&id=010125230816)
 - [Computa��o neurom�rfica d� salto com componentes padr�o CMOS](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-feita-componentes-padrao-cmos-convencionais&id=010110230815)
 - [Dispositivo viola lei da F�sica para absorver mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-viola-lei-kirchhoff-absorver-mais-energia&id=010115230815)
-- [Poeira c�smica n�o se agrega e frustra simula��o da forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-cosmica-nao-se-agrega-simulacao-formacao-planetas&id=010130230815)
-- [Informa��es gen�ticas e material biol�gico armazenados em estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-biologicos-informacoes-geneticas-agora-armazenadas-estado-solido&id=010160230815)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
