@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz � aprisionada dentro de um material magn�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-aprisionada-dentro-material-magnetico&id=010160230818)
+- [Jogo de tabuleiro ancestral pode resolver problemas qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=jogo-tabuleiro-ancestral-resolver-problemas-quanticos&id=010150230818)
 - [Novo tipo de estrela traz pistas sobre as misteriosas magnetares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-tipo-estrela-traz-pistas-sobre-misteriosas-magnetares&id=010130230817)
+- [Jornada do usuário em Service Design: guia prático](https://www.alura.com.br/artigos/jornada-usuario-service-design-guia-pratico)
 - [Painel fotorreator produz eletricidade e qu�micos com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotorreator-abre-caminho-futuro-neutro-carbono&id=010115230817)
 - [Grafeno e fios de nanotubos criam tecnologia qu�ntica do carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanofitas-grafeno-conectadas-eletrodos-nanotubos-carbono&id=010165230817)
-- [Jornada do usuário em Service Design: guia prático](https://www.alura.com.br/artigos/jornada-usuario-service-design-guia-pratico)
 - [Cromo substitui metais nobres raros e caros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cromo-substitui-metais-nobres-raros-caros&id=010160230816)
-- [Revolucion�rio: Ondas eletromagn�ticas podem sofrer colis�es frontais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucionario-ondas-eletromagneticas-sofrer-colisoes-frontais&id=010115230816)
-- [Tinta t�rmica mant�m calor de fora no ver�o e dentro no inverno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-termica-mantem-calor-fora-verao-dentro-inverno&id=010125230816)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
