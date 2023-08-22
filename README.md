@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Qubits naturais do diamante simplificam hardware dos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-naturais-diamante-oferecem-novo-paradigma-computacao-quantica&id=010110230822)
 - [Zentropia e a arte de projetar melhores experimentos e criar novos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=zentropia&id=010160230822)
 - [Vaso sanit�rio autolimpante � t�o escorregadio que nada gruda nele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vaso-sanitario-autolimpante-tao-escorregadio-nada-gruda-nele&id=020160230821)
+- [Como garantir que as soluções de Service Design sejam implementadas com sucesso](https://www.alura.com.br/artigos/garantir-solucoes-service-design-implementadas-sucesso)
 - [Fen�meno descoberto no s�culo 19 leva computa��o qu�ntica a uma nova dimens�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-optico-descoberto-seculo-19-leva-computacao-quantica-nova-dimensao&id=010110230821)
 - [Mexilh�es inspiram maneira ecol�gica de extrair elemento essencial de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mexilhoes-inspiram-maneira-ecologica-extrair-neodimio&id=010160230821)
-- [Evolu��o da eleg�ncia: Como a natureza pode ser t�o bela?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-natureza-e-tao-bela&id=010125230821)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
