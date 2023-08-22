@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como garantir que as soluções de Service Design sejam implementadas com sucesso](https://www.alura.com.br/artigos/garantir-solucoes-service-design-implementadas-sucesso)
 - [Vaso sanit�rio autolimpante � t�o escorregadio que nada gruda nele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vaso-sanitario-autolimpante-tao-escorregadio-nada-gruda-nele&id=020160230821)
 - [Fen�meno descoberto no s�culo 19 leva computa��o qu�ntica a uma nova dimens�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-optico-descoberto-seculo-19-leva-computacao-quantica-nova-dimensao&id=010110230821)
 - [Mexilh�es inspiram maneira ecol�gica de extrair elemento essencial de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mexilhoes-inspiram-maneira-ecologica-extrair-neodimio&id=010160230821)
 - [Evolu��o da eleg�ncia: Como a natureza pode ser t�o bela?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-natureza-e-tao-bela&id=010125230821)
+- [Como garantir que as soluções de Service Design sejam implementadas com sucesso](https://www.alura.com.br/artigos/garantir-solucoes-service-design-implementadas-sucesso)
 - [CLI: o que é, para que serve e como usar a Interface de Linha de Comandos](https://www.alura.com.br/artigos/cli-interface-linha-comandos)
 - [Como registrar a sua marca no INPI](https://www.alura.com.br/artigos/como-registrar-marca-inpi)
 <!-- BLOG-POST-LIST:END -->
