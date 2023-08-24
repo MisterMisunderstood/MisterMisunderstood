@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures no Swift: o que são e como utilizá-las](https://www.alura.com.br/artigos/closures-swift-como-utiliza-las)
 - [Filtro de baga�o de cana elimina agrot�xico de �gua contaminada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-bagaco-cana-consegue-eliminar-agrotoxico-agua-contaminada-glifosato&id=010125230823)
 - [�ndia faz pouso hist�rico no polo sul da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=india-faz-pouso-historico-polo-sul-lua&id=010175230823)
 - [Estruturas met�licas ficam fortes como metal e leves como corti�a](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estruturas-metalicas-ficam-fortes-como-metal-leves-como-cortica&id=010170230823)
 - [Experimento questiona nossa compreens�o das for�as nucleares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-questiona-compreensao-forcas-nucleos-atomos&id=010110230823)
+- [Closures no Swift: o que são e como utilizá-las](https://www.alura.com.br/artigos/closures-swift-como-utiliza-las)
 - [Machine Learning: conhecendo as técnicas de bagging e boosting](https://www.alura.com.br/artigos/machine-learning-tecnicas-bagging-boosting)
 - [Imposs�vel? Gerador de grafeno extrai energia do movimento browniano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impossivel-gerador-grafeno-extrai-energia-movimento-browniano&id=010115230822)
 <!-- BLOG-POST-LIST:END -->
