@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Copos e canudos de papel s�o t�o t�xicos quanto os de pl�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copos-canudos-papel-nao-cumprem-promessa-contem-quimicos-perigosos&id=010125230825)
 - [10 dicas incríveis para trabalhar com o Photoshop](https://www.alura.com.br/artigos/10-dicas-trabalhar-photoshop)
+- [Copos e canudos de papel s�o t�o t�xicos quanto os de pl�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copos-canudos-papel-nao-cumprem-promessa-contem-quimicos-perigosos&id=010125230825)
 - [Copiar e colar chega ao mundo real, replicando semicondutores � vontade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copiar-colar-chega-mundo-real-semicondutores&id=010110230825)
 - [Material converte luz diretamente em trabalho mec�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-fotomecanico&id=010115230825)
 - [Para que serve o Adobe Photoshop](https://www.alura.com.br/artigos/para-que-serve-adobe-photoshop)
