@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Copiar e colar chega ao mundo real, replicando semicondutores � vontade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copiar-colar-chega-mundo-real-semicondutores&id=010110230825)
 - [Material converte luz diretamente em trabalho mec�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-fotomecanico&id=010115230825)
 - [Mancha escura de Netuno � vista da Terra pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mancha-escura-netuno-vista-terra-pela-primeira-vez&id=010175230824)
+- [Para que serve o Adobe Photoshop](https://www.alura.com.br/artigos/para-que-serve-adobe-photoshop)
 - [Inventada a menor maneira conhecida de guiar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inventada-menor-maneira-conhecida-guiar-luz&id=010110230824)
-- [Prepare-se para um mundo de materiais vivos, que crescem e se consertam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=prepare-se-mundo-materiais-vivos-crescem-se-consertam&id=010160230824)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
