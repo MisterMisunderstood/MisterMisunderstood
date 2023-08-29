@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Processador qu�ntico fermi�nico pode ser melhor que vers�o com qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-fermionico&id=010150230828)
 - [Fa�a-se a mat�ria: Mat�ria pode ser criada do nada com colis�es f�ton-f�ton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-criada-nada-colisoes-foton-foton&id=010160230828)
 - [Crise na Qu�mica: A Qu�mica moderna s� gera lixo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=crise-quimica-quimica-moderna-lixo-dizem-especialistas&id=010125230828)
-- [Copos e canudos de papel s�o t�o t�xicos quanto os de pl�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copos-canudos-papel-nao-cumprem-promessa-contem-quimicos-perigosos&id=010125230825)
 - [10 dicas incríveis para trabalhar com o Photoshop](https://www.alura.com.br/artigos/10-dicas-trabalhar-photoshop)
+- [Copos e canudos de papel s�o t�o t�xicos quanto os de pl�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=copos-canudos-papel-nao-cumprem-promessa-contem-quimicos-perigosos&id=010125230825)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
