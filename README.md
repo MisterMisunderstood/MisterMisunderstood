@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Borra de caf� em vez de areia deixa concreto 30% mais forte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-borra-cafe-lugar-areia-fica-30-mais-forte&id=010160230829)
 - [Yin-Yang qu�ntico: Entrela�amento qu�ntico � fotografado diretamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=yin-yang-quantico-fotografia-entrelacamento-quantico&id=010110230829)
 - [Rea��o biol�gica � induzida por eletricidade externa pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrobiologia-reacao-biologica-induzida-eletricidade-externa&id=010115230829)
-- [Power BI: conhecendo as linguagens M e DAX](https://www.alura.com.br/artigos/power-bi-linguagens-m-dax)
 - [Disco em torno de buraco negro � medido pela primeira vez por brasileiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-brasileiros-medem-pela-primeira-vez-disco-torno-buraco-negro&id=010130230828)
+- [Processador qu�ntico fermi�nico pode ser melhor que vers�o com qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-fermionico&id=010150230828)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
