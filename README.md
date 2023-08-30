@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Power BI: medidas implícitas e explícitas](https://www.alura.com.br/artigos/power-bi-medidas-e-implicitas-explicitas)
+- [N�o h� impeditivo te�rico para que Intelig�ncia Artificial atinja consci�ncia, dizem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impeditivo-teorico-consciencia-inteligencia-artificial&id=010180230830)
 - [An�is de Alice invertem qualquer coisa que passe atrav�s deles](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aneis-de-alice&id=010165230830)
-- [Machine Learning: o que é aprendizado semi-supervisionado](https://www.alura.com.br/artigos/machine-learning-aprendizado-semi-supervisionado)
 - [Variáveis no Figma](https://www.alura.com.br/artigos/variaveis-figma)
+- [Machine Learning: o que é aprendizado semi-supervisionado](https://www.alura.com.br/artigos/machine-learning-aprendizado-semi-supervisionado)
 - [Borra de caf� em vez de areia deixa concreto 30% mais forte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-borra-cafe-lugar-areia-fica-30-mais-forte&id=010160230829)
 - [Yin-Yang qu�ntico: Entrela�amento qu�ntico � fotografado diretamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=yin-yang-quantico-fotografia-entrelacamento-quantico&id=010110230829)
-- [Rea��o biol�gica � induzida por eletricidade externa pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrobiologia-reacao-biologica-induzida-eletricidade-externa&id=010115230829)
-- [Disco em torno de buraco negro � medido pela primeira vez por brasileiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-brasileiros-medem-pela-primeira-vez-disco-torno-buraco-negro&id=010130230828)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
