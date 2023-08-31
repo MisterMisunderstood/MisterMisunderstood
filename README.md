@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como escrever na �gua em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-escrever-na-agua&id=010170230831)
 - [N�o h� impeditivo te�rico para que Intelig�ncia Artificial atinja consci�ncia, dizem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impeditivo-teorico-consciencia-inteligencia-artificial&id=010180230830)
 - [An�is de Alice invertem qualquer coisa que passe atrav�s deles](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aneis-de-alice&id=010165230830)
 - [Power BI: medidas implícitas e explícitas](https://www.alura.com.br/artigos/power-bi-medidas-implicitas-e-explicitas)
 - [Astr�nomos desvendam mudan�as no brilho de um pulsar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mudanca-brilho-pulsar&id=010130230830)
 - [Machine Learning: o que é aprendizado semi-supervisionado](https://www.alura.com.br/artigos/machine-learning-aprendizado-semi-supervisionado)
 - [Variáveis no Figma](https://www.alura.com.br/artigos/variaveis-figma)
-- [Borra de caf� em vez de areia deixa concreto 30% mais forte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-borra-cafe-lugar-areia-fica-30-mais-forte&id=010160230829)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
