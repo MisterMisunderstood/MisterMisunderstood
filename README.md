@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fibra �ptica biodegrad�vel vai captar dados dentro do seu corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-biodegradavel-mede-controla-eletricidade-corpo-humano&id=020110230901)
 - [Anal�gico e digital: O melhor dos dois mundos agora em um �nico chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=analogico-digital-melhor-dois-mundos-agora-unico-chip&id=010110230901)
 - [Avi�o projetado na USP consome at� 30% menos combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-projetado-usp-consome-ate-30-menos-combustivel&id=010170230901)
 - [Governo Federal disponibiliza R$ 66 bilh�es para inova��o tecnol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=governo-federal-disponibiliza-inovacao-tecnologica&id=010175230831)
 - [NASA testar� comunica��es a laser com a Esta��o Espacial Internacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-testara-comunicacoes-laser-estacao-espacial-internacional&id=010130230831)
 - [Bateria de got�culas aciona aparelhos biointegrados e at� c�lulas individuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-goticulas-aciona-aparelhos-biointegrados-ate-celulas-individuais&id=010115230831)
-- [Como escrever na �gua em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-escrever-na-agua&id=010170230831)
 - [Power BI: contexto de linha e de filtro](https://www.alura.com.br/artigos/power-bi-contexto-linha-filtro)
 <!-- BLOG-POST-LIST:END -->
 
