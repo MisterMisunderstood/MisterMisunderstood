@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Avi�o projetado na USP consome at� 30% menos combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviao-projetado-usp-consome-ate-30-menos-combustivel&id=010170230901)
 - [Governo Federal disponibiliza R$ 66 bilh�es para inova��o tecnol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=governo-federal-disponibiliza-inovacao-tecnologica&id=010175230831)
 - [NASA testar� comunica��es a laser com a Esta��o Espacial Internacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-testara-comunicacoes-laser-estacao-espacial-internacional&id=010130230831)
-- [Power BI: contexto de linha e de filtro](https://www.alura.com.br/artigos/power-bi-contexto-linha-filtro)
 - [Bateria de got�culas aciona aparelhos biointegrados e at� c�lulas individuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-goticulas-aciona-aparelhos-biointegrados-ate-celulas-individuais&id=010115230831)
+- [Como escrever na �gua em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-escrever-na-agua&id=010170230831)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
