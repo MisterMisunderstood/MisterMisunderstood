@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [O profissional de Arquitetura da Informação](https://www.alura.com.br/artigos/profissional-arquitetura-informacao)
+- [Acetona, insumo qu�mico essencial, agora mais segura e mais barata](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acetona-insumo-quimico-essencial&id=010160230904)
 - [Gerador produz eletricidade da umidade atmosf�rica natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-produz-eletricidade-umidade-atmosferica-natural&id=010115230904)
 - [Trans�stor que mede glicose na saliva evita picada para diab�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-mede-glicose-saliva-evita-picada-diabeticos&id=010110230904)
 - [Sele��o natural tamb�m pode retardar evolu��o, mantendo semelhan�as entre gera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=selecao-natural-tambem-retardar-evolucao-mantendo-semelhancas-entre-geracoes&id=010125230904)
 - [Fragmentos coletados no oceano podem mesmo ser de meteoro interestelar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fragmentos-meteoro-interestelar-realmente-ter-sido-encontrado-oceano&id=010130230901)
 - [Componentes no Figma](https://www.alura.com.br/artigos/componentes-figma)
-- [Fibra �ptica biodegrad�vel vai captar dados dentro do seu corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-biodegradavel-mede-controla-eletricidade-corpo-humano&id=020110230901)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
