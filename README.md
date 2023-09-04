@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gerador produz eletricidade da umidade atmosf�rica natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-produz-eletricidade-umidade-atmosferica-natural&id=010115230904)
 - [Trans�stor que mede glicose na saliva evita picada para diab�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-mede-glicose-saliva-evita-picada-diabeticos&id=010110230904)
 - [Sele��o natural tamb�m pode retardar evolu��o, mantendo semelhan�as entre gera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=selecao-natural-tambem-retardar-evolucao-mantendo-semelhancas-entre-geracoes&id=010125230904)
-- [Fragmentos coletados no oceano podem mesmo ser de meteoro interestelar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fragmentos-meteoro-interestelar-realmente-ter-sido-encontrado-oceano&id=010130230901)
 - [Componentes no Figma](https://www.alura.com.br/artigos/componentes-figma)
+- [Fragmentos coletados no oceano podem mesmo ser de meteoro interestelar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fragmentos-meteoro-interestelar-realmente-ter-sido-encontrado-oceano&id=010130230901)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
