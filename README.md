@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [N�o existe realidade objetiva, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-existe-realidade-objetiva&id=010130230905)
 - [H�brido de drone com planador para transporte a�reo de mercadorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hibrido-multicoptero-planador-transporte-aereo-mercadorias&id=010170230905)
 - [Evento da cria��o em laborat�rio: Viemos do barro de vulc�es e meteoritos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evento-criacao-laboratorio-viemos-nao-barro-mas-po-meteoritos&id=010125230905)
+- [O profissional de Arquitetura da Informação](https://www.alura.com.br/artigos/profissional-arquitetura-informacao)
 - [Acetona, insumo qu�mico essencial, agora mais segura e mais barata](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acetona-insumo-quimico-essencial&id=010160230904)
 - [Gerador produz eletricidade da umidade atmosf�rica natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-produz-eletricidade-umidade-atmosferica-natural&id=010115230904)
 - [Trans�stor que mede glicose na saliva evita picada para diab�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-mede-glicose-saliva-evita-picada-diabeticos&id=010110230904)
-- [Sele��o natural tamb�m pode retardar evolu��o, mantendo semelhan�as entre gera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=selecao-natural-tambem-retardar-evolucao-mantendo-semelhancas-entre-geracoes&id=010125230904)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
