@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Detectado campo magn�tico gal�ctico mais antigo j� observado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-campo-magnetico-galactico-mais-antigo-ja-observado&id=010130230907)
 - [Tratamento digital e o marketing](https://www.alura.com.br/artigos/tratamento-digital-marketing)
 - [Material vivo limpa �gua contaminada e se autodestr�i](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-vivo-limpa-agua-contaminada-se-autodestroi&id=010125230906)
 - [Objetos na superf�cie da �gua sofrem mais arrasto que totalmente submersos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-parcialmente-submersos-sofrem-mais-arrasto-totalmente-submersos&id=010170230906)
 - [Bateria multifuncional muda de cor conforme carrega ou descarrega](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-multifuncional-muda-cor-carrega&id=010115230906)
 - [N�o existe realidade objetiva, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-existe-realidade-objetiva&id=010130230905)
 - [H�brido de drone com planador para transporte a�reo de mercadorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hibrido-multicoptero-planador-transporte-aereo-mercadorias&id=010170230905)
-- [Evento da cria��o em laborat�rio: Viemos do barro de vulc�es e meteoritos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evento-criacao-laboratorio-viemos-nao-barro-mas-po-meteoritos&id=010125230905)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
