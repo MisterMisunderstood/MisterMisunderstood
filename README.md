@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Material vivo limpa �gua contaminada e se autodestr�i](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-vivo-limpa-agua-contaminada-se-autodestroi&id=010125230906)
 - [Tratamento digital e o marketing](https://www.alura.com.br/artigos/tratamento-digital-marketing)
+- [Material vivo limpa �gua contaminada e se autodestr�i](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-vivo-limpa-agua-contaminada-se-autodestroi&id=010125230906)
 - [Objetos na superf�cie da �gua sofrem mais arrasto que totalmente submersos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-parcialmente-submersos-sofrem-mais-arrasto-totalmente-submersos&id=010170230906)
 - [Bateria multifuncional muda de cor conforme carrega ou descarrega](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-multifuncional-muda-cor-carrega&id=010115230906)
 - [N�o existe realidade objetiva, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-existe-realidade-objetiva&id=010130230905)
