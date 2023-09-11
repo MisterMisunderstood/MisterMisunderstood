@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Experimento de produ��o de oxig�nio em Marte conclui miss�o com sucesso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-producao-oxigenio-marte-conclui-missao-sucesso&id=020130230907)
 - [Detectado campo magn�tico gal�ctico mais antigo j� observado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-campo-magnetico-galactico-mais-antigo-ja-observado&id=010130230907)
 - [Material vivo limpa �gua contaminada e se autodestr�i](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-vivo-limpa-agua-contaminada-se-autodestroi&id=010125230906)
-- [Objetos na superf�cie da �gua sofrem mais arrasto que totalmente submersos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-parcialmente-submersos-sofrem-mais-arrasto-totalmente-submersos&id=010170230906)
+- [Tratamento digital e o marketing](https://www.alura.com.br/artigos/tratamento-digital-marketing)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
