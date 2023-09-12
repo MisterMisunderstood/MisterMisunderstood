@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Auto layout no Figma](https://www.alura.com.br/artigos/auto-layout-figma)
+- [Buraco negro mais pr�ximo da Terra podem estar mais pr�ximo do que se imaginava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-mais-proximos-terra-estar-mais-proximos-se-acreditava&id=010130230912)
 - [Bombeamento fica mais eficiente com bomba pulsante inspirada no cora��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-batem-como-coracao&id=010170230912)
 - [Superneur�nio artificial faz tudo, da detec��o da luz ao processamento por IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superneuronio-artificial-faz-tudo-deteccao-luz-processamento-ia&id=010110230912)
 - [O mercado de trabalho e a edição de imagens](https://www.alura.com.br/artigos/mercado-trabalho-edicao-imagens)
 - [Folha solar de inspira��o biol�gica coleta mais energia e produz �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-solar-inspiracao-biologica-coleta-mais-energia-produz-agua&id=010115230911)
 - [Filtro de serragem de madeira captura at� 99,9% dos micropl�sticos na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-serragem-madeira-captura-microplasticos&id=020125230911)
-- [Como saber se um organismo � geneticamente modificado ou natural?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-saber-se-organismo-geneticamente-modificado-ou-natural&id=010125230911)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
