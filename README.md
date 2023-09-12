@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bombeamento fica mais eficiente com bomba pulsante inspirada no cora��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-batem-como-coracao&id=010170230912)
+- [Superneur�nio artificial faz tudo, da detec��o da luz ao processamento por IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superneuronio-artificial-faz-tudo-deteccao-luz-processamento-ia&id=010110230912)
 - [Folha solar de inspira��o biol�gica coleta mais energia e produz �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-solar-inspiracao-biologica-coleta-mais-energia-produz-agua&id=010115230911)
 - [Filtro de serragem de madeira captura at� 99,9% dos micropl�sticos na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-serragem-madeira-captura-microplasticos&id=020125230911)
 - [Como saber se um organismo � geneticamente modificado ou natural?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-saber-se-organismo-geneticamente-modificado-ou-natural&id=010125230911)
 - [O mercado de trabalho e a edição de imagens](https://www.alura.com.br/artigos/mercado-trabalho-edicao-imagens)
 - [Nanocomp�sito extrai calor de eletr�nicos, LEDs e baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanocomposito-diminui-aquecimento-eletronicos-iluminacao-veiculos-eletricos&id=010165230908)
-- [Eletrodo universal viabiliza c�lulas de combust�vel de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrodo-universal-viabiliza-celulas-combustivel-proxima-geracao&id=010115230908)
-- [Enxame de pequenos ve�culos transporta at� 40 toneladas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxame-pequenos-veiculos-transporta-ate-40-toneladas&id=010180230908)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
