@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Carro el�trico de estudantes bate recorde mundial de acelera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carro-eletrico-estudantes-faz-0-100-km-h-menos-1-segundo&id=010170230913)
+- [Descoberta gal�xia rara envolta por fita c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-anel-polar&id=020130230913)
 - [Evolu��o do Universo parece estar desacelerando e n�o sabemos por qu�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evolucao-universo-parece-estar-desacelerando-nao-sabemos-que&id=010130230913)
 - [Redemoinhos magn�ticos abrem caminho para computa��o com efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=redemoinhos-magneticos-abrem-caminho-computacao-eficiencia-energetica&id=010150230913)
 - [Auto layout no Figma](https://www.alura.com.br/artigos/auto-layout-figma)
 - [Buraco negro mais pr�ximo da Terra pode estar mais pr�ximo do que se imaginava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-mais-proximos-terra-estar-mais-proximos-se-acreditava&id=010130230912)
 - [Bombeamento fica mais eficiente com bomba pulsante inspirada no cora��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-batem-como-coracao&id=010170230912)
-- [Superneur�nio artificial faz tudo, da detec��o da luz ao processamento por IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superneuronio-artificial-faz-tudo-deteccao-luz-processamento-ia&id=010110230912)
-- [O mercado de trabalho e a edição de imagens](https://www.alura.com.br/artigos/mercado-trabalho-edicao-imagens)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
