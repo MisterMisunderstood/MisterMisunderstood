@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberta gal�xia rara envolta por fita c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-anel-polar&id=020130230913)
 - [Evolu��o do Universo parece estar desacelerando e n�o sabemos por qu�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evolucao-universo-parece-estar-desacelerando-nao-sabemos-que&id=010130230913)
 - [Redemoinhos magn�ticos abrem caminho para computa��o com efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=redemoinhos-magneticos-abrem-caminho-computacao-eficiencia-energetica&id=010150230913)
-- [Auto layout no Figma](https://www.alura.com.br/artigos/auto-layout-figma)
 - [Buraco negro mais pr�ximo da Terra pode estar mais pr�ximo do que se imaginava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-mais-proximos-terra-estar-mais-proximos-se-acreditava&id=010130230912)
+- [Auto layout no Figma](https://www.alura.com.br/artigos/auto-layout-figma)
 - [Bombeamento fica mais eficiente com bomba pulsante inspirada no cora��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bombas-batem-como-coracao&id=010170230912)
 <!-- BLOG-POST-LIST:END -->
 
