@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Petrobras e WEG firmam parceria para desenvolver gerador e�lico nacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=petrobras-weg-firmam-parceria-desenvolver-gerador-energia-eolica-nacional&id=010175230914)
 - [Bact�rias turbinadas geram eletricidade usando �guas residuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-turbinadas-geram-eletricidade-usando-aguas-residuais&id=010115230914)
 - [Principais pl�sticos podem ser reciclados para armazenar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=principais-plasticos-reciclados-armazenar-energia&id=010125230914)
-- [Angular: o que é, para que serve e um Guia para iniciar no framework JavaScript](https://www.alura.com.br/artigos/angular-js)
-- [O que são retrospectivas no Ambiente Ágil](https://www.alura.com.br/artigos/retrospectivas-ambiente-agil)
+- [Carro el�trico de estudantes bate recorde mundial de acelera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carro-eletrico-estudantes-faz-0-100-km-h-menos-1-segundo&id=010170230913)
+- [Descoberta gal�xia rara envolta por fita c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-anel-polar&id=020130230913)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
