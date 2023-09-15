@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Seis dos nove Limites da Terra foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
 - [Relat�rio da NASA sobre �vnis � t�o evasivo quanto se esperava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-nasa-sobre-ovnis-evasivo-como-se-esperava&id=020175230914)
 - [Colis�o de aglomerados de gal�xias contesta teoria padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisao-aglomerados-galaxias-contesta-teoria-padrao-cosmologia&id=010130230914)
-- [Petrobras e WEG firmam parceria para desenvolver gerador e�lico nacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=petrobras-weg-firmam-parceria-desenvolver-gerador-energia-eolica-nacional&id=010175230914)
 - [Angular: o que é, para que serve e um Guia para iniciar no framework JavaScript](https://www.alura.com.br/artigos/angular-js)
 - [O que são retrospectivas no Ambiente Ágil](https://www.alura.com.br/artigos/retrospectivas-ambiente-agil)
+- [Petrobras e WEG firmam parceria para desenvolver gerador e�lico nacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=petrobras-weg-firmam-parceria-desenvolver-gerador-energia-eolica-nacional&id=010175230914)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
