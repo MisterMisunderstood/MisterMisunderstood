@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Sinais de WiFi permitem fazer fotos de objetos atr�s das paredes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-permitem-fazer-fotos-objetos-atras-paredes&id=010150230915)
-- [Seis dos nove Limites da Terra j� foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
+- [Seis dos nove Limites da Terra foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
 - [Relat�rio da NASA sobre �vnis � t�o evasivo quanto se esperava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-nasa-sobre-ovnis-evasivo-como-se-esperava&id=020175230914)
 - [Colis�o de aglomerados de gal�xias contesta teoria padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisao-aglomerados-galaxias-contesta-teoria-padrao-cosmologia&id=010130230914)
 - [Petrobras e WEG firmam parceria para desenvolver gerador e�lico nacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=petrobras-weg-firmam-parceria-desenvolver-gerador-energia-eolica-nacional&id=010175230914)
