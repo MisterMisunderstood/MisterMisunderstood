@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sinais de WiFi permitem fazer fotos de objetos atr�s das paredes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-permitem-fazer-fotos-objetos-atras-paredes&id=010150230915)
+- [Seis dos nove Limites da Terra j� foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
 - [Relat�rio da NASA sobre �vnis � t�o evasivo quanto se esperava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-nasa-sobre-ovnis-evasivo-como-se-esperava&id=020175230914)
 - [Colis�o de aglomerados de gal�xias contesta teoria padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisao-aglomerados-galaxias-contesta-teoria-padrao-cosmologia&id=010130230914)
 - [Petrobras e WEG firmam parceria para desenvolver gerador e�lico nacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=petrobras-weg-firmam-parceria-desenvolver-gerador-energia-eolica-nacional&id=010175230914)
 - [Bact�rias turbinadas geram eletricidade usando �guas residuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-turbinadas-geram-eletricidade-usando-aguas-residuais&id=010115230914)
 - [Principais pl�sticos podem ser reciclados para armazenar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=principais-plasticos-reciclados-armazenar-energia&id=010125230914)
-- [Carro el�trico de estudantes bate recorde mundial de acelera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carro-eletrico-estudantes-faz-0-100-km-h-menos-1-segundo&id=010170230913)
-- [Descoberta gal�xia rara envolta por fita c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-anel-polar&id=020130230913)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
