@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolha de gal�xias rec�m-descoberta pode revolucionar a cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolha-galaxias&id=010130230915)
 - [Pycharm ou VSCode: qual ferramenta escolher para programar em Python?](https://www.alura.com.br/artigos/pycharm-vscode-programar-python)
 - [NuPay: conheça o novo meio de pagamento disponível na Alura](https://www.alura.com.br/artigos/nupay-novo-meio-pagamento-alura)
+- [Bolha de gal�xias rec�m-descoberta pode revolucionar a cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolha-galaxias&id=010130230915)
 - [Sinais de WiFi permitem fazer fotos de objetos atr�s das paredes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-permitem-fazer-fotos-objetos-atras-paredes&id=010150230915)
 - [Seis dos nove Limites da Terra foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
 - [Relat�rio da NASA sobre �vnis � t�o evasivo quanto se esperava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-nasa-sobre-ovnis-evasivo-como-se-esperava&id=020175230914)
