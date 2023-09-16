@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sinais de WiFi permitem fazer fotos de objetos atr�s das paredes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-permitem-fazer-fotos-objetos-atras-paredes&id=010150230915)
 - [Seis dos nove Limites da Terra foram ultrapassados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seis-nove-limites-planetarios-ja-foram-excedidos&id=010125230915)
 - [Relat�rio da NASA sobre �vnis � t�o evasivo quanto se esperava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatorio-nasa-sobre-ovnis-evasivo-como-se-esperava&id=020175230914)
-- [Colis�o de aglomerados de gal�xias contesta teoria padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colisao-aglomerados-galaxias-contesta-teoria-padrao-cosmologia&id=010130230914)
+- [O que são retrospectivas no Ambiente Ágil](https://www.alura.com.br/artigos/retrospectivas-ambiente-agil)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
