@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Asa das lib�lulas promete asas de avi�es 25% mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asa-libelulas-promete-asas-avioes-25-mais-fortes&id=010170230918)
 - [Por que os humanos n�o deveriam confiar na intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-humanos-nao-confiar-inteligencia-artificial&id=010150230918)
 - [Material qu�ntico apresenta comportamento n�o-local que imita fun��o cerebral](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-comportamento-nao-local&id=010110230918)
-- [Bolha de gal�xias rec�m-descoberta pode revolucionar a cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolha-galaxias&id=010130230915)
 - [NuPay: conheça o novo meio de pagamento disponível na Alura](https://www.alura.com.br/artigos/nupay-novo-meio-pagamento-alura)
 - [Pycharm ou VSCode: qual ferramenta escolher para programar em Python?](https://www.alura.com.br/artigos/pycharm-vscode-programar-python)
+- [Bolha de gal�xias rec�m-descoberta pode revolucionar a cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolha-galaxias&id=010130230915)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
