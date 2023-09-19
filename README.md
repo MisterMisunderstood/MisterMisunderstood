@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Material qu�ntico apresenta comportamento n�o-local que imita fun��o cerebral](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-comportamento-nao-local&id=010110230918)
 - [Como configurar variáveis de ambiente no Windows, Linux e macOS](https://www.alura.com.br/artigos/configurar-variaveis-ambiente-windows-linux-macos)
 - [Bolha de gal�xias rec�m-descoberta pode revolucionar a cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolha-galaxias&id=010130230915)
-- [Sinais de WiFi permitem fazer fotos de objetos atr�s das paredes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-permitem-fazer-fotos-objetos-atras-paredes&id=010150230915)
 - [NuPay: conheça o novo meio de pagamento disponível na Alura](https://www.alura.com.br/artigos/nupay-novo-meio-pagamento-alura)
+- [Pycharm ou VSCode: qual ferramenta escolher para programar em Python?](https://www.alura.com.br/artigos/pycharm-vscode-programar-python)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
