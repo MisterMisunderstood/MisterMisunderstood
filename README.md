@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Objetos com cafe�na: Impress�o 3D usa borra de caf� como mat�ria-prima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-com-cafe&id=010170230920)
+- [Computa��o neurom�rfica pode tornar IA capaz de autoaprendizagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-tornar-ia-capaz-autoaprendizagem&id=010150230920)
 - [Utilizando o Vite para criar uma aplicação React com TypeScript](https://www.alura.com.br/artigos/vite-criar-aplicacao-react-typescript)
 - [Baterias e nanogeradores feitos de celulose e bact�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-nanogeradores-feitos-celulose-bacterias&id=010115230919)
 - [Qu�micos eternos podem n�o ser t�o imortais quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quimicos-eternos&id=010125230919)
 - [Nanoplanetas de metal l�quido prometem novos mundos para a qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoplanetas-metal-liquido-prometem-novos-mundos-quimica&id=010165230919)
-- [Asas das lib�lulas tornam asas dos avi�es 25% mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asa-libelulas-promete-asas-avioes-25-mais-fortes&id=010170230918)
-- [Por que os humanos n�o deveriam confiar na intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-humanos-nao-confiar-inteligencia-artificial&id=010150230918)
-- [Material qu�ntico apresenta comportamento n�o-local que imita fun��o cerebral](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-comportamento-nao-local&id=010110230918)
+- [Como configurar variáveis de ambiente no Windows, Linux e macOS](https://www.alura.com.br/artigos/configurar-variaveis-ambiente-windows-linux-macos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
