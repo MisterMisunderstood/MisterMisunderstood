@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurando Next.js com TypeScript](https://www.alura.com.br/artigos/configurando-next-js-typescript)
 - [Objetos com cafe�na: Impress�o 3D usa borra de caf� como mat�ria-prima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-com-cafe&id=010170230920)
 - [Computa��o neurom�rfica pode tornar IA capaz de autoaprendizagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-tornar-ia-capaz-autoaprendizagem&id=010150230920)
 - [Utilizando o Vite para criar uma aplicação React com TypeScript](https://www.alura.com.br/artigos/vite-criar-aplicacao-react-typescript)
 - [Baterias e nanogeradores feitos de celulose e bact�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-nanogeradores-feitos-celulose-bacterias&id=010115230919)
 - [Qu�micos eternos podem n�o ser t�o imortais quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quimicos-eternos&id=010125230919)
 - [Nanoplanetas de metal l�quido prometem novos mundos para a qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoplanetas-metal-liquido-prometem-novos-mundos-quimica&id=010165230919)
-- [Como configurar variáveis de ambiente no Windows, Linux e macOS](https://www.alura.com.br/artigos/configurar-variaveis-ambiente-windows-linux-macos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
