@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Context API e TypeScript: como utilizar o superpoder desta dupla](https://www.alura.com.br/artigos/context-api-typescript-utilizar-superpoder-dupla)
+- [NASA revela imagem completa de cratera escura no P�lo Sul da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-revela-imagem-completa-cratera-escura-polo-sul-lua&id=010175230921)
 - [Novas receitas para origem da vida para procurar exoplanetas habitados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-receitas-origem-vida-procurar-exoplanetas-habitados&id=010130230921)
 - [Molibdeneno: Nasce o parente met�lico do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molibdeneno&id=010165230921)
 - [Configurando Next.js com TypeScript](https://www.alura.com.br/artigos/configurando-next-js-typescript)
 - [Objetos com cafe�na: Impress�o 3D usa borra de caf� como mat�ria-prima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-com-cafe&id=010170230920)
 - [Computa��o neurom�rfica pode tornar IA capaz de autoaprendizagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-tornar-ia-capaz-autoaprendizagem&id=010150230920)
-- [Utilizando o Vite para criar uma aplicação React com TypeScript](https://www.alura.com.br/artigos/vite-criar-aplicacao-react-typescript)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
