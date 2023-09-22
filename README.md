@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [VPN: o que é, como funciona e como usar](https://www.alura.com.br/artigos/vpn-como-funciona-como-usar)
 - [Este estranho material � duro e el�stico ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-estranho-material-duro-elastico-mesmo-tempo&id=010160230922)
 - [Ser� que finalmente descobrimos como as nuvens fazem chuva?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-finalmente-descobrimos-como-nuvens-fazem-chuva&id=010125230922)
 - [NASA revela imagem completa de cratera escura no P�lo Sul da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-revela-imagem-completa-cratera-escura-polo-sul-lua&id=010175230921)
 - [Context API e TypeScript: como utilizar o superpoder desta dupla](https://www.alura.com.br/artigos/context-api-typescript-utilizar-superpoder-dupla)
 - [Novas receitas para origem da vida para procurar exoplanetas habitados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-receitas-origem-vida-procurar-exoplanetas-habitados&id=010130230921)
 - [Molibdeneno: Nasce o parente met�lico do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molibdeneno&id=010165230921)
-- [Configurando Next.js com TypeScript](https://www.alura.com.br/artigos/configurando-next-js-typescript)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
