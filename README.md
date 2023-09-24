@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Carbono na superf�cie da lua Europa, de J�piter, pode vir de oceano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carbono-superficie-lua-europa-jupiter-vir-oceano&id=010175230922)
-- [Amostras de asteroide chegam do espa�o neste fim de semana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-chegam-espaco-neste-fim-semana&id=010130230922)
 - [VPN: o que é, como funciona e como usar](https://www.alura.com.br/artigos/vpn-como-funciona-como-usar)
+- [Amostras de asteroide chegam do espa�o neste fim de semana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-chegam-espaco-neste-fim-semana&id=010130230922)
 - [Este estranho material � duro e el�stico ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-estranho-material-duro-elastico-mesmo-tempo&id=010160230922)
 - [Ser� que finalmente descobrimos como as nuvens viram chuva?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-finalmente-descobrimos-como-nuvens-fazem-chuva&id=010125230922)
 - [Context API e TypeScript: como utilizar o superpoder desta dupla](https://www.alura.com.br/artigos/context-api-typescript-utilizar-superpoder-dupla)
