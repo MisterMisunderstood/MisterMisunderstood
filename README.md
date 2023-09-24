@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [VPN: o que é, como funciona e como usar](https://www.alura.com.br/artigos/vpn-como-funciona-como-usar)
 - [Este estranho material � duro e el�stico ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-estranho-material-duro-elastico-mesmo-tempo&id=010160230922)
 - [Ser� que finalmente descobrimos como as nuvens viram chuva?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-finalmente-descobrimos-como-nuvens-fazem-chuva&id=010125230922)
-- [NASA revela imagem completa de cratera escura no P�lo Sul da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-revela-imagem-completa-cratera-escura-polo-sul-lua&id=010175230921)
 - [Context API e TypeScript: como utilizar o superpoder desta dupla](https://www.alura.com.br/artigos/context-api-typescript-utilizar-superpoder-dupla)
+- [NASA revela imagem completa de cratera escura no P�lo Sul da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-revela-imagem-completa-cratera-escura-polo-sul-lua&id=010175230921)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
