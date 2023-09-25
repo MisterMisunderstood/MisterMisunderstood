@@ -125,11 +125,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Componentes React com TypeScript](https://www.alura.com.br/artigos/componentes-react-typescript)
+- [Sonda OSIRIS-REx deixa amostras e segue viagem rumo a outro asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-osiris-rex-deixa-amostras-segue-viagem-rumo-outro-asteroide&id=010130230925)
 - [Magnetismo faz areia fluir morro acima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetismo-faz-areia-fluir-morro-acima&id=020160230925)
 - [Seda de aranha produzida por bicho-da-seda � 6 vezes mais forte que material � prova de balas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bicho-seda-produz-seda-aranha-mais-forte-material-prova-balas&id=010160230925)
 - [Super�m� a temperatura ambiente promete descongelar a computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superima-temperatura-ambiente-promete-descongelar-computacao-quantica&id=010110230925)
 - [Carbono na superf�cie da lua Europa, de J�piter, pode vir de oceano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carbono-superficie-lua-europa-jupiter-vir-oceano&id=010175230922)
-- [Amostras de asteroide chegam do espa�o neste fim de semana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-chegam-espaco-neste-fim-semana&id=010130230922)
 - [VPN: o que é, como funciona e como usar](https://www.alura.com.br/artigos/vpn-como-funciona-como-usar)
 <!-- BLOG-POST-LIST:END -->
 
