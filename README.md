@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Intelig�ncia Artificial identifica vida, n�o-vida e f�sseis - na Terra e no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-identifica-vida-nao-vida-fosseis-terra-espaco&id=010130230926)
 - [Como saber o momento certo para trocar uma ferramenta na ind�stria?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-saber-momento-certo-trocar-ferramenta-industria&id=010170230926)
 - [Nova tecnologia torna baterias de l�tio muito mais duradouras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-torna-baterias-litio-muito-mais-duradouras&id=010115230926)
-- [Sonda OSIRIS-REx deixa amostras e segue viagem rumo a outro asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-osiris-rex-deixa-amostras-segue-viagem-rumo-outro-asteroide&id=010130230925)
 - [Componentes React com TypeScript](https://www.alura.com.br/artigos/componentes-react-typescript)
+- [Sonda OSIRIS-REx deixa amostras e segue viagem rumo a outro asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-osiris-rex-deixa-amostras-segue-viagem-rumo-outro-asteroide&id=010130230925)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
