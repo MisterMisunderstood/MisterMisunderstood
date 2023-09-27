@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Pl�stico banido est� sendo vendido como pl�stico biodegrad�vel em supermercados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-banido-esta-sendo-vendido-como-plastico-biodegradavel-supermercados&id=020175230927)
 - [Problemas resolvidos por algoritmos de classificação](https://www.alura.com.br/artigos/problemas-resolvidos-algoritmos-classificacao)
+- [Confirmado: Antimat�ria n�o cai para cima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confirmado-antimateria-nao-cai-cima&id=020130230927)
+- [Pl�stico banido est� sendo vendido como pl�stico biodegrad�vel em supermercados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-banido-esta-sendo-vendido-como-plastico-biodegradavel-supermercados&id=020175230927)
 - [Apag�o nacional foi causado por falha em parques e�licos e solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apagao-nacional-foi-causado-falha-parques-eolicos-solares&id=010175230927)
 - [Surpresa: Neutrinos podem interagir com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=surpresa-neutrinos-interagir-luz&id=010130230927)
 - [Rob�s aspiradores de som prometem criar zonas de sil�ncio na sala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-aspiradores-som-prometem-criar-zonas-silencio-sala&id=010180230927)
 - [Simplificando o controle de versão com Conventional Commits](https://www.alura.com.br/artigos/simplificando-controle-versao-conventional-commits)
-- [Flutter: escolhendo uma arquitetura para o seu projeto](https://www.alura.com.br/artigos/flutter-arquitetura-seu-projeto)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
