@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Olho metam�rfico dar� a rob�s vis�o de olhos compostos, como os insetos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olho-metamorfico-dara-robos-visao-olhos-compostos-como-insetos&id=010180230928)
 - [Confirmado: Antimat�ria n�o cai para cima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confirmado-antimateria-nao-cai-cima&id=020130230927)
 - [Pl�stico banido est� sendo vendido como biodegrad�vel em supermercados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-banido-esta-sendo-vendido-como-plastico-biodegradavel-supermercados&id=020175230927)
-- [Apag�o nacional foi causado por falha em parques e�licos e solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apagao-nacional-foi-causado-falha-parques-eolicos-solares&id=010175230927)
 - [Problemas resolvidos por algoritmos de classificação](https://www.alura.com.br/artigos/problemas-resolvidos-algoritmos-classificacao)
+- [Apag�o nacional foi causado por falha em parques e�licos e solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apagao-nacional-foi-causado-falha-parques-eolicos-solares&id=010175230927)
 - [Surpresa: Neutrinos podem interagir com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=surpresa-neutrinos-interagir-luz&id=010130230927)
 <!-- BLOG-POST-LIST:END -->
 
