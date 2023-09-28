@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Surpresa: Neutrinos podem interagir com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=surpresa-neutrinos-interagir-luz&id=010130230927)
 - [Rob�s aspiradores de som prometem criar zonas de sil�ncio na sala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-aspiradores-som-prometem-criar-zonas-silencio-sala&id=010180230927)
 - [Problemas resolvidos por algoritmos de classificação](https://www.alura.com.br/artigos/problemas-resolvidos-algoritmos-classificacao)
-- [Intelig�ncia Artificial identifica vida, n�o-vida e f�sseis - na Terra e no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-identifica-vida-nao-vida-fosseis-terra-espaco&id=010130230926)
+- [Simplificando o controle de versão com Conventional Commits](https://www.alura.com.br/artigos/simplificando-controle-versao-conventional-commits)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
