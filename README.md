@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Changelog: o guia do desenvolvedor para documentar e compreender alterações de software](https://www.alura.com.br/artigos/changelog-guia-desenvolvedor-alteracoes-software)
+- [Amostras do asteroide Bennu podem ter vazado durante viagem de volta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-bennu-ter-vazado-durante-viagem-volta&id=020130230928)
 - [Buchas de banho geram eletricidade suficiente para alimentar LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buchas-de-banho-geram-eletricidade&id=010115230928)
 - [Confirmado: Buracos negros giram](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confirmado-buracos-negros-giram-sobre-si-mesmos&id=010130230928)
 - [Olho metam�rfico dar� a rob�s vis�o de olhos compostos, como os insetos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olho-metamorfico-dara-robos-visao-olhos-compostos-como-insetos&id=010180230928)
 - [Problemas resolvidos por algoritmos de classificação](https://www.alura.com.br/artigos/problemas-resolvidos-algoritmos-classificacao)
 - [Confirmado: Antimat�ria n�o cai para cima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confirmado-antimateria-nao-cai-cima&id=020130230927)
-- [Pl�stico banido est� sendo vendido como biodegrad�vel em supermercados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-banido-esta-sendo-vendido-como-plastico-biodegradavel-supermercados&id=020175230927)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
