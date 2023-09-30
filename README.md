@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mem�ria super resistente ao calor sobrevive a temperaturas acima de 500�C](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-super-resistente-calor-sobrevive-temperaturas-acima-500-c&id=010110230929)
 - [Métricas que auxiliam a arquitetura da informação](https://www.alura.com.br/artigos/metricas-arquitetura-informacao)
+- [Mem�ria super resistente ao calor sobrevive a temperaturas acima de 500�C](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-super-resistente-calor-sobrevive-temperaturas-acima-500-c&id=010110230929)
 - [Motor qu�ntico supera efici�ncia de motor a combust�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supera-eficiencia-motor-combustao&id=010165230929)
 - [Intelig�ncia artificial inspirada na Ecologia pode ficar mais s�bia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ecologia-inteligencia-artificial-mais-fortes-juntas&id=010150230929)
 - [Amostras do asteroide Bennu podem ter vazado durante viagem de volta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-bennu-ter-vazado-durante-viagem-volta&id=020130230928)
