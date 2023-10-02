@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Press�o negativa � revelada por ondas de luz e som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pressao-negativa&id=010170231002)
+- [Neur�nio artificial multissensorial tornar� IA mais inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-artificial-multissensorial-tornara-ia-mais-inteligente&id=010110231002)
+- [Material fot�nico ultrafino tira o calor dos eletr�nicos pessoais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-fotonico-ultrafino-tira-calor-eletronicos-vestiveis&id=010115231002)
 - [Mem�ria super resistente ao calor sobrevive a temperaturas acima de 500�C](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-super-resistente-calor-sobrevive-temperaturas-acima-500-c&id=010110230929)
 - [Métricas que auxiliam a arquitetura da informação](https://www.alura.com.br/artigos/metricas-arquitetura-informacao)
 - [Motor qu�ntico supera efici�ncia de motor a combust�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supera-eficiencia-motor-combustao&id=010165230929)
 - [Intelig�ncia artificial inspirada na Ecologia pode ficar mais s�bia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ecologia-inteligencia-artificial-mais-fortes-juntas&id=010150230929)
-- [Amostras do asteroide Bennu podem ter vazado durante viagem de volta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-bennu-ter-vazado-durante-viagem-volta&id=020130230928)
-- [Buchas de banho geram eletricidade suficiente para alimentar LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buchas-de-banho-geram-eletricidade&id=010115230928)
-- [Changelog: o guia do desenvolvedor para documentar e compreender alterações de software](https://www.alura.com.br/artigos/changelog-guia-desenvolvedor-alteracoes-software)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
