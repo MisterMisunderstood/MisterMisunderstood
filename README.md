@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Vidro com DNA � 4 vezes mais forte e 5 vezes mais leve que o a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-dna-4-vezes-mais-forte-5-vezes-mais-leve-aco&id=020160231003)
 - [Motor molecular gira dentro de um cristal s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-molecular-gira-dentro-cristal-solido&id=010165231003)
 - [Cimento ecologicamente correto inspirado em vermes marinhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-ecologicamente-correto-inspirado-vermes-marinhos&id=010160231003)
-- [Como planeta que n�o deveria existir pode ter sobrevivido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-planeta-nao-deveria-existir-ter-sobrevivido&id=010175231002)
+- [VueJS: ciclo de vida dos componentes](https://www.alura.com.br/artigos/vuejs-ciclo-vida-componentes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
