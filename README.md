@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Motor molecular gira dentro de um cristal s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-molecular-gira-dentro-cristal-solido&id=010165231003)
 - [Cimento ecologicamente correto inspirado em vermes marinhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-ecologicamente-correto-inspirado-vermes-marinhos&id=010160231003)
 - [Como planeta que n�o deveria existir pode ter sobrevivido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-planeta-nao-deveria-existir-ter-sobrevivido&id=010175231002)
+- [VueJS: ciclo de vida dos componentes](https://www.alura.com.br/artigos/vuejs-ciclo-vida-componentes)
 - [Press�o negativa � revelada por ondas de luz e som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pressao-negativa&id=010170231002)
 - [Neur�nio artificial multissensorial tornar� IA mais inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronio-artificial-multissensorial-tornara-ia-mais-inteligente&id=010110231002)
-- [Material fot�nico ultrafino tira o calor dos eletr�nicos pessoais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-fotonico-ultrafino-tira-calor-eletronicos-vestiveis&id=010115231002)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
