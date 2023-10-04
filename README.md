@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Quasicristais finalmente poder�o ser estudados em busca de novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristais-finalmente-poderao-estudados-busca-novas-tecnologias&id=010160231004)
 - [Arranjos Produtivos Locais promovem inova��o em empresas de todos os portes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arranjos-produtivos-locais&id=010175231003)
 - [Nobel de F�sica 2023 premia pulsos ultracurtos de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-2023-premia-pulsos-ultracurtos-luz&id=010115231003)
-- [Planetas do tamanho de J�piter est�o flutuando em pares pelo espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-tamanho-jupiter-estao-flutuando-pares-pelo-espaco&id=010130231003)
 - [CSS Grid: guia de propriedades de grid container e grid item](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
+- [Planetas do tamanho de J�piter est�o flutuando em pares pelo espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-tamanho-jupiter-estao-flutuando-pares-pelo-espaco&id=010130231003)
 - [Vidro com DNA � 4 vezes mais forte e 5 vezes mais leve que o a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-dna-4-vezes-mais-forte-5-vezes-mais-leve-aco&id=020160231003)
 <!-- BLOG-POST-LIST:END -->
 
