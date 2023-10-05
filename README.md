@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Prototipagem com condicionais no Figma](https://www.alura.com.br/artigos/prototipagem-condicionais-figma)
+- [Como a Alura Start está transformando a educação em escolas públicas e privadas do país](https://www.alura.com.br/artigos/alura-start-transformando-educacao-escolas)
 - [Laser � desviado usando apenas o ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-desviado-usando-apenas-ar&id=020115231005)
 - [C�lulas solares de sil�cio ficam oito vezes mais finas - e mais baratas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-silicio-ficam-oito-vezes-mais-finas-mantendo-eficiencia&id=010115231005)
+- [Cinco novidades do Photoshop 2024](https://www.alura.com.br/artigos/cinco-novidades-photoshop-2024)
 - [Nobel de Qu�mica vai para cria��o dos pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-vai-criacao-pontos-quanticos&id=010110231004)
 - [Cientistas criam um combust�vel l�quido � prova de fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-criam-combustivel-liquido-prova-fogo&id=010115231004)
-- [Quasicristais finalmente poder�o ser estudados em busca de novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristais-finalmente-poderao-estudados-busca-novas-tecnologias&id=010160231004)
-- [Arranjos Produtivos Locais promovem inova��o em empresas de todos os portes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arranjos-produtivos-locais&id=010175231003)
-- [Nobel de F�sica premia pulsos ultracurtos de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-2023-premia-pulsos-ultracurtos-luz&id=010115231003)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
