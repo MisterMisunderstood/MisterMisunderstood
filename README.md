@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Laser � desviado usando apenas o ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-desviado-usando-apenas-ar&id=020115231005)
 - [C�lulas solares de sil�cio ficam oito vezes mais finas - e mais baratas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-silicio-ficam-oito-vezes-mais-finas-mantendo-eficiencia&id=010115231005)
-- [Nobel de Qu�mica vai para cria��o dos pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-vai-criacao-pontos-quanticos&id=010110231004)
 - [Cinco novidades do Photoshop 2024](https://www.alura.com.br/artigos/cinco-novidades-photoshop-2024)
+- [Nobel de Qu�mica vai para cria��o dos pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-vai-criacao-pontos-quanticos&id=010110231004)
 - [Cientistas criam um combust�vel l�quido � prova de fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-criam-combustivel-liquido-prova-fogo&id=010115231004)
 - [Quasicristais finalmente poder�o ser estudados em busca de novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristais-finalmente-poderao-estudados-busca-novas-tecnologias&id=010160231004)
 - [Arranjos Produtivos Locais promovem inova��o em empresas de todos os portes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arranjos-produtivos-locais&id=010175231003)
