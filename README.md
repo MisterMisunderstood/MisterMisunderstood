@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cinco novidades do Photoshop 2024](https://www.alura.com.br/artigos/cinco-novidades-photoshop-2024)
 - [Nobel de Qu�mica vai para cria��o dos pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-vai-criacao-pontos-quanticos&id=010110231004)
 - [Cientistas criam um combust�vel l�quido � prova de fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-criam-combustivel-liquido-prova-fogo&id=010115231004)
 - [Quasicristais finalmente poder�o ser estudados em busca de novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristais-finalmente-poderao-estudados-busca-novas-tecnologias&id=010160231004)
-- [CSS Grid: guia de propriedades de grid container e grid item](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
+- [Cinco novidades do Photoshop 2024](https://www.alura.com.br/artigos/cinco-novidades-photoshop-2024)
 - [Arranjos Produtivos Locais promovem inova��o em empresas de todos os portes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arranjos-produtivos-locais&id=010175231003)
 - [Nobel de F�sica premia pulsos ultracurtos de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-2023-premia-pulsos-ultracurtos-luz&id=010115231003)
+- [Planetas do tamanho de J�piter est�o flutuando em pares pelo espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-tamanho-jupiter-estao-flutuando-pares-pelo-espaco&id=010130231003)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
