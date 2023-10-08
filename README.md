@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Garra rob�tica macia de 130g levanta 100kg de carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-macia-130g-levanta-100kg-carga&id=010180231006)
-- [Qual o tipo de um React Hook?](https://www.alura.com.br/artigos/qual-tipo-react-hook)
 - [Ind�cios do Planeta Nove podem ser gravidade funcionando diferente do previsto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=indicios-planeta-nove-reforcar-teoria-gravidade-modificada&id=020130231005)
 - [Rumo a imagens impressas com a resolu��o de se olhar no espelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rumo-imagens-impressas-resolucao-se-olhar-espelho&id=010150231006)
 - [Pulsar desmente teorias e emite raios gama com energia recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulsar-vela-bate-recorde-energia-raios-gama&id=010130231005)
-- [Prototipagem com condicionais no Figma](https://www.alura.com.br/artigos/prototipagem-condicionais-figma)
-- [Como a Alura Start está transformando a educação em escolas públicas e privadas do país](https://www.alura.com.br/artigos/alura-start-transformando-educacao-escolas)
+- [Laser � desviado usando apenas o ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-desviado-usando-apenas-ar&id=020115231005)
+- [C�lulas solares de sil�cio ficam oito vezes mais finas - e mais baratas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-silicio-ficam-oito-vezes-mais-finas-mantendo-eficiencia&id=010115231005)
+- [Nobel de Qu�mica vai para cria��o dos pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-vai-criacao-pontos-quanticos&id=010110231004)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
