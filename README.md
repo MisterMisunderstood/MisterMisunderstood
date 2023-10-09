@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Material multifuncional armazena energia na lataria de carros e eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-armazena-energia-lataria-eletronicos&id=010115231009)
+- [Inspirado em aranha, material superhidrof�bico fica seco por meses dentro d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inspirado-aranha-material-superhidrofobico-fica-seco-meses-dentro-d-agua&id=010160231009)
+- [Criada uma interface de informa��o qu�ntica a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-interface-informacao-quantica-temperatura-ambiente&id=010150231009)
 - [Garra rob�tica macia de 130g levanta 100kg de carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-macia-130g-levanta-100kg-carga&id=010180231006)
 - [Qual o tipo de um React Hook?](https://www.alura.com.br/artigos/qual-tipo-react-hook)
 - [Ind�cios do Planeta Nove podem ser gravidade funcionando diferente do previsto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=indicios-planeta-nove-reforcar-teoria-gravidade-modificada&id=020130231005)
 - [Rumo a imagens impressas com a resolu��o de se olhar no espelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rumo-imagens-impressas-resolucao-se-olhar-espelho&id=010150231006)
-- [Pulsar desmente teorias e emite raios gama com energia recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulsar-vela-bate-recorde-energia-raios-gama&id=010130231005)
-- [Prototipagem com condicionais no Figma](https://www.alura.com.br/artigos/prototipagem-condicionais-figma)
-- [Como a Alura Start está transformando a educação em escolas públicas e privadas do país](https://www.alura.com.br/artigos/alura-start-transformando-educacao-escolas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
