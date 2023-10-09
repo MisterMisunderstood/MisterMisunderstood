@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Material multifuncional armazena energia na lataria de carros e eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-armazena-energia-lataria-eletronicos&id=010115231009)
 - [Inspirado em aranha, material superhidrof�bico fica seco por meses dentro d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inspirado-aranha-material-superhidrofobico-fica-seco-meses-dentro-d-agua&id=010160231009)
 - [Criada uma interface de informa��o qu�ntica a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-interface-informacao-quantica-temperatura-ambiente&id=010150231009)
-- [Garra rob�tica macia de 130g levanta 100kg de carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-macia-130g-levanta-100kg-carga&id=010180231006)
 - [Qual o tipo de um React Hook?](https://www.alura.com.br/artigos/qual-tipo-react-hook)
+- [Garra rob�tica macia de 130g levanta 100kg de carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-macia-130g-levanta-100kg-carga&id=010180231006)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
