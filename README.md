@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nova lei da f�sica prop�e: Vivemos em uma simula��o de computador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-lei-fisica-vivemos-simulacao-computador&id=010150231010)
+- [Pe�as de carros come�am a ser feitas de biopol�meros refor�ados com fibra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-base-vegetal-pecas-carros&id=010170231010)
+- [Por que os OVNIs devem ser rastreados tanto na �gua quanto nos c�us](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ovnis-devem-rastreados-tanto-agua-quanto-ceus&id=010130231010)
 - [An�is de �rvores revelam sinais da maior tempestade solar conhecida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-solar-conhecida&id=010125231009)
 - [Material multifuncional armazena energia na lataria de carros e eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-armazena-energia-lataria-eletronicos&id=010115231009)
 - [Inspirado em aranha, material superhidrof�bico fica seco por meses dentro d'�gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inspirado-aranha-material-superhidrofobico-fica-seco-meses-dentro-d-agua&id=010160231009)
 - [Criada uma interface de informa��o qu�ntica a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-interface-informacao-quantica-temperatura-ambiente&id=010150231009)
-- [Mídia programática: o que é, conceitos e o futuro no marketing digital](https://www.alura.com.br/artigos/midia-programatica-futuro-marketing-digital)
-- [Garra rob�tica macia de 130g levanta 100kg de carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-macia-130g-levanta-100kg-carga&id=010180231006)
-- [Qual o tipo de um React Hook?](https://www.alura.com.br/artigos/qual-tipo-react-hook)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
