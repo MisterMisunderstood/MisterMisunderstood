@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhe�a a sonda espacial Psyche, que ir� estudar asteroide met�lico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-espacial-psique&id=010130231011)
+- [Revestimentos antiemba�antes e antirreflexos feitos com restos de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimentos-antiembacante-antirreflexo-feitos-restos-madeira&id=010160231011)
 - [TypeScript com JavaScript Vanilla](https://www.alura.com.br/artigos/typescript-javascript-vanilla)
 - [Nova lei da f�sica prop�e: Vivemos em uma simula��o de computador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-lei-fisica-vivemos-simulacao-computador&id=010150231010)
 - [Pe�as de carros come�am a ser feitas de biopol�meros refor�ados com fibra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-base-vegetal-pecas-carros&id=010170231010)
 - [Por que os OVNIs devem ser rastreados tanto na �gua quanto nos c�us](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ovnis-devem-rastreados-tanto-agua-quanto-ceus&id=010130231010)
 - [An�is de �rvores revelam sinais da maior tempestade solar conhecida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-solar-conhecida&id=010125231009)
-- [Mídia programática: o que é, conceitos e o futuro no marketing digital](https://www.alura.com.br/artigos/midia-programatica-futuro-marketing-digital)
-- [Material multifuncional armazena energia na lataria de carros e eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-armazena-energia-lataria-eletronicos&id=010115231009)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
