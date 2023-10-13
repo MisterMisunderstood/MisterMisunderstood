@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Asteroides podem conter elementos pesados que n�o existem na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroides-conter-elementos-quimicos-pesados-nao-existem-terra&id=020130231013)
 - [Como construir estradas asfaltadas na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-construir-estradas-asfaltadas-lua&id=010130231013)
 - [Nova quasipart�cula faz a ponte entre a computa��o eletr�nica e a qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-quasiparticula-faz-ponte-entre-computacao-eletronica-quantica&id=010110231013)
 - [Node.js para Frameworks Front-end](https://www.alura.com.br/artigos/nodejs-para-frameworks-front-end)
 - [Amostras do asteroide Bennu mostram ind�cios de carbono e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-bennu-mostram-indicios-carbono-agua&id=020130231011)
 - [Conhe�a a sonda espacial Psyche, que ir� estudar asteroide met�lico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-espacial-psique&id=010130231011)
 - [Revestimentos antiemba�antes e antirreflexos feitos com restos de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimentos-antiembacante-antirreflexo-feitos-restos-madeira&id=010160231011)
-- [TypeScript com JavaScript Vanilla](https://www.alura.com.br/artigos/typescript-javascript-vanilla)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
