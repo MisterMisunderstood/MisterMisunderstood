@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Simula��es de viagem no tempo funcionam e melhoram experimentos cient�ficos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacoes-viagem-tempo-passado-melhoram-experimentos-cientificos&id=010150231017)
+- [Cristais criam pseudogravidade e fazem a luz se curvar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-curvam-luz-como-se-ela-estivesse-sendo-puxada-pela-gravidade&id=010115231017)
 - [Rio desaguando no mar forma uma bateria natural de �ons de s�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-extrair-eletricidade-rio-desaguando-mar&id=010115231016)
 - [High tech retr�: Dados s�o gravados em DNA usando tipos m�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-gravados-dna-usando-tipos-moveis&id=010150231016)
 - [Boas práticas de documentação de um Design System](https://www.alura.com.br/artigos/boas-praticas-documentacao-design-system)
 - [Asteroides podem conter elementos pesados que n�o existem na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroides-conter-elementos-quimicos-pesados-nao-existem-terra&id=020130231013)
 - [Como construir estradas asfaltadas na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-construir-estradas-asfaltadas-lua&id=010130231013)
-- [Nova quasipart�cula faz a ponte entre a computa��o eletr�nica e a qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-quasiparticula-faz-ponte-entre-computacao-eletronica-quantica&id=010110231013)
-- [Amostras do asteroide Bennu mostram ind�cios de carbono e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amostras-asteroide-bennu-mostram-indicios-carbono-agua&id=020130231011)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
