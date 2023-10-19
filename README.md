@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
 - [Carros solares - Os ganhos da integra��o da energia solar aos carros el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carros-solares-ganhos-integracao-energia-solar-carros-eletricos&id=010170231018)
 - [Biopl�stico de fub� tem capacidade de autocura, consertando-se de danos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-fuba-tem-capacidade-autocura-consertando-se-danos&id=010160231018)
-- [Confidential computing: como funciona e quando usar?](https://www.alura.com.br/artigos/confidential-computing-como-funciona-quando-usar)
+- [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
 - [Teoria Universal da Evolu��o prop�e que evolu��o n�o � exclusividade da vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-evolucao-caso-especial-teoria-universal-evolucao&id=010125231017)
+- [Confidential computing: como funciona e quando usar?](https://www.alura.com.br/artigos/confidential-computing-como-funciona-quando-usar)
 - [Simula��es de viagem no tempo funcionam e melhoram experimentos cient�ficos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacoes-viagem-tempo-passado-melhoram-experimentos-cientificos&id=010150231017)
 - [Cristais criam pseudogravidade e fazem a luz se curvar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-curvam-luz-como-se-ela-estivesse-sendo-puxada-pela-gravidade&id=010115231017)
 <!-- BLOG-POST-LIST:END -->
