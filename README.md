@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinta viva pode embelezar e ainda capturar CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-viva-embelezar-ainda-capturar-co2&id=010160231019)
 - [Movimento molecular � convertido em eletricidade sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-usa-movimento-molecular-produzir-eletricidade&id=010115231019)
+- [Sonda Solar Parker bate recordes de velocidade e aproxima��o do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-solar-parker-bate-recordes-velocidade-aproximacao-sol&id=010130231019)
 - [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
 - [Carros solares - Os ganhos da integra��o da energia solar aos carros el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carros-solares-ganhos-integracao-energia-solar-carros-eletricos&id=010170231018)
 - [Biopl�stico de fub� tem capacidade de autocura, consertando-se de danos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioplastico-fuba-tem-capacidade-autocura-consertando-se-danos&id=010160231018)
 - [Teoria Universal da Evolu��o prop�e que evolu��o n�o � exclusividade da vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-evolucao-caso-especial-teoria-universal-evolucao&id=010125231017)
-- [Confidential computing: como funciona e quando usar?](https://www.alura.com.br/artigos/confidential-computing-como-funciona-quando-usar)
-- [Simula��es de viagem no tempo funcionam e melhoram experimentos cient�ficos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacoes-viagem-tempo-passado-melhoram-experimentos-cientificos&id=010150231017)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
