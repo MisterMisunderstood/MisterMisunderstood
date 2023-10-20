@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
 - [Explos�o c�smica liberou 30 anos de energia do Sol em um milissegundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-cosmica-liberou-30-anos-energia-sol-milissegundo&id=030130231019)
 - [Superc�mera brasileira come�a a construir maior mapa 3D do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercamera-brasileira-comeca-construir-maior-mapa-3d-universo&id=020130231019)
 - [Tinta viva pode embelezar e ainda capturar CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-viva-embelezar-ainda-capturar-co2&id=010160231019)
 - [Movimento molecular � convertido em eletricidade sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-usa-movimento-molecular-produzir-eletricidade&id=010115231019)
 - [Sonda Solar Parker bate recordes de velocidade e aproxima��o do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-solar-parker-bate-recordes-velocidade-aproximacao-sol&id=010130231019)
-- [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
+- [Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
+- [Carros solares - Os ganhos da integra��o da energia solar aos carros el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carros-solares-ganhos-integracao-energia-solar-carros-eletricos&id=010170231018)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
