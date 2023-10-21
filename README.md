@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM apresenta chip inspirado no c�rebro que faz IA com baixo consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-chip-inspirado-cerebro-faz-ia-baixo-consumo-energia&id=010150231020)
 - [O que é gerenciamento de identidade e acesso (IAM)?](https://www.alura.com.br/artigos/gerenciamento-identidade-acesso-iam)
-- [Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
-- [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
-- [Confidential computing: como funciona e quando usar?](https://www.alura.com.br/artigos/confidential-computing-como-funciona-quando-usar)
-- [Boas práticas de documentação de um Design System](https://www.alura.com.br/artigos/boas-praticas-documentacao-design-system)
-- [Node.js para Frameworks Front-end](https://www.alura.com.br/artigos/nodejs-para-frameworks-front-end)
-- [TypeScript com JavaScript Vanilla](https://www.alura.com.br/artigos/typescript-javascript-vanilla)
+- [Press�o medida com laser atinge novo patamar de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pressao-medida-usando-laser&id=010170231020)
+- [Hidrog�nio verde gerado com energia solar mais pr�ximo da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-verde-gera-energia-solar-mais-proximo-realidade&id=010115231020)
+- [Explos�o c�smica liberou 30 anos de energia do Sol em um milissegundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-cosmica-liberou-30-anos-energia-sol-milissegundo&id=030130231019)
+- [Superc�mera brasileira come�a a construir maior mapa 3D do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercamera-brasileira-comeca-construir-maior-mapa-3d-universo&id=020130231019)
+- [Tinta viva pode embelezar e ainda capturar CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-viva-embelezar-ainda-capturar-co2&id=010160231019)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
