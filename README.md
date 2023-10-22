@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Hidrog�nio verde gerado com energia solar mais pr�ximo da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-verde-gera-energia-solar-mais-proximo-realidade&id=010115231020)
 - [Explos�o c�smica liberou 30 anos de energia do Sol em um milissegundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explosao-cosmica-liberou-30-anos-energia-sol-milissegundo&id=030130231019)
 - [Superc�mera brasileira come�a a construir maior mapa 3D do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercamera-brasileira-comeca-construir-maior-mapa-3d-universo&id=020130231019)
-- [Tinta viva pode embelezar e ainda capturar CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-viva-embelezar-ainda-capturar-co2&id=010160231019)
+- [Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
