@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Finalmente uma receita para reciclar as baterias dos carros el�tricos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-receita-reciclar-baterias-carros-eletricos&id=010125231023)
 - [Glossário do Design System](https://www.alura.com.br/artigos/glossario-design-system)
 - [IBM apresenta chip inspirado no c�rebro que faz IA com baixo consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-chip-inspirado-cerebro-faz-ia-baixo-consumo-energia&id=010150231020)
+- [O que é gerenciamento de identidade e acesso (IAM)?](https://www.alura.com.br/artigos/gerenciamento-identidade-acesso-iam)
 - [Press�o medida com laser atinge novo patamar de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pressao-medida-usando-laser&id=010170231020)
-- [Hidrog�nio verde gerado com energia solar mais pr�ximo da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-verde-gera-energia-solar-mais-proximo-realidade&id=010115231020)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
