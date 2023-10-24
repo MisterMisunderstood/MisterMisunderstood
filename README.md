@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criada a superf�cie mais repelente � �gua que se conhece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficie-mais-repelente-agua-conhecida&id=010160231024)
+- [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
+- [Penas de galinha ajudam a gerar eletricidade limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-galinha-ajudam-gerar-eletricidade-limpa&id=010115231024)
 - [L�minas c�smicas de plasma podem cortar estrelas ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espadas-cosmicas-plasma-cortar-estrelas-meio&id=010130231023)
 - [Enigma dos lasers de raios X: Por que mais brilhante significa mais escuro?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lasers-raios-x-produzem-surpresa-quanto-mais-luz-mais-escura-fica-imagem&id=010115231023)
 - [Finalmente uma receita para reciclar as baterias dos carros el�tricos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-receita-reciclar-baterias-carros-eletricos&id=010125231023)
 - [Glossário do Design System](https://www.alura.com.br/artigos/glossario-design-system)
-- [IBM apresenta chip inspirado no c�rebro que faz IA com baixo consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-apresenta-chip-inspirado-cerebro-faz-ia-baixo-consumo-energia&id=010150231020)
-- [O que é gerenciamento de identidade e acesso (IAM)?](https://www.alura.com.br/artigos/gerenciamento-identidade-acesso-iam)
-- [Press�o medida com laser atinge novo patamar de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pressao-medida-usando-laser&id=010170231020)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
