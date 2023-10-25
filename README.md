@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Gr�fico das coisas imposs�veis diz que Universo pode ser um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafico-historia-universo-diz-universo-buraco-negro&id=010130231025)
 - [Fontes de luz superbrilhantes podem ser criadas usando quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-luz-superbrilhantes-alimentadas-quasiparticulas&id=010115231025)
-- [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
 - [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
+- [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
 - [Criada a superf�cie mais repelente � �gua que se conhece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficie-mais-repelente-agua-conhecida&id=010160231024)
 - [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
 - [Penas de galinha ajudam a gerar eletricidade limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-galinha-ajudam-gerar-eletricidade-limpa&id=010115231024)
