@@ -125,10 +125,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
+- [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
 - [Criada a superf�cie mais repelente � �gua que se conhece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficie-mais-repelente-agua-conhecida&id=010160231024)
 - [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
 - [Penas de galinha ajudam a gerar eletricidade limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-galinha-ajudam-gerar-eletricidade-limpa&id=010115231024)
-- [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
 - [L�minas c�smicas de plasma podem cortar estrelas ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espadas-cosmicas-plasma-cortar-estrelas-meio&id=010130231023)
 - [Enigma dos lasers de raios X: Por que mais brilhante significa mais escuro?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lasers-raios-x-produzem-surpresa-quanto-mais-luz-mais-escura-fica-imagem&id=010115231023)
 <!-- BLOG-POST-LIST:END -->
