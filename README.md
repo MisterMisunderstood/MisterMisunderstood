@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
 - [Penas de galinha ajudam a gerar eletricidade limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-galinha-ajudam-gerar-eletricidade-limpa&id=010115231024)
 - [L�minas c�smicas de plasma podem cortar estrelas ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espadas-cosmicas-plasma-cortar-estrelas-meio&id=010130231023)
-- [Enigma dos lasers de raios X: Por que mais brilhante significa mais escuro?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lasers-raios-x-produzem-surpresa-quanto-mais-luz-mais-escura-fica-imagem&id=010115231023)
+- [Glossário do Design System](https://www.alura.com.br/artigos/glossario-design-system)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
