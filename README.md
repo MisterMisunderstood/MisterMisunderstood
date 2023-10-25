@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Gr�fico das coisas imposs�veis diz que Universo pode ser um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafico-historia-universo-diz-universo-buraco-negro&id=010130231025)
-- [Fontes de luz superbrilhantes podem ser criadas usando quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-luz-superbrilhantes-alimentadas-quasiparticulas&id=010115231025)
 - [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
-- [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
-- [Criada a superf�cie mais repelente � �gua que se conhece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficie-mais-repelente-agua-conhecida&id=010160231024)
-- [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
-- [Penas de galinha ajudam a gerar eletricidade limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-galinha-ajudam-gerar-eletricidade-limpa&id=010115231024)
+- [Glossário do Design System](https://www.alura.com.br/artigos/glossario-design-system)
+- [O que é gerenciamento de identidade e acesso (IAM)?](https://www.alura.com.br/artigos/gerenciamento-identidade-acesso-iam)
+- [Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
+- [Immutable data vault: o que é e quando adotar?](https://www.alura.com.br/artigos/immutable-data-vault-quando-adotar)
+- [Confidential computing: como funciona e quando usar?](https://www.alura.com.br/artigos/confidential-computing-como-funciona-quando-usar)
+- [Boas práticas de documentação de um Design System](https://www.alura.com.br/artigos/boas-praticas-documentacao-design-system)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
