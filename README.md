@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Computador qu�ntico supera a marca dos 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-supera-marca-1-000-qubits&id=010150231025)
 - [Gr�fico das coisas imposs�veis diz que Universo pode ser um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafico-historia-universo-diz-universo-buraco-negro&id=010130231025)
 - [Fontes de luz superbrilhantes podem ser criadas usando quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-luz-superbrilhantes-alimentadas-quasiparticulas&id=010115231025)
-- [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
 - [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
+- [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
