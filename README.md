@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Levita��o magn�tica por rota��o � finalmente explicada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-rotacao-finalmente-explicada&id=010115231026)
+- [Helic�ptero que voar� em lua de Saturno passa pelos primeiros testes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helicoptero-voara-lua-saturno-passa-pelos-primeiros-testes&id=010130231026)
 - [Computador qu�ntico supera a marca dos 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-supera-marca-1-000-qubits&id=010150231025)
 - [Gr�fico das coisas imposs�veis diz que Universo pode ser um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafico-historia-universo-diz-universo-buraco-negro&id=010130231025)
 - [Fontes de luz superbrilhantes podem ser criadas usando quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fontes-luz-superbrilhantes-alimentadas-quasiparticulas&id=010115231025)
 - [Lua � mais velha e tem peda�o solto orbitando a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mais-velha-tem-pedaco-solto-orbitando-terra&id=010130231024)
 - [Aplicação de vinheta em motion design no audiovisual e tecnologia](https://www.alura.com.br/artigos/vinheta-motion-design-audiovisual-tecnologia)
-- [Criada a superf�cie mais repelente � �gua que se conhece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficie-mais-repelente-agua-conhecida&id=010160231024)
-- [Materiais macios e vivos acendem sem usar baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-macios-vivos-acendem-sem-usar-baterias&id=020115231024)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
