@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Semicondutor mais r�pido do mundo promete acelerar muito toda a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-mais-rapido-mundo-promete-acelerar-muito-toda-computacao&id=020110231027)
 - [C�mera supercondutora ultrassens�vel agora em alta resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-supercondutora-ultrassensivel-agora-alta-resolucao&id=010110231027)
 - [Novos nanotubos poder�o ser supercondutores e fotovoltaicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estes-novos-nanotubos-poderao-supercondutores-fotovoltaicos&id=010165231027)
 - [Roteamento eficiente com Next.js: descobrindo o App Router](https://www.alura.com.br/artigos/roteamento-eficiente-next-js-app-router)
 - [Levita��o magn�tica por rota��o � finalmente explicada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-rotacao-finalmente-explicada&id=010115231026)
 - [Helic�ptero que voar� em lua de Saturno passa pelos primeiros testes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helicoptero-voara-lua-saturno-passa-pelos-primeiros-testes&id=010130231026)
 - [Computador qu�ntico supera a marca dos 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-supera-marca-1-000-qubits&id=010150231025)
-- [Gr�fico das coisas imposs�veis diz que Universo pode ser um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafico-historia-universo-diz-universo-buraco-negro&id=010130231025)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
