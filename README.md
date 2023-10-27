@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Animações no Flutter: Compreendendo o que são e como implementá-las](https://www.alura.com.br/artigos/animacoes-flutter)
+- [Animações no Flutter: compreendendo o que são e como implementá-las](https://www.alura.com.br/artigos/animacoes-flutter)
 - [Semicondutor mais r�pido do mundo promete acelerar muito toda a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-mais-rapido-mundo-promete-acelerar-muito-toda-computacao&id=020110231027)
 - [C�mera supercondutora ultrassens�vel agora em alta resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-supercondutora-ultrassensivel-agora-alta-resolucao&id=010110231027)
 - [Novos nanotubos poder�o ser supercondutores e fotovoltaicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estes-novos-nanotubos-poderao-supercondutores-fotovoltaicos&id=010165231027)
