@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Menor acelerador de part�culas do mundo tem tamanho de um gr�o de poeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-acelerador-particulas-mundo-tem-tamanho-grao-poeira&id=010115231030)
 - [Resfriamento sem gasto de energia fabricado industrialmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-sem-gasto-energia-fabricado-industrialmente&id=010110231030)
 - [O que um disco protoplanet�rio virgem nos diz sobre a forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-ha-planetas-nascendo-neste-disco-protoplanetario-isso-interessante&id=010130231030)
 - [Semicondutor mais r�pido do mundo promete acelerar muito toda a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-mais-rapido-mundo-promete-acelerar-muito-toda-computacao&id=020110231027)
 - [Animações no Flutter: compreendendo o que são e como implementá-las](https://www.alura.com.br/artigos/animacoes-flutter)
 - [C�mera supercondutora ultrassens�vel agora em alta resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-supercondutora-ultrassensivel-agora-alta-resolucao&id=010110231027)
 - [Novos nanotubos poder�o ser supercondutores e fotovoltaicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estes-novos-nanotubos-poderao-supercondutores-fotovoltaicos&id=010165231027)
-- [Roteamento eficiente com Next.js: descobrindo o App Router](https://www.alura.com.br/artigos/roteamento-eficiente-next-js-app-router)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
