@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnetismo surge em material n�o magn�tico por controle sem fio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-sem-fio-faz-magnetismo-surgir-material-nao-magnetico&id=010110231031)
+- [Do quadrado ao cubo: Chip de luz para IA passa a ser 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-quadrado-cubo-chip-luz-ia-passa-3d&id=010150231031)
+- [Por que o c�u noturno � t�o escuro se o Universo est� cheio de estrelas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-espaco-tao-escuro-se-universo-esta-cheio-estrelas&id=010130231031)
 - [Menor acelerador de part�culas do mundo tem tamanho de um gr�o de poeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-acelerador-particulas-mundo-tem-tamanho-grao-poeira&id=010115231030)
 - [Resfriamento sem gasto de energia fabricado industrialmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-sem-gasto-energia-fabricado-industrialmente&id=010110231030)
 - [O que um disco protoplanet�rio virgem nos diz sobre a forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-ha-planetas-nascendo-neste-disco-protoplanetario-isso-interessante&id=010130231030)
 - [Como usar a Guarda de Rotas Funcional em Angular?](https://www.alura.com.br/artigos/guarda-de-rotas-funcional-angular)
-- [Semicondutor mais r�pido do mundo promete acelerar muito toda a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-mais-rapido-mundo-promete-acelerar-muito-toda-computacao&id=020110231027)
-- [Animações no Flutter: compreendendo o que são e como implementá-las](https://www.alura.com.br/artigos/animacoes-flutter)
-- [C�mera supercondutora ultrassens�vel agora em alta resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-supercondutora-ultrassensivel-agora-alta-resolucao&id=010110231027)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
