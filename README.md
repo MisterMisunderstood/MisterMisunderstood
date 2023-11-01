@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Magnetismo surge em material n�o magn�tico por controle sem fio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-sem-fio-faz-magnetismo-surgir-material-nao-magnetico&id=010110231031)
 - [Do quadrado ao cubo: Chip de luz para IA passa a ser 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-quadrado-cubo-chip-luz-ia-passa-3d&id=010150231031)
 - [Por que o c�u noturno � t�o escuro se o Universo est� cheio de estrelas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-espaco-tao-escuro-se-universo-esta-cheio-estrelas&id=010130231031)
-- [Menor acelerador de part�culas do mundo tem tamanho de um gr�o de poeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-acelerador-particulas-mundo-tem-tamanho-grao-poeira&id=010115231030)
+- [Como usar a Guarda de Rotas Funcional em Angular?](https://www.alura.com.br/artigos/guarda-de-rotas-funcional-angular)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
