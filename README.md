@@ -125,9 +125,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Restos de um planeta destru�do podem estar nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=restos-planeta-destruido-estar-profundezas-terra&id=010130231101)
+- [Azure Data Factory: entendendo seu funcionamento](https://www.alura.com.br/artigos/azure-data-factory-entendendo-funcionamento)
 - [Materiais de luminesc�ncia criam telas estereosc�picas 3D flex�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-luminescencia-permitem-imprimir-telas-estereoscopicas-3d-flexiveis&id=010150231101)
 - [Maior reator de fus�o nuclear do mundo � ligado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-reator-fusao-nuclear-mundo-ligado&id=010115231101)
-- [Azure Data Factory: entendendo seu funcionamento](https://www.alura.com.br/artigos/azure-data-factory-entendendo-funcionamento)
 - [TSLint vs. ESLint: como configurar e utilizar em projetos TypeScript](https://www.alura.com.br/artigos/tslint-vs-eslint-projetos-typescript)
 - [Magnetismo surge em material n�o magn�tico por controle sem fio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-sem-fio-faz-magnetismo-surgir-material-nao-magnetico&id=010110231031)
 - [Do quadrado ao cubo: Chip de luz para IA passa a ser 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-quadrado-cubo-chip-luz-ia-passa-3d&id=010150231031)
