@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberta evapora��o causada pela luz, sem calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evaporacao-causada-pela-luz-sem-calor&id=010170231106)
 - [Rede neural f�sica aprende e lembra em tempo real, sem armazenamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-fisica-aprende-lembra-tempo-real-sem-armazenamento&id=010150231103)
 - [Biobaterias h�bridas atingem efici�ncia para aplica��es pr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobaterias-hibridas-eficiencia&id=010115231103)
-- [Restos de um planeta destru�do podem estar nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=restos-planeta-destruido-estar-profundezas-terra&id=010130231101)
+- [Azure Data Factory: entendendo seu funcionamento](https://www.alura.com.br/artigos/azure-data-factory-entendendo-funcionamento)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
