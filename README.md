@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o com luz l�quida agora a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-liquida-temperatura-ambiente&id=010150231106)
+- [Cimento ou madeira? Geopol�mero feito de rejeitos fica entre os dois](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-ou-madeira-geopolimero-feito-rejeito-fica-entre-dois&id=010160231106)
 - [Rede neural f�sica aprende e lembra em tempo real, sem armazenamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-fisica-aprende-lembra-tempo-real-sem-armazenamento&id=010150231103)
 - [Biobaterias h�bridas atingem efici�ncia para aplica��es pr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobaterias-hibridas-eficiencia&id=010115231103)
 - [Restos de um planeta destru�do podem estar nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=restos-planeta-destruido-estar-profundezas-terra&id=010130231101)
-- [Materiais de luminesc�ncia criam telas estereosc�picas 3D flex�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-luminescencia-permitem-imprimir-telas-estereoscopicas-3d-flexiveis&id=010150231101)
-- [Maior reator de fus�o nuclear do mundo � ligado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-reator-fusao-nuclear-mundo-ligado&id=010115231101)
 - [Azure Data Factory: entendendo seu funcionamento](https://www.alura.com.br/artigos/azure-data-factory-entendendo-funcionamento)
-- [TSLint vs. ESLint: como configurar e utilizar em projetos TypeScript](https://www.alura.com.br/artigos/tslint-vs-eslint-projetos-typescript)
+- [Materiais de luminesc�ncia criam telas estereosc�picas 3D flex�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-luminescencia-permitem-imprimir-telas-estereoscopicas-3d-flexiveis&id=010150231101)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
