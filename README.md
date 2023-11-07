@@ -126,9 +126,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Este chip permite comunicar-se com o nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-chip-permite-comunicar-se-nada&id=010165231107)
 - [Descoberto parente ultraforte do sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-parente-ultraforte-silicio&id=010160231107)
+- [O Excel ainda é relevante para os profissionais modernos?](https://www.alura.com.br/artigos/excel-profissionais-modernos)
 - [Computa��o com luz l�quida agora a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-liquida-temperatura-ambiente&id=010150231106)
 - [Cimento ou madeira? Geopol�mero feito de rejeitos fica entre os dois](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-ou-madeira-geopolimero-feito-rejeito-fica-entre-dois&id=010160231106)
-- [O Excel ainda é relevante para os profissionais modernos?](https://www.alura.com.br/artigos/excel-profissionais-modernos)
 - [Descoberta evapora��o causada pela luz, sem calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evaporacao-causada-pela-luz-sem-calor&id=010170231106)
 - [Rede neural f�sica aprende e lembra em tempo real, sem armazenamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-fisica-aprende-lembra-tempo-real-sem-armazenamento&id=010150231103)
 <!-- BLOG-POST-LIST:END -->
