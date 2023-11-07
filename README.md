@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [O Excel ainda é relevante para os profissionais modernos?](https://www.alura.com.br/artigos/excel-profissionais-modernos)
 - [Computa��o com luz l�quida agora a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-liquida-temperatura-ambiente&id=010150231106)
 - [Cimento ou madeira? Geopol�mero feito de rejeitos fica entre os dois](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-ou-madeira-geopolimero-feito-rejeito-fica-entre-dois&id=010160231106)
+- [O Excel ainda é relevante para os profissionais modernos?](https://www.alura.com.br/artigos/excel-profissionais-modernos)
 - [Descoberta evapora��o causada pela luz, sem calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evaporacao-causada-pela-luz-sem-calor&id=010170231106)
 - [Rede neural f�sica aprende e lembra em tempo real, sem armazenamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-fisica-aprende-lembra-tempo-real-sem-armazenamento&id=010150231103)
 - [Biobaterias h�bridas atingem efici�ncia para aplica��es pr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobaterias-hibridas-eficiencia&id=010115231103)
-- [Azure Data Factory: entendendo seu funcionamento](https://www.alura.com.br/artigos/azure-data-factory-entendendo-funcionamento)
+- [Restos de um planeta destru�do podem estar nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=restos-planeta-destruido-estar-profundezas-terra&id=010130231101)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
