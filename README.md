@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Tecnologia ciborgue: Biochip imita a retina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-ciborgue-biochip-imita-retina&id=010110231108)
 - [M�sculos artificiais feitos de madeira levantam at� carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-feitos-madeira-levantam-ate-carros&id=010180231108)
-- [Uma semana de .NET no Discord da Alura](https://www.alura.com.br/artigos/semana-dot-net-discord-alura)
 - [M�todo simples de reciclagem funciona para poli�ster e PET](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-poliester&id=010125231107)
 - [Lucy surpreende novamente e descobre que lua de asteroide � um bin�rio de contato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroide-dinkinesh-binario-tem-binario-contato-como-lua&id=010175231107)
-- [Funções X: ainda existem profissionais que não usam as funções PROCX e CORRESPX?](https://www.alura.com.br/artigos/funcoes-x-profissionais-funcoes-procx-correspx)
-- [Django: o que é, para que serve e um Guia desse framework Python](https://www.alura.com.br/artigos/django-framework)
+- [Este chip permite comunicar-se com o nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-chip-permite-comunicar-se-nada&id=010165231107)
+- [Descoberto parente ultraforte do sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-parente-ultraforte-silicio&id=010160231107)
+- [Computa��o com luz l�quida agora a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-liquida-temperatura-ambiente&id=010150231106)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
