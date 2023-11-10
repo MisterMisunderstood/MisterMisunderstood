@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cobertura da Next Conf de 2023](https://www.alura.com.br/artigos/cobertura-next-conf-2023)
 - [Conhe�a o Aglomerado de Gal�xias �rvore de Natal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-aglomerado-galaxias-arvore-natal&id=010175231109)
 - [Baterias qu�nticas recarregam melhor contornando lei de causa e efeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-quanticas-recarregam-mais-eficiencia-contornando-leis-causalidade&id=010115231109)
 - [Finalmente uma tecnologia para lidar com derramamentos de �leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-lidar-derramamentos-oleo-10-vezes-melhor&id=010125231109)
-- [Uma semana de .NET no Discord da Alura](https://www.alura.com.br/artigos/semana-dot-net-discord-alura)
+- [Cobertura da Next Conf de 2023](https://www.alura.com.br/artigos/cobertura-next-conf-2023)
 - [Tecnologia ciborgue: Biochip imita a retina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-ciborgue-biochip-imita-retina&id=010110231108)
 - [M�sculos artificiais feitos de madeira levantam at� carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-feitos-madeira-levantam-ate-carros&id=010180231108)
+- [Uma semana de .NET no Discord da Alura](https://www.alura.com.br/artigos/semana-dot-net-discord-alura)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
