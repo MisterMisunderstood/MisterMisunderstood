@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Encontrada gal�xia mais antiga do que se pensava ser poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrada-galaxia-mais-antiga-se-pensava-possivel&id=010130231110)
 - [Laser ultrarr�pido ganhador do Nobel agora foi colocado dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-ultrarrapido-ganhador-nobel-agora-foi-colocado-dentro-chip&id=010115231110)
 - [Absor��o quase perfeita da luz � obtida em material em escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=absorcao-quase-perfeita-luz-obtida-material-escala-atomica&id=010160231110)
-- [Cobertura da Next Conf de 2023](https://www.alura.com.br/artigos/cobertura-next-conf-2023)
 - [Conhe�a o Aglomerado de Gal�xias �rvore de Natal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-aglomerado-galaxias-arvore-natal&id=010175231109)
 - [Baterias qu�nticas recarregam melhor contornando lei de causa e efeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-quanticas-recarregam-mais-eficiencia-contornando-leis-causalidade&id=010115231109)
+- [Finalmente uma tecnologia para lidar com derramamentos de �leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-lidar-derramamentos-oleo-10-vezes-melhor&id=010125231109)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
