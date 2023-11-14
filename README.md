@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processador neurom�rfico e �ptico imita c�rebro na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-optico-imita-cerebro-velocidade-luz&id=010150231114)
+- [Nanoturbina de DNA abre horizontes para nanomotores e nanom�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoturbina-dna&id=010165231114)
+- [Paradoxo dos pl�sticos: Quando tecnologias de limpeza fazem mais mal que bem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-plasticos-tecnologias-limpeza-fazem-mais-mal-bem&id=010125231114)
 - [Rota��o da Terra � medida com precis�o in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-terra-medida-precisao-inedita&id=010130231113)
 - [Cer�mica de refrigera��o passiva resfria casas sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ceramica-resfriamento-passivo-refrigera-casas-sem-gastar-energia&id=010170231113)
 - [Luz faz �tomos dan�arem e criarem �m�s no meio de s�lidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-atomos-dancarem-criarem-ima-sob-demanda&id=010110231113)
 - [O que a chuva leva das fachadas de casas e pr�dios para o meio ambiente?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chuva-leva-fachadas-casas-predios-meio-ambiente&id=010125231113)
-- [L�tio pode indicar quais estrelas t�m planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=litio-estrelas-indica-se-estrelas-tem-planetas&id=020130231110)
-- [Encontrada gal�xia mais antiga do que se pensava ser poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrada-galaxia-mais-antiga-se-pensava-possivel&id=010130231110)
-- [Laser ultrarr�pido ganhador do Nobel agora foi colocado dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-ultrarrapido-ganhador-nobel-agora-foi-colocado-dentro-chip&id=010115231110)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
