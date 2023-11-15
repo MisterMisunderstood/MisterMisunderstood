@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Consultoria de tecnologia: tudo o que você precisa saber para trabalhar na área](https://www.alura.com.br/artigos/consultoria-tecnologia-trabalhar-area)
 - [Processador neurom�rfico e �ptico imita c�rebro na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-optico-imita-cerebro-velocidade-luz&id=010150231114)
 - [Nanoturbina de DNA abre horizontes para nanomotores e nanom�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoturbina-dna&id=010165231114)
 - [Paradoxo dos pl�sticos: Quando tecnologias de limpeza fazem mais mal que bem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-plasticos-tecnologias-limpeza-fazem-mais-mal-bem&id=010125231114)
-- [Consultoria de tecnologia: tudo o que você precisa saber para trabalhar na área](https://www.alura.com.br/artigos/consultoria-tecnologia-trabalhar-area)
 - [Rota��o da Terra � medida com precis�o in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotacao-terra-medida-precisao-inedita&id=010130231113)
 - [Cer�mica de refrigera��o passiva resfria casas sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ceramica-resfriamento-passivo-refrigera-casas-sem-gastar-energia&id=010170231113)
 - [Luz faz �tomos dan�arem e criarem �m�s no meio de s�lidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-atomos-dancarem-criarem-ima-sob-demanda&id=010110231113)
