@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sugestões de cursos para devs back-end experientes](https://www.alura.com.br/artigos/sugestoes-cursos-devs-back-end-experientes)
 - [Supercondutividade induzida por luz � criada dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutividade-criada-luz-dentro-chip&id=020115231116)
 - [Folha artificial produz �gua pot�vel e hidrog�nio ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-usa-energia-solar-produzir-agua-potavel-hidrogenio-mesmo-tempo&id=010115231116)
 - [Indique a Alura para suas amizades e concorra a prêmios](https://www.alura.com.br/artigos/black-friday-cursos-online-competicao-alura-premios)
 - [Consultoria de tecnologia: tudo o que você precisa saber para trabalhar na área](https://www.alura.com.br/artigos/consultoria-tecnologia-trabalhar-area)
 - [Processador neurom�rfico e �ptico imita c�rebro na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-optico-imita-cerebro-velocidade-luz&id=010150231114)
 - [Nanoturbina de DNA abre horizontes para nanomotores e nanom�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoturbina-dna&id=010165231114)
-- [Paradoxo dos pl�sticos: Quando tecnologias de limpeza fazem mais mal que bem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-plasticos-tecnologias-limpeza-fazem-mais-mal-bem&id=010125231114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
