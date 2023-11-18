@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Quem precisa de grafeno? Grafite de l�pis apresenta propriedades inusitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-grafite-lapis-apresenta-propriedades-inusitadas&id=010165231117)
-- [Será que a Alura vale a pena?](https://www.alura.com.br/artigos/alura-vale-a-pena)
 - [O que é design para mídias sociais?](https://www.alura.com.br/artigos/design-midias-sociais)
+- [Será que a Alura vale a pena?](https://www.alura.com.br/artigos/alura-vale-a-pena)
 - [Trans�stor termal de estado s�lido controla eletricamente o fluxo de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-termal-estado-solido&id=010110231117)
 - [M�sculos artificiais est�veis e eficientes constru�dos com combina��es de materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-estaveis-eficientes-construidos-combinacoes-materiais&id=010180231117)
 - [Sugestões de cursos para devs back-end experientes](https://www.alura.com.br/artigos/sugestoes-cursos-devs-back-end-experientes)
