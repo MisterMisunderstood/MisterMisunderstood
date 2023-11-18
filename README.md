@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Quem precisa de grafeno? Grafite de l�pis apresenta propriedades inusitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-grafite-lapis-apresenta-propriedades-inusitadas&id=010165231117)
-- [Será que a Alura vale a pena?](https://www.alura.com.br/artigos/alura-vale-a-pena)
-- [O que é design para mídias sociais?](https://www.alura.com.br/artigos/design-midias-sociais)
 - [Trans�stor termal de estado s�lido controla eletricamente o fluxo de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-termal-estado-solido&id=010110231117)
 - [M�sculos artificiais est�veis e eficientes constru�dos com combina��es de materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-estaveis-eficientes-construidos-combinacoes-materiais&id=010180231117)
-- [Sugestões de cursos para devs back-end experientes](https://www.alura.com.br/artigos/sugestoes-cursos-devs-back-end-experientes)
 - [Supercondutividade induzida por luz � criada dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutividade-criada-luz-dentro-chip&id=020115231116)
+- [Folha artificial produz �gua pot�vel e hidrog�nio ao mesmo tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-usa-energia-solar-produzir-agua-potavel-hidrogenio-mesmo-tempo&id=010115231116)
+- [Processador neurom�rfico e �ptico imita c�rebro na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-neuromorfico-optico-imita-cerebro-velocidade-luz&id=010150231114)
+- [Nanoturbina de DNA abre horizontes para nanomotores e nanom�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoturbina-dna&id=010165231114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
