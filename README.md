@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Pin�as de luz com refrigera��o podem segurar amostras vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pincas-luz-refrigeracao-segurar-amostras-vivas&id=010165231122)
 - [Processador em mem�ria feito com semicondutor 2D chega aos 1000 transistores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-memoria-feito-semicondutor-2d-chega-1000-transistores&id=010150231120)
 - [Vencer o limite de difra��o sem superlentes levar� microsc�pios al�m dos limites](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vencer-limite-difracao-sem-superlentes-microscopios&id=010165231120)
-- [Quem precisa de grafeno? Grafite de l�pis apresenta propriedades inusitadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-grafite-lapis-apresenta-propriedades-inusitadas&id=010165231117)
 - [Será que a Alura vale a pena?](https://www.alura.com.br/artigos/alura-vale-a-pena)
+- [O que é design para mídias sociais?](https://www.alura.com.br/artigos/design-midias-sociais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
