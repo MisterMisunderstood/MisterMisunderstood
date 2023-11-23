@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Chave qu�ntica perfeita liga e desliga supercondutividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interruptor-quantico-perfeito-alterna-entre-supercondutor-isolante&id=010110231122)
 - [Descoberto novo tipo de magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-tipo-magnetismo&id=010160231122)
 - [Portas lógicas: entendendo os tipos e características](https://www.alura.com.br/artigos/portas-logicas-tipos-caracteristicas)
+- [A importância do design em movimento nas mídias sociais](https://www.alura.com.br/artigos/importancia-design-movimento-midias-sociais)
 - [Computa��o que imita o c�rebro precisa de uma base te�rica para deslanchar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-precisa-teoria-deslanchar&id=010150231122)
 - [Pin�as de luz com refrigera��o podem segurar amostras vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pincas-luz-refrigeracao-segurar-amostras-vivas&id=010165231122)
-- [A importância do design em movimento nas mídias sociais](https://www.alura.com.br/artigos/importancia-design-movimento-midias-sociais)
 - [Processador em mem�ria feito com semicondutor 2D chega aos 1000 transistores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-memoria-feito-semicondutor-2d-chega-1000-transistores&id=010150231120)
 <!-- BLOG-POST-LIST:END -->
 
