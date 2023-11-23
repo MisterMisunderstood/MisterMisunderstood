@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Part�cula Amaterasu: Um novo mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-amaterasu-novo-misterio-cosmico&id=010130231123)
 - [Estrutura de uma URL](https://www.alura.com.br/artigos/estrutura-url)
+- [Part�cula Amaterasu: Um novo mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-amaterasu-novo-misterio-cosmico&id=010130231123)
 - [Radiotelesc�pio ALMA bate recorde de resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=radiotelescopio-alma-bate-recorde-resolucao&id=010175231123)
 - [Bumerangues de luz: Quando a luz devia ir, mas ela volta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bumerangues-luz-quando-luz-devia-ir-mas-ela-volta&id=010115231123)
 - [Trator rob�tico constr�i muro de pedra sozinho, sem tratorista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trator-autonomo-constroi-muro-pedra-6-metros-altura&id=010180231123)
