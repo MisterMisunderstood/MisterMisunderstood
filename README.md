@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Estrutura de uma URL](https://www.alura.com.br/artigos/estrutura-url)
 - [Bumerangues de luz: Quando a luz devia ir, mas ela volta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bumerangues-luz-quando-luz-devia-ir-mas-ela-volta&id=010115231123)
 - [Trator rob�tico constr�i muro de pedra sozinho, sem tratorista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trator-autonomo-constroi-muro-pedra-6-metros-altura&id=010180231123)
 - [Portas lógicas: entendendo os tipos e características](https://www.alura.com.br/artigos/portas-logicas-tipos-caracteristicas)
 - [Chave qu�ntica perfeita liga e desliga supercondutividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interruptor-quantico-perfeito-alterna-entre-supercondutor-isolante&id=010110231122)
 - [Descoberto novo tipo de magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-tipo-magnetismo&id=010160231122)
 - [A importância do design em movimento nas mídias sociais](https://www.alura.com.br/artigos/importancia-design-movimento-midias-sociais)
-- [Computa��o que imita o c�rebro precisa de uma base te�rica para deslanchar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-neuromorfica-precisa-teoria-deslanchar&id=010150231122)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
