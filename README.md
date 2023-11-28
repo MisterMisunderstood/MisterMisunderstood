@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Embalagens de alimentos de celulose caminham para substituir pl�sticos descart�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=embalagens-alimentos-celulose-caminham-substituir-plasticos-descartaveis&id=010125231127)
 - [Superlasers transformar�o luz em mat�ria e criar�o interior de estrelas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superlasers-luz-materia-cria-interior-estrelas-laboratorio&id=010115231124)
 - [Observa��o de h�pfions em cristais pode levar tecnologia de 2D para 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacao-hopfions-cristais-levar-tecnologia-2d-3d&id=010110231124)
-- [Estrutura de uma URL](https://www.alura.com.br/artigos/estrutura-url)
+- [Part�cula Amaterasu: Um novo mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-amaterasu-novo-misterio-cosmico&id=010130231123)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
