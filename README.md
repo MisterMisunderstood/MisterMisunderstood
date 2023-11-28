@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Teste de Turing para intelig�ncia artificial deve ser substitu�do por teste psicol�gico?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-turing-inteligencia-artificial-deve-substituido-teste-psicologico&id=010150231128)
+- [Avan�o revolucion�rio na fabrica��o de c�lulas fotovoltaicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microcelulas-solares-avanco-revolucionario-celulas-fotovoltaicas&id=020115231128)
+- [Criado primeiro laser org�nico totalmente el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-laser-organico-totalmente-eletrico&id=010115231128)
 - [Metais estranhos conduzem eletricidade como se ela fosse um l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-estranhos-conduzem-eletricidade-como-se-ela-fosse-liquido&id=010115231127)
 - [�m�s qu�nticos chegam � temperatura ambiente para otimizar computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imas-quanticos-chegam-temperatura-ambiente-otimizar-computacao&id=020110231127)
 - [Transistores h�bridos preparam cen�rio para integra��o da microeletr�nica � biologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-hibridos-preparam-cenario-integracao-microeletronica-biologia&id=010110231127)
 - [Embalagens de alimentos de celulose caminham para substituir pl�sticos descart�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=embalagens-alimentos-celulose-caminham-substituir-plasticos-descartaveis&id=010125231127)
-- [Superlasers transformar�o luz em mat�ria e criar�o interior de estrelas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superlasers-luz-materia-cria-interior-estrelas-laboratorio&id=010115231124)
-- [Observa��o de h�pfions em cristais pode levar tecnologia de 2D para 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacao-hopfions-cristais-levar-tecnologia-2d-3d&id=010110231124)
-- [Part�cula Amaterasu: Um novo mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-amaterasu-novo-misterio-cosmico&id=010130231123)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
