@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Miniacelerador de part�culas faz em 10cm o que os atuais exigem 3km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniacelerador-particulas-faz-10cm-atuais-fazem-3km&id=010115231129)
+- [M�o rob�tica impressa em 3D possui ossos, ligamentos e tend�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-impressa-3d-possui-ossos-ligamentos-tendoes&id=010180231129)
 - [Teste de Turing para intelig�ncia artificial deve ser substitu�do por teste psicol�gico?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-turing-inteligencia-artificial-deve-substituido-teste-psicologico&id=010150231128)
 - [Avan�o revolucion�rio na fabrica��o de c�lulas fotovoltaicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microcelulas-solares-avanco-revolucionario-celulas-fotovoltaicas&id=020115231128)
 - [Criado primeiro laser org�nico totalmente el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-laser-organico-totalmente-eletrico&id=010115231128)
 - [Metais estranhos conduzem eletricidade como se ela fosse um l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-estranhos-conduzem-eletricidade-como-se-ela-fosse-liquido&id=010115231127)
 - [�m�s qu�nticos chegam � temperatura ambiente para otimizar computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imas-quanticos-chegam-temperatura-ambiente-otimizar-computacao&id=020110231127)
-- [Transistores h�bridos preparam cen�rio para integra��o da microeletr�nica � biologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-hibridos-preparam-cenario-integracao-microeletronica-biologia&id=010110231127)
-- [Embalagens de alimentos de celulose caminham para substituir pl�sticos descart�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=embalagens-alimentos-celulose-caminham-substituir-plasticos-descartaveis&id=010125231127)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
