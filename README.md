@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberto primeiro disco protoplanet�rio em outra gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-disco-protoplanetario-outra-galaxia&id=020130231129)
 - [Entendendo os Signals do Angular](https://www.alura.com.br/artigos/entendendo-signals-angular)
 - [Astr�nomos descobrem "sistema planet�rio dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-descobrem-sistema-planetario-sonhos&id=010130231129)
 - [Miniacelerador de part�culas faz em 10cm o que os atuais exigem 3km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniacelerador-particulas-faz-10cm-atuais-fazem-3km&id=010115231129)
 - [M�o rob�tica impressa em 3D possui ossos, ligamentos e tend�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-impressa-3d-possui-ossos-ligamentos-tendoes&id=010180231129)
 - [Teste de Turing para intelig�ncia artificial deve ser substitu�do por teste psicol�gico?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teste-turing-inteligencia-artificial-deve-substituido-teste-psicologico&id=010150231128)
 - [Avan�o revolucion�rio na fabrica��o de c�lulas fotovoltaicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microcelulas-solares-avanco-revolucionario-celulas-fotovoltaicas&id=020115231128)
-- [Criado primeiro laser org�nico totalmente el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-laser-organico-totalmente-eletrico&id=010115231128)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
