@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberta de planeta grande demais para sua estrela questiona teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-planeta-grande-demais-sua-estrela-questiona-teorias&id=010130231130)
 - [Propuls�o Devoradora de Ondas supera h�lices para impulsionar navios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsao-devoradora-ondas-supera-helices-propulsao-navios&id=010170231130)
 - [Este material realiza tarefas diferentes dependendo da temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-material-realiza-tarefas-diferentes-dependendo-temperatura&id=010180231130)
 - [Descoberto primeiro disco protoplanet�rio em outra gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-disco-protoplanetario-outra-galaxia&id=020130231129)
 - [Entendendo os Signals do Angular](https://www.alura.com.br/artigos/entendendo-signals-angular)
 - [Astr�nomos descobrem "sistema planet�rio dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-descobrem-sistema-planetario-sonhos&id=010130231129)
 - [Miniacelerador de part�culas faz em 10cm o que os atuais exigem 3km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniacelerador-particulas-faz-10cm-atuais-fazem-3km&id=010115231129)
-- [M�o rob�tica impressa em 3D possui ossos, ligamentos e tend�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mao-robotica-impressa-3d-possui-ossos-ligamentos-tendoes&id=010180231129)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
