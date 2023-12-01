@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular: testes unitários de classes de componentes e serviços com Jasmine](https://www.alura.com.br/artigos/angular-testes-unitarios-classes-componentes-servicos-jasmine)
+- [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
 - [Como armazenar energia colocando um tubo dentro de uma represa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-armazenar-energia-colocando-tubo-dentro-represa&id=010115231201)
 - [Ar-condicionado eletrocal�rico pode chegar a 67% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-condicionado-eletrocalorico-chegar-67-eficiencia&id=010170231201)
 - [Descoberta de planeta grande demais para sua estrela questiona teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-planeta-grande-demais-sua-estrela-questiona-teorias&id=010130231130)
 - [Propuls�o Devoradora de Ondas supera h�lices para impulsionar navios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsao-devoradora-ondas-supera-helices-propulsao-navios&id=010170231130)
 - [Este material realiza tarefas diferentes dependendo da temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-material-realiza-tarefas-diferentes-dependendo-temperatura&id=010180231130)
-- [Descoberto primeiro disco protoplanet�rio em outra gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-disco-protoplanetario-outra-galaxia&id=020130231129)
-- [Astr�nomos descobrem "sistema planet�rio dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-descobrem-sistema-planetario-sonhos&id=010130231129)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
