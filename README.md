@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
 - [Angular: testes unitários de classes de componentes e serviços com Jasmine](https://www.alura.com.br/artigos/angular-testes-unitarios-classes-componentes-servicos-jasmine)
+- [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
 - [Como armazenar energia colocando um tubo dentro de uma represa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-armazenar-energia-colocando-tubo-dentro-represa&id=010115231201)
 - [Ar-condicionado eletrocal�rico pode chegar a 67% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-condicionado-eletrocalorico-chegar-67-eficiencia&id=010170231201)
 - [Descoberta de planeta grande demais para sua estrela questiona teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-planeta-grande-demais-sua-estrela-questiona-teorias&id=010130231130)
