@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [F�sicos descobrem estrutura parecida com mol�cula dentro do n�cleo de um �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descobrem-especie-molecula-dentro-nucleo-atomo&id=010115231204)
+- [Grafeno � desbancado: Fama de melhor condutor de calor do mundo era indevida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-desbancado-fama-melhor-condutor-calor-mundo-era-indevida&id=010165231204)
 - [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
 - [Angular: testes unitários de classes de componentes e serviços com Jasmine](https://www.alura.com.br/artigos/angular-testes-unitarios-classes-componentes-servicos-jasmine)
 - [Como armazenar energia colocando um tubo dentro de uma represa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-armazenar-energia-colocando-tubo-dentro-represa&id=010115231201)
 - [Ar-condicionado eletrocal�rico pode chegar a 67% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-condicionado-eletrocalorico-chegar-67-eficiencia&id=010170231201)
 - [Descoberta de planeta grande demais para sua estrela questiona teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-planeta-grande-demais-sua-estrela-questiona-teorias&id=010130231130)
-- [Propuls�o Devoradora de Ondas supera h�lices para impulsionar navios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsao-devoradora-ondas-supera-helices-propulsao-navios&id=010170231130)
-- [Este material realiza tarefas diferentes dependendo da temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-material-realiza-tarefas-diferentes-dependendo-temperatura&id=010180231130)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
