@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Qualidade de software: mais do que apenas um código bem escrito](https://www.alura.com.br/artigos/qualidade-software-codigo-bem-escrito)
+- [Penas de p�ssaro inspiram material para baterias e filtros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-passaro-inspiram-material-baterias-filtros&id=020115231204)
 - [F�sicos descobrem estrutura parecida com mol�cula dentro do n�cleo de um �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descobrem-especie-molecula-dentro-nucleo-atomo&id=010115231204)
 - [Grafeno � desbancado: Fama de melhor condutor de calor do mundo era indevida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-desbancado-fama-melhor-condutor-calor-mundo-era-indevida&id=010165231204)
 - [Angular: testes unitários de classes de componentes e serviços com Jasmine](https://www.alura.com.br/artigos/angular-testes-unitarios-classes-componentes-servicos-jasmine)
 - [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
 - [Como armazenar energia colocando um tubo dentro de uma represa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-armazenar-energia-colocando-tubo-dentro-represa&id=010115231201)
-- [Ar-condicionado eletrocal�rico pode chegar a 67% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ar-condicionado-eletrocalorico-chegar-67-eficiencia&id=010170231201)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
