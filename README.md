@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Testes de software e documentação: pilares para garantir qualidade e eficiência no desenvolvimento de software](https://www.alura.com.br/artigos/testes-software-documentacao-desenvolvimento-software)
 - [Conheça a história da Caelum](https://www.alura.com.br/artigos/historia-da-caelum)
 - [Recorde mundial de dados por fibra �ptica dobra para 22,9 petabits por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-dados-fibra-optica-dobra-22-9-petabits-segundo&id=010150231205)
 - [Esticar a mem�ria leva a novas possibilidades de computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esticar-memoria-leva-novas-possibilidades-computacao&id=030110231205)
 - [Quasipart�culas para computa��o de �ltima gera��o usam pir�mide como fio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticulas-computacao-ultima-geracao-usam-piramide-como-fio&id=020110231205)
 - [Material 2D montado em 3D remodela a eletr�nica, criando hardware para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-2d-montado-3d-remodela-eletronica-criando-hardware-ia&id=010110231205)
 - [Penas de p�ssaro inspiram material para baterias e filtros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-passaro-inspiram-material-baterias-filtros&id=020115231204)
-- [Como criar uma Inteligência Artificial? O que é preciso, quais os exemplos e como uma IA pode te ajudar](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
