@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Testes de software e documentação: pilares para garantir qualidade e eficiência no desenvolvimento de software](https://www.alura.com.br/artigos/testes-software-documentacao-desenvolvimento-software)
 - [Conheça a história da Caelum](https://www.alura.com.br/artigos/historia-da-caelum)
+- [Business Intelligence: o que é BI, o que faz e como usar no dia a dia](https://www.alura.com.br/artigos/business-intelligence-bi)
+- [Testes de software e documentação: pilares para garantir qualidade e eficiência no desenvolvimento de software](https://www.alura.com.br/artigos/testes-software-documentacao-desenvolvimento-software)
+- [IBM tamb�m apresenta processador qu�ntico com mais de 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-tambem-apresenta-processador-quantico-mais-1-000-qubits&id=020150231205)
 - [Recorde mundial de dados por fibra �ptica dobra para 22,9 petabits por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-dados-fibra-optica-dobra-22-9-petabits-segundo&id=010150231205)
 - [Esticar a mem�ria leva a novas possibilidades de computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esticar-memoria-leva-novas-possibilidades-computacao&id=030110231205)
 - [Quasipart�culas para computa��o de �ltima gera��o usam pir�mide como fio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticulas-computacao-ultima-geracao-usam-piramide-como-fio&id=020110231205)
-- [Material 2D montado em 3D remodela a eletr�nica, criando hardware para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-2d-montado-3d-remodela-eletronica-criando-hardware-ia&id=010110231205)
-- [Penas de p�ssaro inspiram material para baterias e filtros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=penas-passaro-inspiram-material-baterias-filtros&id=020115231204)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
