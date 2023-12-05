@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Como criar uma Inteligência Artificial? O que é preciso, quais os exemplos e como uma IA pode te ajudar](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
 - [Qualidade de software: mais do que apenas um código bem escrito](https://www.alura.com.br/artigos/qualidade-software-codigo-bem-escrito)
 - [Transdutor optomec�nico abre caminho para redes qu�nticas avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transdutor-optomecanico-abre-caminho-redes-quanticas-avancadas&id=010110231201)
-- [Como armazenar energia colocando um tubo dentro de uma represa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-armazenar-energia-colocando-tubo-dentro-represa&id=010115231201)
+- [Angular: testes unitários de classes de componentes e serviços com Jasmine](https://www.alura.com.br/artigos/angular-testes-unitarios-classes-componentes-servicos-jasmine)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
