@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [A sintonia perfeita: automatização de testes e DevOps](https://www.alura.com.br/artigos/sintonia-perfeita-automatizacao-testes-devops)
 - [Nova teoria tenta unificar espa�o-tempo de Einstein com a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-unir-relatividade-einstein-mecanica-quantica&id=010130231206)
 - [Luz em forma de rosquinha faz microsc�pios mergulharem mat�ria adentro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-forma-rosquinha-microscopios&id=010165231206)
+- [A sintonia perfeita: automatização de testes e DevOps](https://www.alura.com.br/artigos/sintonia-perfeita-automatizacao-testes-devops)
+- [IBM tamb�m apresenta processador qu�ntico com mais de 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-tambem-apresenta-processador-quantico-mais-1-000-qubits&id=020150231205)
+- [Recorde mundial de dados por fibra �ptica dobra para 22,9 petabits por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-dados-fibra-optica-dobra-22-9-petabits-segundo&id=010150231205)
 - [Conheça a história da Caelum](https://www.alura.com.br/artigos/historia-da-caelum)
 - [Ética e Inteligência Artificial (IA) para profissionais de tecnologia: navegando no mundo digital de forma responsável](https://www.alura.com.br/artigos/etica-e-inteligencia-artificial)
-- [Business Intelligence: o que é BI, o que faz e como usar no dia a dia](https://www.alura.com.br/artigos/business-intelligence-bi)
-- [Testes de software e documentação: pilares para garantir qualidade e eficiência no desenvolvimento de software](https://www.alura.com.br/artigos/testes-software-documentacao-desenvolvimento-software)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
