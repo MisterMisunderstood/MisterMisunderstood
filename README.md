@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Nova teoria tenta unificar espa�o-tempo de Einstein com a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-unir-relatividade-einstein-mecanica-quantica&id=010130231206)
 - [Luz em forma de rosquinha faz microsc�pios mergulharem mat�ria adentro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-forma-rosquinha-microscopios&id=010165231206)
 - [IBM tamb�m apresenta processador qu�ntico com mais de 1.000 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-tambem-apresenta-processador-quantico-mais-1-000-qubits&id=020150231205)
-- [Recorde mundial de dados por fibra �ptica dobra para 22,9 petabits por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-dados-fibra-optica-dobra-22-9-petabits-segundo&id=010150231205)
+- [Conheça a história da Caelum](https://www.alura.com.br/artigos/historia-da-caelum)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
