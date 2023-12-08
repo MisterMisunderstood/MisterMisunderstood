@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Carreiras em qualidade de software e quais soft skills são importantes para os profissionais da área](https://www.alura.com.br/artigos/carreiras-qualidade-software-soft-skills-profissionais-area)
-- [Conhecendo o TypeScript no Front-end](https://www.alura.com.br/artigos/conhecendo-typescript-front-end)
 - [Maiores explos�es de raios gama podem ter sido compreendidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explicacao-explosoes-raios-gama-longas&id=020130231207)
 - [Criado tecido in�dito feito inteiramente de cristais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-de-cristais&id=010160231207)
 - [Sinais de vida em luas geladas podem ser coletados do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-vida-luas-geladas-coletados-espaco&id=010130231207)
-- [A sintonia perfeita: automatização de testes e DevOps](https://www.alura.com.br/artigos/sintonia-perfeita-automatizacao-testes-devops)
+- [Carreiras em qualidade de software e quais soft skills são importantes para os profissionais da área](https://www.alura.com.br/artigos/carreiras-qualidade-software-soft-skills-profissionais-area)
+- [Conhecendo o TypeScript no Front-end](https://www.alura.com.br/artigos/conhecendo-typescript-front-end)
 - [Nova teoria tenta unificar espa�o-tempo de Einstein com a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-unir-relatividade-einstein-mecanica-quantica&id=010130231206)
+- [Luz em forma de rosquinha faz microsc�pios mergulharem mat�ria adentro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-forma-rosquinha-microscopios&id=010165231206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
