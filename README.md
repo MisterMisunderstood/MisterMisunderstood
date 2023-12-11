@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Entrela�amento in�dito de mol�culas viabiliza computador qu�ntico mais poderoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-inedito-moleculas-viabiliza-novo-tipo-computador-quantico&id=010110231211)
 - [Conhecendo AnimatedFoo no Flutter](https://www.alura.com.br/artigos/conhecendo-animatedfoo-flutter)
 - [Este chip faz c�lculos com luz e para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-chip-faz-calculos-luz&id=020110231208)
 - [Monopolos magn�ticos s�o observados em material natural pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monopolos-magneticos-observados-material-natural-pela-primeira-vez&id=010110231208)
 - [Maiores explos�es de raios gama podem ter sido compreendidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explicacao-explosoes-raios-gama-longas&id=020130231207)
-- [Criado tecido in�dito feito inteiramente de cristais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-de-cristais&id=010160231207)
-- [Sinais de vida em luas geladas podem ser coletados do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-vida-luas-geladas-coletados-espaco&id=010130231207)
 - [Carreiras em qualidade de software e quais soft skills são importantes para os profissionais da área](https://www.alura.com.br/artigos/carreiras-qualidade-software-soft-skills-profissionais-area)
+- [Conhecendo o TypeScript no Front-end](https://www.alura.com.br/artigos/conhecendo-typescript-front-end)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
