@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Armazenamento �ptico regrav�vel supera limite de difra��o da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenamento-optico-regravavel-supera-limite-difracao-luz&id=010150231212)
 - [Subst�ncia da madeira torna c�lulas solares org�nicas mais dur�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-madeira&id=010115231211)
 - [IA ganha efici�ncia quando imita restri��es f�sicas do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ganha-eficiencia-quando-imita-restricoes-fisicas-cerebro&id=010150231211)
-- [Entrela�amento in�dito de mol�culas viabiliza computador qu�ntico mais poderoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-inedito-moleculas-viabiliza-novo-tipo-computador-quantico&id=010110231211)
 - [Vale a pena aprender KMP?](https://www.alura.com.br/artigos/aprender-kmp)
+- [Entrela�amento in�dito de mol�culas viabiliza computador qu�ntico mais poderoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-inedito-moleculas-viabiliza-novo-tipo-computador-quantico&id=010110231211)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
