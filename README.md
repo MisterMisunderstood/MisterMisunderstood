@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [IA ganha efici�ncia quando imita restri��es f�sicas do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ganha-eficiencia-quando-imita-restricoes-fisicas-cerebro&id=010150231211)
 - [Entrela�amento in�dito de mol�culas viabiliza computador qu�ntico mais poderoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-inedito-moleculas-viabiliza-novo-tipo-computador-quantico&id=010110231211)
 - [Vale a pena aprender KMP?](https://www.alura.com.br/artigos/aprender-kmp)
+- [Conhecendo AnimatedFoo no Flutter](https://www.alura.com.br/artigos/conhecendo-animatedfoo-flutter)
 - [Este chip faz c�lculos com luz e para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-chip-faz-calculos-luz&id=020110231208)
 - [Monopolos magn�ticos s�o observados em material natural pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monopolos-magneticos-observados-material-natural-pela-primeira-vez&id=010110231208)
-- [Conhecendo AnimatedFoo no Flutter](https://www.alura.com.br/artigos/conhecendo-animatedfoo-flutter)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
