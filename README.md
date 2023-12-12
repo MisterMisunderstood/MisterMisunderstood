@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
+- [Minic�rebro vivo vira processador biol�gico e roda intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-biologico-minicerebro-vivo-roda-inteligencia-artificial&id=020150231212)
 - [Nova fibra condutora � base de algod�o � ideal para tecidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-fibra-condutora-base-algodao&id=010110231212)
 - [Fiss�o nuclear c�smica pode comprovar elementos al�m da Tabela Peri�dica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiros-indicios-fissao-nuclear-cosmos&id=010130231212)
 - [Armazenamento �ptico regrav�vel supera limite de difra��o da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenamento-optico-regravavel-supera-limite-difracao-luz&id=010150231212)
 - [Vale a pena aprender KMP?](https://www.alura.com.br/artigos/aprender-kmp)
 - [Subst�ncia da madeira torna c�lulas solares org�nicas mais dur�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-madeira&id=010115231211)
-- [IA ganha efici�ncia quando imita restri��es f�sicas do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-ganha-eficiencia-quando-imita-restricoes-fisicas-cerebro&id=010150231211)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
