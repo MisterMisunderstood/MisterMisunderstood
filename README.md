@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
 - [5 melhores práticas de design para mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-design-midias-sociais)
 - [Microfone revolucion�rio � inspirado na teia de aranha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfone-revolucionario-inspirado-teia-aranha&id=010110231213)
 - [Descoberta de hidrog�nio subterr�neo cria novo boom de minera��o no mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-hidrogenio-subterraneo-cria-novo-boom-mineracao-mundo&id=010115231213)
 - [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 - [Minic�rebro vivo vira processador biol�gico e roda intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-biologico-minicerebro-vivo-roda-inteligencia-artificial&id=020150231212)
 - [Nova fibra condutora � base de algod�o � ideal para tecidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-fibra-condutora-base-algodao&id=010110231212)
-- [Fiss�o nuclear c�smica pode comprovar elementos al�m da Tabela Peri�dica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiros-indicios-fissao-nuclear-cosmos&id=010130231212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
