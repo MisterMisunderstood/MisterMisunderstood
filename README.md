@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberta de hidrog�nio subterr�neo cria novo boom de minera��o no mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-hidrogenio-subterraneo-cria-novo-boom-mineracao-mundo&id=010115231213)
 - [5 melhores práticas de design para mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-design-midias-sociais)
 - [Minic�rebro vivo vira processador biol�gico e roda intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-biologico-minicerebro-vivo-roda-inteligencia-artificial&id=020150231212)
+- [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 - [Nova fibra condutora � base de algod�o � ideal para tecidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-fibra-condutora-base-algodao&id=010110231212)
-- [Fiss�o nuclear c�smica pode comprovar elementos al�m da Tabela Peri�dica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiros-indicios-fissao-nuclear-cosmos&id=010130231212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
