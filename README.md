@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Supercomputador neurom�rfico conseguir� simular c�rebro humano inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-supercomputador-mundo-capaz-simular-cerebro-humano-inteiro&id=010150231214)
 - [Descoberto material ultraduro que rivaliza com o diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-ultraduro-rivaliza-diamante&id=010160231214)
-- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
 - [5 melhores práticas de design para mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-design-midias-sociais)
+- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
 - [Microfone revolucion�rio � inspirado na teia de aranha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfone-revolucionario-inspirado-teia-aranha&id=010110231213)
 - [Descoberta de hidrog�nio subterr�neo cria novo boom de minera��o no mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-hidrogenio-subterraneo-cria-novo-boom-mineracao-mundo&id=010115231213)
 - [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
