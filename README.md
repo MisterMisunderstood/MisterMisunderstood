@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Tecnologia de vestir biossimbi�tica transmite dados a 24km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-vestir-biossimbiotica-transmite-dados-24km-distancia&id=010110231215)
 - [Supercomputador neurom�rfico conseguir� simular c�rebro humano inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-supercomputador-mundo-capaz-simular-cerebro-humano-inteiro&id=010150231214)
 - [Descoberto material ultraduro que rivaliza com o diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-ultraduro-rivaliza-diamante&id=010160231214)
-- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
 - [5 melhores práticas de design para mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-design-midias-sociais)
+- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
