@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador probabil�stico spintr�nico � compat�vel com a IA atual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-spintronico-compativel-ia-atual&id=010150231218)
+- [T�cnicas para medir idade das estrelas est�o medindo coisas diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnicas-medir-idade-estrelas-estao-medindo-coisas-diferentes&id=010130231218)
 - [Novidades no Angular 17](https://www.alura.com.br/artigos/novidades-angular-17)
 - [Computador qu�ntico tolerante a falhas bate recorde usando qubits l�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-tolerante-falhas-bate-recorde-usando-qubits-logicos&id=010150231215)
 - [Tecnologia de vestir biossimbi�tica transmite dados a 24km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-vestir-biossimbiotica-transmite-dados-24km-distancia&id=010110231215)
 - [Supercomputador neurom�rfico conseguir� simular c�rebro humano inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-supercomputador-mundo-capaz-simular-cerebro-humano-inteiro&id=010150231214)
 - [Descoberto material ultraduro que rivaliza com o diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-ultraduro-rivaliza-diamante&id=010160231214)
-- [Para treinar idioma dos ETs, programa SETI consegue conversar com baleias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-treinar-idioma-ets-programa-seti-consegue-conversar-baleias&id=010130231213)
-- [Microfone revolucion�rio � inspirado na teia de aranha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfone-revolucionario-inspirado-teia-aranha&id=010110231213)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
