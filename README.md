@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Telha adaptativa reduz custos de ar-condicionado sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telha-adaptativa-reduz-custos-aquecimento-ar-condicionado-sem-gastar-energia&id=010125231219)
+- [Tecnologia dos metamateriais torna gerador termoel�trico flex�vel e estic�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-metamateriais-torna-gerador-termoeletrico-flexivel-esticavel&id=010115231219)
 - [Controle magn�tico das vibra��es de um cristal abre novos horizontes de aplica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-magnetico-vibracoes-cristal-abre-novos-horizontes-aplicacao&id=010110231218)
 - [Computador probabil�stico spintr�nico � compat�vel com a IA atual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-spintronico-compativel-ia-atual&id=010150231218)
 - [T�cnicas para medir idade das estrelas est�o medindo coisas diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnicas-medir-idade-estrelas-estao-medindo-coisas-diferentes&id=010130231218)
 - [Novidades no Angular 17](https://www.alura.com.br/artigos/novidades-angular-17)
 - [Computador qu�ntico tolerante a falhas bate recorde usando qubits l�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-tolerante-falhas-bate-recorde-usando-qubits-logicos&id=010150231215)
-- [Tecnologia de vestir biossimbi�tica transmite dados a 24km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-vestir-biossimbiotica-transmite-dados-24km-distancia&id=010110231215)
-- [Supercomputador neurom�rfico conseguir� simular c�rebro humano inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-supercomputador-mundo-capaz-simular-cerebro-humano-inteiro&id=010150231214)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
