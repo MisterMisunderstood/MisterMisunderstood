@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [T�cnica permite soldar espumas met�licas sem derreter suas bolhas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-soldar-espumas-metalicas&id=010170231221)
+- [Superada limita��o secular na manipula��o da luz, abrindo caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superada-limitacao-secular-manipulacao-luz-abrindo-caminho-novas-tecnologias&id=010165231221)
 - [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
 - [C#: Conhecendo a linguagem orientada a objetos mais popular da Microsoft](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
 - [Do que ser�o feitas as baterias do futuro? Depende de onde voc� ir� us�-las](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-serao-feitas-baterias-futuro-depende-onde-voce-ira-usa-las&id=010115231220)
 - [Tato rob�tico: Sensor identifica texturas como uma m�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tato-robotico-sensor-identifica-textura-tecidos-como-mao-humana&id=010180231220)
 - [Telha adaptativa reduz custos de ar-condicionado sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telha-adaptativa-reduz-custos-aquecimento-ar-condicionado-sem-gastar-energia&id=010125231219)
-- [Tecnologia dos metamateriais torna gerador termoel�trico flex�vel e estic�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-metamateriais-torna-gerador-termoeletrico-flexivel-esticavel&id=010115231219)
-- [Controle magn�tico das vibra��es de um cristal abre novos horizontes de aplica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controle-magnetico-vibracoes-cristal-abre-novos-horizontes-aplicacao&id=010110231218)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
