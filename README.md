@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Compreenda as for�as fundamentais do Universo e suas intera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compreenda-forcas-fundamentais-universo-suas-interacoes&id=010115231222)
+- [Intelig�ncia artificial anal�gica � demonstrada em redes neurais f�sicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&id=010150231222)
 - [T�cnica permite soldar espumas met�licas sem derreter suas bolhas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-soldar-espumas-metalicas&id=010170231221)
 - [Superada limita��o secular na manipula��o da luz, abrindo caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superada-limitacao-secular-manipulacao-luz-abrindo-caminho-novas-tecnologias&id=010165231221)
 - [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
 - [C#: Conhecendo a linguagem orientada a objetos mais popular da Microsoft](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
 - [Do que ser�o feitas as baterias do futuro? Depende de onde voc� ir� us�-las](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-serao-feitas-baterias-futuro-depende-onde-voce-ira-usa-las&id=010115231220)
-- [Tato rob�tico: Sensor identifica texturas como uma m�o humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tato-robotico-sensor-identifica-textura-tecidos-como-mao-humana&id=010180231220)
-- [Telha adaptativa reduz custos de ar-condicionado sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telha-adaptativa-reduz-custos-aquecimento-ar-condicionado-sem-gastar-energia&id=010125231219)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
