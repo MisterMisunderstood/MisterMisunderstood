@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Raios c�smicos n�o s�o raios - mas t�m sim seu lado "raio"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-cosmicos-nao-raios-mas-tem-sim-seu-lado-raio&id=010130231226)
+- [Como os metais l�quidos podem mudar a face da Qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-metais-liquidos-mudar-face-quimica&id=010160231226)
 - [Compreenda as for�as fundamentais do Universo e suas intera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compreenda-forcas-fundamentais-universo-suas-interacoes&id=010115231222)
 - [Intelig�ncia artificial anal�gica � demonstrada em redes neurais f�sicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&id=010150231222)
 - [T�cnica permite soldar espumas met�licas sem derreter suas bolhas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-soldar-espumas-metalicas&id=010170231221)
 - [Superada limita��o secular na manipula��o da luz, abrindo caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superada-limitacao-secular-manipulacao-luz-abrindo-caminho-novas-tecnologias&id=010165231221)
-- [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
-- [C#: Conhecendo a linguagem orientada a objetos mais popular da Microsoft](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
 - [Do que ser�o feitas as baterias do futuro? Depende de onde voc� ir� us�-las](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-serao-feitas-baterias-futuro-depende-onde-voce-ira-usa-las&id=010115231220)
 <!-- BLOG-POST-LIST:END -->
 
