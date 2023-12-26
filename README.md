@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Intelig�ncia artificial anal�gica � demonstrada em redes neurais f�sicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&id=010150231222)
 - [T�cnica permite soldar espumas met�licas sem derreter suas bolhas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-soldar-espumas-metalicas&id=010170231221)
 - [Superada limita��o secular na manipula��o da luz, abrindo caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superada-limitacao-secular-manipulacao-luz-abrindo-caminho-novas-tecnologias&id=010165231221)
-- [Do que ser�o feitas as baterias do futuro? Depende de onde voc� ir� us�-las](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-serao-feitas-baterias-futuro-depende-onde-voce-ira-usa-las&id=010115231220)
+- [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
