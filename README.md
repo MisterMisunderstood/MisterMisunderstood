@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 - [Fotobateria para internet das coisas gera, converte e armazena energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotobateria-organica-internet-coisas&id=010115231227)
 - [Metamateriais podem chegar � escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-chegar-escala-atomica&id=010160231227)
-- [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 - [Raios c�smicos n�o s�o raios - mas t�m sim seu lado "raio"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-cosmicos-nao-raios-mas-tem-sim-seu-lado-raio&id=010130231226)
 - [Como os metais l�quidos podem mudar a face da Qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-metais-liquidos-mudar-face-quimica&id=010160231226)
 - [Compreenda as for�as fundamentais do Universo e suas intera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compreenda-forcas-fundamentais-universo-suas-interacoes&id=010115231222)
