@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que acontece se voc� colocar um buraco negro no centro do Sol?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-acontece-se-voce-colocar-buraco-negro-centro-sol&id=010130231228)
+- [Processador de sinais analisa 400.000 imagens simultaneamente usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-sinais-analisa-400-000-imagens-simultaneamente-usando-luz&id=010110231228)
 - [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 - [Fotobateria para internet das coisas gera, converte e armazena energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotobateria-organica-internet-coisas&id=010115231227)
 - [Metamateriais podem chegar � escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-chegar-escala-atomica&id=010160231227)
 - [Raios c�smicos n�o s�o raios - mas t�m sim seu lado "raio"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-cosmicos-nao-raios-mas-tem-sim-seu-lado-raio&id=010130231226)
 - [Como os metais l�quidos podem mudar a face da Qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-metais-liquidos-mudar-face-quimica&id=010160231226)
-- [Compreenda as for�as fundamentais do Universo e suas intera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compreenda-forcas-fundamentais-universo-suas-interacoes&id=010115231222)
-- [Intelig�ncia artificial anal�gica � demonstrada em redes neurais f�sicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&id=010150231222)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
