@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
-- [Fotobateria para internet das coisas gera, converte e armazena energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotobateria-organica-internet-coisas&id=010115231227)
-- [Metamateriais podem chegar � escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-chegar-escala-atomica&id=010160231227)
-- [Raios c�smicos n�o s�o raios - mas t�m sim seu lado "raio"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-cosmicos-nao-raios-mas-tem-sim-seu-lado-raio&id=010130231226)
-- [Como os metais l�quidos podem mudar a face da Qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-metais-liquidos-mudar-face-quimica&id=010160231226)
-- [Compreenda as for�as fundamentais do Universo e suas intera��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compreenda-forcas-fundamentais-universo-suas-interacoes&id=010115231222)
-- [Intelig�ncia artificial anal�gica � demonstrada em redes neurais f�sicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&id=010150231222)
+- [C#: Conhecendo a linguagem orientada a objetos mais popular da Microsoft](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
+- [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
+- [Novidades no Angular 17](https://www.alura.com.br/artigos/novidades-angular-17)
+- [5 melhores práticas de design para mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-design-midias-sociais)
+- [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
+- [Vale a pena aprender KMP?](https://www.alura.com.br/artigos/aprender-kmp)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
