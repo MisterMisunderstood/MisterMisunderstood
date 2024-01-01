@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [PhOLEDs: Conhe�a a tecnologia que ir� mudar as telas e economizar bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pholeds-azuis&id=010115231229)
 - [O que acontece se voc� colocar um buraco negro no centro do Sol?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-acontece-se-voce-colocar-buraco-negro-centro-sol&id=010130231228)
 - [Processador de sinais analisa 400.000 imagens simultaneamente usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-sinais-analisa-400-000-imagens-simultaneamente-usando-luz&id=010110231228)
-- [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 - [Fotobateria para internet das coisas gera, converte e armazena energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotobateria-organica-internet-coisas&id=010115231227)
 - [Metamateriais podem chegar � escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-chegar-escala-atomica&id=010160231227)
+- [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
