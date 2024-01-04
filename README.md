@@ -126,8 +126,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Trans�stor faz intelig�ncia artificial imitando a intelig�ncia humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-faz-inteligencia-artificial-imitando-inteligencia-humana&id=010110240104)
 - [Criado material magn�tico para controlar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-magnetico-controlar-luz&id=010160240104)
-- [Adeus radar: C�mera mede velocidade dos ve�culos trafegando na via](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-radar-camera-mede-velocidade-veiculos&id=010150240103)
 - [Faculdade de programação: o que você precisa fazer para se tornar uma pessoa programadora](https://www.alura.com.br/artigos/faculdade-programacao)
+- [Adeus radar: C�mera mede velocidade dos ve�culos trafegando na via](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-radar-camera-mede-velocidade-veiculos&id=010150240103)
 - [Solo eletr�nico comprova que eletricidade otimiza culturas agr�colas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solo-eletronico-comprova-eletricidade-otimiza-culturas-agricolas&id=010125240103)
 - [Diamantes levitando no v�cuo poder�o dizer se a gravidade � qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-levitando-vacuo-poderao-dizer-se-forca-gravidade-quantica&id=010130240102)
 - [Peneiras de f�tons exploram os limites da f�sica para focar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peneiras-fotons-exploram-limites-fisica-focar-luz&id=010110240102)
