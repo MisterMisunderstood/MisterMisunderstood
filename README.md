@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxig�nio e g�s carb�nico: O que os dois gases nos dizem sobre vida alien�gena?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oxigenio-gas-carbonico-dois-gases-dizem-sobre-vida-alienigena&id=010130240105)
+- [Criado primeiro semicondutor funcional feito de grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-semicondutor-funcional-feito-grafeno&id=010110240105)
 - [Reconex�o magn�tica e turbul�ncia explicam raios c�smicos superenerg�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reconexao-magnetica-turbulencia-explicam-raios-cosmicos-superenergeticos&id=010175240104)
 - [Trans�stor faz intelig�ncia artificial imitando a intelig�ncia humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-faz-inteligencia-artificial-imitando-inteligencia-humana&id=010110240104)
 - [Criado material magn�tico para controlar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-magnetico-controlar-luz&id=010160240104)
 - [SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO)](https://www.alura.com.br/artigos/solid)
 - [Adeus radar: C�mera mede velocidade dos ve�culos trafegando na via](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-radar-camera-mede-velocidade-veiculos&id=010150240103)
-- [Solo eletr�nico comprova que eletricidade otimiza culturas agr�colas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solo-eletronico-comprova-eletricidade-otimiza-culturas-agricolas&id=010125240103)
-- [Faculdade de programação: o que você precisa fazer para se tornar uma pessoa programadora](https://www.alura.com.br/artigos/faculdade-programacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
