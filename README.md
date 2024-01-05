@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Alura oferece mais de 50 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
+- [Alura oferece 80 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
 - [Oxig�nio e g�s carb�nico: O que os dois gases nos dizem sobre vida alien�gena?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oxigenio-gas-carbonico-dois-gases-dizem-sobre-vida-alienigena&id=010130240105)
 - [Criado primeiro semicondutor funcional feito de grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-semicondutor-funcional-feito-grafeno&id=010110240105)
 - [Reconex�o magn�tica e turbul�ncia explicam raios c�smicos superenerg�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reconexao-magnetica-turbulencia-explicam-raios-cosmicos-superenergeticos&id=010175240104)
