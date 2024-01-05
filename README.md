@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO)](https://www.alura.com.br/artigos/solid)
 - [Trans�stor faz intelig�ncia artificial imitando a intelig�ncia humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-faz-inteligencia-artificial-imitando-inteligencia-humana&id=010110240104)
 - [Criado material magn�tico para controlar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-magnetico-controlar-luz&id=010160240104)
-- [Adeus radar: C�mera mede velocidade dos ve�culos trafegando na via](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-radar-camera-mede-velocidade-veiculos&id=010150240103)
+- [Faculdade de programação: o que você precisa fazer para se tornar uma pessoa programadora](https://www.alura.com.br/artigos/faculdade-programacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
