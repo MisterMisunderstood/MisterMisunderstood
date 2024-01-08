@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominando Persona, Persuasão e Rapport: chaves para o sucesso em vendas e marketing](https://www.alura.com.br/artigos/persona-persuasao-rapport-chaves-sucesso-vendas-marketing)
 - [Alura oferece 80 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
 - [SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO)](https://www.alura.com.br/artigos/solid)
 - [Faculdade de programação: o que você precisa fazer para se tornar uma pessoa programadora](https://www.alura.com.br/artigos/faculdade-programacao)
 - [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 - [.NET: apresentando a plataforma de desenvolvimento da Microsoft](https://www.alura.com.br/artigos/net-framework-dotnet)
 - [C#: Conhecendo a linguagem orientada a objetos mais popular da Microsoft](https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet)
-- [Novidades no Angular 17](https://www.alura.com.br/artigos/novidades-angular-17)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
