@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Eletr�nica com carv�o? Material surpreendente e gera componentes de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-do-carvao&id=010110240108)
+- [Eletr�nica com carv�o? Material surpreende e gera componentes de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-do-carvao&id=010110240108)
 - [F�sicos acabam de ter mais certeza sobre a incerteza qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-acabam-ter-mais-certeza-sobre-incerteza-quantica&id=010165240108)
 - [Intelig�ncia Artificial usada pela ind�stria farmac�utica n�o � inteligente, garantem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-usada-pela-industria-farmaceutica-nao-inteligente-garantem-especialistas&id=010150240108)
 - [Alura oferece 80 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
