@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [E se o espa�o-tempo curvo de Einstein puder ser endireitado?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-espaco-tempo-descrito-einstein-puder-descurvado&id=010130240109)
+- [Criado um laser em uma bolha de sab�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-laser-criado-bolha-sabao&id=010115240109)
+- [Camuflagem inspirada nos polvos pode enganar e sinalizar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inspirada-polvos-camuflar-sinalizar&id=010160240109)
 - [Eletr�nica com carv�o? Material surpreende e gera componentes de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-do-carvao&id=010110240108)
 - [F�sicos acabam de ter mais certeza sobre a incerteza qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-acabam-ter-mais-certeza-sobre-incerteza-quantica&id=010165240108)
 - [Intelig�ncia Artificial usada pela ind�stria farmac�utica n�o � inteligente, garantem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-usada-pela-industria-farmaceutica-nao-inteligente-garantem-especialistas&id=010150240108)
 - [Dominando Persona, Persuasão e Rapport: chaves para o sucesso em vendas e marketing](https://www.alura.com.br/artigos/persona-persuasao-rapport-chaves-sucesso-vendas-marketing)
-- [Alura oferece 80 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
-- [Oxig�nio e g�s carb�nico: O que os dois gases nos dizem sobre vida alien�gena?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oxigenio-gas-carbonico-dois-gases-dizem-sobre-vida-alienigena&id=010130240105)
-- [Criado primeiro semicondutor funcional feito de grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-semicondutor-funcional-feito-grafeno&id=010110240105)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
