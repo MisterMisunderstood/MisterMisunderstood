@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [E se o espa�o-tempo curvo de Einstein puder ser endireitado?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-espaco-tempo-descrito-einstein-puder-descurvado&id=010130240109)
 - [Criado um laser em uma bolha de sab�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-laser-criado-bolha-sabao&id=010115240109)
 - [Camuflagem inspirada nos polvos pode enganar e sinalizar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inspirada-polvos-camuflar-sinalizar&id=010160240109)
-- [Dominando Persona, Persuasão e Rapport: chaves para o sucesso em vendas e marketing](https://www.alura.com.br/artigos/persona-persuasao-rapport-chaves-sucesso-vendas-marketing)
 - [Eletr�nica com carv�o? Material surpreende e gera componentes de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-do-carvao&id=010110240108)
 - [F�sicos acabam de ter mais certeza sobre a incerteza qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-acabam-ter-mais-certeza-sobre-incerteza-quantica&id=010165240108)
+- [Intelig�ncia Artificial usada pela ind�stria farmac�utica n�o � inteligente, garantem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-usada-pela-industria-farmaceutica-nao-inteligente-garantem-especialistas&id=010150240108)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
