@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de l�tio met�lico recarrega em 10 minutos e dura 6.000 ciclos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-estado-solido&id=010115240110)
 - [Lente plana usa aprendizado de m�quina para ver com mais clareza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-usa-aprendizado-maquina-ver-mais-clareza&id=010110240110)
 - [Chuva de diamantes em planetas gigantes volta �s manchetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chuva-diamantes-planetas-gigantes-volta-manchetes&id=020130240109)
 - [E se o espa�o-tempo curvo de Einstein puder ser endireitado?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-espaco-tempo-descrito-einstein-puder-descurvado&id=010130240109)
 - [Criado um laser em uma bolha de sab�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-laser-criado-bolha-sabao&id=010115240109)
 - [Camuflagem inspirada nos polvos pode enganar e sinalizar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inspirada-polvos-camuflar-sinalizar&id=010160240109)
 - [Dominando Persona, Persuasão e Rapport: chaves para o sucesso em vendas e marketing](https://www.alura.com.br/artigos/persona-persuasao-rapport-chaves-sucesso-vendas-marketing)
-- [Eletr�nica com carv�o? Material surpreende e gera componentes de pr�xima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-do-carvao&id=010110240108)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
