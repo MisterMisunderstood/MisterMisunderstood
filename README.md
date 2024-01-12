@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
+- [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
 - [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 - [H� risco de que a IA cause extin��o dos humanos, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=risco-ia-cause-extincao-humanos&id=010150240111)
 - [A evolu��o n�o � t�o aleat�ria como cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-evolucao-nao-tao-aleatoria-como-cientistas-pensavam&id=010125240111)
 - [As 5 melhores práticas para edição de vídeos em mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-edicao-videos-midias-sociais)
 - [N�cleo das estrelas de n�utrons pode conter forma ex�tica de mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forma-exotica-materia-existir-nucleo-estrelas-neutrons&id=010130240110)
-- [Bateria de l�tio met�lico recarrega em 10 minutos e dura 6.000 ciclos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-estado-solido&id=010115240110)
-- [Lente plana usa aprendizado de m�quina para ver com mais clareza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-usa-aprendizado-maquina-ver-mais-clareza&id=010110240110)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
