@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [UX Design em T: o que a Ciência de Dados tem a ver com a UX?](https://www.alura.com.br/artigos/o-que-a-ciencias-de-dados-tem-a-ver-com-a-ux)
 - [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
 - [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
-- [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 - [As 5 melhores práticas para edição de vídeos em mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-edicao-videos-midias-sociais)
+- [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 - [H� risco de que a IA cause extin��o dos humanos, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=risco-ia-cause-extincao-humanos&id=010150240111)
 - [A evolu��o n�o � t�o aleat�ria como cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-evolucao-nao-tao-aleatoria-como-cientistas-pensavam&id=010125240111)
 <!-- BLOG-POST-LIST:END -->
