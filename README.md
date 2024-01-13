@@ -125,10 +125,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Bact�rias fazem a diferen�a na extra��o das valiosas terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-otimizam-extracao-valiosas-terras-raras&id=010160240112)
-- [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
-- [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
 - [UX Design em T: o que a Ciência de Dados tem a ver com a UX?](https://www.alura.com.br/artigos/o-que-a-ciencias-de-dados-tem-a-ver-com-a-ux)
 - [Next.JS: aplicações fullstack com super poderes](https://www.alura.com.br/artigos/next-js)
+- [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
+- [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
 - [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 - [H� risco de que a IA cause extin��o dos humanos, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=risco-ia-cause-extincao-humanos&id=010150240111)
 <!-- BLOG-POST-LIST:END -->
