@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Next.JS: aplicações fullstack com super poderes](https://www.alura.com.br/artigos/next-js)
 - [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
 - [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
-- [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 - [As 5 melhores práticas para edição de vídeos em mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-edicao-videos-midias-sociais)
+- [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
