@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Fios de cobre com uma pitada de grafeno ganham uma efici�ncia inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fios-cobre-pitada-grafeno-ganham-eficiencia-inesperada&id=010115240112)
 - [Mineral marciano produz componentes eletr�nicos e hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineral-marciano-produz-componentes-eletronicos-hidrogenio-limpo&id=010130240112)
 - [Intelig�ncia Artificial projeta bateria que usa 70% menos l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-projeta-bateria-usa-70-menos-litio&id=010115240111)
-- [H� risco de que a IA cause extin��o dos humanos, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=risco-ia-cause-extincao-humanos&id=010150240111)
+- [As 5 melhores práticas para edição de vídeos em mídias sociais](https://www.alura.com.br/artigos/5-melhores-praticas-edicao-videos-midias-sociais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
