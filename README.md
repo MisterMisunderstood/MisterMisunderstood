@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Encontrado elo perdido entre supernovas e estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-elo-perdido-entre-supernovas-estrelas-neutrons&id=010130240115)
 - [Typescript: aprimore aplicações com tipagem estática](https://www.alura.com.br/artigos/typescript-aprimore-aplicacoes-tipagem-estatica)
+- [Encontrado elo perdido entre supernovas e estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-elo-perdido-entre-supernovas-estrelas-neutrons&id=010130240115)
 - [Novos LEDs prometem promover ou retardar o sono sob comando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-leds-prometem-promover-ou-retardar-sono-sob-comando&id=020115240115)
 - [Biobateria gera eletricidade usando hemoglobina e oxig�nio do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-gera-eletricidade-usando-hemoglobina-oxigenio-ar&id=010115240115)
 - [Tecnologias de efici�ncia em que todos ganham? Pode ser uma fal�cia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-eficiencia-insumos-nao-tao-eficientes&id=010125240115)
-- [Bact�rias fazem a diferen�a na extra��o das valiosas terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-otimizam-extracao-valiosas-terras-raras&id=010160240112)
 - [Next.JS: aplicações fullstack com super poderes](https://www.alura.com.br/artigos/next-js)
+- [UX Design em T: o que a Ciência de Dados tem a ver com a UX?](https://www.alura.com.br/artigos/o-que-a-ciencias-de-dados-tem-a-ver-com-a-ux)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
