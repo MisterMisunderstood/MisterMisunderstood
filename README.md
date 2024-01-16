@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Vidro de refrigera��o lan�a o calor para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-refrigeracao-calor-espaco&id=010125240116)
 - [Part�culas qu�nticas podem mesmo se separar de suas propriedades?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=contextualidade-quantica&id=010165240116)
 - [Encontrado elo perdido entre supernovas e estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-elo-perdido-entre-supernovas-estrelas-neutrons&id=010130240115)
+- [Typescript: aprimore aplicações com tipagem estática](https://www.alura.com.br/artigos/typescript-aprimore-aplicacoes-tipagem-estatica)
 - [Novos LEDs prometem promover ou retardar o sono sob comando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-leds-prometem-promover-ou-retardar-sono-sob-comando&id=020115240115)
 - [Biobateria gera eletricidade usando hemoglobina e oxig�nio do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-gera-eletricidade-usando-hemoglobina-oxigenio-ar&id=010115240115)
-- [Tecnologias de efici�ncia em que todos ganham? Pode ser uma fal�cia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-eficiencia-insumos-nao-tao-eficientes&id=010125240115)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
