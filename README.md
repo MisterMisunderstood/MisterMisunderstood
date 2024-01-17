@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Implante cerebral superficial l� sinais neurais profundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=implante-cerebral-superficial-le-sinais-neurais-profundos&id=010110240117)
+- [C�lula de combust�vel movida a sujeira funciona para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-combustivel-movida-sujeira-funciona-sempre&id=010115240117)
 - [BigQuery: configurando o ambiente de trabalho](https://www.alura.com.br/artigos/bigquery-configurando-ambiente-de-trabalho)
 - [Li-Fi: L�mpada especial transmite dados 100 vezes mais r�pido que Wi-Fi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=li-fi-lampada-especial-transmite-dados-100-vezes-mais-rapido-wi-fi&id=010150240116)
 - [Vidro de refrigera��o lan�a o calor para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-refrigeracao-calor-espaco&id=010125240116)
 - [Part�culas qu�nticas podem mesmo se separar de suas propriedades?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=contextualidade-quantica&id=010165240116)
 - [Encontrado elo perdido entre supernovas e estrelas de n�utrons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrado-elo-perdido-entre-supernovas-estrelas-neutrons&id=010130240115)
-- [Novos LEDs prometem promover ou retardar o sono sob comando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-leds-prometem-promover-ou-retardar-sono-sob-comando&id=020115240115)
-- [Biobateria gera eletricidade usando hemoglobina e oxig�nio do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-gera-eletricidade-usando-hemoglobina-oxigenio-ar&id=010115240115)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
