@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensor de luz ambiente dos celulares pode espionar voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-ambiente-celulares-espionar-voce&id=010150240118)
 - [Serializer: o que é e como funciona no Django Rest Framework](https://www.alura.com.br/artigos/serializer-como-funciona-django-rest-framework)
+- [Sensor de luz ambiente dos celulares pode espionar voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-ambiente-celulares-espionar-voce&id=010150240118)
 - [Buraco negro mais velho j� observado desafia teoria do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-velho-ja-observado-desafia-teoria-big-bang&id=020130240118)
 - [Foguete autoconsum�vel queima a si pr�prio como combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=foguete-autoconsumivel&id=010130240118)
 - [M�sculo artificial macio produz for�a 34 vezes maior que seu peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-macio-produz-forca-34-vezes-maior-seu-peso&id=010180240118)
