@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Buraco negro mais velho j� observado desafia teoria do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-velho-ja-observado-desafia-teoria-big-bang&id=020130240118)
+- [Foguete autoconsum�vel queima a si pr�prio como combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=foguete-autoconsumivel&id=010130240118)
 - [M�sculo artificial macio produz for�a 34 vezes maior que seu peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-macio-produz-forca-34-vezes-maior-seu-peso&id=010180240118)
 - [Bateria nuclear poder� alimentar celular por 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-nuclear-podera-alimentar-celular-50-anos&id=020115240117)
 - [Implante cerebral superficial l� sinais neurais profundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=implante-cerebral-superficial-le-sinais-neurais-profundos&id=010110240117)
 - [C�lula de combust�vel movida a sujeira funciona para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-combustivel-movida-sujeira-funciona-sempre&id=010115240117)
 - [BigQuery: configurando o ambiente de trabalho](https://www.alura.com.br/artigos/bigquery-configurando-ambiente-de-trabalho)
-- [Li-Fi: L�mpada especial transmite dados 100 vezes mais r�pido que Wi-Fi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=li-fi-lampada-especial-transmite-dados-100-vezes-mais-rapido-wi-fi&id=010150240116)
-- [Vidro de refrigera��o lan�a o calor para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-refrigeracao-calor-espaco&id=010125240116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
