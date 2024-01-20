@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Materiais metam�rficos mudam de forma moldados por laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-metamorficos-mudam-forma-moldados-laser&id=010170240119)
 - [Sensor de luz ambiente dos celulares pode espionar voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-ambiente-celulares-espionar-voce&id=010150240118)
 - [Buraco negro mais velho j� observado desafia teoria do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-velho-ja-observado-desafia-teoria-big-bang&id=020130240118)
-- [Foguete autoconsum�vel queima a si pr�prio como combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=foguete-autoconsumivel&id=010130240118)
+- [Serializer: o que é e como funciona no Django Rest Framework](https://www.alura.com.br/artigos/serializer-como-funciona-django-rest-framework)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
