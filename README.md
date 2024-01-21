@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Elo perdido entre estrelas de n�utrons e buracos negros pode ter sido descoberto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-neutrons-mais-pesada-ou-buraco-negro-mais-leve-se-conhece&id=010130240119)
 - [7 ferramentas para Mapa de Calor](https://www.alura.com.br/artigos/7-ferramentas-mapa-de-calor)
+- [Elo perdido entre estrelas de n�utrons e buracos negros pode ter sido descoberto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-neutrons-mais-pesada-ou-buraco-negro-mais-leve-se-conhece&id=010130240119)
 - [Espuma de nanotubos para capacetes � 30 vezes melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-nanotubos-capacetes-30-vezes-melhor&id=010160240119)
 - [Materiais metam�rficos mudam de forma moldados por laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-metamorficos-mudam-forma-moldados-laser&id=010170240119)
 - [Sensor de luz ambiente dos celulares pode espionar voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-ambiente-celulares-espionar-voce&id=010150240118)
