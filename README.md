@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA abre c�psula com amostras trazidas de asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-abre-capsula-amostras-trazidas-asteroide-bennu&id=010175240122)
 - [Ferramentas online para trabalhar com SQL](https://www.alura.com.br/artigos/ferramentas-online-trabalhar-sql)
+- [NASA abre c�psula com amostras trazidas de asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-abre-capsula-amostras-trazidas-asteroide-bennu&id=010175240122)
 - [Bateria nuclear brasileira poder� durar 200 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-nuclear-brasileira&id=010115240122)
 - [Criado um computador termodin�mico, que usa ru�do aleat�rio para calcular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-termodinamico&id=010150240122)
 - [Metassuperf�cies girat�rias criam c�mera t�rmica compacta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficies-giratorias-camera-termica-compacta&id=010110240122)
