@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado um computador termodin�mico, que usa ru�do aleat�rio para calcular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-termodinamico&id=010150240122)
+- [Metassuperf�cies girat�rias criam c�mera t�rmica compacta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficies-giratorias-camera-termica-compacta&id=010110240122)
+- [Magnetismo pode ser controlado ativamente por press�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetismo-controlado-ativamente-pressao&id=010160240122)
 - [Elo perdido entre estrelas de n�utrons e buracos negros pode ter sido descoberto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-neutrons-mais-pesada-ou-buraco-negro-mais-leve-se-conhece&id=010130240119)
 - [7 ferramentas para Mapa de Calor](https://www.alura.com.br/artigos/7-ferramentas-mapa-de-calor)
 - [Espuma de nanotubos para capacetes � 30 vezes melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-nanotubos-capacetes-30-vezes-melhor&id=010160240119)
 - [Materiais metam�rficos mudam de forma moldados por laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-metamorficos-mudam-forma-moldados-laser&id=010170240119)
-- [Sensor de luz ambiente dos celulares pode espionar voc�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-ambiente-celulares-espionar-voce&id=010150240118)
-- [Buraco negro mais velho j� observado desafia teoria do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-mais-velho-ja-observado-desafia-teoria-big-bang&id=020130240118)
-- [Serializer: o que é e como funciona no Django Rest Framework](https://www.alura.com.br/artigos/serializer-como-funciona-django-rest-framework)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
