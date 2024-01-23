@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberta incerteza negligenciada nos experimentos do mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-negligenciada-pelos-fisicos-explicar-variacoes-experimentos&id=010170240123)
 - [Trans�stor de luz garante diferentes velocidades para c�lculo e mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz-garante-multiplas-velocidades-computacao-transmissao-dados&id=010110240123)
 - [Metais l�quidos controlados a laser revolucionam rob�tica macia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-liquidos-controlados-laser-revolucionam-robotica-macia&id=010180240123)
-- [NASA abre c�psula com amostras trazidas de asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-abre-capsula-amostras-trazidas-asteroide-bennu&id=010175240122)
 - [Ferramentas online para trabalhar com SQL](https://www.alura.com.br/artigos/ferramentas-online-trabalhar-sql)
+- [NASA abre c�psula com amostras trazidas de asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-abre-capsula-amostras-trazidas-asteroide-bennu&id=010175240122)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
