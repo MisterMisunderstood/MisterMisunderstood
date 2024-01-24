@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Pele eletr�nica monitora nove biomarcadores de estresse](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-monitora-nove-biomarcadores-estresse&id=010110240124)
+- [Rob� inspirado em �gua-viva move-se com a maior efici�ncia da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-inspirado-agua-viva-move-se-maior-eficiencia-natureza&id=010180240124)
 - [Plantas artificiais transformam vento e chuva em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plantas-artificiais-transformam-vento-chuva-eletricidade&id=010115240123)
 - [Trabalhando com funções de agregação](https://www.alura.com.br/artigos/trabalhando-funcoes-agregacao)
 - [Descoberta incerteza negligenciada nos experimentos do mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-negligenciada-pelos-fisicos-explicar-variacoes-experimentos&id=010170240123)
 - [Trans�stor de luz garante diferentes velocidades para c�lculo e mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz-garante-multiplas-velocidades-computacao-transmissao-dados&id=010110240123)
 - [Metais l�quidos controlados a laser revolucionam rob�tica macia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-liquidos-controlados-laser-revolucionam-robotica-macia&id=010180240123)
-- [NASA abre c�psula com amostras trazidas de asteroide](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-abre-capsula-amostras-trazidas-asteroide-bennu&id=010175240122)
-- [Bateria nuclear brasileira poder� durar 200 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-nuclear-brasileira&id=010115240122)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
