@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [4 passos estratégicos para uma transição de carreira bem-sucedida](https://www.alura.com.br/artigos/transicao-de-carreira)
 - [Pele eletr�nica monitora nove biomarcadores de estresse](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-monitora-nove-biomarcadores-estresse&id=010110240124)
 - [Rob� inspirado em �gua-viva move-se com a maior efici�ncia da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-inspirado-agua-viva-move-se-maior-eficiencia-natureza&id=010180240124)
-- [Trabalhando com funções de agregação](https://www.alura.com.br/artigos/trabalhando-funcoes-agregacao)
+- [4 passos estratégicos para uma transição de carreira bem-sucedida](https://www.alura.com.br/artigos/transicao-de-carreira)
 - [Plantas artificiais transformam vento e chuva em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plantas-artificiais-transformam-vento-chuva-eletricidade&id=010115240123)
 - [Descoberta incerteza negligenciada nos experimentos do mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-negligenciada-pelos-fisicos-explicar-variacoes-experimentos&id=010170240123)
+- [Trabalhando com funções de agregação](https://www.alura.com.br/artigos/trabalhando-funcoes-agregacao)
 - [Trans�stor de luz garante diferentes velocidades para c�lculo e mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz-garante-multiplas-velocidades-computacao-transmissao-dados&id=010110240123)
 <!-- BLOG-POST-LIST:END -->
 
