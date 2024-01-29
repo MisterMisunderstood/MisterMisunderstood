@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o com luz � feita dentro de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-com-luz-dentro-fibra-optica&id=010150240129)
+- [Qubits de estado s�lido funcionam melhor na sujeira que na limpeza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-estado-solido-funcionam-melhor-sujeira-limpeza&id=010110240129)
+- [Aerogel pode ser a chave para futuras tecnologias terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aerogel-chave-futuras-tecnologias-terahertz&id=010160240129)
 - [Antena port�til multifun��o restaura comunica��es ap�s desastres](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-antena-portatil-restaura-rapidamente-comunicacoes-apos-desastres&id=010110240126)
 - [A Lua est� encolhendo, causando deslizamentos onde a NASA pretende pousar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-lua-esta-encolhendo-causando-deslizamentos-onde-nasa-pretende-pousar&id=010130240126)
 - [NASA encerra miss�o do helic�ptero de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-encerra-missao-helicoptero-marte&id=010130240125)
-- [Candidato a mem�ria universal � r�pido, est�vel e gasta pouca energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=candidato-memoria-universal-rapido-estavel-gasta-pouca-energia&id=010110240125)
-- [Bateria l�quida, do tipo "encha o tanque", alcan�a n�vel de 70kW](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-fluxo-vanadio-alcanca-nivel-70kw&id=010115240125)
 - [Rede de computadores: um guia completo sobre o que são, como funcionam e quais cursos fazer na área](https://www.alura.com.br/artigos/rede-de-computadores)
-- [4 passos estratégicos para uma transição de carreira bem-sucedida](https://www.alura.com.br/artigos/transicao-de-carreira)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
