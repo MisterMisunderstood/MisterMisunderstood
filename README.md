@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vidro transparente � "transmutado" em c�lula solar usando apenas um laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-transparente-transmutado-celula-solar-usando-apenas-laser&id=010115240130)
+- [Uma nova maneira de detectar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-maneiras-detectar-luz-eletronica-organica&id=010110240130)
+- [Tempo material: O tempo pode fluir nos dois sentidos nos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-material-tempo-fluir-dois-sentidos-materiais&id=010160240130)
 - [Descoberto um novo tipo de estrela que solta fuma�a](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-tipo-estrela-solta-fumaca&id=010130240129)
 - [Computa��o com luz � feita dentro de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-com-luz-dentro-fibra-optica&id=010150240129)
 - [Qubits de estado s�lido funcionam melhor na sujeira que na limpeza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-estado-solido-funcionam-melhor-sujeira-limpeza&id=010110240129)
 - [Aerogel pode ser a chave para futuras tecnologias terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aerogel-chave-futuras-tecnologias-terahertz&id=010160240129)
-- [Antena port�til multifun��o restaura comunica��es ap�s desastres](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-antena-portatil-restaura-rapidamente-comunicacoes-apos-desastres&id=010110240126)
-- [A Lua est� encolhendo, causando deslizamentos onde a NASA pretende pousar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-lua-esta-encolhendo-causando-deslizamentos-onde-nasa-pretende-pousar&id=010130240126)
-- [NASA encerra miss�o do helic�ptero de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-encerra-missao-helicoptero-marte&id=010130240125)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
