@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tecido inspirado nos p�los do urso polar aquece mais que qualquer agasalho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inspirado-pelos-urso-polar-aquece-mais-qualquer-agasalho&id=010160240131)
+- [Descri��o in�dita sobre origem do atrito pode dispensar lubrificantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descricao-inedita-sobre-origem-atrito-dispensar-lubrificantes&id=010170240131)
 - [Vidro transparente � "transmutado" em c�lula solar usando apenas um laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-transparente-transmutado-celula-solar-usando-apenas-laser&id=010115240130)
 - [Uma nova maneira de detectar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-maneiras-detectar-luz-eletronica-organica&id=010110240130)
 - [Tempo material: O tempo pode fluir nos dois sentidos nos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-material-tempo-fluir-dois-sentidos-materiais&id=010160240130)
 - [Descoberto um novo tipo de estrela que solta fuma�a](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-tipo-estrela-solta-fumaca&id=010130240129)
 - [Computa��o com luz � feita dentro de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-com-luz-dentro-fibra-optica&id=010150240129)
-- [Qubits de estado s�lido funcionam melhor na sujeira que na limpeza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-estado-solido-funcionam-melhor-sujeira-limpeza&id=010110240129)
-- [Aerogel pode ser a chave para futuras tecnologias terahertz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aerogel-chave-futuras-tecnologias-terahertz&id=010160240129)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
