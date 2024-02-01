@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [M�sculos artificiais - mais leves, mais seguros e mais robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-mais-leves-mais-seguros-mais-robustos&id=010180240201)
+- [Fronteira entre reinos cl�ssico e qu�ntico poder� ser encontrada no escuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-entre-reinos-classico-quantico-podera-encontrada-escuro&id=010130240201)
 - [Equipe da Unicamp vence desafio mundial da Nasa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-unicamp-vence-desafio-mundial-nasa&id=010175240131)
 - [Tecido inspirado nos p�los do urso polar aquece mais que qualquer agasalho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inspirado-pelos-urso-polar-aquece-mais-qualquer-agasalho&id=010160240131)
 - [Descri��o in�dita sobre origem do atrito pode dispensar lubrificantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descricao-inedita-sobre-origem-atrito-dispensar-lubrificantes&id=010170240131)
 - [Vidro transparente � "transmutado" em c�lula solar usando apenas um laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-transparente-transmutado-celula-solar-usando-apenas-laser&id=010115240130)
 - [Uma nova maneira de detectar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-maneiras-detectar-luz-eletronica-organica&id=010110240130)
-- [Tempo material: O tempo pode fluir nos dois sentidos nos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-material-tempo-fluir-dois-sentidos-materiais&id=010160240130)
-- [Descoberto um novo tipo de estrela que solta fuma�a](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-tipo-estrela-solta-fumaca&id=010130240129)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
