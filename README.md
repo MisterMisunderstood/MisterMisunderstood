@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [M�sculos artificiais - mais leves, mais seguros e mais robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-mais-leves-mais-seguros-mais-robustos&id=010180240201)
+- [Fronteira entre reinos cl�ssico e qu�ntico poder� ser encontrada no escuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-entre-reinos-classico-quantico-podera-encontrada-escuro&id=010130240201)
 - [Google BigQuery: integração com ferramentas](https://www.alura.com.br/artigos/google-bigquery-integracao-ferramentas)
 - [Design Thinking: o que é, quais as principais etapas e como aplicar](https://www.alura.com.br/artigos/design-thinking)
 - [O que é um dashboard: tipos, objetivos, benefícios, como criar e ferramentas](https://www.alura.com.br/artigos/dashboard)
-- [M�sculos artificiais - mais leves, mais seguros e mais robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-mais-leves-mais-seguros-mais-robustos&id=010180240201)
-- [Fronteira entre reinos cl�ssico e qu�ntico poder� ser encontrada no escuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-entre-reinos-classico-quantico-podera-encontrada-escuro&id=010130240201)
 - [Equipe da Unicamp vence desafio mundial da Nasa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipe-unicamp-vence-desafio-mundial-nasa&id=010175240131)
 - [Tecido inspirado nos p�los do urso polar aquece mais que qualquer agasalho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inspirado-pelos-urso-polar-aquece-mais-qualquer-agasalho&id=010160240131)
 <!-- BLOG-POST-LIST:END -->
