@@ -15,7 +15,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.inovacaotecnologica.com.br/boletim/rss.xml,https://www.alura.com.br/artigos/rss,https://feeds.feedburner.com/tableless"
+          feed_list: "https://www.inovacaotecnologica.com.br/boletim/rss.xml,https://www.alura.com.br/artigos/rss"
           disable_html_encoding: true
           max_post_count: 7
           
