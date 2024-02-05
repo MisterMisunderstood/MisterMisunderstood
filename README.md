@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Impactos das tecnologias como realidade virtual e aumentada em jogos digitais](https://www.alura.com.br/artigos/impactos-tecnologias-realidade-virtual-aumentada-jogos-digitais)
 - [Conclu�dos t�neis do megaexperimento Dune, que estudar� os neutrinos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concluidos-tuneis-megaexperimento-dune-estudara-neutrinos&id=010175240202)
+- [Impactos das tecnologias como realidade virtual e aumentada em jogos digitais](https://www.alura.com.br/artigos/impactos-tecnologias-realidade-virtual-aumentada-jogos-digitais)
 - [Primeiros ind�cios do fen�meno que pode destruir o Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decaimento-falso-vacuo-primeiros-indicios-fenomeno-destruir-universo&id=010130240202)
 - [Material supers�lido � obtido experimentalmente pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-supersolido-obtido-experimentalmente-pela-primeira-vez&id=010160240202)
+- [M�sculos artificiais - mais leves, mais seguros e mais robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-mais-leves-mais-seguros-mais-robustos&id=010180240201)
+- [Fronteira entre reinos cl�ssico e qu�ntico poder� ser encontrada no escuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-entre-reinos-classico-quantico-podera-encontrada-escuro&id=010130240201)
 - [Design Thinking: o que é, quais as principais etapas e como aplicar](https://www.alura.com.br/artigos/design-thinking)
-- [O que é um dashboard: tipos, objetivos, benefícios, como criar e ferramentas](https://www.alura.com.br/artigos/dashboard)
-- [Google BigQuery: integração com ferramentas](https://www.alura.com.br/artigos/google-bigquery-integracao-ferramentas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
