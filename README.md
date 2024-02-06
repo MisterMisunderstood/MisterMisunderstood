@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Ataque faz radares de carros aut�nomos alucinarem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ataque-faz-radares-carros-autonomos-alucinarem&id=010150240206)
 - [Qubit de luz vem com corre��o de erros integrada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-luz-vem-correcao-erros-integrada&id=010110240206)
 - [Criado um c�mbio para os motores moleculares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-cambio-motores-moleculares&id=010165240206)
+- [Padrões arquiteturais: arquitetura de software descomplicada](https://www.alura.com.br/artigos/padroes-arquiteturais-arquitetura-software-descomplicada)
 - [Criado um cristal do tempo que dura muito tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-cristal-tempo-dura-muito-tempo&id=010130240205)
 - [Vidro ultraporoso filtra di�xido de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-ultraporoso-filtra-dioxido-carbono&id=010125240205)
 - [Estamos a um passo de isolar um quantum de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estamos-passo-isolar-quantum-som&id=010165240205)
-- [Padrões arquiteturais: arquitetura de software descomplicada](https://www.alura.com.br/artigos/padroes-arquiteturais-arquitetura-software-descomplicada)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
