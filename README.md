@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões arquiteturais: arquitetura de software descomplicada](https://www.alura.com.br/artigos/padroes-arquiteturais-arquitetura-software-descomplicada)
 - [Criado um cristal do tempo que dura muito tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-cristal-tempo-dura-muito-tempo&id=010130240205)
 - [Vidro ultraporoso filtra di�xido de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-ultraporoso-filtra-dioxido-carbono&id=010125240205)
 - [Estamos a um passo de isolar um quantum de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estamos-passo-isolar-quantum-som&id=010165240205)
-- [Impactos das tecnologias como realidade virtual e aumentada em jogos digitais](https://www.alura.com.br/artigos/impactos-tecnologias-realidade-virtual-aumentada-jogos-digitais)
+- [Padrões arquiteturais: arquitetura de software descomplicada](https://www.alura.com.br/artigos/padroes-arquiteturais-arquitetura-software-descomplicada)
 - [Conclu�dos t�neis do megaexperimento Dune, que estudar� os neutrinos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concluidos-tuneis-megaexperimento-dune-estudara-neutrinos&id=010175240202)
+- [Impactos das tecnologias como realidade virtual e aumentada em jogos digitais](https://www.alura.com.br/artigos/impactos-tecnologias-realidade-virtual-aumentada-jogos-digitais)
 - [Primeiros ind�cios do fen�meno que pode destruir o Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decaimento-falso-vacuo-primeiros-indicios-fenomeno-destruir-universo&id=010130240202)
 <!-- BLOG-POST-LIST:END -->
 
