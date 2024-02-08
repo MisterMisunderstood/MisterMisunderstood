@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é Engenharia de Prompt e quais as suas principais técnicas? Aprenda a escrever um bom comando para IA](https://www.alura.com.br/artigos/engenharia-prompt)
 - [Lua Mimas de Saturno pode ter um oceano l�quido interno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mimas-saturno-ter-oceano-liquido-interno&id=010130240208)
 - [M�dulos l�gicos pneum�ticos substituem controle eletr�nico de rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-logicos-pneumaticos-substituem-controle-eletronico-robos&id=010180240208)
 - [A Terra nasceu plana? Sem chance](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-terra-nao-nasceu-plana&id=010130240207)
 - [Sensor mec�nico com comando de voz funciona sem bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-mecanico-comando-voz-sem-baterias&id=010170240207)
 - [Ataque faz radares de carros aut�nomos alucinarem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ataque-faz-radares-carros-autonomos-alucinarem&id=010150240206)
 - [Qubit de luz vem com corre��o de erros integrada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-luz-vem-correcao-erros-integrada&id=010110240206)
-- [Criado um c�mbio para os motores moleculares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-cambio-motores-moleculares&id=010165240206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
