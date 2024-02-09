@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Criada uma vela de igni��o para reatores de fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-vela-ignicao-reatores-fusao-nuclear&id=010115240209)
 - [Camuflagem quimera esconde coisas da luz vis�vel, microondas e infravermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-quimera-esconde-coisas-luz-visivel-microondas-infravermelho&id=010160240209)
 - [Lua Mimas de Saturno pode ter um oceano l�quido interno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mimas-saturno-ter-oceano-liquido-interno&id=010130240208)
-- [M�dulos l�gicos pneum�ticos substituem controle eletr�nico de rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-logicos-pneumaticos-substituem-controle-eletronico-robos&id=010180240208)
 - [O que é Engenharia de Prompt e quais as suas principais técnicas? Aprenda a escrever um bom comando para IA](https://www.alura.com.br/artigos/engenharia-prompt)
+- [M�dulos l�gicos pneum�ticos substituem controle eletr�nico de rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-logicos-pneumaticos-substituem-controle-eletronico-robos&id=010180240208)
 - [A Terra nasceu plana? Sem chance](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-terra-nao-nasceu-plana&id=010130240207)
 - [Sensor mec�nico com comando de voz funciona sem bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-mecanico-comando-voz-sem-baterias&id=010170240207)
 <!-- BLOG-POST-LIST:END -->
