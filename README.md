@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lentes de contato em espiral superam lentes multifocais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-contato-multifocal&id=010160240214)
+- [� poss�vel recriar um buraco negro em laborat�rio? A resposta � sim](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-recriar-buraco-negro-laboratorio-resposta-sim&id=010130240214)
 - [Banco de Dados: o que é, principais tipos e um guia para iniciar](https://www.alura.com.br/artigos/banco-de-dados)
-- [O que é Engenharia de Prompt e quais as suas principais técnicas? Aprenda a escrever um bom comando para IA](https://www.alura.com.br/artigos/engenharia-prompt)
-- [Padrões arquiteturais: arquitetura de software descomplicada](https://www.alura.com.br/artigos/padroes-arquiteturais-arquitetura-software-descomplicada)
-- [Impactos das tecnologias como realidade virtual e aumentada em jogos digitais](https://www.alura.com.br/artigos/impactos-tecnologias-realidade-virtual-aumentada-jogos-digitais)
-- [Google BigQuery: integração com ferramentas](https://www.alura.com.br/artigos/google-bigquery-integracao-ferramentas)
-- [O que é um dashboard: tipos, objetivos, benefícios, como criar e ferramentas](https://www.alura.com.br/artigos/dashboard)
-- [Design Thinking: o que é, quais as principais etapas e como aplicar](https://www.alura.com.br/artigos/design-thinking)
+- [Criada uma vela de igni��o para reatores de fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-vela-ignicao-reatores-fusao-nuclear&id=010115240209)
+- [Camuflagem quimera esconde coisas da luz vis�vel, microondas e infravermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-quimera-esconde-coisas-luz-visivel-microondas-infravermelho&id=010160240209)
+- [Lua Mimas de Saturno pode ter um oceano l�quido interno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mimas-saturno-ter-oceano-liquido-interno&id=010130240208)
+- [M�dulos l�gicos pneum�ticos substituem controle eletr�nico de rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-logicos-pneumaticos-substituem-controle-eletronico-robos&id=010180240208)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
