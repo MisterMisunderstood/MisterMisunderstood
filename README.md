@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Altermagnetismo: Confirmada a exist�ncia de um novo tipo de magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=altermagnetismo-confirmada-existencia-novo-tipo-magnetismo&id=010115240215)
 - [Nova t�cnica de resfriamento dos qubits simplifica muito os computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-resfriamento-ions-simplifica-muito-computadores-quanticos&id=010110240215)
 - [Lentes de contato com espirais superam lentes multifocais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-contato-multifocal&id=010160240214)
 - [� poss�vel recriar um buraco negro em laborat�rio? A resposta � sim](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-recriar-buraco-negro-laboratorio-resposta-sim&id=010130240214)
 - [Banco de Dados: o que é, principais tipos e um guia para iniciar](https://www.alura.com.br/artigos/banco-de-dados)
 - [Criada uma vela de igni��o para reatores de fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-vela-ignicao-reatores-fusao-nuclear&id=010115240209)
 - [Camuflagem quimera esconde coisas da luz vis�vel, microondas e infravermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-quimera-esconde-coisas-luz-visivel-microondas-infravermelho&id=010160240209)
-- [Lua Mimas de Saturno pode ter um oceano l�quido interno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lua-mimas-saturno-ter-oceano-liquido-interno&id=010130240208)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
