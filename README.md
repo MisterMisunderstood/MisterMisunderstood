@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Sora: você precisa conhecer o gerador de vídeos com IA](https://www.alura.com.br/artigos/gerador-de-videos-com-ia-sora)
-- [Game Design: o que é, o que faz e como se tornar game designer](https://www.alura.com.br/artigos/game-design)
 - [Eletr�nica macia d� poderes de Jedi �s suas m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-ultrafina-flexivel-esta-pronta-sair-laboratorios&id=010110240216)
 - [Recorde de computador qu�ntico com 1.000 qubits pode mudar de m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-computador-quantico-1-000-qubits-mudar-maos&id=010150240216)
+- [Sora: você precisa conhecer o gerador de vídeos com IA](https://www.alura.com.br/artigos/gerador-de-videos-com-ia-sora)
+- [Game Design: o que é, o que faz e como se tornar game designer](https://www.alura.com.br/artigos/game-design)
 - [Altermagnetismo: Confirmada a exist�ncia de um novo tipo de magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=altermagnetismo-confirmada-existencia-novo-tipo-magnetismo&id=010115240215)
 - [Nova t�cnica de resfriamento dos qubits simplifica muito os computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-resfriamento-ions-simplifica-muito-computadores-quanticos&id=010110240215)
 - [Lentes de contato com espirais superam lentes multifocais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-contato-multifocal&id=010160240214)
