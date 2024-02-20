@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Baterias de l�tio ganham extintor de inc�ndio embutido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-litio-ganham-extintor-incendio-embutido&id=010115240220)
+- [IA na velocidade da luz feita com processador fot�nico de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-velocidade-luz-processador-fotonico-silicio&id=010150240220)
+- [Ouro monocristalino aproxima componentes eletr�nicos do limite de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-monocristalino-aproxima-componentes-eletronicos-limite-eficiencia&id=010110240220)
+- [Quasar � o objeto mais luminoso j� visto pelo homem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasar-objeto-mais-luminoso-ja-visto-pelo-homem&id=010130240219)
 - [A�o verde pode limpar pegada suja do alum�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aco-verde-limpar-pegada-suja-aluminio&id=010170240219)
 - [Fen�menos qu�nticos macrosc�picos s�o controlados a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomenos-quanticos-macroscopicos-controlados-temperatura-ambiente&id=010165240219)
 - [Previs�o do tempo tem limites intr�nsecos. Mas ainda n�o os atingimos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limites-previsao-tempo-ate-onde-prever-futuro&id=010125240219)
-- [Sora: você precisa conhecer o gerador de vídeos com IA](https://www.alura.com.br/artigos/gerador-de-videos-com-ia-sora)
-- [Game Design: o que é, o que faz e como se tornar game designer](https://www.alura.com.br/artigos/game-design)
-- [Eletr�nica macia d� poderes de Jedi �s suas m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-ultrafina-flexivel-esta-pronta-sair-laboratorios&id=010110240216)
-- [Recorde de computador qu�ntico com 1.000 qubits pode mudar de m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-computador-quantico-1-000-qubits-mudar-maos&id=010150240216)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
