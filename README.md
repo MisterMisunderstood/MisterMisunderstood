@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Gamificação: o que é e seus benefícios](https://www.alura.com.br/artigos/gamificacao-seus-beneficios)
+- [Revolucion�rias c�lulas solares de pontos qu�nticos batem recorde de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-pontos-quanticos-recorde-eficiencia&id=010115240221)
 - [Vidro unidirecional verdadeiro � criado com metamaterial �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-unidirecional-verdadeiro-metamaterial-optico&id=010160240221)
 - [Gravastars podem ser uma estrela dentro da outra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravastars-estrela-dentro-outra&id=010130240221)
 - [Aprenda como aplicar técnicas de otimização nos problemas do dia a dia](https://www.alura.com.br/artigos/aprenda-tecnicas-otimizacao-problemas-dia-a-dia)
 - [Astr�nomos descobrem a menor estrela j� observada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-estrela-ja-observada&id=010130240220)
 - [Baterias de l�tio ganham extintor de inc�ndio embutido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-litio-ganham-extintor-incendio-embutido&id=010115240220)
-- [IA na velocidade da luz feita com processador fot�nico de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-velocidade-luz-processador-fotonico-silicio&id=010150240220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
