@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vidro unidirecional verdadeiro � criado com metamaterial �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-unidirecional-verdadeiro-metamaterial-optico&id=010160240221)
+- [Gravastars podem ser uma estrela dentro da outra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravastars-estrela-dentro-outra&id=010130240221)
 - [Astr�nomos descobrem a menor estrela j� observada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-estrela-ja-observada&id=010130240220)
 - [Aprenda como aplicar técnicas de otimização nos problemas do dia a dia](https://www.alura.com.br/artigos/aprenda-tecnicas-otimizacao-problemas-dia-a-dia)
 - [Baterias de l�tio ganham extintor de inc�ndio embutido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-litio-ganham-extintor-incendio-embutido&id=010115240220)
 - [IA na velocidade da luz feita com processador fot�nico de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-velocidade-luz-processador-fotonico-silicio&id=010150240220)
 - [Ouro monocristalino aproxima componentes eletr�nicos do limite de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-monocristalino-aproxima-componentes-eletronicos-limite-eficiencia&id=010110240220)
-- [Este quasar � o objeto mais luminoso j� visto pelo homem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasar-objeto-mais-luminoso-ja-visto-pelo-homem&id=010130240219)
-- [A�o verde pode limpar pegada suja do alum�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aco-verde-limpar-pegada-suja-aluminio&id=010170240219)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
