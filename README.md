@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [El�tron se divide e torna-se fra��o de si mesmo no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletron-se-divide-torna-se-fracao-si-mesmo-grafeno&id=010115240222)
+- [Buraco negro do centro da Via L�ctea tem formato ovalado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-centro-via-lactea-tem-formato-ovalado&id=020130240222)
+- [Cintur�o de Kuiper pode ser maior do que se calculava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-new-horizons-mostra-cinturao-kuiper-muito-maior&id=010130240222)
 - [Revolucion�rias c�lulas solares de pontos qu�nticos batem recorde de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-pontos-quanticos-recorde-eficiencia&id=010115240221)
-- [Vidro unidirecional verdadeiro � criado com metamaterial �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-unidirecional-verdadeiro-metamaterial-optico&id=010160240221)
 - [Gamificação: o que é e seus benefícios](https://www.alura.com.br/artigos/gamificacao-seus-beneficios)
+- [Vidro unidirecional verdadeiro � criado com metamaterial �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-unidirecional-verdadeiro-metamaterial-optico&id=010160240221)
 - [Gravastars podem ser uma estrela dentro da outra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravastars-estrela-dentro-outra&id=010130240221)
-- [Astr�nomos descobrem a menor estrela j� observada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-estrela-ja-observada&id=010130240220)
-- [Aprenda como aplicar técnicas de otimização nos problemas do dia a dia](https://www.alura.com.br/artigos/aprenda-tecnicas-otimizacao-problemas-dia-a-dia)
-- [Baterias de l�tio ganham extintor de inc�ndio embutido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-litio-ganham-extintor-incendio-embutido&id=010115240220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
