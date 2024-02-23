@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Baterias de �gua prometem eliminar riscos de inc�ndio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-agua-prometem-eliminar-riscos-incendio&id=010115240223)
+- [Revolu��o no armazenamento de dados: 10.000 Blu-rays em um disco](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-armazenamento-optico-dados-10-000-blu-rays-disco&id=010150240223)
 - [El�tron se divide e torna-se fra��o de si mesmo no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletron-se-divide-torna-se-fracao-si-mesmo-grafeno&id=010115240222)
 - [Buraco negro do centro da Via L�ctea tem formato ovalado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-centro-via-lactea-tem-formato-ovalado&id=020130240222)
 - [Cintur�o de Kuiper pode ser maior do que se calculava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-new-horizons-mostra-cinturao-kuiper-muito-maior&id=010130240222)
 - [Next: Server Actions aprendendo na prática](https://www.alura.com.br/artigos/next-server-actions-aprendendo-pratica)
 - [Revolucion�rias c�lulas solares de pontos qu�nticos batem recorde de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-pontos-quanticos-recorde-eficiencia&id=010115240221)
-- [Vidro unidirecional verdadeiro � criado com metamaterial �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-unidirecional-verdadeiro-metamaterial-optico&id=010160240221)
-- [Gravastars podem ser uma estrela dentro da outra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravastars-estrela-dentro-outra&id=010130240221)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
