@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Nanosc�pio, reator sustent�vel e tecnologia social ganham Pr�mio P�ter Mur�nyi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoscopio-reator-sustentavel-tecnologia-social-ganham-premio-peter-muranyi&id=010175240223)
-- [Descobertos novos ind�cios do Planeta Nove, nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-indicios-planeta-nove-confins-sistema-solar&id=010130240223)
 - [O que são acessibilidade e tecnologias assistivas](https://www.alura.com.br/artigos/acessibilidade-tecnologias-assistivas)
+- [Descobertos novos ind�cios do Planeta Nove, nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-indicios-planeta-nove-confins-sistema-solar&id=010130240223)
 - [Baterias de �gua prometem eliminar riscos de inc�ndio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-agua-prometem-eliminar-riscos-incendio&id=010115240223)
 - [Revolu��o no armazenamento de dados: 10.000 Blu-rays em um disco](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-armazenamento-optico-dados-10-000-blu-rays-disco&id=010150240223)
 - [Next: Server Actions aprendendo na prática](https://www.alura.com.br/artigos/next-server-actions-aprendendo-pratica)
