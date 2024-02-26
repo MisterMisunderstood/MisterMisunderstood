@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Canva e ChatGPT: mais produtividade no design](https://www.alura.com.br/artigos/canva-chatgpt-produtividade-design)
+- [Encontrada estrela de n�utrons formada pela supernova 1987A](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrada-estrela-neutrons-formada-pela-supernova-1987a&id=010130240226)
 - [Repetidor a temperatura ambiente d� passo crucial para internet qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=repetidor-temperatura-ambiente-mostra-passo-crucial-internet-quantica&id=010150240226)
 - [Descoberto novo estado da mat�ria com propriedades quirais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-estado-materia-propriedades-quirais&id=010110240226)
 - [Turbinas sem h�lices prometem revolucionar energia e�lica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-sem-helices&id=010115240226)
-- [Nanosc�pio, reator sustent�vel e tecnologia social ganham Pr�mio P�ter Mur�nyi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoscopio-reator-sustentavel-tecnologia-social-ganham-premio-peter-muranyi&id=010175240223)
-- [Descobertos novos ind�cios do Planeta Nove, nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-indicios-planeta-nove-confins-sistema-solar&id=010130240223)
 - [O que são acessibilidade e tecnologias assistivas](https://www.alura.com.br/artigos/acessibilidade-tecnologias-assistivas)
+- [Nanosc�pio, reator sustent�vel e tecnologia social ganham Pr�mio P�ter Mur�nyi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoscopio-reator-sustentavel-tecnologia-social-ganham-premio-peter-muranyi&id=010175240223)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
