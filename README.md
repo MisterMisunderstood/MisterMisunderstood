@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Repetidor a temperatura ambiente d� passo crucial para internet qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=repetidor-temperatura-ambiente-mostra-passo-crucial-internet-quantica&id=010150240226)
+- [Descoberto novo estado da mat�ria com propriedades quirais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-estado-materia-propriedades-quirais&id=010110240226)
+- [Turbinas sem h�lices prometem revolucionar energia e�lica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-sem-helices&id=010115240226)
 - [Nanosc�pio, reator sustent�vel e tecnologia social ganham Pr�mio P�ter Mur�nyi](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoscopio-reator-sustentavel-tecnologia-social-ganham-premio-peter-muranyi&id=010175240223)
 - [Descobertos novos ind�cios do Planeta Nove, nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-indicios-planeta-nove-confins-sistema-solar&id=010130240223)
 - [O que são acessibilidade e tecnologias assistivas](https://www.alura.com.br/artigos/acessibilidade-tecnologias-assistivas)
 - [Baterias de �gua prometem eliminar riscos de inc�ndio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-agua-prometem-eliminar-riscos-incendio&id=010115240223)
-- [Revolu��o no armazenamento de dados: 10.000 Blu-rays em um disco](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-armazenamento-optico-dados-10-000-blu-rays-disco&id=010150240223)
-- [El�tron se divide e torna-se fra��o de si mesmo no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletron-se-divide-torna-se-fracao-si-mesmo-grafeno&id=010115240222)
-- [Buraco negro do centro da Via L�ctea tem formato ovalado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-centro-via-lactea-tem-formato-ovalado&id=020130240222)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
