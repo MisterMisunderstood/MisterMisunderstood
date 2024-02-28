@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Borra de caf� gera excelentes eletrodos para baterias de �ons de s�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borra-cafe-gera-excelentes-eletrodos-baterias-ions-sodio&id=030115240227)
 - [Defeitos aumentam efici�ncia das c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=defeitos-aumentam-eficiencia-celulas-solares&id=020115240227)
 - [Brasileiros aumentam efici�ncia e a durabilidade de c�lulas solares promissoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-aumentam-eficiencia-durabilidade-celulas-solares-promissoras&id=010115240227)
-- [Encontrada estrela de n�utrons formada pela supernova 1987A](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrada-estrela-neutrons-formada-pela-supernova-1987a&id=010130240226)
 - [Data Warehouse: o que é, para quê serve e como funciona](https://www.alura.com.br/artigos/data-warehouse)
+- [Canva e ChatGPT: mais produtividade no design](https://www.alura.com.br/artigos/canva-chatgpt-produtividade-design)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
