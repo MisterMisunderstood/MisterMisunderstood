@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [API: o que é, para quê serve e qual é a sua importância](https://www.alura.com.br/artigos/api)
 - [A atuação da Alura na transformação educacional: parcerias sociais impulsionam o desenvolvimento](https://www.alura.com.br/artigos/parcerias-sociais)
 - [Transistores mix-dimensionais saltam da l�gica bin�ria para a l�gica multivalorada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-mix-dimensionais-logica-multivalorada&id=010110240301)
 - [� poss�vel criar uma tecnologia biol�gica, totalmente sustent�vel?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-criar-tecnologia-biologica-totalmente-sustentavel&id=010180240301)
 - [�gua pode ser elemento importante na forma��o dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-elemento-importante-formacao-planetas&id=010130240229)
 - [Primeiro processador de luz program�vel impulsionar� computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-processador-luz-programavel-impulsionara-computacao-quantica&id=010150240229)
 - [Tit�nio impresso em 3D supera em 50% as melhores ligas aeroespaciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=titanio-impresso-3d-supera-50-melhores-ligas-aeroespaciais&id=010170240229)
-- [Telas dos celulares est�o prestes a se tornarem alto-falantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telas-celulares-estao-prestes-se-tornarem-alto-falantes&id=010150240228)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
