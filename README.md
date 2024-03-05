@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviravolta: Part�culas de mesma carga atraem-se � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-so-opostos-se-atraem-particulas-mesma-carga-atraem-se-distancia&id=020115240305)
+- [Maser, o pai do laser, agora port�til e a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maser-pai-laser-agora-portatil-temperatura-ambiente&id=010115240305)
+- [Nanopart�culas levitadas dan�am para testar os limites da teoria qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoparticulas-levitadas-dancam-testar-limites-teoria-quantica&id=010165240305)
 - [Olhos de insetos ajust�veis e dur�veis feitos com lentes microsc�picas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olhos-insetos-ajustaveis-duraveis&id=010180240304)
 - [Componentes �pticos macios fazem computa��o com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-opticos-macios-computacao-feita-luz&id=010160240304)
 - [Novo projeto leva simuladores qu�nticos a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-projeto-leva-simuladores-quanticos-novo-patamar&id=010150240304)
 - [API: o que é, para quê serve e qual é a sua importância](https://www.alura.com.br/artigos/api)
-- [A atuação da Alura na transformação educacional: parcerias sociais impulsionam o desenvolvimento](https://www.alura.com.br/artigos/parcerias-sociais)
-- [Transistores mix-dimensionais saltam da l�gica bin�ria para a l�gica multivalorada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-mix-dimensionais-logica-multivalorada&id=010110240301)
-- [� poss�vel criar uma tecnologia biol�gica, totalmente sustent�vel?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-criar-tecnologia-biologica-totalmente-sustentavel&id=010180240301)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
