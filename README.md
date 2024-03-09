@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [O guia completo de como usar o Midjourney](https://www.alura.com.br/artigos/midjourney)
 - [Baterias qu�nticas ganham esquema ainda mais eficiente de carregamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-quanticas-poderao-carregadas-usando-guias-onda&id=010115240308)
 - [O que � Energia Escura? N�o sabemos mas estamos tentando descobrir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-energia-escura&id=010130240308)
+- [Como usar bibliotecas de terceiros com TypeScript?](https://www.alura.com.br/artigos/usar-bibliotecas-de-terceiros-typescript)
 - [Material poroso armazena hidrog�nio em alta densidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-nanoporoso-armazena-hidrogenio-alta-densidade&id=010115240307)
-- [Processadores tridimensionais revolucionar�o comunica��o sem fios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-tridimensionais-revolucionarao-comunicacao-sem-fios&id=010110240307)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
