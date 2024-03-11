@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Balan�a que pesa o v�cuo poder� elucidar mist�rio da energia escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balanca-pesa-vacuo-podera-elucidar-misterio-energia-escura&id=010130240311)
+- [Rede de comunica��o por luz interliga espa�o, ar e mar com conectividade perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-comunicacao-luz-interliga-espaco-ar-mar-conectividade-perfeita&id=010150240311)
+- [�ons t�m mem�ria, lembrando de onde estavam dentro de uma bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ions-tem-memoria-lembrando-onde-estavam-dentro-bateria&id=010165240311)
 - [Como otimizar processos de gestão com o ChatGPT?](https://www.alura.com.br/artigos/otimizar-processos-gestao-chatgpt)
 - [Você sabia que o primeiro código do mundo foi escrito por uma mulher?](https://www.alura.com.br/artigos/dia-das-mulheres)
 - [O guia completo de como usar o Midjourney](https://www.alura.com.br/artigos/midjourney)
 - [Baterias qu�nticas ganham esquema ainda mais eficiente de carregamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-quanticas-poderao-carregadas-usando-guias-onda&id=010115240308)
-- [O que � Energia Escura? N�o sabemos mas estamos tentando descobrir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-energia-escura&id=010130240308)
-- [Material poroso armazena hidrog�nio em alta densidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-nanoporoso-armazena-hidrogenio-alta-densidade&id=010115240307)
-- [Processadores tridimensionais revolucionar�o comunica��o sem fios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-tridimensionais-revolucionarao-comunicacao-sem-fios&id=010110240307)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
