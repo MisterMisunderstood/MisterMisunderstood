@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Hidrovoltaica produz energia da evapora��o da �gua doce ou do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hidrovoltaico-energia-evaporacao-agua-doce-ou-mar&id=020115240312)
 - [Condutor s�lido de �ons de l�tio far� baterias mais seguras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-condutor-solido-ions-litio-baterias-mais-seguras&id=010115240312)
 - [Telesc�pio Webb n�o consegue resolver enigma da expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-webb-nao-consegue-resolver-enigma-expansao-universo&id=020130240311)
+- [Portfólio em dados: como reunir seus projetos de Data Science](https://www.alura.com.br/artigos/portfolio-em-dados)
 - [Balan�a que pesa o v�cuo poder� elucidar mist�rio da energia escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balanca-pesa-vacuo-podera-elucidar-misterio-energia-escura&id=010130240311)
 - [Rede de comunica��o por luz interliga espa�o, ar e mar com conectividade perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-comunicacao-luz-interliga-espaco-ar-mar-conectividade-perfeita&id=010150240311)
-- [�ons t�m mem�ria, lembrando de onde estavam dentro de uma bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ions-tem-memoria-lembrando-onde-estavam-dentro-bateria&id=010165240311)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
