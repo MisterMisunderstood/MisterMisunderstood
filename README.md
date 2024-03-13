@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Por que o Excel é relevante para os profissionais de Finanças?](https://www.alura.com.br/artigos/excel-para-financas)
 - [Ouro do lixo eletr�nico � recuperado com esponja derivada do leite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-lixo-eletronico-recuperado-esponja-derivada-leite&id=010125240312)
 - [Hidrovoltaica produz energia da evapora��o da �gua doce ou do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hidrovoltaico-energia-evaporacao-agua-doce-ou-mar&id=020115240312)
 - [Condutor s�lido de �ons de l�tio far� baterias mais seguras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-condutor-solido-ions-litio-baterias-mais-seguras&id=010115240312)
-- [Por que o Excel é relevante para os profissionais de Finanças?](https://www.alura.com.br/artigos/excel-para-financas)
 - [Telesc�pio Webb n�o consegue resolver enigma da expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-webb-nao-consegue-resolver-enigma-expansao-universo&id=020130240311)
 - [Balan�a que pesa o v�cuo poder� elucidar mist�rio da energia escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balanca-pesa-vacuo-podera-elucidar-misterio-energia-escura&id=010130240311)
 - [Rede de comunica��o por luz interliga espa�o, ar e mar com conectividade perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-comunicacao-luz-interliga-espaco-ar-mar-conectividade-perfeita&id=010150240311)
