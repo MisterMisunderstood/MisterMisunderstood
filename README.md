@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas de como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados)
 - [Nanotubos enrolados viram semicondutores para eletr�nica do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-enrolados-viram-semicondutores-eletronica-futuro&id=010110240313)
 - [Gravidade de Marte causa "mar�s" no fundo do mar e altera clima da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-marte-causa-mares-fundo-mar-altera-clima-terra&id=010125240313)
-- [Dicas de como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados)
 - [Por que o Excel é relevante para os profissionais de Finanças?](https://www.alura.com.br/artigos/excel-para-financas)
 - [Ouro do lixo eletr�nico � recuperado com esponja derivada do leite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-lixo-eletronico-recuperado-esponja-derivada-leite&id=010125240312)
 - [Hidrovoltaica produz energia da evapora��o da �gua doce ou do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hidrovoltaico-energia-evaporacao-agua-doce-ou-mar&id=020115240312)
