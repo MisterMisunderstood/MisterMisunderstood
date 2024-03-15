@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [R�gua de luz miniaturizada levar� precis�o nas medi��es a qualquer lugar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=regua-luz-miniaturizada&id=010165240315)
+- [Descoberto um Pevatron, o maior acelerador natural de part�culas conhecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-pevatron-maior-acelerador-natural-particulas-conhecido&id=010130240315)
 - [Uma vis�o 3D do caos dentro de um metal derretido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-visao-3d-caos-dentro-metal-derretido&id=010170240314)
 - [Metamaterial Mec�nico Digital controla forma e propriedades em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-mecanico-digital-controla-forma-propriedades-tempo-real&id=010160240314)
+- [Dicas de como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados)
 - [Nanotubos enrolados viram semicondutores para eletr�nica do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-enrolados-viram-semicondutores-eletronica-futuro&id=010110240313)
 - [Gravidade de Marte causa "mar�s" no fundo do mar e altera clima da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-marte-causa-mares-fundo-mar-altera-clima-terra&id=010125240313)
-- [Dicas de como escolher o tipo de visualização de dados para sua análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados)
-- [Por que o Excel é relevante para os profissionais de Finanças?](https://www.alura.com.br/artigos/excel-para-financas)
-- [Ouro do lixo eletr�nico � recuperado com esponja derivada do leite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-lixo-eletronico-recuperado-esponja-derivada-leite&id=010125240312)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
