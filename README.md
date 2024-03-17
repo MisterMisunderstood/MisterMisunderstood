@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é uma cultura Data Driven e qual é a sua importância](https://www.alura.com.br/artigos/data-driven)
 - [R�gua de luz miniaturizada levar� precis�o nas medi��es a qualquer lugar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=regua-luz-miniaturizada&id=010165240315)
 - [Descoberto um Pevatron, o maior acelerador natural de part�culas conhecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-pevatron-maior-acelerador-natural-particulas-conhecido&id=010130240315)
-- [O que é uma cultura Data Driven e qual é a sua importância](https://www.alura.com.br/artigos/data-driven)
 - [Uma vis�o 3D do caos dentro de um metal derretido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-visao-3d-caos-dentro-metal-derretido&id=010170240314)
 - [Metamaterial Mec�nico Digital controla forma e propriedades em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-mecanico-digital-controla-forma-propriedades-tempo-real&id=010160240314)
 - [Nanotubos enrolados viram semicondutores para eletr�nica do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-enrolados-viram-semicondutores-eletronica-futuro&id=010110240313)
