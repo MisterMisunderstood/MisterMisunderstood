@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o anal�gica resolve equa��es complexas, rumo ao mercado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-analogica-equacoes-complexas-rumo-mercado&id=010150240318)
 - [Metamateriais de �ndice zero abrem portas para o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-indice-zero-abrem-portas-futuro&id=010160240318)
 - [M�quina de pist�o permitir� gerar eletricidade a partir de calor residual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maquina-pistao-permitira-gerar-eletricidade-partir-calor-residual&id=010170240318)
 - [O que é uma cultura Data Driven e qual é a sua importância](https://www.alura.com.br/artigos/data-driven)
 - [R�gua de luz miniaturizada levar� precis�o nas medi��es a qualquer lugar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=regua-luz-miniaturizada&id=010165240315)
 - [Descoberto um Pevatron, o maior acelerador natural de part�culas conhecido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-pevatron-maior-acelerador-natural-particulas-conhecido&id=010130240315)
 - [Uma vis�o 3D do caos dentro de um metal derretido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-visao-3d-caos-dentro-metal-derretido&id=010170240314)
-- [Metamaterial Mec�nico Digital controla forma e propriedades em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-mecanico-digital-controla-forma-propriedades-tempo-real&id=010160240314)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
