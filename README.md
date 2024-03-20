@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Mat�ria escura n�o existe e Universo � muito mais antigo, defende astrof�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-escura-nao-existe-universo-mais-antigo&id=010130240319)
 - [Descoberto limite fundamental de absor��o de energia eletromagn�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-limite-fundamental-absorcao-energia-eletromagnetica&id=010115240319)
 - [Computa��o anal�gica resolve equa��es complexas, rumo ao mercado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-analogica-equacoes-complexas-rumo-mercado&id=010150240318)
-- [Metamateriais de �ndice zero abrem portas para o futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-indice-zero-abrem-portas-futuro&id=010160240318)
+- [Guia de animações em CSS: o que são e quais são os principais benefícios](https://www.alura.com.br/artigos/animacoes-em-css)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
