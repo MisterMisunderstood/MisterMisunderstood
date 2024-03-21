@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [O VBA ainda é relevante? Ou está obsoleto?](https://www.alura.com.br/artigos/relevancia-vba)
 - [Objetos de madeira s�o feitos por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-madeira&id=010160240320)
 - [Como colocar nanodiamantes em chips para computa��o qu�ntica e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-colocar-nanodiamantes-chips-computacao-quantica-muito-mais&id=010165240320)
+- [O VBA ainda é relevante? Ou está obsoleto?](https://www.alura.com.br/artigos/relevancia-vba)
 - [Next: um guia de como depurar aplicações web](https://www.alura.com.br/artigos/depurar-aplicacoes-nextjs)
 - [Acessibilidade na web: principais conceitos](https://www.alura.com.br/artigos/acessibilidade-na-web)
 - [Multitarefa real dobra velocidade de processamento sem troca de hardware](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-multitarefa-dobra-velocidade-processamento-computadores-atuais&id=010150240319)
