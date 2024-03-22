@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [TypeScript: o que é, diferenças para o JS e como começar a aprender](https://www.alura.com.br/artigos/o-que-e-typescript)
 - [Hardware l�quido: Computa��o � feita com sinapses i�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hardware-liquido-computacao-feita-sinapses-nanofluidicas-ionicas&id=010110240321)
 - [Cientistas transformam brinquedo em gerador de eletricidade supereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-transformam-brinquedo-gerador-eletricidade-supereficiente&id=010115240321)
-- [Objetos de madeira s�o feitos por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-madeira&id=010160240320)
 - [O VBA ainda é relevante? Ou está obsoleto?](https://www.alura.com.br/artigos/relevancia-vba)
+- [Objetos de madeira s�o feitos por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-madeira&id=010160240320)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
