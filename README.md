@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Hardware l�quido: Computa��o � feita com sinapses i�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hardware-liquido-computacao-feita-sinapses-nanofluidicas-ionicas&id=010110240321)
 - [Cientistas transformam brinquedo em gerador de eletricidade supereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-transformam-brinquedo-gerador-eletricidade-supereficiente&id=010115240321)
 - [Objetos de madeira s�o feitos por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-madeira&id=010160240320)
-- [Como colocar nanodiamantes em chips para computa��o qu�ntica e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-colocar-nanodiamantes-chips-computacao-quantica-muito-mais&id=010165240320)
+- [O VBA ainda é relevante? Ou está obsoleto?](https://www.alura.com.br/artigos/relevancia-vba)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
