@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [WordPress: um guia completo para iniciantes](https://www.alura.com.br/artigos/wordpress)
 - [Voc� n�o precisa de cola para unir materiais - eletricidade basta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletroadesao&id=010170240322)
 - [Lan�ada tecnologia de c�digo aberto para interface com neur�nios vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancada-tecnologia-codigo-aberto-interface-neuronios-vivos&id=010180240322)
+- [TypeScript: o que é, diferenças para o JS e como começar a aprender](https://www.alura.com.br/artigos/o-que-e-typescript)
 - [Hardware l�quido: Computa��o � feita com sinapses i�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hardware-liquido-computacao-feita-sinapses-nanofluidicas-ionicas&id=010110240321)
 - [Cientistas transformam brinquedo em gerador de eletricidade supereficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-transformam-brinquedo-gerador-eletricidade-supereficiente&id=010115240321)
-- [TypeScript: o que é, diferenças para o JS e como começar a aprender](https://www.alura.com.br/artigos/o-que-e-typescript)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
