@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Al�m do mundo 3D: Dimens�es sint�ticas abrem novos caminhos para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alem-mundo-3d-dimensoes-sinteticas-abrem-novos-caminhos-luz&id=010115240325)
 - [Vidro supertransparente � totalmente opaco do outro lado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-supertransparente-totalmente-opaco-outro-lado&id=010160240325)
 - [Sensores do tamanho de gr�os de sal v�o monitorar corpo humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-graos-sal-monitorar-corpo-humano&id=010150240325)
-- [Voc� n�o precisa de cola para unir materiais - eletricidade basta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletroadesao&id=010170240322)
-- [Lan�ada tecnologia de c�digo aberto para interface com neur�nios vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancada-tecnologia-codigo-aberto-interface-neuronios-vivos&id=010180240322)
 - [MongoDB: o que é, quais suas características e benefícios e como trabalhar nessa ferramenta](https://www.alura.com.br/artigos/mongodb)
 - [WordPress: um guia completo para iniciantes](https://www.alura.com.br/artigos/wordpress)
+- [Voc� n�o precisa de cola para unir materiais - eletricidade basta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletroadesao&id=010170240322)
+- [Lan�ada tecnologia de c�digo aberto para interface com neur�nios vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancada-tecnologia-codigo-aberto-interface-neuronios-vivos&id=010180240322)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
