@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como usar o Excel? — um guia completo para iniciantes](https://www.alura.com.br/artigos/excel)
 - [Efeito Borboleta extremo: Basta uma mol�cula para come�ar tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-borboleta-extremo-basta-molecula-comecar-tudo&id=010170240326)
 - [F�brica nanotecnol�gica: Nanofabrica��o agora em linha de produ��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-nanotecnologica-nanofabricacao-agora-linha-producao&id=010165240326)
 - [Trans�stor baseado em rea��o qu�mica opera com apenas 0,5 Volt](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-baseado-reacao-quimica-opera-apenas-0-5-volt&id=010110240326)
 - [Al�m do mundo 3D: Dimens�es sint�ticas abrem novos caminhos para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alem-mundo-3d-dimensoes-sinteticas-abrem-novos-caminhos-luz&id=010115240325)
 - [Vidro supertransparente � totalmente opaco do outro lado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-supertransparente-totalmente-opaco-outro-lado&id=010160240325)
 - [Sensores do tamanho de gr�os de sal v�o monitorar corpo humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-graos-sal-monitorar-corpo-humano&id=010150240325)
-- [MongoDB: o que é, quais suas características e benefícios e como trabalhar nessa ferramenta](https://www.alura.com.br/artigos/mongodb)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
