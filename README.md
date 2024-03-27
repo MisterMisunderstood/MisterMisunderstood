@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [C�mera mais r�pida do mundo captura 156 trilh�es de quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-mais-rapida-mundo-captura-156-trilhoes-quadros-segundo&id=010110240327)
+- [Tornado qu�ntico permite estudar buracos negros em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tornado-quantico-permite-estudar-buracos-negros-laboratorio&id=010130240327)
 - [Lixo eletr�nico aumenta cinco vezes mais r�pido do que a reciclagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixo-eletronico-aumenta-cinco-vezes-mais-rapido-reciclagem&id=010125240326)
 - [HTTP: um guia completo sobre o que é e como funciona o protocolo da web](https://www.alura.com.br/artigos/http)
 - [Como usar o Excel? — um guia completo para iniciantes](https://www.alura.com.br/artigos/excel)
 - [Efeito Borboleta extremo: Basta uma mol�cula para come�ar tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-borboleta-extremo-basta-molecula-comecar-tudo&id=010170240326)
 - [F�brica nanotecnol�gica: Nanofabrica��o agora em linha de produ��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabrica-nanotecnologica-nanofabricacao-agora-linha-producao&id=010165240326)
-- [Trans�stor baseado em rea��o qu�mica promete computador parecido com o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-baseado-reacao-quimica-opera-apenas-0-5-volt&id=010110240326)
-- [Al�m do mundo 3D: Dimens�es sint�ticas abrem novos caminhos para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alem-mundo-3d-dimensoes-sinteticas-abrem-novos-caminhos-luz&id=010115240325)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
