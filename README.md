@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Governança de TI: o que é, seus pilares e como implementar na sua empresa](https://www.alura.com.br/artigos/governanca-de-ti)
 - [Arquitetura Serverless: explorando seu funcionamento, aplicações e vantagens](https://www.alura.com.br/artigos/arquitetura-serverless)
 - [A vida pode ser baseada em uma viola��o da lei f�sica de a��o e rea��o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-violacao-terceira-lei-movimento-newton&id=010170240328)
 - [Capturar energia do Sol e do universo frio juntos � mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturar-energia-sol-universo-frio&id=010115240328)
 - [Imagem mostra campos magn�ticos espiralando no buraco negro central da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-polarizada-revela-campos-magneticos-espiralando-buraco-negro-central-via-lactea&id=020130240327)
 - [Tudo o que você precisa saber sobre a profissão Tech Lead](https://www.alura.com.br/artigos/tech-lead)
 - [Como a WAI-ARIA pode tornar as aplicações acessíveis](https://www.alura.com.br/artigos/acessibilidade)
+- [C�mera mais r�pida do mundo captura 156 trilh�es de quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-mais-rapida-mundo-captura-156-trilhoes-quadros-segundo&id=010110240327)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
