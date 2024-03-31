@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [A vida pode ser baseada em uma viola��o da lei f�sica de a��o e rea��o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-violacao-terceira-lei-movimento-newton&id=010170240328)
 - [Capturar energia do Sol e do universo frio juntos � mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturar-energia-sol-universo-frio&id=010115240328)
 - [Imagem mostra campos magn�ticos espiralando no buraco negro central da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-polarizada-revela-campos-magneticos-espiralando-buraco-negro-central-via-lactea&id=020130240327)
-- [C�mera mais r�pida do mundo captura 156 trilh�es de quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-mais-rapida-mundo-captura-156-trilhoes-quadros-segundo&id=010110240327)
+- [Tudo o que você precisa saber sobre a profissão Tech Lead](https://www.alura.com.br/artigos/tech-lead)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
