@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Quando as coisas derretem? Problema de f�sica com mais de 100 anos � resolvido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transicao-solido-liquido-problema-fisica-mais-100-anos-resolvido&id=010170240402)
 - [Detectado sinal similar ao gr�viton, a t�o procurada part�cula da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-sinal-se-comporta-como-graviton-tao-procurada-particula-gravidade&id=010130240402)
-- [Computadores de recozimento prometem rivalizar com computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-recozimento-prometem-rivalizar-computadores-quanticos&id=010150240401)
-- [Como criar materiais com propriedades impens�veis usando nanopart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-materiais-propriedades-impensaveis-usando-nanoparticulas-impressas-3d&id=010160240401)
 - [20 dicas de design visual para iniciantes](https://www.alura.com.br/artigos/design-visual-para-iniciantes)
 - [O que é e como usar Trigger em SQL](https://www.alura.com.br/artigos/trigger-em-sql)
-- [A vida pode ser baseada em uma viola��o da lei f�sica de a��o e rea��o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-violacao-terceira-lei-movimento-newton&id=010170240328)
+- [Computadores de recozimento prometem rivalizar com computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-recozimento-prometem-rivalizar-computadores-quanticos&id=010150240401)
+- [Como criar materiais com propriedades impens�veis usando nanopart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-materiais-propriedades-impensaveis-usando-nanoparticulas-impressas-3d&id=010160240401)
+- [Criando esquemas de validação com Yup](https://www.alura.com.br/artigos/validacao-yup)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
