@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js: aprimorando performance e escalabilidade com sua API de cache](https://www.alura.com.br/artigos/api-next-js)
 - [BigQuery: como acessar o BigQuery pelo Python](https://www.alura.com.br/artigos/big-query-python)
 - [Quando as coisas derretem? Problema de f�sica com mais de 100 anos � resolvido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transicao-solido-liquido-problema-fisica-mais-100-anos-resolvido&id=010170240402)
 - [Detectado sinal similar ao gr�viton, a t�o procurada part�cula da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-sinal-se-comporta-como-graviton-tao-procurada-particula-gravidade&id=010130240402)
-- [O que é e como usar Trigger em SQL](https://www.alura.com.br/artigos/trigger-em-sql)
 - [20 dicas de design visual para iniciantes](https://www.alura.com.br/artigos/design-visual-para-iniciantes)
+- [O que é e como usar Trigger em SQL](https://www.alura.com.br/artigos/trigger-em-sql)
 - [Computadores de recozimento prometem rivalizar com computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-recozimento-prometem-rivalizar-computadores-quanticos&id=010150240401)
-- [Como criar materiais com propriedades impens�veis usando nanopart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-materiais-propriedades-impensaveis-usando-nanoparticulas-impressas-3d&id=010160240401)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
