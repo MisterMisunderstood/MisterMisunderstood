@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [React: validação de formulários com React Hook Form](https://www.alura.com.br/artigos/react-hook-form)
 - [Microsoft e Quantinuum criam computador qu�ntico mais confi�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-quantinuum-criam-computador-quantico-correcao-erros-usando-qubits-logicos&id=010150240404)
 - [Maior c�mera astron�mica do mundo est� pronta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-astronomica-mundo-esta-pronta&id=010130240404)
-- [Expans�o do Universo � descrita com conceitos da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceitos-termodinamica-descrever-expansao-universo&id=010130240403)
 - [Métricas de performance centradas no usuário](https://www.alura.com.br/artigos/metricas-performance-centradas-no-usuario)
 - [Como usar  APIs para acessar o BigQuery](https://www.alura.com.br/artigos/big-query-api)
+- [Expans�o do Universo � descrita com conceitos da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceitos-termodinamica-descrever-expansao-universo&id=010130240403)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
