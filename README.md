@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberto novo material para c�lula solar de alto desempenho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-material-celula-solar-alto-desempenho&id=010115240403)
 - [Métricas de performance centradas no usuário](https://www.alura.com.br/artigos/metricas-performance-centradas-no-usuario)
 - [Como usar  APIs para acessar o BigQuery](https://www.alura.com.br/artigos/big-query-api)
-- [Quando as coisas derretem? Problema de f�sica com mais de 100 anos � resolvido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transicao-solido-liquido-problema-fisica-mais-100-anos-resolvido&id=010170240402)
-- [Detectado sinal similar ao gr�viton, a t�o procurada part�cula da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-sinal-se-comporta-como-graviton-tao-procurada-particula-gravidade&id=010130240402)
+- [Next.js: aprimorando performance e escalabilidade com sua API de cache](https://www.alura.com.br/artigos/api-next-js)
+- [BigQuery: como acessar o BigQuery pelo Python](https://www.alura.com.br/artigos/big-query-python)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
