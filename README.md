@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Inova��o matem�tica melhora muito detec��o de terremotos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-matematica-melhora-muito-deteccao-atividades-sismicas&id=010125240405)
+- [Monociclo com duas pernas ser� ideal para fazer entregas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monociclo-duas-pernas-sera-ideal-fazer-entregas&id=010180240405)
 - [Microsoft e Quantinuum criam computador qu�ntico mais confi�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-quantinuum-criam-computador-quantico-correcao-erros-usando-qubits-logicos&id=010150240404)
-- [Maior c�mera astron�mica do mundo est� pronta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-astronomica-mundo-esta-pronta&id=010130240404)
 - [Ambientes no R: conheça seus principais ambientes de desenvolvimento](https://www.alura.com.br/artigos/ambientes-em-r)
 - [React: validação de formulários com React Hook Form](https://www.alura.com.br/artigos/react-hook-form)
+- [Maior c�mera astron�mica do mundo est� pronta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-astronomica-mundo-esta-pronta&id=010130240404)
 - [Expans�o do Universo � descrita com conceitos da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conceitos-termodinamica-descrever-expansao-universo&id=010130240403)
-- [Informa��o magn�tica transferida para f�ton viaja na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=informacao-magnetica-transferida-foton-viajar-velocidade-luz&id=010110240403)
-- [Descoberto novo material para c�lula solar de alto desempenho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-material-celula-solar-alto-desempenho&id=010115240403)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
