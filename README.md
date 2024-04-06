@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Inova��o matem�tica melhora muito detec��o de terremotos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-matematica-melhora-muito-deteccao-atividades-sismicas&id=010125240405)
 - [Monociclo com duas pernas ser� ideal para fazer entregas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monociclo-duas-pernas-sera-ideal-fazer-entregas&id=010180240405)
 - [Microsoft e Quantinuum criam computador qu�ntico mais confi�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-quantinuum-criam-computador-quantico-correcao-erros-usando-qubits-logicos&id=010150240404)
-- [Maior c�mera astron�mica do mundo est� pronta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-camera-astronomica-mundo-esta-pronta&id=010130240404)
+- [React: validação de formulários com React Hook Form](https://www.alura.com.br/artigos/react-hook-form)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
