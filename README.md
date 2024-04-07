@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Expans�o do Universo pode estar desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-mapa-3d-mostra-expansao-universo-estar-desacelerando&id=010130240405)
 - [Dicas de como proteger dados em planilhas com Excel e VBA](https://www.alura.com.br/artigos/planilhas-excel-vba)
 - [O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira](https://www.alura.com.br/artigos/o-que-e-data-science)
+- [Expans�o do Universo pode estar desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-mapa-3d-mostra-expansao-universo-estar-desacelerando&id=010130240405)
 - [Inova��o matem�tica melhora muito detec��o de terremotos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-matematica-melhora-muito-deteccao-atividades-sismicas&id=010125240405)
 - [Monociclo com duas pernas ser� ideal para fazer entregas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monociclo-duas-pernas-sera-ideal-fazer-entregas&id=010180240405)
 - [React: validação de formulários com React Hook Form](https://www.alura.com.br/artigos/react-hook-form)
