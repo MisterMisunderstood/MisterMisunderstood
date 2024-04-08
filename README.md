@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Radiotelesc�pio detecta magnetar com comportamento sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetar-adormecido-comeca-emitir-radiofrequencia-polarizacao-circular&id=010175240408)
 - [Fen�meno semelhante a arco-�ris detectado em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gloria-planeta-fenomeno-semelhante-arco-iris-detectado&id=010130240408)
 - [Resolvido antigo mist�rio sobre a forma��o dos cristais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-cristais-se-formam&id=010160240408)
 - [Trans�stor molecular opera tirando proveito da interfer�ncia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-molecular-opera-tirando-proveito-interferencia-quantica&id=010110240408)
 - [Como eliminar a radioatividade dos cabos el�tricos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-eliminar-radioatividade-cabos-eletricos&id=010115240408)
-- [Expans�o do Universo pode estar desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-mapa-3d-mostra-expansao-universo-estar-desacelerando&id=010130240405)
 - [Dicas de como proteger dados em planilhas com Excel e VBA](https://www.alura.com.br/artigos/planilhas-excel-vba)
 - [O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira](https://www.alura.com.br/artigos/o-que-e-data-science)
 <!-- BLOG-POST-LIST:END -->
