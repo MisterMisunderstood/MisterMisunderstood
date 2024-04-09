@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Escrevendo testes automatizados com React e TypeScript](https://www.alura.com.br/artigos/testes-automatizados-react-typescript)
-- [Como proteger suas aplicações Next.js: práticas essenciais de segurança](https://www.alura.com.br/artigos/nextjs-seguranca)
 - [Detectada onda gravitacional que pode ajudar a resolver mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectada-onda-gravitacional-fusao-objetos-lacuna-massa&id=020130240408)
 - [Radiotelesc�pio detecta magnetar com comportamento sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetar-adormecido-comeca-emitir-radiofrequencia-polarizacao-circular&id=010175240408)
 - [Fen�meno semelhante a arco-�ris detectado em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gloria-planeta-fenomeno-semelhante-arco-iris-detectado&id=010130240408)
 - [Resolvido antigo mist�rio sobre a forma��o dos cristais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-cristais-se-formam&id=010160240408)
 - [Trans�stor molecular opera tirando proveito da interfer�ncia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-molecular-opera-tirando-proveito-interferencia-quantica&id=010110240408)
+- [Como eliminar a radioatividade dos cabos el�tricos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-eliminar-radioatividade-cabos-eletricos&id=010115240408)
+- [Escrevendo testes automatizados com React e TypeScript](https://www.alura.com.br/artigos/testes-automatizados-react-typescript)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
