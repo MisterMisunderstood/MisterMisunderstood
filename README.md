@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dados magn�ticos gravados em 3D multiplicam capacidade dos HDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-magneticos-gravados-3d-multiplicam-capacidade-hds&id=010150240409)
 - [Supercondutores s�o controlados por magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutores-controlados-magnetismo&id=020115240409)
 - [Bateria de ferro totalmente l�quida armazena energias renov�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-fluxo-ferro-totalmente-liquida-armazena-energias-renovaveis&id=010115240409)
-- [Como proteger suas aplicações Next.js: práticas essenciais de segurança](https://www.alura.com.br/artigos/nextjs-seguranca)
-- [Escrevendo testes automatizados com React e TypeScript](https://www.alura.com.br/artigos/testes-automatizados-react-typescript)
 - [Detectada onda gravitacional que pode ajudar a resolver mist�rio c�smico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectada-onda-gravitacional-fusao-objetos-lacuna-massa&id=020130240408)
+- [Radiotelesc�pio detecta magnetar com comportamento sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetar-adormecido-comeca-emitir-radiofrequencia-polarizacao-circular&id=010175240408)
+- [Fen�meno semelhante a arco-�ris detectado em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gloria-planeta-fenomeno-semelhante-arco-iris-detectado&id=010130240408)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
