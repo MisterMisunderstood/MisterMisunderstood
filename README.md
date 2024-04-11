@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar e integrar um banco de dados MySQL com o BigQuery na nuvem Google](https://www.alura.com.br/artigos/banco-de-dados-mysql-bigquery)
 - [Levita��o magn�tica poder� viabilizar tecnologias antigravitacionais?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-viabilizar-tecnologias-antigravitacionais&id=010170240410)
 - [Fen�meno qu�ntico pode ser explorado pela eletr�nica convencional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-explorado-pela-eletronica-convencional&id=010110240410)
-- [Como criar e integrar um banco de dados MySQL com o BigQuery na nuvem Google](https://www.alura.com.br/artigos/banco-de-dados-mysql-bigquery)
 - [Easing em animações: entenda os conceitos](https://www.alura.com.br/artigos/easing-em-animacoes)
 - [Dados magn�ticos gravados em 3D multiplicam capacidade dos HDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-magneticos-gravados-3d-multiplicam-capacidade-hds&id=010150240409)
 - [Supercondutores s�o controlados por magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutores-controlados-magnetismo&id=020115240409)
