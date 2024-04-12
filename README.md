@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Choque de estrelas desvenda magnetismo de estrelas massivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=choque-estrelas-explica-magnetismo-estrelas-massivas&id=010130240412)
 - [Sonar cria avatar em tempo real com seu olhar e express�o facial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-oculos-inteligentes-rastreia-olhares-expressoes-faciais&id=010150240412)
 - [Impressora 3D se reconfigura para imprimir com tintas desconhecidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-3d-se-reconfigura-imprimir-tintas-desconhecidas&id=010170240412)
-- [Chipset inovador para internet das coisas � apresentado pela USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-apresenta-chipset-inovador-internet-coisas&id=020110240411)
 - [Ferramentas de IA no Canva, eficiência para não designers](https://www.alura.com.br/artigos/ferramentas-de-ia-no-canva)
+- [Chipset inovador para internet das coisas � apresentado pela USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-apresenta-chipset-inovador-internet-coisas&id=020110240411)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
