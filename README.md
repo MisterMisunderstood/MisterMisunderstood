@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Impressora 3D se reconfigura para imprimir com tintas desconhecidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-3d-se-reconfigura-imprimir-tintas-desconhecidas&id=010170240412)
 - [Chipset inovador para internet das coisas � apresentado pela USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-apresenta-chipset-inovador-internet-coisas&id=020110240411)
 - [Chip brasileiro detecta vitaminas C e D na saliva em minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-bioeletronico-detecta-vitaminas-c-d-saliva-menos-20-minutos&id=010110240411)
-- [Fotografado pela primeira vez bizarro cristal formado apenas por el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-pela-primeira-vez-bizarro-cristal-formado-apenas-eletrons&id=010165240411)
 - [Ferramentas de IA no Canva, eficiência para não designers](https://www.alura.com.br/artigos/ferramentas-de-ia-no-canva)
+- [Fotografado pela primeira vez bizarro cristal formado apenas por el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-pela-primeira-vez-bizarro-cristal-formado-apenas-eletrons&id=010165240411)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
