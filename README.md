@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Ferramentas de IA no Canva, eficiência para não designers](https://www.alura.com.br/artigos/ferramentas-de-ia-no-canva)
 - [Chipset inovador para internet das coisas � apresentado pela USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-apresenta-chipset-inovador-internet-coisas&id=020110240411)
 - [Chip brasileiro detecta vitaminas C e D na saliva em minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-bioeletronico-detecta-vitaminas-c-d-saliva-menos-20-minutos&id=010110240411)
 - [Fotografado pela primeira vez bizarro cristal formado apenas por el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-pela-primeira-vez-bizarro-cristal-formado-apenas-eletrons&id=010165240411)
 - [Bateria gera energia usando varia��es da temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-gera-energia-usando-variacoes-temperatura-ambiente&id=010115240411)
-- [Como criar e integrar um banco de dados MySQL com o BigQuery na nuvem Google](https://www.alura.com.br/artigos/banco-de-dados-mysql-bigquery)
+- [Ferramentas de IA no Canva, eficiência para não designers](https://www.alura.com.br/artigos/ferramentas-de-ia-no-canva)
 - [Levita��o magn�tica poder� viabilizar tecnologias antigravitacionais?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-viabilizar-tecnologias-antigravitacionais&id=010170240410)
+- [Fen�meno qu�ntico pode ser explorado pela eletr�nica convencional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fenomeno-quantico-explorado-pela-eletronica-convencional&id=010110240410)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
