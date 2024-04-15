@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Descoberta primeira mol�cula fractal da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-molecula-fractal-natureza&id=010125240412)
-- [Choque de estrelas desvenda magnetismo de estrelas massivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=choque-estrelas-explica-magnetismo-estrelas-massivas&id=010130240412)
 - [Atualizações do Power Bi: fique por dentro de todas as novidades](https://www.alura.com.br/artigos/atualizacoes-do-power-bi)
+- [Choque de estrelas desvenda magnetismo de estrelas massivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=choque-estrelas-explica-magnetismo-estrelas-massivas&id=010130240412)
 - [Sonar cria avatar em tempo real com seu olhar e express�o facial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonar-oculos-inteligentes-rastreia-olhares-expressoes-faciais&id=010150240412)
 - [Impressora 3D se reconfigura para imprimir com tintas desconhecidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-3d-se-reconfigura-imprimir-tintas-desconhecidas&id=010170240412)
 - [Chipset inovador para internet das coisas � apresentado pela USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-apresenta-chipset-inovador-internet-coisas&id=020110240411)
