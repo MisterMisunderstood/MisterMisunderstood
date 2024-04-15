@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Geladeira que esfria usando m�sculos artificiais j� gela uma cerveja](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geladeira-elastocalorica-gela-cerveja-flexionando-musculos-artificiais&id=010170240415)
 - [C�lula solar atinge 190% de efici�ncia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-atinge-190-eficiencia-quantica&id=010115240415)
 - [Criados bits qu�nticos que mant�m dados � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criados-bits-quanticos-mantem-dados-temperatura-ambiente&id=010110240415)
-- [Descoberta primeira mol�cula fractal da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-molecula-fractal-natureza&id=010125240412)
 - [Atualizações do Power Bi: fique por dentro de todas as novidades](https://www.alura.com.br/artigos/atualizacoes-do-power-bi)
+- [Descoberta primeira mol�cula fractal da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-molecula-fractal-natureza&id=010125240412)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
