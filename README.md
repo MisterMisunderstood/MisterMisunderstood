@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Design adaptativo: impacto da IA na criação de layouts dinâmicos](https://www.alura.com.br/artigos/design-adaptativo)
+- [Oureno: Criado um "grafeno de ouro"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oureno-goldeno-camada-monoatomica-ouro&id=010165240416)
 - [Duas novas tecnologias de telas realmente interativas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-novas-tecnologias-telas-realmente-interativas&id=020150240416)
 - [�m�s espirais criam mem�ria magn�tica superdensa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imas-espirais-criam-memoria-magnetica-superdensa-baseada-quiralidade&id=010110240416)
 - [Computa��o qu�ntica na nuvem tamb�m tem garantia de seguran�a](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-cega-garantia-seguranca&id=010150240416)
 - [Cora��o de Plut�o formou-se por impacto colossal, mas lento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coracao-plutao-ter-se-formado-impacto-colossal-mas-lento&id=010130240415)
 - [Banco de dados relacionais: conhecendo conceitos, terminologias e ferramentas](https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias-ferramentas)
-- [Como construir aplicações SSR com React, React Router e Vite](https://www.alura.com.br/artigos/vite-ssr-react)
-- [Quais os algoritmos de clusterização e quando utilizar?](https://www.alura.com.br/artigos/clusterizacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
