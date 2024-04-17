@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Aumente sua produtividade com ajuda da Inteligência Artificial](https://www.alura.com.br/artigos/produtividade-com-inteligencia-artificial)
 - [Métricas de avaliação para clusterização](https://www.alura.com.br/artigos/metricas-de-avaliacao-para-clusterizacao)
 - [Dados digitais s�o guardados nas vibra��es de um tambor qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-atingir-velocidade-quantica-luz-salva-como-som&id=010110240417)
 - [�nico no mundo, chip que funciona com luz � lan�ado industrialmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unico-mundo-chip-funciona-luz-lancado-industrialmente&id=010150240417)
 - [Descoberto maior buraco negro estelar da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-maior-buraco-negro-estelar-via-lactea&id=010130240417)
-- [Oureno: Criado um "grafeno de ouro"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oureno-goldeno-camada-monoatomica-ouro&id=010165240416)
-- [Next.js: criando aplicações fullstack](https://www.alura.com.br/artigos/aplicacoes-fullstack)
 - [Design adaptativo: impacto da IA na criação de layouts dinâmicos](https://www.alura.com.br/artigos/design-adaptativo)
+- [Alura e Google se uniram para te ajudar a dominar as ferramentas de inteligência artificial](https://www.alura.com.br/artigos/imersao-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
