@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Quarto: conheça suas principais características e funcionalidades](https://www.alura.com.br/artigos/codigos-em-r)
-- [Como desenvolver storytelling através de dados](https://www.alura.com.br/artigos/storytelling-atraves-de-dados)
 - [Intel apresenta maior computador neurom�rfico inspirado no c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=intel-apresenta-maior-computador-neuromorfico-inspirado-cerebro&id=010150240418)
 - [Melhor rota para naves espaciais � tra�ada com teoria dos n�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-rota-naves-espaciais-tracada-teoria-nos&id=010130240418)
-- [Métricas de avaliação para clusterização](https://www.alura.com.br/artigos/metricas-de-avaliacao-para-clusterizacao)
-- [Aumente sua produtividade com ajuda da Inteligência Artificial](https://www.alura.com.br/artigos/produtividade-com-inteligencia-artificial)
+- [Quarto: conheça suas principais características e funcionalidades](https://www.alura.com.br/artigos/codigos-em-r)
+- [Como desenvolver storytelling através de dados](https://www.alura.com.br/artigos/storytelling-atraves-de-dados)
 - [Dados digitais s�o guardados nas vibra��es de um tambor qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-atingir-velocidade-quantica-luz-salva-como-som&id=010110240417)
+- [�nico no mundo, chip que funciona com luz � lan�ado industrialmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unico-mundo-chip-funciona-luz-lancado-industrialmente&id=010150240417)
+- [Descoberto maior buraco negro estelar da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-maior-buraco-negro-estelar-via-lactea&id=010130240417)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
