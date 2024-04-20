@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Flutter CI/CD: o que é? Como funciona e como usar?](https://www.alura.com.br/artigos/flutter-ci-cd)
 - [Revolucion�rio: Luz gera magnetismo em material isolante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-gera-magnetismo-material-isolante&id=010110240419)
 - [Nanomaterial bate recorde de uma bizarra e contra-intuitiva expans�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanomaterial-bate-recorde-bizarra-contra-intuitiva-expansao&id=010160240419)
-- [Quarto: conheça suas principais características e funcionalidades](https://www.alura.com.br/artigos/codigos-em-r)
-- [Como desenvolver storytelling através de dados](https://www.alura.com.br/artigos/storytelling-atraves-de-dados)
 - [Intel apresenta maior computador neurom�rfico inspirado no c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=intel-apresenta-maior-computador-neuromorfico-inspirado-cerebro&id=010150240418)
 - [Melhor rota para naves espaciais � tra�ada com teoria dos n�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-rota-naves-espaciais-tracada-teoria-nos&id=010130240418)
+- [Quarto: conheça suas principais características e funcionalidades](https://www.alura.com.br/artigos/codigos-em-r)
+- [Como desenvolver storytelling através de dados](https://www.alura.com.br/artigos/storytelling-atraves-de-dados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
