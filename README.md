@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Nosso olhar sobre o cenário de tecnologia e as novidades da Alura em 2024](https://www.alura.com.br/artigos/proximos-passos-2024)
-- [NodeJS: OAuth por trás do código](https://www.alura.com.br/artigos/oauth2-nodejs)
 - [Bateria de �ons de s�dio recarrega em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-sodio-recarrega-segundos&id=010115240422)
 - [Madeira interativa entende e informa tudo o que acontece sobre ela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-interativa-entende-informa-tudo-acontece-sobre-ela&id=010180240422)
 - [Fibra sens�vel sem chips conecta corpo humano � rede](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-flexivel-acopla-eletronica-sem-chips-corpo-humano&id=010110240422)
+- [Nosso olhar sobre o cenário de tecnologia e as novidades da Alura em 2024](https://www.alura.com.br/artigos/proximos-passos-2024)
+- [NodeJS: OAuth por trás do código](https://www.alura.com.br/artigos/oauth2-nodejs)
 - [Flutter CI/CD: o que é? Como funciona e como usar?](https://www.alura.com.br/artigos/flutter-ci-cd)
 - [Revolucion�rio: Luz gera magnetismo em material isolante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-gera-magnetismo-material-isolante&id=010110240419)
 <!-- BLOG-POST-LIST:END -->
