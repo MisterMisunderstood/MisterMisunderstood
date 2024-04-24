@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Este material granular pode ser comprimido e ainda flui como l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-granular-projetado-comprimido-ainda-flui-como-liquido&id=010170240423)
 - [Medi��es ultrarr�pidas de el�trons v�o revelar segredos das auroras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicoes-ultrarrapidas-eletrons-vao-revelar-segredos-auroras&id=010130240423)
 - [Olho de Sauron da vida real ver� qualquer amea�a qu�mica no ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olho-sauron-vida-real-vera-qualquer-ameaca-quimica-ar&id=010125240423)
+- [NodeJS: OAuth por trás do código](https://www.alura.com.br/artigos/oauth2-nodejs)
+- [Nosso olhar sobre o cenário de tecnologia e as novidades da Alura em 2024](https://www.alura.com.br/artigos/proximos-passos-2024)
 - [Bateria de �ons de s�dio recarrega em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-sodio-recarrega-segundos&id=010115240422)
-- [Madeira interativa entende e informa tudo o que acontece sobre ela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-interativa-entende-informa-tudo-acontece-sobre-ela&id=010180240422)
-- [Fibra sens�vel sem chips conecta corpo humano � rede](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-flexivel-acopla-eletronica-sem-chips-corpo-humano&id=010110240422)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
