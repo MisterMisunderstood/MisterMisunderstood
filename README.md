@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Metafluidos: V�m a� os l�quidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metafluidos-depois-materiais-artificiais-vem-ai-liquidos-artificiais&id=010160240424)
 - [O que é o Google Gemini e o que esse modelo de IA é capaz de fazer — com exemplo prático](https://www.alura.com.br/artigos/google-gemini)
 - [Gestão do Tempo e Produtividade: entenda como otimizar a sua rotina](https://www.alura.com.br/artigos/gestao-do-tempo)
+- [Conhecendo pacotes no Flutter](https://www.alura.com.br/artigos/pacotes-no-flutter)
 - [Este material granular pode ser comprimido e ainda flui como l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-granular-projetado-comprimido-ainda-flui-como-liquido&id=010170240423)
 - [Medi��es ultrarr�pidas de el�trons v�o revelar segredos das auroras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicoes-ultrarrapidas-eletrons-vao-revelar-segredos-auroras&id=010130240423)
-- [Olho de Sauron da vida real ver� qualquer amea�a qu�mica no ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olho-sauron-vida-real-vera-qualquer-ameaca-quimica-ar&id=010125240423)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
