@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descobertas evid�ncias mais antigas do campo magn�tico da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-rochas-evidencias-mais-antigas-campo-magnetico-terra&id=010125240425)
 - [O que é o Google Gemini e o que esse modelo de IA é capaz de fazer — com exemplo prático](https://www.alura.com.br/artigos/google-gemini)
 - [Gestão do Tempo e Produtividade: entenda como otimizar a sua rotina](https://www.alura.com.br/artigos/gestao-do-tempo)
 - [Como manter os dados digitais seguros para as pr�ximas gera��es?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-manter-dados-digitais-seguros-proximas-geracoes&id=010150240424)
 - [Metafluidos: V�m a� os l�quidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metafluidos-depois-materiais-artificiais-vem-ai-liquidos-artificiais&id=010160240424)
 - [Conhecendo pacotes no Flutter](https://www.alura.com.br/artigos/pacotes-no-flutter)
 - [Este material granular pode ser comprimido e ainda flui como l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-granular-projetado-comprimido-ainda-flui-como-liquido&id=010170240423)
-- [Medi��es ultrarr�pidas de el�trons v�o revelar segredos das auroras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicoes-ultrarrapidas-eletrons-vao-revelar-segredos-auroras&id=010130240423)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
