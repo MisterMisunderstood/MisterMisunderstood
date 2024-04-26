@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Reator de fus�o nuclear supera dois obst�culos operacionais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-supera-dois-obstaculos-operacionais-importantes&id=010115240426)
+- [�culos mostram imagens hologr�ficas 3D para realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-mostram-imagens-holograficas-3d-realidade-virtual-imersiva&id=010150240426)
 - [Bateria de sal coleta energia osm�tica onde rios encontram o mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sal-coleta-energia-osmotica-onde-rios-encontram-mar&id=010115240425)
 - [Diamantes s�o fabricados em press�o ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-fabricados-pressao-ambiente&id=010160240425)
 - [Descobertas evid�ncias mais antigas do campo magn�tico da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-rochas-evidencias-mais-antigas-campo-magnetico-terra&id=010125240425)
 - [Excel Online: o que é, para que serve e como usá-lo](https://www.alura.com.br/artigos/excel-online)
 - [Como manter os dados digitais seguros para as pr�ximas gera��es?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-manter-dados-digitais-seguros-proximas-geracoes&id=010150240424)
-- [Metafluidos: V�m a� os l�quidos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metafluidos-depois-materiais-artificiais-vem-ai-liquidos-artificiais&id=010160240424)
-- [Gestão do Tempo e Produtividade: entenda como otimizar a sua rotina](https://www.alura.com.br/artigos/gestao-do-tempo)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
