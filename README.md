@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Reator de fus�o nuclear supera dois obst�culos operacionais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-supera-dois-obstaculos-operacionais-importantes&id=010115240426)
 - [Principais mudanças do Java desde a versão 8](https://www.alura.com.br/artigos/mudancas-java-versao8)
+- [Reator de fus�o nuclear supera dois obst�culos operacionais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-supera-dois-obstaculos-operacionais-importantes&id=010115240426)
 - [�culos mostram imagens hologr�ficas 3D para realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-mostram-imagens-holograficas-3d-realidade-virtual-imersiva&id=010150240426)
 - [Bateria de sal coleta energia osm�tica onde rios encontram o mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sal-coleta-energia-osmotica-onde-rios-encontram-mar&id=010115240425)
 - [Diamantes s�o fabricados em press�o ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-fabricados-pressao-ambiente&id=010160240425)
