@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mem�rias de mudan�a de fase: Finalmente miniaturizadas e energeticamente eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-mudanca-fase-finalmente-miniaturizadas-baixo-consumo-energia&id=010110240429)
+- [Como a luz faz a �gua evaporar sem a necessidade de calor?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-fotomolecular-luz-faz-agua-evaporar-sem-necessidade-calor&id=010115240429)
+- [Medi��o do tempo fica mais precisa com �tomos superradiantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-superradiantes-superam-limites-precisao-medicao-tempo&id=010165240429)
 - [Principais mudanças do Java desde a versão 8](https://www.alura.com.br/artigos/mudancas-java-versao8)
 - [Reator de fus�o nuclear supera dois obst�culos operacionais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-supera-dois-obstaculos-operacionais-importantes&id=010115240426)
 - [�culos mostram imagens hologr�ficas 3D para realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-mostram-imagens-holograficas-3d-realidade-virtual-imersiva&id=010150240426)
 - [Bateria de sal coleta energia osm�tica onde rios encontram o mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sal-coleta-energia-osmotica-onde-rios-encontram-mar&id=010115240425)
-- [Diamantes s�o fabricados em press�o ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-fabricados-pressao-ambiente&id=010160240425)
-- [Descobertas evid�ncias mais antigas do campo magn�tico da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-rochas-evidencias-mais-antigas-campo-magnetico-terra&id=010125240425)
-- [Excel Online: o que é, para que serve e como usá-lo](https://www.alura.com.br/artigos/excel-online)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
