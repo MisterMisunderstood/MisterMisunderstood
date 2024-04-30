@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sinapse artificial para computador neurom�rfico  funciona com �gua e sal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinapse-artificial-agua-sal&id=010150240430)
 - [Mem�rias de mudan�a de fase: Finalmente miniaturizadas e energeticamente eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-mudanca-fase-finalmente-miniaturizadas-baixo-consumo-energia&id=010110240429)
 - [Como a luz faz a �gua evaporar sem a necessidade de calor?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-fotomolecular-luz-faz-agua-evaporar-sem-necessidade-calor&id=010115240429)
-- [Medi��o do tempo fica mais precisa com �tomos superradiantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-superradiantes-superam-limites-precisao-medicao-tempo&id=010165240429)
 - [Conta no Power BI: como criar de forma gratuita?](https://www.alura.com.br/artigos/como-criar-conta-do-power-bi)
+- [Medi��o do tempo fica mais precisa com �tomos superradiantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-superradiantes-superam-limites-precisao-medicao-tempo&id=010165240429)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
