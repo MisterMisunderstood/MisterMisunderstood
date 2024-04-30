@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Conta no Power BI: como criar de forma gratuita?](https://www.alura.com.br/artigos/como-criar-conta-do-power-bi)
 - [Mem�rias de mudan�a de fase: Finalmente miniaturizadas e energeticamente eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-mudanca-fase-finalmente-miniaturizadas-baixo-consumo-energia&id=010110240429)
 - [Como a luz faz a �gua evaporar sem a necessidade de calor?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-fotomolecular-luz-faz-agua-evaporar-sem-necessidade-calor&id=010115240429)
 - [Medi��o do tempo fica mais precisa com �tomos superradiantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-superradiantes-superam-limites-precisao-medicao-tempo&id=010165240429)
-- [Principais mudanças do Java desde a versão 8](https://www.alura.com.br/artigos/mudancas-java-versao8)
+- [Conta no Power BI: como criar de forma gratuita?](https://www.alura.com.br/artigos/como-criar-conta-do-power-bi)
 - [Reator de fus�o nuclear supera dois obst�culos operacionais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-supera-dois-obstaculos-operacionais-importantes&id=010115240426)
 - [�culos mostram imagens hologr�ficas 3D para realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oculos-mostram-imagens-holograficas-3d-realidade-virtual-imersiva&id=010150240426)
+- [Principais mudanças do Java desde a versão 8](https://www.alura.com.br/artigos/mudancas-java-versao8)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
