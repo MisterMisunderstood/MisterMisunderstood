@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [A tecnologia conseguir� resolver todos os problemas do mundo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-tecno-otimismo&id=020150240430)
 - [Luz sente o magnetismo e pode ficar travada, sem se mover](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-sente-campo-magnetico-ficar-travada-sem-se-mover&id=010115240430)
 - [Sinapse artificial para computador neurom�rfico  funciona com �gua e sal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinapse-artificial-agua-sal&id=010150240430)
-- [Conta no Power BI: como criar de forma gratuita?](https://www.alura.com.br/artigos/como-criar-conta-do-power-bi)
 - [Mem�rias de mudan�a de fase: Finalmente miniaturizadas e energeticamente eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-mudanca-fase-finalmente-miniaturizadas-baixo-consumo-energia&id=010110240429)
 - [Como a luz faz a �gua evaporar sem a necessidade de calor?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-fotomolecular-luz-faz-agua-evaporar-sem-necessidade-calor&id=010115240429)
+- [Medi��o do tempo fica mais precisa com �tomos superradiantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-superradiantes-superam-limites-precisao-medicao-tempo&id=010165240429)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
