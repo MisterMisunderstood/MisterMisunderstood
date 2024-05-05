@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Nasa d� sinal verde para estrada com levita��o magn�tica na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-sinal-verde-trem-lunar-levitacao-magnetica&id=010130240502)
 - [Vento � domado para mover objetos em trajet�rias precisas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vento-domado-mover-objetos-trajetorias-precisas&id=010170240502)
 - [Turbinas e�licas inspiradas nas asas do condor capturam mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-inspiradas-asas-condor-capturam-mais-energia&id=010115240502)
+- [BigQuery: empresas que o utilizam e os seus desafios](https://www.alura.com.br/artigos/bigquery-empresas)
 - [A tecnologia conseguir� resolver todos os problemas do mundo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-tecno-otimismo&id=020150240430)
-- [Luz sente o magnetismo e pode ficar travada, sem se mover](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-sente-campo-magnetico-ficar-travada-sem-se-mover&id=010115240430)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
