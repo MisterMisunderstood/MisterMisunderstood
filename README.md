@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dois novos telesc�pios espaciais futuristas ver�o o que n�o vemos hoje](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-novos-telescopios-espaciais-mostrarao-coisas-nao-conseguimos-enxergar-hoje&id=010130240506)
+- [Universo eletr�nico: El�tron visto como um universo abre caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipular-geometria-universo-eletronico-abre-caminho-novas-tecnologias&id=010110240506)
 - [IA Conference Brasil 2024: vem aí o evento de IA e tecnologia para sua carreira](https://www.alura.com.br/artigos/ia-conference-brasil-2024)
 - [Como fazer ve�culos aut�nomos enxergarem carros pretos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fazer-veiculos-autonomos-enxergarem-carros-pretos&id=010160240503)
 - [Rel�gio nuclear ultrapreciso ir� desbancar rel�gios at�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-atomico-controlado-laser-viabiliza-relogio-nuclear-ultrapreciso&id=010115240503)
 - [Nasa d� sinal verde para estrada com levita��o magn�tica na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-sinal-verde-trem-lunar-levitacao-magnetica&id=010130240502)
 - [Vento � domado para mover objetos em trajet�rias precisas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vento-domado-mover-objetos-trajetorias-precisas&id=010170240502)
-- [Turbinas e�licas inspiradas nas asas do condor capturam mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbinas-eolicas-inspiradas-asas-condor-capturam-mais-energia&id=010115240502)
-- [BigQuery: empresas que o utilizam e os seus desafios](https://www.alura.com.br/artigos/bigquery-empresas)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
