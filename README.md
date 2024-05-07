@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Podemos come�ar a migrar sistema el�trico para corrente cont�nua?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=podemos-comecar-migrar-sistema-eletrico-corrente-continua&id=010115240507)
+- [Liga met�lica in�dita resiste ao frio e ao calor extremos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-inedita-resiste-frio-calor-extremos&id=010170240507)
+- [Avalanche magn�tica: Durma com esse barulho qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avalanche-magnetica-durma-esse-barulho-quantico&id=010165240507)
 - [Dois novos telesc�pios espaciais futuristas ver�o o que n�o vemos hoje](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-novos-telescopios-espaciais-mostrarao-coisas-nao-conseguimos-enxergar-hoje&id=010130240506)
 - [Universo eletr�nico: El�tron visto como um universo abre caminho para novas tecnologias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipular-geometria-universo-eletronico-abre-caminho-novas-tecnologias&id=010110240506)
 - [Análise de dados: o que é, como implementar e como se preparar para atuar na área](https://www.alura.com.br/artigos/analise-de-dados)
 - [IA Conference Brasil 2024: vem aí o evento de IA e tecnologia para sua carreira](https://www.alura.com.br/artigos/ia-conference-brasil-2024)
-- [Como fazer ve�culos aut�nomos enxergarem carros pretos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fazer-veiculos-autonomos-enxergarem-carros-pretos&id=010160240503)
-- [Rel�gio nuclear ultrapreciso ir� desbancar rel�gios at�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-atomico-controlado-laser-viabiliza-relogio-nuclear-ultrapreciso&id=010115240503)
-- [Nasa d� sinal verde para estrada com levita��o magn�tica na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-sinal-verde-trem-lunar-levitacao-magnetica&id=010130240502)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
