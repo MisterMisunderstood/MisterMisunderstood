@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lidando com células mescladas no Power BI](https://www.alura.com.br/artigos/celulas-mescladas-power-bi)
 - [Idealizado experimento vi�vel para medir se gravidade � qu�ntica ou n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=idealizado-experimento-medir-se-gravidade-quantica-ou-nao&id=010130240508)
 - [Manipulando �tomos para fazer computadores magn�ticos e simular a natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mexendo-atomos-fazer-computadores-magneticos-simular-natureza&id=010110240508)
 - [Conhecendo a Álgebra Relacional para consulta de dados relacionais](https://www.alura.com.br/artigos/algebra-relacional)
 - [Computação quântica e desenvolvimento de software](https://www.alura.com.br/artigos/computacao-quantica-desenvolvimento-de-software)
 - [NASA disponibiliza anima��o com mergulho em um  buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-disponibiliza-animacao-mergulho-buraco-negro&id=010130240507)
 - [Podemos come�ar a migrar sistema el�trico para corrente cont�nua?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=podemos-comecar-migrar-sistema-eletrico-corrente-continua&id=010115240507)
-- [Liga met�lica in�dita resiste ao frio e ao calor extremos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-inedita-resiste-frio-calor-extremos&id=010170240507)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
