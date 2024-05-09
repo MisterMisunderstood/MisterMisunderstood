@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [O que um DBA precisa saber para trabalhar com o MySQL](https://www.alura.com.br/artigos/o-que-saber-para-trabalhar-com-mysql)
+- [O que é e para que serve a modelagem de dados?](https://www.alura.com.br/artigos/modelagem-de-dados)
 - [Motor espacial aspirado colocar� naves na fronteira entre atmosfera e espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-espacial-aspirado-colocara-naves-fronteira-entre-atmosfera-espaco&id=010130240509)
 - [Borofeno supera grafeno e pode revolucionar tecnologias bioeletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borofeno-melhor-grafeno-revolucionar-tecnologias-bioeletronicas&id=010165240509)
-- [Brasileiros criam bateria leve, flex�vel e com vantagens sobre as de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-criam-bateria-leve-flexivel-vantagens-sobre-litio&id=010115240508)
 - [Lidando com células mescladas no Power BI](https://www.alura.com.br/artigos/celulas-mescladas-power-bi)
 - [Power BI: explorando seus tipos de dados](https://www.alura.com.br/artigos/tipos-de-dados-power-bi)
-- [Idealizado experimento vi�vel para medir se gravidade � qu�ntica ou n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=idealizado-experimento-medir-se-gravidade-quantica-ou-nao&id=010130240508)
+- [Brasileiros criam bateria leve, flex�vel e com vantagens sobre as de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-criam-bateria-leve-flexivel-vantagens-sobre-litio&id=010115240508)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
