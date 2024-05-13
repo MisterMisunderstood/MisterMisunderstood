@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [5 dicas incríveis para editar vídeos no Canva](https://www.alura.com.br/artigos/editar-videos-no-canva)
+- [Descoberta uma "falha c�smica" na teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-falha-cosmica-teoria-gravidade&id=010130240513)
+- [Termodin�mica qu�ntica: Entropia pode de fato existir no mundo qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-quantica-entropia-fato-existir-mundo-quantico&id=010115240513)
 - [Como ajudar a situação de emergência no Rio Grande do Sul?](https://www.alura.com.br/artigos/como-ajudar-RS)
+- [5 dicas incríveis para editar vídeos no Canva](https://www.alura.com.br/artigos/editar-videos-no-canva)
 - [Motor de dobra � poss�vel, mas vai consumir muita energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-dobra-possivel-mas-vai-consumir-muita-energia&id=010130240510)
 - [Tel�grafo sem fio entre �tomos leva microsc�pios ao limite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telegrafo-sem-fio-atomos-leva-microscopios-limite&id=010165240510)
-- [O que é e para que serve a modelagem de dados?](https://www.alura.com.br/artigos/modelagem-de-dados)
 - [O que um DBA precisa saber para trabalhar com o MySQL](https://www.alura.com.br/artigos/o-que-saber-para-trabalhar-com-mysql)
-- [Motor espacial aspirado colocar� naves na fronteira entre atmosfera e espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-espacial-aspirado-colocara-naves-fronteira-entre-atmosfera-espaco&id=010130240509)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
