@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sil�cio mais puro do mundo promete computador qu�ntico de 1M de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicio-mais-puro-mundo-promete-computador-quantico-1m-qubits&id=010110240513)
 - [Descoberta uma "falha c�smica" na teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-falha-cosmica-teoria-gravidade&id=010130240513)
 - [Termodin�mica qu�ntica: Entropia pode de fato existir no mundo qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-quantica-entropia-fato-existir-mundo-quantico&id=010115240513)
 - [Motor de dobra � poss�vel, mas vai consumir muita energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-dobra-possivel-mas-vai-consumir-muita-energia&id=010130240510)
 - [Tel�grafo sem fio entre �tomos leva microsc�pios ao limite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telegrafo-sem-fio-atomos-leva-microscopios-limite&id=010165240510)
 - [Motor espacial aspirado colocar� naves na fronteira entre atmosfera e espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-espacial-aspirado-colocara-naves-fronteira-entre-atmosfera-espaco&id=010130240509)
 - [Borofeno supera grafeno e pode revolucionar tecnologias bioeletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borofeno-melhor-grafeno-revolucionar-tecnologias-bioeletronicas&id=010165240509)
-- [Brasileiros criam bateria leve, flex�vel e com vantagens sobre as de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-criam-bateria-leve-flexivel-vantagens-sobre-litio&id=010115240508)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
