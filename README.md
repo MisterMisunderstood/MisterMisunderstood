@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [5 dicas incríveis para editar vídeos no Canva](https://www.alura.com.br/artigos/editar-videos-no-canva)
 - [Como ajudar a situação de emergência no Rio Grande do Sul?](https://www.alura.com.br/artigos/como-ajudar-RS)
+- [Motor de dobra � poss�vel, mas vai consumir muita energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-dobra-possivel-mas-vai-consumir-muita-energia&id=010130240510)
+- [Tel�grafo sem fio entre �tomos leva microsc�pios ao limite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telegrafo-sem-fio-atomos-leva-microscopios-limite&id=010165240510)
+- [Motor espacial aspirado colocar� naves na fronteira entre atmosfera e espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-espacial-aspirado-colocara-naves-fronteira-entre-atmosfera-espaco&id=010130240509)
+- [Borofeno supera grafeno e pode revolucionar tecnologias bioeletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borofeno-melhor-grafeno-revolucionar-tecnologias-bioeletronicas&id=010165240509)
 - [O que é e para que serve a modelagem de dados?](https://www.alura.com.br/artigos/modelagem-de-dados)
-- [O que um DBA precisa saber para trabalhar com o MySQL](https://www.alura.com.br/artigos/o-que-saber-para-trabalhar-com-mysql)
-- [Power BI: explorando seus tipos de dados](https://www.alura.com.br/artigos/tipos-de-dados-power-bi)
-- [Lidando com células mescladas no Power BI](https://www.alura.com.br/artigos/celulas-mescladas-power-bi)
-- [Computação quântica e desenvolvimento de software](https://www.alura.com.br/artigos/computacao-quantica-desenvolvimento-de-software)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
