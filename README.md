@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Tau�nio: Em busca do menor �tomo com intera��o eletromagn�tica pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tauonio-busca-menor-atomo-interacao-eletromagnetica-pura&id=010165240514)
 - [Descoberta propriedade da luz que impactar� todas as tecnologias fot�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-propriedade-luz&id=010115240514)
 - [Sil�cio mais puro do mundo promete computador qu�ntico de 1M de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicio-mais-puro-mundo-promete-computador-quantico-1m-qubits&id=010110240513)
-- [Descoberta uma "falha c�smica" na teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-falha-cosmica-teoria-gravidade&id=010130240513)
-- [Termodin�mica qu�ntica: Entropia pode de fato existir no mundo qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-quantica-entropia-fato-existir-mundo-quantico&id=010115240513)
 - [Por que você deve usar motion design nos seus projetos?](https://www.alura.com.br/artigos/motion-design)
+- [Aniversário de 11 anos da Alura e a educação transformadora](https://www.alura.com.br/artigos/11-anos-alura)
+- [Descoberta uma "falha c�smica" na teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-falha-cosmica-teoria-gravidade&id=010130240513)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
