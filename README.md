@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Raio de calor esfria chips transmitindo calor � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-calor-transmite-calor-distancia-dentro-chips&id=020115240514)
 - [Tau�nio: Em busca do menor �tomo com intera��o eletromagn�tica pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tauonio-busca-menor-atomo-interacao-eletromagnetica-pura&id=010165240514)
 - [Descoberta propriedade da luz que impactar� todas as tecnologias fot�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-propriedade-luz&id=010115240514)
-- [Sil�cio mais puro do mundo promete computador qu�ntico de 1M de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicio-mais-puro-mundo-promete-computador-quantico-1m-qubits&id=010110240513)
 - [Por que você deve usar motion design nos seus projetos?](https://www.alura.com.br/artigos/motion-design)
 - [Aniversário de 11 anos da Alura e a educação transformadora](https://www.alura.com.br/artigos/11-anos-alura)
+- [Sil�cio mais puro do mundo promete computador qu�ntico de 1M de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicio-mais-puro-mundo-promete-computador-quantico-1m-qubits&id=010110240513)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
