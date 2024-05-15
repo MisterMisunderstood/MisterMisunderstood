@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob�-caracol inspecionar� edif�cios e p�s de turbinas e�licas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-inspirado-caracol-carrega-peso-ate-cabeca-baixo&id=010180240515)
 - [Ondas sonoras e de luz combinam-se para criar redes neurais avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-sonoras-luz-combinam-se-criar-redes-neurais-avancadas&id=010150240515)
 - [Descoberto um exoplaneta fofo como algod�o-doce](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-densidade-algodao-doce&id=010130240514)
 - [Raio de calor esfria chips transmitindo calor � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-calor-transmite-calor-distancia-dentro-chips&id=020115240514)
 - [Tau�nio: Em busca do menor �tomo com intera��o eletromagn�tica pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tauonio-busca-menor-atomo-interacao-eletromagnetica-pura&id=010165240514)
 - [Descoberta propriedade da luz que impactar� todas as tecnologias fot�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-propriedade-luz&id=010115240514)
 - [Sil�cio mais puro do mundo promete computador qu�ntico de 1M de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicio-mais-puro-mundo-promete-computador-quantico-1m-qubits&id=010110240513)
-- [Descoberta uma "falha c�smica" na teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-falha-cosmica-teoria-gravidade&id=010130240513)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
