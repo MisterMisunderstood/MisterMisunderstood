@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Rob�-caracol inspecionar� edif�cios e p�s de turbinas e�licas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-inspirado-caracol-carrega-peso-ate-cabeca-baixo&id=010180240515)
-- [Ondas sonoras e de luz combinam-se para criar redes neurais avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-sonoras-luz-combinam-se-criar-redes-neurais-avancadas&id=010150240515)
 - [ForEach Java: o que é, quais são os objetivos e como é a sintaxe](https://www.alura.com.br/artigos/foreach-java)
+- [Ondas sonoras e de luz combinam-se para criar redes neurais avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-sonoras-luz-combinam-se-criar-redes-neurais-avancadas&id=010150240515)
 - [Descoberto um exoplaneta fofo como algod�o-doce](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-densidade-algodao-doce&id=010130240514)
 - [Raio de calor esfria chips transmitindo calor � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-calor-transmite-calor-distancia-dentro-chips&id=020115240514)
 - [Tau�nio: Em busca do menor �tomo com intera��o eletromagn�tica pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tauonio-busca-menor-atomo-interacao-eletromagnetica-pura&id=010165240514)
