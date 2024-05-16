@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Imersão IA com Gemini: o top 5 projetos ganhadores](https://www.alura.com.br/artigos/top5-projetos-imersao-ia)
 - [Poeira de estrelas, n�o: Somos filhos do espa�o profundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-estrelas-nao-somos-filhos-espaco-profundo&id=010130240516)
 - [Escudo antirru�do fino como um tecido de seda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-antirruido-fino-como-tecido-seda&id=010160240516)
 - [ForEach Java: o que é, quais são os objetivos e como é a sintaxe](https://www.alura.com.br/artigos/foreach-java)
 - [Rob�-caracol inspecionar� edif�cios e p�s de turbinas e�licas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-inspirado-caracol-carrega-peso-ate-cabeca-baixo&id=010180240515)
 - [Ondas sonoras e de luz combinam-se para criar redes neurais avan�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-sonoras-luz-combinam-se-criar-redes-neurais-avancadas&id=010150240515)
 - [Descoberto um exoplaneta fofo como algod�o-doce](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-densidade-algodao-doce&id=010130240514)
-- [Raio de calor esfria chips transmitindo calor � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-calor-transmite-calor-distancia-dentro-chips&id=020115240514)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
