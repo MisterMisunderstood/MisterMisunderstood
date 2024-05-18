@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Vue.js: o que é, como funciona e como começar a usar esse framework JS](https://www.alura.com.br/artigos/vue-js)
 - [Energia solar gera calor para alimentar fornos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armadilha-calor-captura-calor-sol-alimentar-fornos-industriais&id=020115240517)
 - [Bateria de zinco e madeira dura muito e custa pouco](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-zinco-madeira-dura-muito-custa-pouco&id=010115240517)
-- [Testes no Flutter: O que é? Quando usar? Como começar a aprender?](https://www.alura.com.br/artigos/testes-flutter)
-- [Imersão IA com Gemini: o top 5 projetos ganhadores](https://www.alura.com.br/artigos/top5-projetos-imersao-ia)
 - [Poeira de estrelas, n�o: Somos filhos do espa�o profundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-estrelas-nao-somos-filhos-espaco-profundo&id=010130240516)
 - [Escudo antirru�do fino como um tecido de seda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-antirruido-fino-como-tecido-seda&id=010160240516)
+- [Testes no Flutter: O que é? Quando usar? Como começar a aprender?](https://www.alura.com.br/artigos/testes-flutter)
+- [Imersão IA com Gemini: o top 5 projetos ganhadores](https://www.alura.com.br/artigos/top5-projetos-imersao-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
