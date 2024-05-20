@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Vue.js: o que é, como funciona e como começar a usar esse framework JS](https://www.alura.com.br/artigos/vue-js)
 - [Energia solar gera calor para alimentar fornos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armadilha-calor-captura-calor-sol-alimentar-fornos-industriais&id=020115240517)
 - [Bateria de zinco e madeira dura muito e custa pouco](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-zinco-madeira-dura-muito-custa-pouco&id=010115240517)
-- [Poeira de estrelas, n�o: Somos filhos do espa�o profundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poeira-estrelas-nao-somos-filhos-espaco-profundo&id=010130240516)
+- [Testes no Flutter: O que é? Quando usar? Como começar a aprender?](https://www.alura.com.br/artigos/testes-flutter)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
