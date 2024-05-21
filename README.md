@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Autenticação moderna com OAuth 2.0 e OpenID Connect: dicas para desenvolvedores frontend](https://www.alura.com.br/artigos/oauth-2-e-openid-connect)
 - [Pisos e m�veis de madeira ter�o prote��o natural sem perder a beleza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protecao-solar-natural-pisos-moveis-madeira&id=010160240521)
 - ["Congelar" el�trons no lugar aumenta efici�ncia das tecnologias de emiss�o de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=congelar-eletrons-lugar-aumenta-eficiencia-tecnologias-emissao-luz&id=010115240521)
 - [Pele eletr�nica d� sensibilidade da pele humana aos rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-sensibilidade-pele-humana-robos&id=010180240521)
-- [Normalização: o que é, para que serve e como usá-la](https://www.alura.com.br/artigos/normalizacao)
 - [Como conseguir o primeiro emprego em programação em 2024](https://www.alura.com.br/artigos/primeiro-emprego)
+- [Normalização: o que é, para que serve e como usá-la](https://www.alura.com.br/artigos/normalizacao)
 - [Drone simula c�rebro de inseto para voar sozinho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-neuromorfico-voa-sozinho-cerebro-inseto&id=010180240520)
-- [Eletricidade viaja como a luz no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-viajam-como-fotons-grafeno-bicamada&id=010110240520)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
