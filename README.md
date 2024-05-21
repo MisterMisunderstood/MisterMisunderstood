@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Normalização: o que é, para que serve e como usá-la](https://www.alura.com.br/artigos/normalizacao)
+- [Como conseguir o primeiro emprego em programação em 2024](https://www.alura.com.br/artigos/primeiro-emprego)
 - [Drone simula c�rebro de inseto para voar sozinho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-neuromorfico-voa-sozinho-cerebro-inseto&id=010180240520)
 - [Eletricidade viaja como a luz no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-viajam-como-fotons-grafeno-bicamada&id=010110240520)
 - [Cientistas n�o d�o cr�ditos para as descobertas mais importantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-nao-dao-credito-descobertas-mais-importantes&id=010150240520)
-- [Normalização: o que é, para que serve e como usá-la](https://www.alura.com.br/artigos/normalizacao)
-- [Como conseguir o primeiro emprego em programação em 2024](https://www.alura.com.br/artigos/primeiro-emprego)
 - [Vue.js: o que é, como funciona e como começar a usar esse framework JS](https://www.alura.com.br/artigos/vue-js)
 - [Energia solar gera calor para alimentar fornos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armadilha-calor-captura-calor-sol-alimentar-fornos-industriais&id=020115240517)
 <!-- BLOG-POST-LIST:END -->
