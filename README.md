@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tr�s cidades come�am a testar Internet Qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-demonstrada-tres-cidades&id=010150240523)
+- [Equipamento emite sinais vibrat�rios para manejar pragas na agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-eletronico-emite-sinais-vibratorios-manejar-pragas-agricultura&id=010125240523)
+- [Branding: desvendando os segredos de uma marca forte](https://www.alura.com.br/artigos/branding)
 - [Caminh�o superpesado a hidrog�nio surpreende com emiss�es ultrabaixas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhao-superpesado-hidrogenio-surpreende-emissoes-ultrabaixas-poluentes&id=010170240522)
 - [Processadores para IA ganham percep��o do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-inteligencia-artificial-ganham-percepcao-tempo&id=010150240522)
 - [Primeiro sistema de �ptica adaptativa produzido no Brasil est� pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-sistema-optica-adaptativa-produzido-brasil-esta-pronto&id=010130240522)
-- [Branding: desvendando os segredos de uma marca forte](https://www.alura.com.br/artigos/branding)
 - [Autenticação moderna com OAuth 2.0 e OpenID Connect: dicas para desenvolvedores frontend](https://www.alura.com.br/artigos/oauth-2-e-openid-connect)
-- [Pisos e m�veis de madeira ter�o prote��o natural sem perder a beleza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=protecao-solar-natural-pisos-moveis-madeira&id=010160240521)
-- ["Congelar" el�trons no lugar aumenta efici�ncia das tecnologias de emiss�o de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=congelar-eletrons-lugar-aumenta-eficiencia-tecnologias-emissao-luz&id=010115240521)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
