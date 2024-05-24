@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nanocordas podem vibrar para sempre - mais ou menos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanocordas-vibrar-sempre-mais-ou-menos&id=010165240524)
+- [Baterias de captura de carbono armazenam energia renov�vel e ajudam o clima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-captura-carbono-armazenam-energia-renovavel-ajudam-clima&id=010115240524)
 - [NASA e IBM lan�am modelo de IA para estudos do clima e previs�o do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-ibm-lancam-modelo-ia-estudos-clima-previsao-tempo&id=020125240523)
 - [Tr�s cidades come�am a testar Internet Qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-demonstrada-tres-cidades&id=010150240523)
 - [Equipamento emite sinais vibrat�rios para manejar pragas na agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-eletronico-emite-sinais-vibratorios-manejar-pragas-agricultura&id=010125240523)
 - [Caminh�o superpesado a hidrog�nio surpreende com emiss�es ultrabaixas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhao-superpesado-hidrogenio-surpreende-emissoes-ultrabaixas-poluentes&id=010170240522)
 - [Processadores para IA ganham percep��o do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-inteligencia-artificial-ganham-percepcao-tempo&id=010150240522)
-- [Primeiro sistema de �ptica adaptativa produzido no Brasil est� pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-sistema-optica-adaptativa-produzido-brasil-esta-pronto&id=010130240522)
-- [Branding: desvendando os segredos de uma marca forte](https://www.alura.com.br/artigos/branding)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
