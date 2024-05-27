@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descobertas mol�culas neutr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-neutronicas&id=010160240527)
+- [�culos com sensor de proximidade sabem quando voc� pisca](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-proximidade-oculos-sabe-quando-voce-pisca&id=010180240527)
+- [Casca de camar�o vira membrana para produzir hidrog�nio verde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=casca-camarao-vira-membrana-produzir-hidrogenio-verde&id=010115240527)
 - [Identidade visual: entenda o que é, qual a sua importância e como construir uma](https://www.alura.com.br/artigos/identidade-visual)
 - [Nanocordas podem vibrar para sempre - mais ou menos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanocordas-vibrar-sempre-mais-ou-menos&id=010165240524)
 - [Baterias de captura de carbono armazenam energia renov�vel e ajudam o clima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-captura-carbono-armazenam-energia-renovavel-ajudam-clima&id=010115240524)
 - [NASA e IBM lan�am modelo de IA para estudos do clima e previs�o do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-ibm-lancam-modelo-ia-estudos-clima-previsao-tempo&id=020125240523)
-- [Tr�s cidades come�am a testar Internet Qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-demonstrada-tres-cidades&id=010150240523)
-- [Equipamento emite sinais vibrat�rios para manejar pragas na agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=equipamento-eletronico-emite-sinais-vibratorios-manejar-pragas-agricultura&id=010125240523)
-- [Caminh�o superpesado a hidrog�nio surpreende com emiss�es ultrabaixas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhao-superpesado-hidrogenio-surpreende-emissoes-ultrabaixas-poluentes&id=010170240522)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
