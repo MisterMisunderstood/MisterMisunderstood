@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sob impactos extremos, metais ficam mais resistentes quando aquecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sob-impactos-extremos-metais-ficam-mais-resistentes-quando-aquecidos&id=010170240528)
 - [Material artificial memoriza coisas complexas mecanicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-mecanico-apresenta-capacidade-memorizacao-complexa&id=010160240528)
 - [Criada uma correia transportadora de luz para quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-criam-correia-transportadora-luz-quasiparticulas&id=010110240528)
+- [Fundamentos de Angular e TypeScript](https://www.alura.com.br/artigos/fundamentos-de-angular-typescript)
 - [Descobertas mol�culas neutr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-neutronicas&id=010160240527)
 - [�culos com sensor de proximidade sabem quando voc� pisca](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-proximidade-oculos-sabe-quando-voce-pisca&id=010180240527)
 - [Casca de camar�o vira membrana para produzir hidrog�nio verde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=casca-camarao-vira-membrana-produzir-hidrogenio-verde&id=010115240527)
-- [Fundamentos de Angular e TypeScript](https://www.alura.com.br/artigos/fundamentos-de-angular-typescript)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
