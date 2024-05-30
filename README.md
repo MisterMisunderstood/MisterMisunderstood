@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Material multifuncional resfria e mant�m a casa limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-resfria-mantem-casa-limpa&id=010160240529)
 - [Big Query](https://www.alura.com.br/artigos/big-query)
+- [Material multifuncional resfria e mant�m a casa limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-resfria-mantem-casa-limpa&id=010160240529)
 - [Sensores de "seda de aranha eletr�nica" estreitam conex�o entre biol�gico e eletr�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-seda-aranha-eletronica-impressos-diretamente-superficies-vivas&id=010110240529)
 - [Desvende o poder do WordPress](https://www.alura.com.br/artigos/wordpress)
 - [Sob impactos extremos, metais ficam mais resistentes quando aquecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sob-impactos-extremos-metais-ficam-mais-resistentes-quando-aquecidos&id=010170240528)
