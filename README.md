@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador probabil�stico mais pr�ximo da fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-mais-proximo-fabricacao-industrial&id=010150240531)
+- [Fulertubo: Descoberta uma mol�cula com 130 �tomos de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fulertubo-descoberta-molecula-130-atomos-carbono&id=010165240531)
 - [Big Query](https://www.alura.com.br/artigos/big-query)
 - [Material multifuncional resfria e mant�m a casa limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-resfria-mantem-casa-limpa&id=010160240529)
 - [Sensores de "seda de aranha eletr�nica" estreitam conex�o entre biol�gico e eletr�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-seda-aranha-eletronica-impressos-diretamente-superficies-vivas&id=010110240529)
 - [Desvende o poder do WordPress](https://www.alura.com.br/artigos/wordpress)
 - [Sob impactos extremos, metais ficam mais resistentes quando aquecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sob-impactos-extremos-metais-ficam-mais-resistentes-quando-aquecidos&id=010170240528)
-- [Material artificial memoriza coisas complexas mecanicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-mecanico-apresenta-capacidade-memorizacao-complexa&id=010160240528)
-- [Criada uma correia transportadora de luz para quasipart�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-criam-correia-transportadora-luz-quasiparticulas&id=010110240528)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
