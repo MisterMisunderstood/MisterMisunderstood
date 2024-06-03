@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Atuador rob�tico supera capacidades do pulso humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atuador-robotico-supera-capacidades-pulso-humano&id=010180240603)
+- [Superestrada para el�trons deixa eletricidade correr livre, sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superestrada-cinco-pistas-deixa-eletrons-correrem-livres&id=010115240603)
 - [Apache JMeter: realize testes de carga e performance em aplicações](https://www.alura.com.br/artigos/apache-jmeter)
 - [Computador probabil�stico mais pr�ximo da fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-mais-proximo-fabricacao-industrial&id=010150240531)
 - [Fulertubo: Descoberta uma mol�cula com 130 �tomos de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fulertubo-descoberta-molecula-130-atomos-carbono&id=010165240531)
 - [Material multifuncional resfria e mant�m a casa limpa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-multifuncional-resfria-mantem-casa-limpa&id=010160240529)
 - [Big Query](https://www.alura.com.br/artigos/big-query)
-- [Sensores de "seda de aranha eletr�nica" estreitam conex�o entre biol�gico e eletr�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-seda-aranha-eletronica-impressos-diretamente-superficies-vivas&id=010110240529)
-- [Desvende o poder do WordPress](https://www.alura.com.br/artigos/wordpress)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
