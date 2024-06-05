@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de calor gera eletricidade com efici�ncia de 44%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-termofotovoltaica-recupera-eletricidade-calor-eficiencia-44&id=010115240605)
+- [Descobertos novos vest�gios da primeira forma de vida na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-vestigios-primeira-forma-vida-terra&id=010125240605)
 - [Lente mais fina do mundo foca a luz usando efeitos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-mais-fina-mundo-foca-luz-usando-efeitos-quanticos&id=010165240604)
 - [Carregar o notebook ou o celular em um minuto? Supercapacitores podem ser o caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carregar-notebook-ou-celular-minuto&id=010115240604)
 - [Atuador rob�tico supera capacidades do pulso humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atuador-robotico-supera-capacidades-pulso-humano&id=010180240603)
 - [Superestrada para el�trons deixa eletricidade correr livre, sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superestrada-cinco-pistas-deixa-eletrons-correrem-livres&id=010115240603)
 - [Apache JMeter: realize testes de carga e performance em aplicações](https://www.alura.com.br/artigos/apache-jmeter)
-- [Computador probabil�stico mais pr�ximo da fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-mais-proximo-fabricacao-industrial&id=010150240531)
-- [Fulertubo: Descoberta uma mol�cula com 130 �tomos de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fulertubo-descoberta-molecula-130-atomos-carbono&id=010165240531)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
