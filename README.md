@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart: O que é? Como começar a estudar? Para quê serve?](https://www.alura.com.br/artigos/dart)
 - [Telesc�pio Hubble continuar� operando com apenas um girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-hubble-continuara-operando-apenas-giroscopio&id=010130240607)
 - [Usina de CO2 supercr�tico gera eletricidade pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-co2-supercritico-gera-eletricidade-pela-primeira-vez&id=010115240607)
 - [Uma maneira mais ecol�gica e eficaz de matar cupins](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cheiro-arvore-cria-tecnica-mais-ecologica-eficaz-matar-cupins&id=010125240607)
-- [Storytelling: o que é, quais as principais técnicas e elementos e como criá-lo](https://www.alura.com.br/artigos/storytelling)
 - [Engenharia de Software: um guia sobre a área, carreira, mercado e formação](https://www.alura.com.br/artigos/engenharia-de-software)
+- [Storytelling: o que é, quais as principais técnicas e elementos e como criá-lo](https://www.alura.com.br/artigos/storytelling)
 - [Quais s�o os riscos de acidentes com ve�culos a hidrog�nio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quais-riscos-acidentes-veiculos-hidrogenio&id=010170240606)
-- [Miniaturiza��o de componentes mec�nicos ganha nova tecnologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-miniaturizacao-componentes-mecanicos&id=010180240606)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
