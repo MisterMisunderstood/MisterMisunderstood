@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Usina de CO2 supercr�tico gera eletricidade pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-co2-supercritico-gera-eletricidade-pela-primeira-vez&id=010115240607)
+- [Uma maneira mais ecol�gica e eficaz de matar cupins](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cheiro-arvore-cria-tecnica-mais-ecologica-eficaz-matar-cupins&id=010125240607)
 - [Quais s�o os riscos de acidentes com ve�culos a hidrog�nio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quais-riscos-acidentes-veiculos-hidrogenio&id=010170240606)
 - [Miniaturiza��o de componentes mec�nicos ganha nova tecnologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-miniaturizacao-componentes-mecanicos&id=010180240606)
 - [Storytelling: o que é, quais as principais técnicas e elementos e como criá-lo](https://www.alura.com.br/artigos/storytelling)
 - [Engenharia de Software: um guia sobre a área, carreira, mercado e formação](https://www.alura.com.br/artigos/engenharia-de-software)
 - [Bateria de calor gera eletricidade com efici�ncia de 44%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-termofotovoltaica-recupera-eletricidade-calor-eficiencia-44&id=010115240605)
-- [Descobertos novos vest�gios da primeira forma de vida na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertos-novos-vestigios-primeira-forma-vida-terra&id=010125240605)
-- [Lente mais fina do mundo foca a luz usando efeitos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-mais-fina-mundo-foca-luz-usando-efeitos-quanticos&id=010165240604)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
