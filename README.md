@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [O que significa user experience (UX)?](https://www.alura.com.br/artigos/user-experience-ux)
+- [Captado sinal de r�dio misterioso vindo do espa�o, ainda sem explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captado-sinal-radio-misterioso-vindo-espaco-ainda-sem-explicacoes&id=010130240610)
 - [Grafeno � produzido grande e limpo pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-produzido-grande-limpo-pela-primeira-vez&id=010165240610)
 - [Revestimento ultrafino dar� vis�o noturna a �culos comuns](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-ultrafino-dara-visao-noturna-oculos-comuns&id=010110240610)
 - [Dart: O que é? Como começar a estudar? Para quê serve?](https://www.alura.com.br/artigos/dart)
 - [Telesc�pio Hubble continuar� operando com apenas um girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-hubble-continuara-operando-apenas-giroscopio&id=010130240607)
 - [Usina de CO2 supercr�tico gera eletricidade pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usina-co2-supercritico-gera-eletricidade-pela-primeira-vez&id=010115240607)
-- [Uma maneira mais ecol�gica e eficaz de matar cupins](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cheiro-arvore-cria-tecnica-mais-ecologica-eficaz-matar-cupins&id=010125240607)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
