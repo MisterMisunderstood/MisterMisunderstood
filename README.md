@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [For�a da gravidade pode existir sem massa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forca-gravidade-existir-sem-massa&id=010130240611)
 - [Cascas de ovo recuperam valiosos elementos de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovo-recuperam-valiosos-elementos-terras-raras&id=010160240611)
 - [Captado sinal de r�dio misterioso vindo do espa�o, ainda sem explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captado-sinal-radio-misterioso-vindo-espaco-ainda-sem-explicacoes&id=010130240610)
-- [Grafeno � produzido grande e limpo pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-produzido-grande-limpo-pela-primeira-vez&id=010165240610)
 - [Desbravando o SSR no Angular 17](https://www.alura.com.br/artigos/ssr-angular-17)
 - [O que significa user experience (UX)?](https://www.alura.com.br/artigos/user-experience-ux)
+- [Grafeno � produzido grande e limpo pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-produzido-grande-limpo-pela-primeira-vez&id=010165240610)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
