@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motor movido a informa��o � testado at� o limite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-movido-informacao-testado-ate-seu-limite&id=010115240611)
+- [For�a da gravidade pode existir sem massa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forca-gravidade-existir-sem-massa&id=010130240611)
+- [Cascas de ovo recuperam valiosos elementos de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovo-recuperam-valiosos-elementos-terras-raras&id=010160240611)
 - [Captado sinal de r�dio misterioso vindo do espa�o, ainda sem explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captado-sinal-radio-misterioso-vindo-espaco-ainda-sem-explicacoes&id=010130240610)
 - [Grafeno � produzido grande e limpo pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-produzido-grande-limpo-pela-primeira-vez&id=010165240610)
 - [Revestimento ultrafino dar� vis�o noturna a �culos comuns](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-ultrafino-dara-visao-noturna-oculos-comuns&id=010110240610)
 - [Desbravando o SSR no Angular 17](https://www.alura.com.br/artigos/ssr-angular-17)
-- [O que significa user experience (UX)?](https://www.alura.com.br/artigos/user-experience-ux)
-- [Telesc�pio Hubble continuar� operando com apenas um girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-hubble-continuara-operando-apenas-giroscopio&id=010130240607)
-- [Dart: O que é? Como começar a estudar? Para quê serve?](https://www.alura.com.br/artigos/dart)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
