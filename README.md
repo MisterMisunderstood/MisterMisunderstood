@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Entendendo o roteamento com segmentos dinâmicos no Next.js](https://www.alura.com.br/artigos/roteamentos-next-js)
+- [Conhe�a a menor impressora 3D do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-menor-impressora-3d-mundo&id=010170240611)
 - [Motor movido a informa��o � testado at� o limite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-movido-informacao-testado-ate-seu-limite&id=010115240611)
 - [For�a da gravidade pode existir sem massa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forca-gravidade-existir-sem-massa&id=010130240611)
 - [Cascas de ovo recuperam valiosos elementos de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovo-recuperam-valiosos-elementos-terras-raras&id=010160240611)
 - [Desbravando o SSR no Angular 17](https://www.alura.com.br/artigos/ssr-angular-17)
 - [O que significa user experience (UX)?](https://www.alura.com.br/artigos/user-experience-ux)
-- [Captado sinal de r�dio misterioso vindo do espa�o, ainda sem explica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captado-sinal-radio-misterioso-vindo-espaco-ainda-sem-explicacoes&id=010130240610)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
