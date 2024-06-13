@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [MySQL: importando e exportando dados](https://www.alura.com.br/artigos/my-sql-administrator)
 - [� poss�vel comprimir o calor a um d�cimo do seu tamanho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-infravermelha-comprimida-decimo-seu-tamanho&id=010115240612)
 - [Antiuniverso elimina necessidade de energia escura e mat�ria escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antiuniverso-elimina-necessidade-energia-escura-materia-escura&id=010130240612)
-- [Conhe�a a menor impressora 3D do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-menor-impressora-3d-mundo&id=010170240611)
+- [Entendendo o roteamento com segmentos dinâmicos no Next.js](https://www.alura.com.br/artigos/roteamentos-next-js)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
