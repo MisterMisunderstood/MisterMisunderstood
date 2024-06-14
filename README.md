@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fio met�lico mais fino poss�vel ser� feito de carbono e cobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-metalico-mais-fino-possivel-sera-feito-carbono-cobre&id=010165240614)
+- [Efeito termoel�trico observado pela primeira vez entre dois l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-termoeletrico-observado-pela-primeira-vez-entre-dois-liquidos&id=010115240614)
 - [Realidade aumentada com imagem hologr�fica chega aos �culos normais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=realidade-aumentada-imagem-holografica-chega-oculos-normais&id=010150240613)
 - [Era do Gelo na Terra pode ter sido causada por nuvem c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=era-gelo-terra-ter-sido-causada-nuvem-cosmica&id=010130240613)
 - [O que é Garbage Collector e como ele coleta o lixo da memória](https://www.alura.com.br/artigos/garbage-collector)
 - [� poss�vel comprimir o calor a um d�cimo do seu tamanho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-infravermelha-comprimida-decimo-seu-tamanho&id=010115240612)
 - [Antiuniverso elimina necessidade de energia escura e mat�ria escura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antiuniverso-elimina-necessidade-energia-escura-materia-escura&id=010130240612)
-- [MySQL: importando e exportando dados](https://www.alura.com.br/artigos/my-sql-administrator)
-- [Conhe�a a menor impressora 3D do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-menor-impressora-3d-mundo&id=010170240611)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
