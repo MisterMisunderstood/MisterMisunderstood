@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Voyager 1 retoma observa��es cient�ficas ap�s defeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voyager-1-retoma-observacoes-cientificas-apos-defeito&id=010175240614)
 - [Fio met�lico mais fino poss�vel ser� feito de carbono e cobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-metalico-mais-fino-possivel-sera-feito-carbono-cobre&id=010165240614)
 - [Efeito termoel�trico observado pela primeira vez entre dois l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-termoeletrico-observado-pela-primeira-vez-entre-dois-liquidos&id=010115240614)
+- [O que é Garbage Collector e como ele coleta o lixo da memória](https://www.alura.com.br/artigos/garbage-collector)
 - [Realidade aumentada com imagem hologr�fica chega aos �culos normais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=realidade-aumentada-imagem-holografica-chega-oculos-normais&id=010150240613)
 - [Era do Gelo na Terra pode ter sido causada por nuvem c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=era-gelo-terra-ter-sido-causada-nuvem-cosmica&id=010130240613)
-- [O que é Garbage Collector e como ele coleta o lixo da memória](https://www.alura.com.br/artigos/garbage-collector)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
