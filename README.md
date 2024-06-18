@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Este material controla a emiss�o de calor de um objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-capaz-controlar-emissao-calor-objeto&id=010170240617)
 - [Material registra e armazena informa��es de estresse em pr�dios e pontes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-registr-armazena-informacoes-estresse-infraestrutura&id=010125240617)
 - [Gestão de negócios: o que é e qual é a importância para as empresas](https://www.alura.com.br/artigos/gestao-de-negocios)
-- [Voyager 1 retoma observa��es cient�ficas ap�s defeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voyager-1-retoma-observacoes-cientificas-apos-defeito&id=010175240614)
 - [Cinco dicas do que não pode faltar em um bom portfólio](https://www.alura.com.br/artigos/portfolio)
+- [Voyager 1 retoma observa��es cient�ficas ap�s defeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voyager-1-retoma-observacoes-cientificas-apos-defeito&id=010175240614)
 - [Fio met�lico mais fino poss�vel ser� feito de carbono e cobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-metalico-mais-fino-possivel-sera-feito-carbono-cobre&id=010165240614)
 <!-- BLOG-POST-LIST:END -->
 
