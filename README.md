@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de cimento poder� transformar sua casa numa bateria gigante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cimento-podera-transformar-sua-casa-numa-bateria-gigante&id=010115240619)
 - [Quer uma liga met�lica melhor? Fa�a um coquetel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quer-liga-metalica-melhor-faca-coquetel&id=010170240618)
 - [Filmes eletrocr�micos: �culos de sol para suas janelas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filmes-eletrocromicos-oculos-sol-suas-janelas&id=010160240618)
 - [Antenas �pticas qu�nticas viabilizam medi��es no n�vel at�mico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-opticas-quanticas-viabilizam-medicoes-nivel-atomico&id=010165240618)
+- [Gestão de negócios: o que é e qual é a importância para as empresas](https://www.alura.com.br/artigos/gestao-de-negocios)
 - [Componente l�gico l�quido imita intelig�ncia das plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-logico-liquido-imita-inteligencia-plantas&id=010180240617)
 - [Este material controla a emiss�o de calor de um objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-capaz-controlar-emissao-calor-objeto&id=010170240617)
-- [Material registra e armazena informa��es de estresse em pr�dios e pontes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-registr-armazena-informacoes-estresse-infraestrutura&id=010125240617)
-- [Gestão de negócios: o que é e qual é a importância para as empresas](https://www.alura.com.br/artigos/gestao-de-negocios)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
