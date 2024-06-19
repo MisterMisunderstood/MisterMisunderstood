@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vista e depois recicle: Tecidos de gelatina no estilo Fa�a Voc� Mesmo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-gelatina-faca-voce-mesmo&id=010160240619)
+- [Buraco negro � visto entrando em atividade em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-visto-entrando-atividade-tempo-real&id=010130240619)
 - [Bateria de cimento poder� transformar sua casa numa bateria gigante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cimento-podera-transformar-sua-casa-numa-bateria-gigante&id=010115240619)
 - [Quer uma liga met�lica melhor? Fa�a um coquetel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quer-liga-metalica-melhor-faca-coquetel&id=010170240618)
 - [Filmes eletrocr�micos: �culos de sol para suas janelas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filmes-eletrocromicos-oculos-sol-suas-janelas&id=010160240618)
 - [Antenas �pticas qu�nticas viabilizam medi��es no n�vel at�mico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-opticas-quanticas-viabilizam-medicoes-nivel-atomico&id=010165240618)
 - [Gestão de negócios: o que é e qual é a importância para as empresas](https://www.alura.com.br/artigos/gestao-de-negocios)
-- [Componente l�gico l�quido imita intelig�ncia das plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-logico-liquido-imita-inteligencia-plantas&id=010180240617)
-- [Este material controla a emiss�o de calor de um objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-capaz-controlar-emissao-calor-objeto&id=010170240617)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
