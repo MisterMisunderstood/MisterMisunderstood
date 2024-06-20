@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord: o que é e como participar da comunidade da Alura?](https://www.alura.com.br/artigos/discord)
 - [Hubble captura primeira imagem usando um �nico girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-captura-primeira-imagem-usando-unico-giroscopio&id=010175240619)
 - [Vista e depois recicle: Tecidos de gelatina no estilo Fa�a Voc� Mesmo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-gelatina-faca-voce-mesmo&id=010160240619)
 - [Buraco negro � visto entrando em atividade em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-visto-entrando-atividade-tempo-real&id=010130240619)
 - [Bateria de cimento poder� transformar sua casa numa bateria gigante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cimento-podera-transformar-sua-casa-numa-bateria-gigante&id=010115240619)
+- [Discord: o que é e como participar da comunidade da Alura?](https://www.alura.com.br/artigos/discord)
 - [Ingestão de dados em tempo real no Data Lake com AWS Kinesis](https://www.alura.com.br/artigos/aws-data-lake)
 - [Quer uma liga met�lica melhor? Fa�a um coquetel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quer-liga-metalica-melhor-faca-coquetel&id=010170240618)
 <!-- BLOG-POST-LIST:END -->
