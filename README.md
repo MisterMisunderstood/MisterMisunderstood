@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Framer: como criar um site com inteligência artificial](https://www.alura.com.br/artigos/framer)
 - [Superf�cies de madeira inoculam v�rus em quest�o de minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propriedades-antivirais-da-madeira&id=020160240620)
 - [Criada uma nova classe de materiais, os g�is v�treos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-nova-classe-materiais-geis-vitreos&id=010160240620)
+- [T�cnica brasileira aprimora produ��o dos revolucion�rios pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-brasileira-aprimora-producao-revolucionarios-pontos-quanticos&id=010110240620)
 - [Discord: o que é e como participar da comunidade da Alura?](https://www.alura.com.br/artigos/discord)
 - [Hubble captura primeira imagem usando um �nico girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-captura-primeira-imagem-usando-unico-giroscopio&id=010175240619)
 - [Vista e depois recicle: Tecidos de gelatina no estilo Fa�a Voc� Mesmo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-gelatina-faca-voce-mesmo&id=010160240619)
-- [Buraco negro � visto entrando em atividade em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-visto-entrando-atividade-tempo-real&id=010130240619)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
