@@ -126,9 +126,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Ondas transportam informa��es, mas onde na onda a informa��o viaja?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-transportam-informacoes-mas-onde-onda-informacao-viaja&id=010115240621)
 - [Teoria da gravidade teleparalela de Einstein alivia a tens�o de Hubble](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-gravidade-teleparalela-einstein-alivia-tensao-hubble&id=010130240621)
+- [Framer: como criar um site com inteligência artificial](https://www.alura.com.br/artigos/framer)
 - [Superf�cies de madeira inoculam v�rus em quest�o de minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propriedades-antivirais-da-madeira&id=020160240620)
 - [Criada uma nova classe de materiais, os g�is v�treos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-nova-classe-materiais-geis-vitreos&id=010160240620)
-- [Framer: como criar um site com inteligência artificial](https://www.alura.com.br/artigos/framer)
 - [T�cnica brasileira aprimora produ��o dos revolucion�rios pontos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-brasileira-aprimora-producao-revolucionarios-pontos-quanticos&id=010110240620)
 - [Hubble captura primeira imagem usando um �nico girosc�pio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hubble-captura-primeira-imagem-usando-unico-giroscopio&id=010175240619)
 <!-- BLOG-POST-LIST:END -->
