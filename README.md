@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-Driven Marketing: construindo estratégias de marketing guiadas por dados](https://www.alura.com.br/artigos/data-driven-marketing)
 - [Mem�rias de pr�xima gera��o t�m avan�o qu�druplo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-proxima-geracao-tem-avanco-quadruplo&id=010110240624)
 - [Eliminado um dos grandes obst�culos para computadores qu�nticos realistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eliminado-grandes-obstaculos-computadores-quanticos-realistas&id=010150240624)
 - [Baterias bacterianas coletam energia do solo, funcionando "para sempre"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-bacterianas-coletam-energia-solo-funcionando-sempre&id=010115240624)
 - [Cibersegurança: um guia sobre a proteção contra ameaças virtuais e como começar na área](https://www.alura.com.br/artigos/ciberseguranca)
 - [Ondas transportam informa��es, mas onde na onda a informa��o viaja?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-transportam-informacoes-mas-onde-onda-informacao-viaja&id=010115240621)
 - [Teoria da gravidade teleparalela de Einstein alivia a tens�o de Hubble](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-gravidade-teleparalela-einstein-alivia-tensao-hubble&id=010130240621)
-- [Framer: como criar um site com inteligência artificial](https://www.alura.com.br/artigos/framer)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
