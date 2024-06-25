@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Receita qu�ntica fica melhor polvilhada com a��car](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=receita-quantica-fica-melhor-polvilhada-acucar&id=010110240625)
 - [Estrela artificial promete elevar astronomia a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-artificial-promete-elevar-astronomia-novo-patamar&id=010130240624)
 - [Baterias bacterianas coletam energia do solo, funcionando "para sempre"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-bacterianas-coletam-energia-solo-funcionando-sempre&id=010115240624)
+- [Data-Driven Marketing: construindo estratégias de marketing guiadas por dados](https://www.alura.com.br/artigos/data-driven-marketing)
 - [Mem�rias de pr�xima gera��o t�m avan�o qu�druplo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-proxima-geracao-tem-avanco-quadruplo&id=010110240624)
-- [Eliminado um dos grandes obst�culos para computadores qu�nticos realistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eliminado-grandes-obstaculos-computadores-quanticos-realistas&id=010150240624)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
