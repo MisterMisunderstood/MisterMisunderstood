@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Teoria termodin�mica da computa��o mostra como computar gastando menos energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-termodinamica-computacao-mostra-como-computar-gastando-menos-energia&id=010150240625)
 - [Receita qu�ntica fica melhor polvilhada com a��car](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=receita-quantica-fica-melhor-polvilhada-acucar&id=010110240625)
 - [Estrela artificial promete elevar astronomia a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-artificial-promete-elevar-astronomia-novo-patamar&id=010130240624)
-- [Baterias bacterianas coletam energia do solo, funcionando "para sempre"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-bacterianas-coletam-energia-solo-funcionando-sempre&id=010115240624)
 - [Data-Driven Marketing: construindo estratégias de marketing guiadas por dados](https://www.alura.com.br/artigos/data-driven-marketing)
+- [Baterias bacterianas coletam energia do solo, funcionando "para sempre"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-bacterianas-coletam-energia-solo-funcionando-sempre&id=010115240624)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
