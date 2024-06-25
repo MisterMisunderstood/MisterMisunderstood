@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-Driven Marketing: construindo estratégias de marketing guiadas por dados](https://www.alura.com.br/artigos/data-driven-marketing)
 - [Estrela artificial promete elevar astronomia a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-artificial-promete-elevar-astronomia-novo-patamar&id=010130240624)
 - [Baterias bacterianas coletam energia do solo, funcionando "para sempre"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-bacterianas-coletam-energia-solo-funcionando-sempre&id=010115240624)
 - [Mem�rias de pr�xima gera��o t�m avan�o qu�druplo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-proxima-geracao-tem-avanco-quadruplo&id=010110240624)
 - [Eliminado um dos grandes obst�culos para computadores qu�nticos realistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eliminado-grandes-obstaculos-computadores-quanticos-realistas&id=010150240624)
+- [Data-Driven Marketing: construindo estratégias de marketing guiadas por dados](https://www.alura.com.br/artigos/data-driven-marketing)
 - [Cibersegurança: um guia sobre a proteção contra ameaças virtuais e como começar na área](https://www.alura.com.br/artigos/ciberseguranca)
 - [Ondas transportam informa��es, mas onde na onda a informa��o viaja?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-transportam-informacoes-mas-onde-onda-informacao-viaja&id=010115240621)
 <!-- BLOG-POST-LIST:END -->
