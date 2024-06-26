@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Zapier: o que é como criar automação de e-mail com inteligência artificial (IA)](https://www.alura.com.br/artigos/zapier)
 - [Recorde na medi��o de for�a em escala microsc�pica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-medicao-forca-escala-microscopica&id=010165240626)
 - [Cimento inspirado na madrep�rola � 19 vezes mais resistente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-inspirado-madreperola-19-vezes-mais-resistente&id=010160240626)
 - [Semana de carreira tech: descubra como graduações tech estão transformando o futuro | Alura + FIAP](https://www.alura.com.br/artigos/semana-de-carreira-graduacao-tech)
 - [Stable Diffusion: como gerar imagens com inteligência artificial](https://www.alura.com.br/artigos/stable-diffusion)
 - [China traz para a Terra primeiras amostras de rochas do lado oculto da Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=china-traz-terra-primeiras-amostras-rochas-lado-oculto-lua&id=020130240625)
 - [Novos dados refor�am: Precisamos de uma nova teoria da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-dados-contestam-teoria-cosmologica-padrao&id=010130240625)
-- [Teoria termodin�mica da computa��o mostra como computar gastando menos energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-termodinamica-computacao-mostra-como-computar-gastando-menos-energia&id=010150240625)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
