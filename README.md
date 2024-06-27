@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [UX Writing: dicas de como melhorar a experiência do usuário através da escrita](https://www.alura.com.br/artigos/ux-writing)
 - [Mat�ria controlada pela luz: Mude a cor e este mineral passa de condutor a isolante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-magnetita-alterar-rapidamente-condutor-isolante&id=010110240627)
 - [Medi��es de alta precis�o desafiam teorias sobre estrelas Cefeidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrelas-cefeidas-nao-bem-teorias-dizem&id=010130240627)
 - [Zapier: o que é como criar automação de e-mail com inteligência artificial (IA)](https://www.alura.com.br/artigos/zapier)
 - [Recorde na medi��o de for�a em escala microsc�pica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-medicao-forca-escala-microscopica&id=010165240626)
 - [Cimento inspirado na madrep�rola � 19 vezes mais resistente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-inspirado-madreperola-19-vezes-mais-resistente&id=010160240626)
 - [Semana de carreira tech: descubra como graduações tech estão transformando o futuro | Alura + FIAP](https://www.alura.com.br/artigos/semana-de-carreira-graduacao-tech)
-- [Stable Diffusion: como gerar imagens com inteligência artificial](https://www.alura.com.br/artigos/stable-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
