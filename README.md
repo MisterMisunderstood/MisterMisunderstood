@@ -127,9 +127,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gestão de processos: o que é e como fazer](https://www.alura.com.br/artigos/gestao-de-processos)
 - [Computadores inspirados no c�rebro conseguir�o mesmo destronar a concorr�ncia?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-inspirados-cerebro-conseguirao-mesmo-destronar-concorrencia&id=010150240628)
 - [Objeto � rastreado em velocidade recorde sem precisar capturar sua imagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objeto-rastreado-velocidade-recorde-sem-precisar-capturar-sua-imagem&id=010180240628)
+- [UX Writing: dicas de como melhorar a experiência do usuário através da escrita](https://www.alura.com.br/artigos/ux-writing)
 - [Pilares da Cria��o ganham nitidez e v�deo com visualiza��o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pilares-criacao-ganham-nitidez-video-visualizacao-3d&id=010175240627)
 - [NASA encomenda rebocador espacial para destruir Esta��o Espacial Internacional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-rebocador-espacial-destruir-estacao-espacial-internacional&id=020130240627)
-- [UX Writing: dicas de como melhorar a experiência do usuário através da escrita](https://www.alura.com.br/artigos/ux-writing)
 - [Mat�ria controlada pela luz: Mude a cor e este mineral passa de condutor a isolante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-magnetita-alterar-rapidamente-condutor-isolante&id=010110240627)
 <!-- BLOG-POST-LIST:END -->
 
