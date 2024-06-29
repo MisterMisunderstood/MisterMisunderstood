@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Rob�s com pele viva testam tecnologia �til para a medicina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-pele-viva-testam-tecnologia-util-medicina&id=020180240628)
 - [Gestão de processos: o que é e como fazer](https://www.alura.com.br/artigos/gestao-de-processos)
+- [Rob�s com pele viva testam tecnologia �til para a medicina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-pele-viva-testam-tecnologia-util-medicina&id=020180240628)
 - [Computadores inspirados no c�rebro conseguir�o mesmo destronar a concorr�ncia?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-inspirados-cerebro-conseguirao-mesmo-destronar-concorrencia&id=010150240628)
 - [Objeto � rastreado em velocidade recorde sem precisar capturar sua imagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objeto-rastreado-velocidade-recorde-sem-precisar-capturar-sua-imagem&id=010180240628)
 - [UX Writing: dicas de como melhorar a experiência do usuário através da escrita](https://www.alura.com.br/artigos/ux-writing)
