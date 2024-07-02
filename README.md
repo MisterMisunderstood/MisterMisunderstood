@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Low code e no code: o que é, para que serve e qual é a sua importância?](https://www.alura.com.br/artigos/low-code-no-code)
+- [�ltimo segmento do maior espelho de telesc�pio do mundo fica pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultimo-segmento-maior-espelho-telescopio-mundo-fica-pronto&id=010175240702)
 - [Novo recorde mundial na transmiss�o de dados por fibras �pticas comerciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-recorde-mundial-transmissao-dados-fibras-opticas-comerciais&id=020150240702)
 - [Cristal do tempo vira placa de circuito impresso para computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-vira-placa-circuito-impresso-computador-quantico&id=010150240702)
 - [Intelig�ncia na Borda: Chip de luz integra detec��o e computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-borda-chip-luz-integra-deteccao-computacao&id=010110240702)
 - [Supercouro sint�tico � feito de fibra de abacaxi e borracha natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercouro-sintetico-feito-fibra-abacaxi-borracha-natural&id=010160240702)
 - [Copywriting: conhecendo e desenvolvendo habilidades de escrita](https://www.alura.com.br/artigos/copywriting)
-- [Bolas de fogo de plasma do espa�o s�o geradas em laborat�rio pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolas-fogo-plasma-espaco-geradas-laboratorio-pela-primeira-vez&id=010130240701)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
