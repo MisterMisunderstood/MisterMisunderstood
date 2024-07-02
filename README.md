@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Copywriting: conhecendo e desenvolvendo habilidades de escrita](https://www.alura.com.br/artigos/copywriting)
 - [Bolas de fogo de plasma do espa�o s�o geradas em laborat�rio pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolas-fogo-plasma-espaco-geradas-laboratorio-pela-primeira-vez&id=010130240701)
 - [Hidrog�nio limpo � feito de res�duos agr�colas com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-produz-hidrogenio-residuos-agricolas-energia-solar&id=010115240701)
 - [Cientistas descobrem novo comportamento das membranas de filtra��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-descobrem-novo-comportamento-membranas-filtracao&id=010170240701)
-- [Gestão de processos: o que é e como fazer](https://www.alura.com.br/artigos/gestao-de-processos)
+- [Copywriting: conhecendo e desenvolvendo habilidades de escrita](https://www.alura.com.br/artigos/copywriting)
 - [Rob�s com pele viva testam tecnologia �til para a medicina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-pele-viva-testam-tecnologia-util-medicina&id=020180240628)
+- [Gestão de processos: o que é e como fazer](https://www.alura.com.br/artigos/gestao-de-processos)
 - [Computadores inspirados no c�rebro conseguir�o mesmo destronar a concorr�ncia?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-inspirados-cerebro-conseguirao-mesmo-destronar-concorrencia&id=010150240628)
 <!-- BLOG-POST-LIST:END -->
 
