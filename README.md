@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: Venv e Poetry para criar ambientes virtuais](https://www.alura.com.br/artigos/ven-poetry-no-python)
 - [Labirinto mais complexo do mundo resolve problemas considerados insol�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=labirinto-mais-complexo-mundo-resolve-problemas-considerados-insoluveis&id=010125240703)
 - [Chips de computador podem ter perda zero de energia na dimens�o 1,58](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-computador-ter-perda-zero-energia-dimensao-1-58&id=010150240703)
-- [�ltimo segmento do maior espelho de telesc�pio do mundo fica pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultimo-segmento-maior-espelho-telescopio-mundo-fica-pronto&id=010175240702)
 - [Low code e no code: o que é, para que serve e qual é a sua importância?](https://www.alura.com.br/artigos/low-code-no-code)
+- [�ltimo segmento do maior espelho de telesc�pio do mundo fica pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultimo-segmento-maior-espelho-telescopio-mundo-fica-pronto&id=010175240702)
 - [Novo recorde mundial na transmiss�o de dados por fibras �pticas comerciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-recorde-mundial-transmissao-dados-fibras-opticas-comerciais&id=020150240702)
 - [Cristal do tempo vira placa de circuito impresso para computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-vira-placa-circuito-impresso-computador-quantico&id=010150240702)
-- [Intelig�ncia na Borda: Chip de luz integra detec��o e computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-borda-chip-luz-integra-deteccao-computacao&id=010110240702)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
