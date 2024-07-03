@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Cristal do tempo vira placa de circuito impresso para computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-vira-placa-circuito-impresso-computador-quantico&id=010150240702)
 - [Intelig�ncia na Borda: Chip de luz integra detec��o e computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-borda-chip-luz-integra-deteccao-computacao&id=010110240702)
 - [Supercouro sint�tico � feito de fibra de abacaxi e borracha natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercouro-sintetico-feito-fibra-abacaxi-borracha-natural&id=010160240702)
-- [Bolas de fogo de plasma do espa�o s�o geradas em laborat�rio pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolas-fogo-plasma-espaco-geradas-laboratorio-pela-primeira-vez&id=010130240701)
+- [Copywriting: conhecendo e desenvolvendo habilidades de escrita](https://www.alura.com.br/artigos/copywriting)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
