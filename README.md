@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Python: Venv e Poetry para criar ambientes virtuais](https://www.alura.com.br/artigos/ven-poetry-no-python)
 - [Labirinto mais complexo do mundo resolve problemas considerados insol�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=labirinto-mais-complexo-mundo-resolve-problemas-considerados-insoluveis&id=010125240703)
 - [Chips de computador podem ter perda zero de energia na dimens�o 1,58](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-computador-ter-perda-zero-energia-dimensao-1-58&id=010150240703)
-- [�ltimo segmento do maior espelho de telesc�pio do mundo fica pronto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultimo-segmento-maior-espelho-telescopio-mundo-fica-pronto&id=010175240702)
+- [Low code e no code: o que é, para que serve e qual é a sua importância?](https://www.alura.com.br/artigos/low-code-no-code)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
