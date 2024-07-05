@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Tr�s inova��es juntam-se para viabilizar bateria barata, limpa e de carregamento r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tres-inovacoes-juntam-se-viabilizar-bateria-barata-limpa-carregamento-rapido&id=010115240705)
 - [Criptografia qu�ntica demonstrada em ambiente real usando "�tomos artificiais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-demonstrada-ambiente-real-usando-atomos-artificiais&id=010150240705)
+- [Back-End: o que é e um guia para iniciar na área](https://www.alura.com.br/artigos/backend)
 - [Eletr�nica abaixo do nan�metro: Primeiros transistores est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-abaixo-nanometro-primeiros-transistores-estao-prontos&id=010110240704)
 - [Bocal que muda de formato melhora muito a impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bocal-muda-formato-melhora-muito-impressao-3d&id=010170240704)
-- [Back-End: o que é e um guia para iniciar na área](https://www.alura.com.br/artigos/backend)
+- [Python: Venv e Poetry para criar ambientes virtuais](https://www.alura.com.br/artigos/ven-poetry-no-python)
 - [Labirinto mais complexo do mundo resolve problemas considerados insol�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=labirinto-mais-complexo-mundo-resolve-problemas-considerados-insoluveis&id=010125240703)
-- [Chips de computador podem ter perda zero de energia na dimens�o 1,58](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-computador-ter-perda-zero-energia-dimensao-1-58&id=010150240703)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
