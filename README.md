@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lan�ado protocolo para transmiss�o da sensa��o do tato pela internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hcti-protocolo-transmissao-sensacao-tato-pela-internet&id=010150240708)
+- [Constru��o de bases lunares usando solo da Lua n�o funciona como esperado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construcao-bases-lunares-usando-solo-lua-nao-funciona-como-esperado&id=010130240708)
+- [Rochas refor�am evid�ncias de impacto de cometa que mudou o clima da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rochas-reforcam-evidencias-impacto-cometa-mudou-clima-terra&id=010125240708)
 - [Dominando o Code Interpreter da OpenAI: um guia rápido](https://www.alura.com.br/artigos/code-interpreter)
 - [Tr�s inova��es juntam-se para viabilizar bateria barata, limpa e de carregamento r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tres-inovacoes-juntam-se-viabilizar-bateria-barata-limpa-carregamento-rapido&id=010115240705)
 - [Criptografia qu�ntica demonstrada em ambiente real usando "�tomos artificiais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-demonstrada-ambiente-real-usando-atomos-artificiais&id=010150240705)
-- [Eletr�nica abaixo do nan�metro: Primeiros transistores est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-abaixo-nanometro-primeiros-transistores-estao-prontos&id=010110240704)
-- [Bocal que muda de formato melhora muito a impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bocal-muda-formato-melhora-muito-impressao-3d&id=010170240704)
 - [Back-End: o que é e um guia para iniciar na área](https://www.alura.com.br/artigos/backend)
-- [Labirinto mais complexo do mundo resolve problemas considerados insol�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=labirinto-mais-complexo-mundo-resolve-problemas-considerados-insoluveis&id=010125240703)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
