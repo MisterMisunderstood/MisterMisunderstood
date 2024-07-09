@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dominando o Code Interpreter da OpenAI: um guia rápido](https://www.alura.com.br/artigos/code-interpreter)
 - [Tr�s inova��es juntam-se para viabilizar bateria barata, limpa e de carregamento r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tres-inovacoes-juntam-se-viabilizar-bateria-barata-limpa-carregamento-rapido&id=010115240705)
 - [Criptografia qu�ntica demonstrada em ambiente real usando "�tomos artificiais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-demonstrada-ambiente-real-usando-atomos-artificiais&id=010150240705)
-- [Back-End: o que é e um guia para iniciar na área](https://www.alura.com.br/artigos/backend)
+- [Eletr�nica abaixo do nan�metro: Primeiros transistores est�o prontos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-abaixo-nanometro-primeiros-transistores-estao-prontos&id=010110240704)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
