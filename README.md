@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Material resfria 16� C sem gastar energia refletindo 104% da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-resfria-16-c-sem-gastar-energia-refletindo-104-luz&id=020115240709)
+- [Esta min�scula lente �ptica "enxerga" gases na atmosfera](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-minuscula-lente-optica-enxerga-gases-atmosfera&id=010160240709)
+- [Reator de fus�o nuclear ITER tem progresso e rev�s simult�neos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-iter-tem-progresso-reves-simultaneos&id=010115240709)
 - [Lan�ado protocolo para transmiss�o da sensa��o do tato pela internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hcti-protocolo-transmissao-sensacao-tato-pela-internet&id=010150240708)
 - [Constru��o de bases lunares usando solo da Lua n�o funciona como esperado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construcao-bases-lunares-usando-solo-lua-nao-funciona-como-esperado&id=010130240708)
 - [Rochas refor�am evid�ncias de impacto de cometa que mudou o clima da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rochas-reforcam-evidencias-impacto-cometa-mudou-clima-terra&id=010125240708)
 - [Dominando o Code Interpreter da OpenAI: um guia rápido](https://www.alura.com.br/artigos/code-interpreter)
-- [Tr�s inova��es juntam-se para viabilizar bateria barata, limpa e de carregamento r�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tres-inovacoes-juntam-se-viabilizar-bateria-barata-limpa-carregamento-rapido&id=010115240705)
-- [Criptografia qu�ntica demonstrada em ambiente real usando "�tomos artificiais"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-quantica-demonstrada-ambiente-real-usando-atomos-artificiais&id=010150240705)
-- [Back-End: o que é e um guia para iniciar na área](https://www.alura.com.br/artigos/backend)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
