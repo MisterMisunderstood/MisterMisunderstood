@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Power BI: explorando Cheat Sheet do DAX](https://www.alura.com.br/artigos/dax-cheat-sheet)
 - [Criado dispositivo ultrafino que converte luz infravermelha em vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-ultrafino-converte-luz-infravermelha-visivel-diretamente&id=010115240710)
 - [Metassuperf�cie quasicristalina pode viabilizar imagens hologr�ficas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-quasicristalina-viabilizar-imagens-holograficas-3d&id=010160240710)
 - [O que é iOS: o sistema operacional dos dispositivos móveis da Apple](https://www.alura.com.br/artigos/o-que-e-ios)
 - [Material resfria 16� C sem gastar energia refletindo 104% da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-resfria-16-c-sem-gastar-energia-refletindo-104-luz&id=020115240709)
 - [Esta min�scula lente �ptica "enxerga" gases na atmosfera](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-minuscula-lente-optica-enxerga-gases-atmosfera&id=010160240709)
 - [Reator de fus�o nuclear ITER tem progresso e rev�s simult�neos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-fusao-nuclear-iter-tem-progresso-reves-simultaneos&id=010115240709)
-- [Lan�ado protocolo para transmiss�o da sensa��o do tato pela internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hcti-protocolo-transmissao-sensacao-tato-pela-internet&id=010150240708)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
