@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando a técnica de boosting para melhorar modelos de regressão](https://www.alura.com.br/artigos/metodo-boosting)
 - [Internet qu�ntica fica mais pr�xima gra�as � eletr�nica convencional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-fica-mais-proxima-eletronica-convencional&id=010110240711)
 - [Motor port�til alimenta m�sculos artificiais de exoesqueletos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-portatil-alimenta-musculos-artificiais-dispositivos-assistivos&id=010180240711)
+- [Chip entrela�a quatro f�tons para garantir criptografia qu�ntica inviol�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-entrelaca-quatro-fotons-garantir-criptografia-quantica-inviolavel&id=020110240711)
 - [Power BI: explorando Cheat Sheet do DAX](https://www.alura.com.br/artigos/dax-cheat-sheet)
 - [Criado dispositivo ultrafino que converte luz infravermelha em vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-ultrafino-converte-luz-infravermelha-visivel-diretamente&id=010115240710)
 - [Metassuperf�cie quasicristalina pode viabilizar imagens hologr�ficas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-quasicristalina-viabilizar-imagens-holograficas-3d&id=010160240710)
-- [O que é iOS: o sistema operacional dos dispositivos móveis da Apple](https://www.alura.com.br/artigos/o-que-e-ios)
-- [Material resfria 16� C sem gastar energia refletindo 104% da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-resfria-16-c-sem-gastar-energia-refletindo-104-luz&id=020115240709)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
