@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando a técnica de boosting para melhorar modelos de regressão](https://www.alura.com.br/artigos/metodo-boosting)
 - [Internet qu�ntica fica mais pr�xima gra�as � eletr�nica convencional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-fica-mais-proxima-eletronica-convencional&id=010110240711)
 - [Motor port�til alimenta m�sculos artificiais de exoesqueletos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-portatil-alimenta-musculos-artificiais-dispositivos-assistivos&id=010180240711)
+- [Explorando a técnica de boosting para melhorar modelos de regressão](https://www.alura.com.br/artigos/metodo-boosting)
 - [Chip entrela�a quatro f�tons para garantir criptografia qu�ntica inviol�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-entrelaca-quatro-fotons-garantir-criptografia-quantica-inviolavel&id=020110240711)
-- [Power BI: explorando Cheat Sheet do DAX](https://www.alura.com.br/artigos/dax-cheat-sheet)
 - [Criado dispositivo ultrafino que converte luz infravermelha em vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-ultrafino-converte-luz-infravermelha-visivel-diretamente&id=010115240710)
 - [Metassuperf�cie quasicristalina pode viabilizar imagens hologr�ficas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-quasicristalina-viabilizar-imagens-holograficas-3d&id=010160240710)
+- [Power BI: explorando Cheat Sheet do DAX](https://www.alura.com.br/artigos/dax-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
