@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador mec�nico tem bits c�bicos que podem armazenar at� cinco dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-mecanico-feito-cubos-kirigami-nao-eletronicos&id=010150240715)
+- [Microve�culos s�o impulsionados por algas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microveiculos-impulsionados-algas-vivas&id=010165240715)
+- [Objetos s�o movidos com precis�o usando som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-movidos-precisao-usando-som&id=010170240715)
 - [Histórico da regulação de dados pessoais](https://www.alura.com.br/artigos/regulacao-dados-pessoais)
 - [PeLED: A tecnologia de tela que pode fazer quase tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peled-tecnologia-tela-fazer-quase-tudo&id=010150240712)
 - [�reas de grama artificial podem ficar 25 �C mais frias usando �gua da chuva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=areas-grama-artificial-ficar-25-c-mais-frias-usando-agua-chuva&id=010125240712)
 - [Explorando a técnica de boosting para melhorar modelos de regressão](https://www.alura.com.br/artigos/metodo-boosting)
-- [Internet qu�ntica fica mais pr�xima gra�as � eletr�nica convencional](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-fica-mais-proxima-eletronica-convencional&id=010110240711)
-- [Motor port�til alimenta m�sculos artificiais de exoesqueletos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-portatil-alimenta-musculos-artificiais-dispositivos-assistivos&id=010180240711)
-- [Chip entrela�a quatro f�tons para garantir criptografia qu�ntica inviol�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-entrelaca-quatro-fotons-garantir-criptografia-quantica-inviolavel&id=020110240711)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
