@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberta caverna na Lua que poder� abrigar base lunar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-caverna-lua-podera-abrigar-base-lunar&id=010130240716)
+- [Humanos dever�o ser proibidos de dirigir carros, defendem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dirigir-carro-podera-se-tornar-crime-futuro-defendem-especialistas&id=010170240716)
+- [Lan�adas as bases de uma nova arquitetura de computa��o de reservat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancadas-bases-nova-arquitetura-computacao-reservatorio&id=010150240716)
 - [Computador mec�nico tem bits c�bicos que podem armazenar at� cinco dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-mecanico-feito-cubos-kirigami-nao-eletronicos&id=010150240715)
 - [Microve�culos s�o impulsionados por algas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microveiculos-impulsionados-algas-vivas&id=010165240715)
 - [Objetos s�o movidos com precis�o usando som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objetos-movidos-precisao-usando-som&id=010170240715)
 - [MySQL Administrator: replicação de banco de dados](https://www.alura.com.br/artigos/mysql-administator)
-- [PeLED: A tecnologia de tela que pode fazer quase tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peled-tecnologia-tela-fazer-quase-tudo&id=010150240712)
-- [�reas de grama artificial podem ficar 25 �C mais frias usando �gua da chuva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=areas-grama-artificial-ficar-25-c-mais-frias-usando-agua-chuva&id=010125240712)
-- [Histórico da regulação de dados pessoais](https://www.alura.com.br/artigos/regulacao-dados-pessoais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
