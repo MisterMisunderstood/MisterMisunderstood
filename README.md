@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
 - [Internet qu�ntica usar� "dadodutos" espalhados por todo o pa�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-quantica-nivel-nacional-usara-dadoduto-selado-vacuo&id=010150240717)
 - [M�scara invis�vel mata v�rus e bloqueia 99,8% dos aeross�is](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mascara-invisivel-mata-virus-bloqueia-99-8-aerossois&id=010180240717)
 - [MySQL Administrator: geração e recuperação de Backups](https://www.alura.com.br/artigos/mysql-backup)
 - [Descoberta caverna na Lua que poder� abrigar base lunar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-caverna-lua-podera-abrigar-base-lunar&id=010130240716)
 - [Humanos dever�o ser proibidos de dirigir carros, defendem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dirigir-carro-podera-se-tornar-crime-futuro-defendem-especialistas&id=010170240716)
 - [Lan�adas as bases de uma nova arquitetura de computa��o de reservat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancadas-bases-nova-arquitetura-computacao-reservatorio&id=010150240716)
-- [MySQL Administrator: replicação de banco de dados](https://www.alura.com.br/artigos/mysql-administator)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
