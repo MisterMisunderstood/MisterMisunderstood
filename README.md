@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Quais as boas práticas de segurança para PWAs?](https://www.alura.com.br/artigos/praticas-de-seguranca-pwas)
 - [Sensores qu�nticos podem voltar ao passado para coletar dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-quanticos-voltar-passado-coletar-dados&id=010150240718)
 - [Levita��o no v�cuo com controle preciso agora dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-vacuo-controle-preciso-agora-dentro-chip&id=010165240718)
-- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
 - [Um pouco sobre séries temporais e suas aplicações](https://www.alura.com.br/artigos/series-temporais)
+- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
 - [Internet qu�ntica usar� "dadodutos" espalhados por todo o pa�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-quantica-nivel-nacional-usara-dadoduto-selado-vacuo&id=010150240717)
 - [M�scara invis�vel mata v�rus e bloqueia 99,8% dos aeross�is](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mascara-invisivel-mata-virus-bloqueia-99-8-aerossois&id=010180240717)
-- [MySQL Administrator: geração e recuperação de Backups](https://www.alura.com.br/artigos/mysql-backup)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
