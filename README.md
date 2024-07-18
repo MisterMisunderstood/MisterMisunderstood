@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
-- [Um pouco sobre séries temporais e suas aplicações](https://www.alura.com.br/artigos/series-temporais)
 - [Internet qu�ntica usar� "dadodutos" espalhados por todo o pa�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-quantica-nivel-nacional-usara-dadoduto-selado-vacuo&id=010150240717)
 - [M�scara invis�vel mata v�rus e bloqueia 99,8% dos aeross�is](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mascara-invisivel-mata-virus-bloqueia-99-8-aerossois&id=010180240717)
+- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
+- [Um pouco sobre séries temporais e suas aplicações](https://www.alura.com.br/artigos/series-temporais)
 - [MySQL Administrator: geração e recuperação de Backups](https://www.alura.com.br/artigos/mysql-backup)
 - [Descoberta caverna na Lua que poder� abrigar base lunar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-caverna-lua-podera-abrigar-base-lunar&id=010130240716)
 - [Humanos dever�o ser proibidos de dirigir carros, defendem especialistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dirigir-carro-podera-se-tornar-crime-futuro-defendem-especialistas&id=010170240716)
