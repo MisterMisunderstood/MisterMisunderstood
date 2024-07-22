@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Quais as boas práticas de segurança para PWAs?](https://www.alura.com.br/artigos/praticas-de-seguranca-pwas)
 - [Sensores qu�nticos podem voltar ao passado para coletar dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-quanticos-voltar-passado-coletar-dados&id=010150240718)
 - [Levita��o no v�cuo com controle preciso agora dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-vacuo-controle-preciso-agora-dentro-chip&id=010165240718)
-- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
+- [Internet qu�ntica usar� "dadodutos" espalhados por todo o pa�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-quantica-nivel-nacional-usara-dadoduto-selado-vacuo&id=010150240717)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
