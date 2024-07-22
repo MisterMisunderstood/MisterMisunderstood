@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tecidos inteligentes? Basta que a costura seja esperta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-inteligentes-basta-costura-seja-esperta&id=010110240722)
+- [Picol� de CO2 guardar� g�s de efeito estufa no fundo do oceano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=picole-co2-guardara-gas-efeito-estufa-fundo-oceano&id=010125240722)
 - [Tidyverse: o que é, como usá-lo e benefícios](https://www.alura.com.br/artigos/tidyverse)
 - [Tecnologia solar: Sistema inovador capta luz com efici�ncia in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-solar-sistema-inovador-capta-luz-eficiencia-inedita&id=010115240719)
 - [Bioconcreto e materiais de constru��o biog�nicos fabricados por bact�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioconcreto-materiais-construcao-biogenicos-fabricados-bacterias&id=010160240719)
 - [Quais as boas práticas de segurança para PWAs?](https://www.alura.com.br/artigos/praticas-de-seguranca-pwas)
 - [Sensores qu�nticos podem voltar ao passado para coletar dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-quanticos-voltar-passado-coletar-dados&id=010150240718)
-- [Levita��o no v�cuo com controle preciso agora dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-vacuo-controle-preciso-agora-dentro-chip&id=010165240718)
-- [Temos novidades na plataforma da Alura!](https://www.alura.com.br/artigos/novidades-plataforma-alura)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
