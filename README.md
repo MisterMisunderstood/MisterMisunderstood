@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [CRAN, R forge e GitHub: onde encontrar meu pacote?](https://www.alura.com.br/artigos/pacote-r)
+- [Rover Curiosidade descobre enxofre puro em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-curiosidade-descobre-enxofre-puro-marte&id=030130240723)
 - [Nasa cancela miss�o de rob� j� pronto para ir � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-cancela-missao-robo-ja-pronto-ir-lua&id=020130240723)
 - [Avi�es a hidrog�nio quase prontos para decolar com novos avan�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avioes-hidrogenio-quase-prontos-decolar-novos-avancos&id=010170240723)
 - [Modelos do campo gravitacional da Terra t�m falha fundamental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modelos-campo-gravitacional-terra-tem-falha-fundamental&id=010130240723)
 - [Importância e os desafios na manutenção da qualidade de dados na Cloud](https://www.alura.com.br/artigos/qualidade-de-dados-cloud)
 - [Tecidos inteligentes? Basta que a costura seja esperta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-inteligentes-basta-costura-seja-esperta&id=010110240722)
-- [Picol� de CO2 guardar� g�s de efeito estufa no fundo do oceano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=picole-co2-guardara-gas-efeito-estufa-fundo-oceano&id=010125240722)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
