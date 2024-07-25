@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Diferenças entre modelo lógico e modelo físico](https://www.alura.com.br/artigos/diferencas-modelo-logico-modelo-fisico)
 - [Superlubricantes: Estado sem atrito � alcan�ado em macroescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superlubricantes-estado-sem-atrito-alcancado-macroescala&id=010170240725)
 - [Tecido ativo inspirado nos tatus pode ser macio ou virar um escudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ativo-inspirado-tatus-macio-ou-virar-escudo&id=010180240725)
 - [Governança de dados em um Data Lake](https://www.alura.com.br/artigos/governanca-de-dados-data-lake)
 - [Pequenos drones movidos a energia solar poder�o ficar no ar para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-drones-movidos-energia-solar-poderao-ficar-ar-sempre&id=010180240724)
 - [Minerais no fundo do oceano funcionam como baterias e produzem "oxig�nio escuro"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minerais-fundo-oceano-funcionam-como-baterias-produzem-oxigenio-escuro&id=010125240724)
 - [Rover Curiosidade descobre enxofre puro em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-curiosidade-descobre-enxofre-puro-marte&id=030130240723)
-- [Nasa cancela miss�o de rob� j� pronto para ir � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-cancela-missao-robo-ja-pronto-ir-lua&id=020130240723)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
