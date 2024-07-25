@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Governança de dados em um Data Lake](https://www.alura.com.br/artigos/governanca-de-dados-data-lake)
 - [Pequenos drones movidos a energia solar poder�o ficar no ar para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-drones-movidos-energia-solar-poderao-ficar-ar-sempre&id=010180240724)
 - [Minerais no fundo do oceano funcionam como baterias e produzem "oxig�nio escuro"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minerais-fundo-oceano-funcionam-como-baterias-produzem-oxigenio-escuro&id=010125240724)
-- [Governança de dados em um Data Lake](https://www.alura.com.br/artigos/governanca-de-dados-data-lake)
 - [Rover Curiosidade descobre enxofre puro em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rover-curiosidade-descobre-enxofre-puro-marte&id=030130240723)
 - [Nasa cancela miss�o de rob� j� pronto para ir � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-cancela-missao-robo-ja-pronto-ir-lua&id=020130240723)
 - [CRAN, R forge e GitHub: onde encontrar meu pacote?](https://www.alura.com.br/artigos/pacote-r)
