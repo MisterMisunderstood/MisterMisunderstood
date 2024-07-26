@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Superlubrificantes: Estado sem atrito � alcan�ado em macroescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superlubricantes-estado-sem-atrito-alcancado-macroescala&id=010170240725)
 - [Tecido ativo inspirado nos tatus pode ser macio ou virar um escudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ativo-inspirado-tatus-macio-ou-virar-escudo&id=010180240725)
 - [Diferenças entre modelo lógico e modelo físico](https://www.alura.com.br/artigos/diferencas-modelo-logico-modelo-fisico)
+- [Governança de dados em um Data Lake](https://www.alura.com.br/artigos/governanca-de-dados-data-lake)
 - [Pequenos drones movidos a energia solar poder�o ficar no ar para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-drones-movidos-energia-solar-poderao-ficar-ar-sempre&id=010180240724)
-- [Minerais no fundo do oceano s�o baterias geol�gicas e produzem "oxig�nio escuro"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minerais-fundo-oceano-funcionam-como-baterias-produzem-oxigenio-escuro&id=010125240724)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
