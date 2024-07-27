@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Storytelling com dados: transforme seus dados em narrativas envolventes](https://www.alura.com.br/artigos/storytelling-com-dados)
 - [Sistema f�sico aprende tarefas sem precisar de um processador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-fisico-aprende-tarefas-sem-processador-computador&id=010150240726)
 - [Paradoxo de Fermi: Onde est�o as civiliza��es alien�genas avan�adas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-fermi-onde-estao-civilizacoes-alienigenas-avancadas&id=010130240726)
+- [Diferenças entre modelo lógico e modelo físico](https://www.alura.com.br/artigos/diferencas-modelo-logico-modelo-fisico)
 - [Superlubrificantes: Estado sem atrito � alcan�ado em macroescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superlubricantes-estado-sem-atrito-alcancado-macroescala&id=010170240725)
 - [Tecido ativo inspirado nos tatus pode ser macio ou virar um escudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ativo-inspirado-tatus-macio-ou-virar-escudo&id=010180240725)
-- [Diferenças entre modelo lógico e modelo físico](https://www.alura.com.br/artigos/diferencas-modelo-logico-modelo-fisico)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
