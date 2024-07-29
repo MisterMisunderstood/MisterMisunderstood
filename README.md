@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descoberto material para mem�rias de computador compactas e extremamente r�pidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-memorias-computador-compactas-extremamente-rapidas&id=010110240729)
 - [Bateria totalmente el�stica para eletr�nicos flex�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-totalmente-elastica-eletronicos-flexiveis&id=010115240729)
 - [Microsc�pio de for�a at�mica agora faz imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-forca-atomica-3d&id=010165240729)
-- [Rob� encontra em Marte rocha com poss�veis ind�cios de vida antiga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-perseveranca-encontra-marte-rocha-possiveis-indicios-vida&id=020130240726)
 - [Storytelling com dados: transforme seus dados em narrativas envolventes](https://www.alura.com.br/artigos/storytelling-com-dados)
+- [Rob� encontra em Marte rocha com poss�veis ind�cios de vida antiga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-perseveranca-encontra-marte-rocha-possiveis-indicios-vida&id=020130240726)
 - [Sistema f�sico aprende tarefas sem precisar de um processador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-fisico-aprende-tarefas-sem-processador-computador&id=010150240726)
 - [Paradoxo de Fermi: Onde est�o as civiliza��es alien�genas avan�adas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-fermi-onde-estao-civilizacoes-alienigenas-avancadas&id=010130240726)
 <!-- BLOG-POST-LIST:END -->
