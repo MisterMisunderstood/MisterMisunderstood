@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [�m� eletropermanente faz vibra��es desaparecerem sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-eletropermanente-faz-vibracoes-desaparecerem-sem-gastar-energia&id=010170240730)
 - [Maior explos�o c�smica j� vista veio de mat�ria e antimat�ria se aniquilando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-cosmica-ja-vista-veio-materia-antimateria-se-aniquilando&id=010130240730)
 - [M�sculo artificial para rob�s fica mais seguro e mais barato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-robos-fica-mais-seguro-mais-barato&id=010180240730)
+- [Processamento de dados na AWS: Glue x EMR](https://www.alura.com.br/artigos/processamento-de-dados-aws)
 - [Descoberto material para mem�rias de computador compactas e extremamente r�pidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-memorias-computador-compactas-extremamente-rapidas&id=010110240729)
-- [Bateria totalmente el�stica para eletr�nicos flex�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-totalmente-elastica-eletronicos-flexiveis&id=010115240729)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
