@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Madeira superpreta pode melhorar telesc�pios, c�lulas solares e joias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-superpreta-melhorar-telescopios-celulas-solares-joias&id=010160240731)
+- [Fa�a-se a luz. Mas como foi feita a mat�ria?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-se-luz-mas-como-foi-feita-materia&id=010130240731)
 - [Linguagem DAX: noções fundamentais com aplicação de boas práticas](https://www.alura.com.br/artigos/linguagem-dax)
 - [Plano Ultra: conheça o novo plano da Alura e explore a Luri Vision](https://www.alura.com.br/artigos/plano-ultra)
 - [�m� eletropermanente faz vibra��es desaparecerem sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-eletropermanente-faz-vibracoes-desaparecerem-sem-gastar-energia&id=010170240730)
 - [Maior explos�o c�smica j� vista veio de mat�ria e antimat�ria se aniquilando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-explosao-cosmica-ja-vista-veio-materia-antimateria-se-aniquilando&id=010130240730)
 - [M�sculo artificial para rob�s fica mais seguro e mais barato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-robos-fica-mais-seguro-mais-barato&id=010180240730)
-- [Processamento de dados na AWS: Glue x EMR](https://www.alura.com.br/artigos/processamento-de-dados-aws)
-- [Descoberto material para mem�rias de computador compactas e extremamente r�pidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-material-memorias-computador-compactas-extremamente-rapidas&id=010110240729)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
