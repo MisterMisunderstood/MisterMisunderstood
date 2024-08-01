@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [GetX: o canivete suíço do Flutter](https://www.alura.com.br/artigos/getx-canivete-suico)
 - [Nova t�cnica fabrica circuitos 3D para eletr�nica avan�ada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-fabrica-circuitos-3d-eletronica-avancada&id=010110240801)
 - [NASA apresenta resultados cient�ficos sobre asteroide atingido por sonda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-apresenta-resultados-cientificos-missao-desviou-asteroide&id=010130240801)
 - [Monorepos descomplicados: explorando o NX](https://www.alura.com.br/artigos/monorepos-nx)
 - [Madeira superpreta pode melhorar telesc�pios, c�lulas solares e joias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-superpreta-melhorar-telescopios-celulas-solares-joias&id=010160240731)
 - [Fa�a-se a luz. Mas como foi feita a mat�ria?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-se-luz-mas-como-foi-feita-materia&id=010130240731)
 - [Linguagem DAX: noções fundamentais com aplicação de boas práticas](https://www.alura.com.br/artigos/linguagem-dax)
-- [Plano Ultra: conheça o novo plano da Alura e explore a Luri Vision](https://www.alura.com.br/artigos/plano-ultra)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
