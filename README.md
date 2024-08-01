@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Monorepos descomplicados: explorando o NX](https://www.alura.com.br/artigos/monorepos-nx)
 - [Madeira superpreta pode melhorar telesc�pios, c�lulas solares e joias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-superpreta-melhorar-telescopios-celulas-solares-joias&id=010160240731)
 - [Fa�a-se a luz. Mas como foi feita a mat�ria?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-se-luz-mas-como-foi-feita-materia&id=010130240731)
+- [Monorepos descomplicados: explorando o NX](https://www.alura.com.br/artigos/monorepos-nx)
 - [Linguagem DAX: noções fundamentais com aplicação de boas práticas](https://www.alura.com.br/artigos/linguagem-dax)
 - [Plano Ultra: conheça o novo plano da Alura e explore a Luri Vision](https://www.alura.com.br/artigos/plano-ultra)
 - [�m� eletropermanente faz vibra��es desaparecerem sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-eletropermanente-faz-vibracoes-desaparecerem-sem-gastar-energia&id=010170240730)
