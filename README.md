@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Descobrimos como detectar naves alien�genas com propuls�o de dobra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=naves-alienigenas-propulsao-dobra-poderao-detectadas&id=010130240802)
 - [Computa��o qu�ntica nas Olimp�adas? Qubits d�o saltos e cambalhotas para diminuir erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-olimpiadas-spins-saltitantes-qubits-dando-cambalhotas&id=010110240802)
 - [Descoberto grafeno em amostras trazidas da Lua por nave chinesa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-grafeno-amostras-trazidas-lua-nave-chinesa&id=020130240801)
+- [GetX: o canivete suíço do Flutter](https://www.alura.com.br/artigos/getx-canivete-suico)
 - [Nova t�cnica fabrica circuitos 3D para eletr�nica avan�ada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-fabrica-circuitos-3d-eletronica-avancada&id=010110240801)
 - [NASA apresenta resultados cient�ficos sobre asteroide atingido por sonda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-apresenta-resultados-cientificos-missao-desviou-asteroide&id=010130240801)
-- [GetX: o canivete suíço do Flutter](https://www.alura.com.br/artigos/getx-canivete-suico)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
