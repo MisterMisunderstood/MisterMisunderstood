@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Crie seu próprio chatbot: um guia completo para iniciantes](https://www.alura.com.br/artigos/chatbot)
 - [Nova arquitetura computacional para IA � 1000 vezes mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonstrada-nova-arquitetura-computacional-inteligencia-artificial&id=010150240805)
 - [Filtro "milagroso" transforma LEDs comuns em componentes para a spintr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-milagroso-transforma-leds-comuns-componentes-spintronicos&id=010110240805)
 - [Microrrob�s voar�o melhor imitando abertura passiva das asas dos besouros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microrrobos-voarao-melhor-imitando-abertura-passiva-asas-besouros&id=010180240805)
 - [SoR, SoT e Spec no contexto de Engenharia de Dados](https://www.alura.com.br/artigos/sor-sot-spec)
 - [Descobrimos como detectar naves alien�genas com propuls�o de dobra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=naves-alienigenas-propulsao-dobra-poderao-detectadas&id=010130240802)
 - [Computa��o qu�ntica nas Olimp�adas? Qubits d�o saltos e cambalhotas para diminuir erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-olimpiadas-spins-saltitantes-qubits-dando-cambalhotas&id=010110240802)
-- [Descoberto grafeno em amostras trazidas da Lua por nave chinesa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-grafeno-amostras-trazidas-lua-nave-chinesa&id=020130240801)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
