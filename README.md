@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Governança de dados: o que é e dicas de como fazer](https://www.alura.com.br/artigos/governanca-de-dados)
 - [Novas evid�ncias de que o Universo pode ter o dobro da idade que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-evidencias-universo-ter-dobro-idade-pensavamos&id=010130240806)
 - [Evolu��o for�ada desbanca edi��o gen�tica para transformar bact�rias em f�bricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biofabricacao-selecao-natural-forcada-desbanca-edicao-genetica-transformar-bacterias-fabricas&id=010160240806)
 - [F�sicos fazem cobre ficar transparente e criam estado ex�tico da mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-fazem-cobre-ficar-transparente&id=010170240806)
 - [Crie seu próprio chatbot: um guia completo para iniciantes](https://www.alura.com.br/artigos/chatbot)
 - [Nova arquitetura computacional para IA � 1000 vezes mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonstrada-nova-arquitetura-computacional-inteligencia-artificial&id=010150240805)
 - [Filtro "milagroso" transforma LEDs comuns em componentes para a spintr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-milagroso-transforma-leds-comuns-componentes-spintronicos&id=010110240805)
-- [Microrrob�s voar�o melhor imitando abertura passiva das asas dos besouros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microrrobos-voarao-melhor-imitando-abertura-passiva-asas-besouros&id=010180240805)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
