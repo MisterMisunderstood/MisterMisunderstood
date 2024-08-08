@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dois passos mais perto da computa��o com luz: Porta l�gica e circuito integrado �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-mais-perto-computadores-opticos-porta-logica-circuito-integrado-luz&id=010150240808)
+- [Como sensor de um el�tron ir� medir campo magn�tico de um planeta inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-sensor-eletron-ira-medir-campo-magnetico-planeta-inteiro&id=010130240808)
 - [Como um forno de micro-ondas pode ajudar a domar a fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-forno-micro-ondas-ajudar-domar-fusao-nuclear&id=010115240807)
-- [Recorde mundial na microscopia mostra interior de microchip em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-microscopia-raios-x-mostra-interior-microchip-resolucao-4-nanometros&id=010110240807)
 - [BloC ou Cubit no Flutter: qual escolher?](https://www.alura.com.br/artigos/bloco-c-cubit)
+- [Recorde mundial na microscopia mostra interior de microchip em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-microscopia-raios-x-mostra-interior-microchip-resolucao-4-nanometros&id=010110240807)
 - [Governança de dados: o que é e dicas de como fazer](https://www.alura.com.br/artigos/governanca-de-dados)
 - [Novas evid�ncias de que o Universo pode ter o dobro da idade que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-evidencias-universo-ter-dobro-idade-pensavamos&id=010130240806)
-- [Evolu��o for�ada desbanca edi��o gen�tica para transformar bact�rias em f�bricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biofabricacao-selecao-natural-forcada-desbanca-edicao-genetica-transformar-bacterias-fabricas&id=010160240806)
-- [F�sicos fazem cobre ficar transparente e criam estado ex�tico da mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-fazem-cobre-ficar-transparente&id=010170240806)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
