@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [BloC ou Cubit no Flutter: qual escolher?](https://www.alura.com.br/artigos/bloco-c-cubit)
 - [Como um forno de micro-ondas pode ajudar a domar a fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-forno-micro-ondas-ajudar-domar-fusao-nuclear&id=010115240807)
 - [Recorde mundial na microscopia mostra interior de microchip em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-microscopia-raios-x-mostra-interior-microchip-resolucao-4-nanometros&id=010110240807)
+- [BloC ou Cubit no Flutter: qual escolher?](https://www.alura.com.br/artigos/bloco-c-cubit)
 - [Governança de dados: o que é e dicas de como fazer](https://www.alura.com.br/artigos/governanca-de-dados)
 - [Novas evid�ncias de que o Universo pode ter o dobro da idade que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novas-evidencias-universo-ter-dobro-idade-pensavamos&id=010130240806)
 - [Evolu��o for�ada desbanca edi��o gen�tica para transformar bact�rias em f�bricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biofabricacao-selecao-natural-forcada-desbanca-edicao-genetica-transformar-bacterias-fabricas&id=010160240806)
