@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Linguagem R: um guia completo sobre essa linguagem para iniciantes](https://www.alura.com.br/artigos/linguagem-r)
 - [Pir�mide usa luz para processar rede neural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piramide-luz-processar-rede-neural-difrativa&id=010150240809)
 - [Avi�es modernos e mais econ�micos causam mais aquecimento do que avi�es antigos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avioes-modernos-mais-economicos-causam-mais-aquecimento-avioes-antigos&id=010125240809)
 - [SEO Centrado no usuário: empatia e técnica na criação de conteúdo](https://www.alura.com.br/artigos/conteudo-centrado-no-usuario)
 - [Dois passos mais perto da computa��o com luz: Porta l�gica e circuito integrado �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-mais-perto-computadores-opticos-porta-logica-circuito-integrado-luz&id=010150240808)
 - [Como sensor de um el�tron ir� medir campo magn�tico de um planeta inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-sensor-eletron-ira-medir-campo-magnetico-planeta-inteiro&id=010130240808)
 - [BloC ou Cubit no Flutter: qual escolher?](https://www.alura.com.br/artigos/bloco-c-cubit)
-- [Como um forno de micro-ondas pode ajudar a domar a fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-forno-micro-ondas-ajudar-domar-fusao-nuclear&id=010115240807)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
