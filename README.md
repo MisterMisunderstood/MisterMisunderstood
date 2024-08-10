@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [SEO Centrado no usuário: empatia e técnica na criação de conteúdo](https://www.alura.com.br/artigos/conteudo-centrado-no-usuario)
 - [Dois passos mais perto da computa��o com luz: Porta l�gica e circuito integrado �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-mais-perto-computadores-opticos-porta-logica-circuito-integrado-luz&id=010150240808)
 - [Como sensor de um el�tron ir� medir campo magn�tico de um planeta inteiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-sensor-eletron-ira-medir-campo-magnetico-planeta-inteiro&id=010130240808)
-- [Como um forno de micro-ondas pode ajudar a domar a fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-forno-micro-ondas-ajudar-domar-fusao-nuclear&id=010115240807)
+- [BloC ou Cubit no Flutter: qual escolher?](https://www.alura.com.br/artigos/bloco-c-cubit)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
