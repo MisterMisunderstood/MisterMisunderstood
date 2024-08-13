@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Resfriamento passivo, sem gasto de energia, agora feito por materiais coloridos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-passivo-materiais-coloridos&id=010170240813)
+- [Olho composto artificial vai revolucionar vis�o rob�tica com menor custo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=olho-composto-artificial-vai-revolucionar-visao-robotica-menor-custo&id=010180240813)
+- [Levita��o cria nova t�cnica para detectar part�culas ex�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-cria-nova-tecnica-detectar-particulas-exoticas&id=010165240813)
 - [Bin�culo de lentes planas promete alavancar computa��o alternativa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=binoculo-lentes-planas-promete-alavancar-computacao-espacial&id=010150240812)
 - [Microsc�pio revela as menores estruturas da vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-revela-menores-estruturas-vida&id=010165240812)
 - [In�dito cristal de cargas el�tricas abre novos caminhos para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-cargas-eletricas&id=010110240812)
 - [Linguagem R: um guia completo sobre essa linguagem para iniciantes](https://www.alura.com.br/artigos/linguagem-r)
-- [Pir�mide usa luz para processar rede neural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piramide-luz-processar-rede-neural-difrativa&id=010150240809)
-- [Avi�es modernos e mais econ�micos causam mais aquecimento do que avi�es antigos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avioes-modernos-mais-economicos-causam-mais-aquecimento-avioes-antigos&id=010125240809)
-- [Dois passos mais perto da computa��o com luz: Porta l�gica e circuito integrado �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-passos-mais-perto-computadores-opticos-porta-logica-circuito-integrado-luz&id=010150240808)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
