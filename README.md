@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Frameworks de Front-End: qual é o melhor? Como escolher?](https://www.alura.com.br/artigos/frameworks-de-front-end)
 - [Computador movido a ar monitora equipamento m�dico por uma fra��o do custo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-movido-ar-monitora-equipamento-medico-fracao-custo&id=010150240815)
 - [Tecido inteligente surpreende com capacidades multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-surpreende-capacidades-multifuncionais&id=010160240815)
 - [Carreira em dados: quais as habilidades necessárias e como está o mercado de trabalho](https://www.alura.com.br/artigos/carreira-em-dados)
 - [Ondas de mat�ria criam instrumento de medi��o ultrassens�vel no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-materia-criam-instrumento-medicao-ultrassensivel-espaco&id=010170240814)
 - [Redes neurais de luz finalmente operam usando apenas f�tons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=redes-neurais-luz-finalmente-operam-usando-apenas-fotons&id=010150240814)
 - [Liderança ambidestra: o que é e como desenvolver essa skill](https://www.alura.com.br/artigos/lideranca-ambidestra)
-- [Marte pode ter "oceanos subterr�neos", mas fundos demais para explorar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marte-ter-oceanos-subterraneos-mas-fundos-demais-explorar&id=010130240813)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
