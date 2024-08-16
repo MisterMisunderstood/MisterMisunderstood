@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [TL Draw: o que é e como escrever códigos com desenhos | Alura](https://www.alura.com.br/artigos/tl-draw)
 - [Miniaturiza��o sem fim? Rompido mais um limite da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-sem-fim-chips-rompido-mais-limite-microeletronica&id=010110240816)
 - [Nanopl�sticos s�o removidos da �gua com mais de 98% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoplasticos-removidos-agua-mais-98-eficiencia&id=010125240816)
 - [Frameworks de Front-End: qual é o melhor? Como escolher?](https://www.alura.com.br/artigos/frameworks-de-front-end)
 - [Computador movido a ar monitora equipamento m�dico por uma fra��o do custo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-movido-ar-monitora-equipamento-medico-fracao-custo&id=010150240815)
 - [Tecido inteligente surpreende com capacidades multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-surpreende-capacidades-multifuncionais&id=010160240815)
 - [Carreira em dados: quais as habilidades necessárias e como está o mercado de trabalho](https://www.alura.com.br/artigos/carreira-em-dados)
-- [Ondas de mat�ria criam instrumento de medi��o ultrassens�vel no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-materia-criam-instrumento-medicao-ultrassensivel-espaco&id=010170240814)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
