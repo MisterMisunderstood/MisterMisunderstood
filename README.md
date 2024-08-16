@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [TL Draw: o que é e como escrever códigos com desenhos | Alura](https://www.alura.com.br/artigos/tl-draw)
+- [TL Draw: o que é e como escrever códigos com desenhos](https://www.alura.com.br/artigos/tl-draw)
 - [Miniaturiza��o sem fim? Rompido mais um limite da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-sem-fim-chips-rompido-mais-limite-microeletronica&id=010110240816)
 - [Nanopl�sticos s�o removidos da �gua com mais de 98% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoplasticos-removidos-agua-mais-98-eficiencia&id=010125240816)
 - [Frameworks de Front-End: qual é o melhor? Como escolher?](https://www.alura.com.br/artigos/frameworks-de-front-end)
