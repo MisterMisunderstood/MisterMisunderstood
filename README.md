@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Computador movido a ar monitora equipamento m�dico por uma fra��o do custo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-movido-ar-monitora-equipamento-medico-fracao-custo&id=010150240815)
 - [Tecido inteligente surpreende com capacidades multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-surpreende-capacidades-multifuncionais&id=010160240815)
 - [Frameworks de Front-End: qual é o melhor? Como escolher?](https://www.alura.com.br/artigos/frameworks-de-front-end)
-- [Ondas de mat�ria criam instrumento de medi��o ultrassens�vel no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-materia-criam-instrumento-medicao-ultrassensivel-espaco&id=010170240814)
+- [Carreira em dados: quais as habilidades necessárias e como está o mercado de trabalho](https://www.alura.com.br/artigos/carreira-em-dados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
