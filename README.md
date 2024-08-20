@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Baterias do tamanho de gr�os de poeira para alimentar rob�s do tamanho de c�lulas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-graos-poeira-alimentar-robos-tamanho-celulas&id=010115240820)
 - [Criado um sensor qu�ntico para o mundo at�mico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-sensor-quantico-mundo-atomico&id=010165240820)
 - [� poss�vel reciclar concreto indefinidamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-reciclar-concreto-indefinidamente&id=010125240820)
-- [Observa��es contestam modelo-padr�o das explos�es solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-contestam-modelo-padrao-explosoes-solares&id=020130240819)
 - [Engenharia direta com o Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect)
+- [Observa��es contestam modelo-padr�o das explos�es solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-contestam-modelo-padrao-explosoes-solares&id=020130240819)
 - [B�ssola qu�ntica: A m�e de todos os sensores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bussola-quantica&id=010130240819)
 <!-- BLOG-POST-LIST:END -->
 
