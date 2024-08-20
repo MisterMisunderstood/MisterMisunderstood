@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia direta com o Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect)
 - [Observa��es contestam modelo-padr�o das explos�es solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-contestam-modelo-padrao-explosoes-solares&id=020130240819)
 - [B�ssola qu�ntica: A m�e de todos os sensores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bussola-quantica&id=010130240819)
 - [Metassuperf�cie cria canais de comunica��o de luz no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-espaco-temporal-cria-canais-comunicacao-luz-espaco-tempo&id=010150240819)
 - [Fibras musculares artificiais el�tricas: A nova for�a dos motores macios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-musculares-artificiais-eletricas-nova-forca-motores-macios&id=010180240819)
+- [Engenharia direta com o Power Architect](https://www.alura.com.br/artigos/engenharia-direta-power-architect)
 - [TL Draw: o que é e como escrever códigos com desenhos](https://www.alura.com.br/artigos/tl-draw)
 - [Miniaturiza��o sem fim? Rompido mais um limite da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-sem-fim-chips-rompido-mais-limite-microeletronica&id=010110240816)
 <!-- BLOG-POST-LIST:END -->
