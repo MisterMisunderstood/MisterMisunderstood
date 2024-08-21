@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps: como usar a abordagem que prioriza a segurança](https://www.alura.com.br/artigos/devsecops)
 - [Reator de indu��o magn�tica moderniza processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-termoquimico-inducao-magnetica&id=010170240821)
 - [Bits magn�ticos de alta densidade s�o fabricados por impress�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bits-magneticos-alta-densidade-fabricados-impressao&id=010110240821)
 - [Como fazer uma boa apresentação: um guia completo](https://www.alura.com.br/artigos/como-fazer-uma-apresentacao)
 - [Baterias do tamanho de gr�os de poeira para alimentar rob�s do tamanho de c�lulas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-graos-poeira-alimentar-robos-tamanho-celulas&id=010115240820)
 - [Criado um sensor qu�ntico para o mundo at�mico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-sensor-quantico-mundo-atomico&id=010165240820)
 - [� poss�vel reciclar concreto indefinidamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-possivel-reciclar-concreto-indefinidamente&id=010125240820)
-- [Observa��es contestam modelo-padr�o das explos�es solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-contestam-modelo-padrao-explosoes-solares&id=020130240819)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
