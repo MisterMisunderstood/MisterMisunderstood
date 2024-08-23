@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motor eletrost�tico alcan�a a escala macro e pode chegar a 5 HP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrostatico-macro&id=010170240823)
+- [El�trons de val�ncia s�o visualizados pela primeira vez e surpreendem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-valencia-visualizados-pela-primeira-vez&id=010160240823)
+- [Guia completo sobre Arquitetura da Informação](https://www.alura.com.br/artigos/arquitetura-da-informacao)
 - [Conhe�a o vers�til processador flu�dico para processamento de l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-liquido-conheca-versatil-plataforma-fluidica-processamento&id=010150240822)
 - [Detectado n�cleo de antimat�ria mais pesado j� visto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-antimateria-mais-pesado-ja-detectado-ate-hoje&id=010130240822)
-- [Guia completo sobre Arquitetura da Informação](https://www.alura.com.br/artigos/arquitetura-da-informacao)
-- [Reator de indu��o magn�tica moderniza processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-termoquimico-inducao-magnetica&id=010170240821)
-- [Bits magn�ticos de alta densidade s�o fabricados por impress�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bits-magneticos-alta-densidade-fabricados-impressao&id=010110240821)
 - [DevSecOps: como usar a abordagem que prioriza a segurança](https://www.alura.com.br/artigos/devsecops)
-- [Como fazer uma boa apresentação: um guia completo](https://www.alura.com.br/artigos/como-fazer-uma-apresentacao)
+- [Reator de indu��o magn�tica moderniza processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-termoquimico-inducao-magnetica&id=010170240821)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
