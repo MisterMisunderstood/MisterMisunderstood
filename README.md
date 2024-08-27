@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o completa com DNA: Nova tecnologia armazena e processa dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-dna-completa&id=010150240827)
+- [Circuitos eletr�nicos de �xido met�lico s�o impressos em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-oxido-metalico-impressos-temperatura-ambiente&id=010110240827)
+- [Melhor experimento para procurar pela mat�ria escura n�o encontra nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fracassa-melhor-experimento-feito-procurar-pela-materia-escura&id=010130240827)
 - [Avan�o na energia solar imprime pain�is solares em qualquer objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avanco-energia-solar-imprime-paineis-solares-qualquer-objeto&id=020115240826)
 - [Nanogeradores multiplicam pot�ncia e chegam � casa dos watts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogeradores-multiplicam-potencia-chegam-casa-watts&id=010115240826)
 - [Tecido rob�tico macio oferece prote��o e conforto em temperaturas extremas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-robotico-macio-oferece-protecao-conforto-temperaturas-extremas&id=010180240826)
 - [Diferenças entre Governança e Gestão de dados](https://www.alura.com.br/artigos/diferenca-governanca-de-dados-e-gestao-de-dados)
-- [Motor eletrost�tico alcan�a a escala macro e pode chegar a 5 HP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-eletrostatico-macro&id=010170240823)
-- [El�trons de val�ncia s�o visualizados pela primeira vez. E surpreendem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-valencia-visualizados-pela-primeira-vez&id=010160240823)
-- [Conhe�a o vers�til processador flu�dico para processamento de l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-liquido-conheca-versatil-plataforma-fluidica-processamento&id=010150240822)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
