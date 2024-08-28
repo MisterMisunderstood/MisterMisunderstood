@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nasce uma nova metalurgia inspirada na natureza, muito mais amena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-camarao-aco-nasce-nova-metalurgia-inspiracao-biologica&id=010170240828)
+- [Caminho para uma Economia do Hidrog�nio n�o � t�o suave quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminho-economia-hidrogenio-nao-tao-suave-quanto-se-pensava&id=010115240828)
 - [Batido recorde de resolu��o em observa��es astron�micas a partir do solo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=batido-recorde-resolucao-observacoes-astronomicas-partir-solo&id=020130240827)
 - [Profiling de dados e qualidade: conhecendo bases e aumentando sua usabilidade](https://www.alura.com.br/artigos/profiling-qualidade-de-dados)
 - [Computa��o completa com DNA: Nova tecnologia armazena e processa dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-dna-completa&id=010150240827)
 - [Circuitos eletr�nicos de �xido met�lico s�o impressos em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-oxido-metalico-impressos-temperatura-ambiente&id=010110240827)
 - [Melhor experimento para procurar pela mat�ria escura n�o encontra nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fracassa-melhor-experimento-feito-procurar-pela-materia-escura&id=010130240827)
-- [Avan�o na energia solar imprime pain�is solares em qualquer objeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avanco-energia-solar-imprime-paineis-solares-qualquer-objeto&id=020115240826)
-- [Nanogeradores multiplicam pot�ncia e chegam � casa dos watts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogeradores-multiplicam-potencia-chegam-casa-watts&id=010115240826)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
