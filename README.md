@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Entendendo Webpack, Vite e Babel: ferramentas essenciais no mundo do front-end](https://www.alura.com.br/artigos/wepback-vite-babel)
 - [Correlação: compreendendo conceitos e sua aplicação](https://www.alura.com.br/artigos/correlacao)
+- [Descoberto campo el�trico fundamental do planeta Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-campo-eletrico-fundamental-planeta-terra&id=020130240829)
 - [Come�a busca por intelig�ncias extraterrestres em outras gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-busca-inteligencias-extraterrestres-outras-galaxias&id=010130240829)
 - [Refrigera��o de estado s�lido bate recorde mundial de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-estado-solido-bate-recorde-mundial-eficiencia&id=010170240829)
 - [AWS QuickSight: desvendando essa ferramenta](https://www.alura.com.br/artigos/aws-quicksight)
 - [Segurança do Next.js 14+ com Middlewares](https://www.alura.com.br/artigos/next-js-middlewares)
-- [Nasce uma nova metalurgia inspirada na natureza, muito mais amena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-camarao-aco-nasce-nova-metalurgia-inspiracao-biologica&id=010170240828)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
