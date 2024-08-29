@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Correlação: compreendendo conceitos e sua aplicação](https://www.alura.com.br/artigos/correlacao)
 - [Come�a busca por intelig�ncias extraterrestres em outras gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-busca-inteligencias-extraterrestres-outras-galaxias&id=010130240829)
 - [Refrigera��o de estado s�lido bate recorde mundial de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-estado-solido-bate-recorde-mundial-eficiencia&id=010170240829)
 - [Segurança do Next.js 14+ com Middlewares](https://www.alura.com.br/artigos/next-js-middlewares)
 - [AWS QuickSight: desvendando essa ferramenta](https://www.alura.com.br/artigos/aws-quicksight)
 - [Nasce uma nova metalurgia inspirada na natureza, muito mais amena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-camarao-aco-nasce-nova-metalurgia-inspiracao-biologica&id=010170240828)
 - [Caminho para uma Economia do Hidrog�nio n�o � t�o suave quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminho-economia-hidrogenio-nao-tao-suave-quanto-se-pensava&id=010115240828)
-- [Batido recorde de resolu��o em observa��es astron�micas a partir do solo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=batido-recorde-resolucao-observacoes-astronomicas-partir-solo&id=020130240827)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
