@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Segurança do Next.js 14+ com Middlewares](https://www.alura.com.br/artigos/next-js-middlewares)
-- [AWS QuickSight: desvendando essa ferramenta](https://www.alura.com.br/artigos/aws-quicksight)
 - [Nasce uma nova metalurgia inspirada na natureza, muito mais amena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-camarao-aco-nasce-nova-metalurgia-inspiracao-biologica&id=010170240828)
 - [Caminho para uma Economia do Hidrog�nio n�o � t�o suave quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminho-economia-hidrogenio-nao-tao-suave-quanto-se-pensava&id=010115240828)
-- [Profiling de dados e qualidade: conhecendo bases e aumentando sua usabilidade](https://www.alura.com.br/artigos/profiling-qualidade-de-dados)
+- [Segurança do Next.js 14+ com Middlewares](https://www.alura.com.br/artigos/next-js-middlewares)
+- [AWS QuickSight: desvendando essa ferramenta](https://www.alura.com.br/artigos/aws-quicksight)
 - [Batido recorde de resolu��o em observa��es astron�micas a partir do solo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=batido-recorde-resolucao-observacoes-astronomicas-partir-solo&id=020130240827)
+- [Profiling de dados e qualidade: conhecendo bases e aumentando sua usabilidade](https://www.alura.com.br/artigos/profiling-qualidade-de-dados)
 - [Computa��o completa com DNA: Nova tecnologia armazena e processa dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-dna-completa&id=010150240827)
 <!-- BLOG-POST-LIST:END -->
 
