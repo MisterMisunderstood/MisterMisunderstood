@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Revestimento mediterr�neo faz tecidos resfriarem sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-calcario-faz-tecidos-resfriarem-sob-sol&id=010160240830)
+- [Sensor detecta part�culas mil vezes menores que comprimento de onda da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-detecta-particulas-mil-vezes-menores-comprimento-onda-luz&id=010165240830)
 - [Descoberto campo el�trico fundamental do planeta Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-campo-eletrico-fundamental-planeta-terra&id=020130240829)
 - [Come�a busca por intelig�ncias extraterrestres em outras gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comeca-busca-inteligencias-extraterrestres-outras-galaxias&id=010130240829)
 - [Refrigera��o de estado s�lido bate recorde mundial de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-estado-solido-bate-recorde-mundial-eficiencia&id=010170240829)
 - [Entendendo Webpack, Vite e Babel: ferramentas essenciais no mundo do front-end](https://www.alura.com.br/artigos/wepback-vite-babel)
 - [Correlação: compreendendo conceitos e sua aplicação](https://www.alura.com.br/artigos/correlacao)
-- [Nasce uma nova metalurgia inspirada na natureza, muito mais amena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=do-camarao-aco-nasce-nova-metalurgia-inspiracao-biologica&id=010170240828)
-- [Caminho para uma Economia do Hidrog�nio n�o � t�o suave quanto se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminho-economia-hidrogenio-nao-tao-suave-quanto-se-pensava&id=010115240828)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
