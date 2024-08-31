@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [O que é e para que serve Data Catalog e Dicionário de Dados?](https://www.alura.com.br/artigos/data-catalog-e-dicionario-de-dados)
 - [Revestimento mediterr�neo faz tecidos resfriarem sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-calcario-faz-tecidos-resfriarem-sob-sol&id=010160240830)
 - [Sensor detecta part�culas mil vezes menores que comprimento de onda da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-detecta-particulas-mil-vezes-menores-comprimento-onda-luz&id=010165240830)
-- [Descoberto campo el�trico fundamental do planeta Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-campo-eletrico-fundamental-planeta-terra&id=020130240829)
 - [Entendendo Webpack, Vite e Babel: ferramentas essenciais no mundo do front-end](https://www.alura.com.br/artigos/wepback-vite-babel)
 - [Correlação: compreendendo conceitos e sua aplicação](https://www.alura.com.br/artigos/correlacao)
+- [Descoberto campo el�trico fundamental do planeta Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-campo-eletrico-fundamental-planeta-terra&id=020130240829)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
