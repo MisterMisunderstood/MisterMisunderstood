@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Concentradores solares em forma de folha aumentam efici�ncia da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concentradores-solares-forma-folha-aumentam-eficiencia-energia-solar&id=010115240902)
+- [Tecnologia qu�mica usa luz para gravar e apagar imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-quimica-usa-luz-gravar-apagar-imagens-3d&id=010150240902)
 - [Desvendando os service workers: ciclo de vida e atualização](https://www.alura.com.br/artigos/service-worker)
 - [O que é e para que serve Data Catalog e Dicionário de Dados?](https://www.alura.com.br/artigos/data-catalog-e-dicionario-de-dados)
 - [Revestimento mediterr�neo faz tecidos resfriarem sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-calcario-faz-tecidos-resfriarem-sob-sol&id=010160240830)
 - [Sensor detecta part�culas mil vezes menores que comprimento de onda da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-detecta-particulas-mil-vezes-menores-comprimento-onda-luz&id=010165240830)
 - [Descoberto campo el�trico fundamental do planeta Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-campo-eletrico-fundamental-planeta-terra&id=020130240829)
-- [Entendendo Webpack, Vite e Babel: ferramentas essenciais no mundo do front-end](https://www.alura.com.br/artigos/wepback-vite-babel)
-- [Correlação: compreendendo conceitos e sua aplicação](https://www.alura.com.br/artigos/correlacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
