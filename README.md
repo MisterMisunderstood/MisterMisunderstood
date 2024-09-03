@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Guia para manipular eventos no DOM com JavaScript: técnicas e exemplos práticos](https://www.alura.com.br/artigos/eventos-do-dom)
+- [Persistência de Dados no Flutter: o que é? Qual ferramenta usar?](https://www.alura.com.br/artigos/alternativas-de-persistencia-de-dados-com-flutter)
 - [Reinven��o da roda: Inventando uma roda que consegue subir escadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reinventando-roda-inventando-rodas-conseguem-subir-escadas&id=010180240903)
 - [Pepitas de ouro podem se formar pela eletricidade gerada por terremotos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-pepitas-ouro-se-formam-pela-eletricidade-gerada-pelos-terremotos&id=010125240903)
 - [Vem a� mais um semicondutor promissor, e j� fabricado em equipamento industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vem-ai-mais-semicondutor-promissor-ja-fabricado-equipamento-industrial&id=010110240903)
 - [Como criar animações incríveis com CSS](https://www.alura.com.br/artigos/animacoes-com-css)
 - [O papel do DBA: responsabilidades e habilidades essenciais no gerenciamento de bancos de dados](https://www.alura.com.br/artigos/administrador-de-banco-de-dados)
-- [Exist�ncia do Planeta 9 � uma certeza matem�tica, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=existencia-planeta-9-certeza-estatistica-dizem-cientistas&id=010130240902)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
