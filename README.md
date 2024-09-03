@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar animações incríveis com CSS](https://www.alura.com.br/artigos/animacoes-com-css)
-- [O papel do DBA: responsabilidades e habilidades essenciais no gerenciamento de bancos de dados](https://www.alura.com.br/artigos/administrador-de-banco-de-dados)
 - [Exist�ncia do Planeta 9 � uma certeza matem�tica, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=existencia-planeta-9-certeza-estatistica-dizem-cientistas&id=010130240902)
 - [Concentradores solares em forma de folha aumentam efici�ncia da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concentradores-solares-forma-folha-aumentam-eficiencia-energia-solar&id=010115240902)
 - [Tecnologia qu�mica usa luz para gravar e apagar imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-quimica-usa-luz-gravar-apagar-imagens-3d&id=010150240902)
+- [Como criar animações incríveis com CSS](https://www.alura.com.br/artigos/animacoes-com-css)
+- [O papel do DBA: responsabilidades e habilidades essenciais no gerenciamento de bancos de dados](https://www.alura.com.br/artigos/administrador-de-banco-de-dados)
 - [O que é e para que serve Data Catalog e Dicionário de Dados?](https://www.alura.com.br/artigos/data-catalog-e-dicionario-de-dados)
 - [Desvendando os service workers: ciclo de vida e atualização](https://www.alura.com.br/artigos/service-worker)
 <!-- BLOG-POST-LIST:END -->
