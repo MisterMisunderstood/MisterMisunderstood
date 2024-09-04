@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sistema revolucion�rio transporta 10 kW de calor sem usar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alca-calor-transporta-calor-sem-usar-eletricidade&id=010170240904)
+- [O que s�o metassuperf�cies?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-metassuperficies&id=010160240904)
 - [Guia para manipular eventos no DOM com JavaScript: técnicas e exemplos práticos](https://www.alura.com.br/artigos/eventos-do-dom)
 - [Persistência de Dados no Flutter: o que é? Qual ferramenta usar?](https://www.alura.com.br/artigos/alternativas-de-persistencia-de-dados-com-flutter)
 - [Reinven��o da roda: Inventando uma roda que consegue subir escadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reinventando-roda-inventando-rodas-conseguem-subir-escadas&id=010180240903)
 - [Pepitas de ouro podem se formar pela eletricidade gerada por terremotos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-pepitas-ouro-se-formam-pela-eletricidade-gerada-pelos-terremotos&id=010125240903)
 - [Vem a� mais um semicondutor promissor, e j� fabricado em equipamento industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vem-ai-mais-semicondutor-promissor-ja-fabricado-equipamento-industrial&id=010110240903)
-- [Exist�ncia do Planeta 9 � uma certeza matem�tica, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=existencia-planeta-9-certeza-estatistica-dizem-cientistas&id=010130240902)
-- [Concentradores solares em forma de folha aumentam efici�ncia da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concentradores-solares-forma-folha-aumentam-eficiencia-energia-solar&id=010115240902)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
