@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistema revolucion�rio transporta 10 kW de calor sem usar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alca-calor-transporta-calor-sem-usar-eletricidade&id=010170240904)
-- [O que s�o metassuperf�cies?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-metassuperficies&id=010160240904)
 - [IA Generativa como ferramenta para estratégia de SEO Centrado no Usuário](https://www.alura.com.br/artigos/ia-generativa-para-conteudo)
 - [Modernizando os testes no angular: alternativas ao Karma e caminhos para a migração](https://www.alura.com.br/artigos/alternativas-ao-karma)
+- [Sistema revolucion�rio transporta 10 kW de calor sem usar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alca-calor-transporta-calor-sem-usar-eletricidade&id=010170240904)
+- [O que s�o metassuperf�cies?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-metassuperficies&id=010160240904)
 - [Guia para manipular eventos no DOM com JavaScript: técnicas e exemplos práticos](https://www.alura.com.br/artigos/eventos-do-dom)
 - [Persistência de Dados no Flutter: o que é? Qual ferramenta usar?](https://www.alura.com.br/artigos/alternativas-de-persistencia-de-dados-com-flutter)
 - [Reinven��o da roda: Inventando uma roda que consegue subir escadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reinventando-roda-inventando-rodas-conseguem-subir-escadas&id=010180240903)
