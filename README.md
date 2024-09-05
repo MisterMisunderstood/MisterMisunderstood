@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [10 filmes de inteligência artificial para maratonar em 2024](https://www.alura.com.br/artigos/filmes-sobre-inteligencia-artificial)
 - [Neurochip 2.0: Interface c�rebro-m�quina cabe inteira em um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-2-0-interface-cerebro-maquina-cabe-inteira-chip&id=010150240905)
 - [Criado term�metro para medir temperatura de objetos em nanoescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-termometro-medir-temperatura-objetos-nanoescala&id=010165240905)
-- [IA Generativa como ferramenta para estratégia de SEO Centrado no Usuário](https://www.alura.com.br/artigos/ia-generativa-para-conteudo)
 - [Modernizando os testes no angular: alternativas ao Karma e caminhos para a migração](https://www.alura.com.br/artigos/alternativas-ao-karma)
+- [IA Generativa como ferramenta para estratégia de SEO Centrado no Usuário](https://www.alura.com.br/artigos/ia-generativa-para-conteudo)
 - [Sistema revolucion�rio transporta 10 kW de calor sem usar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alca-calor-transporta-calor-sem-usar-eletricidade&id=010170240904)
 - [O que s�o metassuperf�cies?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-metassuperficies&id=010160240904)
-- [Guia para manipular eventos no DOM com JavaScript: técnicas e exemplos práticos](https://www.alura.com.br/artigos/eventos-do-dom)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
