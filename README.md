@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurochip 2.0: Interface c�rebro-m�quina cabe inteira em um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-2-0-interface-cerebro-maquina-cabe-inteira-chip&id=010150240905)
-- [Criado term�metro para medir temperatura de objetos em nanoescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-termometro-medir-temperatura-objetos-nanoescala&id=010165240905)
+- [Primeira carga, na f�brica, aumenta vida �til das baterias em 50%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-carga-fabrica-aumenta-vida-util-baterias-50&id=010115240906)
+- [IA calcula com precis�o os par�metros de configura��o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-calcula-precisao-parametros-configuracao-universo&id=010130240906)
 - [Inteligência artificial no marketing digital – impactos e oportunidades](https://www.alura.com.br/artigos/inteligencia-artificial-no-marketing-digital)
 - [10 filmes de inteligência artificial para maratonar em 2024](https://www.alura.com.br/artigos/filmes-sobre-inteligencia-artificial)
-- [Sistema revolucion�rio transporta 10 kW de calor sem usar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alca-calor-transporta-calor-sem-usar-eletricidade&id=010170240904)
-- [O que s�o metassuperf�cies?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-metassuperficies&id=010160240904)
+- [Neurochip 2.0: Interface c�rebro-m�quina cabe inteira em um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-2-0-interface-cerebro-maquina-cabe-inteira-chip&id=010150240905)
+- [Criado term�metro para medir temperatura de objetos em nanoescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-termometro-medir-temperatura-objetos-nanoescala&id=010165240905)
 - [Modernizando os testes no angular: alternativas ao Karma e caminhos para a migração](https://www.alura.com.br/artigos/alternativas-ao-karma)
 <!-- BLOG-POST-LIST:END -->
 
