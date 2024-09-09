@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Blockchain: o que é e como usar essa tecnologia](https://www.alura.com.br/artigos/blockchain)
+- [Webhooks: o que é, como funciona e como aplicar na prática](https://www.alura.com.br/artigos/webhooks)
 - [Processador radiofot�nico multiplica paralelismo por 100](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-fotonico-canal-radio-paralelismo&id=010150240909)
 - [O que s�o materiais de van der Waals?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-sao-materiais-de-van-der-waals&id=010165240909)
 - [Descoberta maneira mais inteligente de reciclar espuma de colch�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-maneira-mais-inteligente-reciclar-poliuretano&id=010125240909)
-- [O que é Spring Boot e como dar os seus primeiros passos](https://www.alura.com.br/artigos/spring-boot)
 - [Redes sociais: impactos e oportunidades](https://www.alura.com.br/artigos/redes-sociais)
-- [Primeira carga, na f�brica, aumenta vida �til das baterias em 50%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-carga-fabrica-aumenta-vida-util-baterias-50&id=010115240906)
+- [O que é Spring Boot e como dar os seus primeiros passos](https://www.alura.com.br/artigos/spring-boot)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
