@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Laser de som mais potente j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-mais-potente-ja-feito&id=010115240910)
+- [Descoberto anel externo no Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tem-anel-externo&id=020130240910)
+- [Gal�xias s�o muito maiores do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-muito-maiores-pensavamos&id=010130240910)
 - [Processador radiofot�nico multiplica paralelismo por 100](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-fotonico-canal-radio-paralelismo&id=010150240909)
 - [O que s�o materiais de van der Waals?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-sao-materiais-de-van-der-waals&id=010165240909)
 - [Descoberta maneira mais inteligente de reciclar espuma de colch�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-maneira-mais-inteligente-reciclar-poliuretano&id=010125240909)
 - [Blockchain: o que é e como usar essa tecnologia](https://www.alura.com.br/artigos/blockchain)
-- [Webhooks: o que é, como funciona e como aplicar na prática](https://www.alura.com.br/artigos/webhooks)
-- [Redes sociais: impactos e oportunidades](https://www.alura.com.br/artigos/redes-sociais)
-- [O que é Spring Boot e como dar os seus primeiros passos](https://www.alura.com.br/artigos/spring-boot)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
