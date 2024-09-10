@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Novidades do PHP 8.4](https://www.alura.com.br/artigos/novidades-php-8-4)
+- [Hugging face: o que é e como usar essa plataforma](https://www.alura.com.br/artigos/hugging-face)
+- [Utilizando o Dio para comunicação com APIs](https://www.alura.com.br/artigos/dio-para-comunicacao-com-api)
 - [Laser de som mais potente j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-mais-potente-ja-feito&id=010115240910)
 - [Descoberto anel externo no Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tem-anel-externo&id=020130240910)
 - [Gal�xias s�o muito maiores do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-muito-maiores-pensavamos&id=010130240910)
 - [Webhooks: o que é, como funciona e como aplicar na prática](https://www.alura.com.br/artigos/webhooks)
-- [Blockchain: o que é e como usar essa tecnologia](https://www.alura.com.br/artigos/blockchain)
-- [Processador radiofot�nico multiplica paralelismo por 100](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-fotonico-canal-radio-paralelismo&id=010150240909)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
