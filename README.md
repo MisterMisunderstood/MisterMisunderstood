@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Migração para Nuvem: o que é? Por que fazer? Como fazer?](https://www.alura.com.br/artigos/migracao-para-a-nuvem)
 - [Inesperado: Metais tamb�m podem se curar sozinhos quando danificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-tambem-se-curar-sozinhos-quando-danificados&id=010170240911)
 - [Bateria de fibra de carbono guarda energia na lataria dos carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-estrutural-fica-mais-potente-colocara-mais-energia-lataria-carros&id=010115240911)
+- [Utilizando o Dio para comunicação com APIs](https://www.alura.com.br/artigos/dio-para-comunicacao-com-api)
 - [Novidades do PHP 8.4](https://www.alura.com.br/artigos/novidades-php-8-4)
 - [Hugging face: o que é e como usar essa plataforma](https://www.alura.com.br/artigos/hugging-face)
-- [Utilizando o Dio para comunicação com APIs](https://www.alura.com.br/artigos/dio-para-comunicacao-com-api)
 - [Laser de som mais potente j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-mais-potente-ja-feito&id=010115240910)
-- [Descoberto anel externo no Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tem-anel-externo&id=020130240910)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
