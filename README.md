@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Laser de som mais potente j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-mais-potente-ja-feito&id=010115240910)
 - [Descoberto anel externo no Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tem-anel-externo&id=020130240910)
 - [Gal�xias s�o muito maiores do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxias-muito-maiores-pensavamos&id=010130240910)
-- [Webhooks: o que é, como funciona e como aplicar na prática](https://www.alura.com.br/artigos/webhooks)
+- [Processador radiofot�nico multiplica paralelismo por 100](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-fotonico-canal-radio-paralelismo&id=010150240909)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
