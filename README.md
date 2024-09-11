@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenStack: conhecendo uma solução de nuvem flexível e personalizável](https://www.alura.com.br/artigos/openstack)
+- [Houdini CSS: um jeito mágico de criar estilos personalizados](https://www.alura.com.br/artigos/houdini-css)
 - [Migração para Nuvem: o que é? Por que fazer? Como fazer?](https://www.alura.com.br/artigos/migracao-para-a-nuvem)
 - [Inesperado: Metais tamb�m podem se curar sozinhos quando danificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-tambem-se-curar-sozinhos-quando-danificados&id=010170240911)
 - [Bateria de fibra de carbono guarda energia na lataria dos carros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-estrutural-fica-mais-potente-colocara-mais-energia-lataria-carros&id=010115240911)
-- [Utilizando o Dio para comunicação com APIs](https://www.alura.com.br/artigos/dio-para-comunicacao-com-api)
 - [Hugging face: o que é e como usar essa plataforma](https://www.alura.com.br/artigos/hugging-face)
-- [Novidades do PHP 8.4](https://www.alura.com.br/artigos/novidades-php-8-4)
+- [Utilizando o Dio para comunicação com APIs](https://www.alura.com.br/artigos/dio-para-comunicacao-com-api)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
