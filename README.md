@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
 - [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
 - [�tomos fluem sem resist�ncia pela borda de um material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-fluem-sem-resistencia-pela-borda-material&id=010115240912)
 - [Bolhas de g�s s�o filmadas na superf�cie de uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-gas-filmadas-superficie-estrela&id=010130240911)
 - [OpenStack: conhecendo uma solução de nuvem flexível e personalizável](https://www.alura.com.br/artigos/openstack)
-- [Houdini CSS: um jeito mágico de criar estilos personalizados](https://www.alura.com.br/artigos/houdini-css)
 - [Migração para Nuvem: o que é? Por que fazer? Como fazer?](https://www.alura.com.br/artigos/migracao-para-a-nuvem)
-- [Inesperado: Metais tamb�m podem se curar sozinhos quando danificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-tambem-se-curar-sozinhos-quando-danificados&id=010170240911)
+- [Houdini CSS: um jeito mágico de criar estilos personalizados](https://www.alura.com.br/artigos/houdini-css)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
