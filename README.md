@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
-- [�tomos fluem sem resist�ncia pela borda de um material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-fluem-sem-resistencia-pela-borda-material&id=010115240912)
+- [Hologramas qu�nticos enviam mensagens seguras que desaparecem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-quanticos-enviam-mensagens-seguras-desaparecem&id=010150240913)
+- [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
 - [Gestão de Redes Sociais: construindo a presença digital das marcas](https://www.alura.com.br/artigos/gestao-de-redes-sociais)
 - [Social Media: dando vida às marcas nas mídias sociais](https://www.alura.com.br/artigos/social-media)
 - [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
 - [O que é Content First e por que usá-lo no design digital](https://www.alura.com.br/artigos/content-first)
-- [Bolhas de g�s s�o filmadas na superf�cie de uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-gas-filmadas-superficie-estrela&id=010130240911)
+- [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
