@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Dart e JavaScript: descubra as diferenças](https://www.alura.com.br/artigos/diferencas-entre-dart-e-javascript)
+- [Copilot: como a IA pode transformar apresentações no PowerPoint](https://www.alura.com.br/artigos/copilot)
 - [Hologramas qu�nticos enviam mensagens seguras que desaparecem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-quanticos-enviam-mensagens-seguras-desaparecem&id=010150240913)
 - [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
 - [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
 - [Social Media: dando vida às marcas nas mídias sociais](https://www.alura.com.br/artigos/social-media)
 - [O que é Content First e por que usá-lo no design digital](https://www.alura.com.br/artigos/content-first)
-- [Gestão de Redes Sociais: construindo a presença digital das marcas](https://www.alura.com.br/artigos/gestao-de-redes-sociais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
