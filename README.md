@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart e JavaScript: descubra as diferenças](https://www.alura.com.br/artigos/diferencas-entre-dart-e-javascript)
 - [Hologramas qu�nticos enviam mensagens seguras que desaparecem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-quanticos-enviam-mensagens-seguras-desaparecem&id=010150240913)
 - [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
-- [Gestão de Redes Sociais: construindo a presença digital das marcas](https://www.alura.com.br/artigos/gestao-de-redes-sociais)
-- [Social Media: dando vida às marcas nas mídias sociais](https://www.alura.com.br/artigos/social-media)
 - [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
+- [Social Media: dando vida às marcas nas mídias sociais](https://www.alura.com.br/artigos/social-media)
 - [O que é Content First e por que usá-lo no design digital](https://www.alura.com.br/artigos/content-first)
-- [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
+- [Gestão de Redes Sociais: construindo a presença digital das marcas](https://www.alura.com.br/artigos/gestao-de-redes-sociais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
