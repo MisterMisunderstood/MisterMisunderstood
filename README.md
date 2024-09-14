@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Copilot: como a IA pode transformar apresentações no PowerPoint](https://www.alura.com.br/artigos/copilot)
 - [Hologramas qu�nticos enviam mensagens seguras que desaparecem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-quanticos-enviam-mensagens-seguras-desaparecem&id=010150240913)
 - [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
-- [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
-- [�tomos fluem sem resist�ncia pela borda de um material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-fluem-sem-resistencia-pela-borda-material&id=010115240912)
 - [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
+- [Social Media: dando vida às marcas nas mídias sociais](https://www.alura.com.br/artigos/social-media)
+- [O que é Content First e por que usá-lo no design digital](https://www.alura.com.br/artigos/content-first)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
