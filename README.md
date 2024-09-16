@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas para criar um conteúdo acessível para o seu produto](https://www.alura.com.br/artigos/como-criar-conteudo-acessivel-para-produto)
 - [G�s feito de luz � criado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-gas-unidimensional-feito-luz&id=010165240916)
 - [Diodo s�nico: Uma rua de m�o �nica para as ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-sonico-rua-mao-unica-ondas-sonoras&id=010170240916)
 - [Tato virtual atinge qualidade compar�vel ao tato real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tato-virtual-atinge-qualidade-comparavel-tato-real&id=010180240916)
 - [Dart e JavaScript: descubra as diferenças](https://www.alura.com.br/artigos/diferencas-entre-dart-e-javascript)
 - [Copilot: como a IA pode transformar apresentações no PowerPoint](https://www.alura.com.br/artigos/copilot)
 - [Hologramas qu�nticos enviam mensagens seguras que desaparecem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-quanticos-enviam-mensagens-seguras-desaparecem&id=010150240913)
-- [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
