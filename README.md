@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Lanterna termal controla o calor de maneiras sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-controla-radiacao-termica-maneiras-sem-precedentes&id=010170240913)
 - [Nanodisco h�brido otimiza e miniaturiza tecnologias da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodisco-hibrido-otimiza-miniaturiza-tecnologias-da-luz&id=010110240912)
 - [�tomos fluem sem resist�ncia pela borda de um material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-fluem-sem-resistencia-pela-borda-material&id=010115240912)
-- [Uso avançado de coleções e generics em Dart](https://www.alura.com.br/artigos/colecoes-e-generics-em-dart)
+- [Gestão de Redes Sociais: construindo a presença digital das marcas](https://www.alura.com.br/artigos/gestao-de-redes-sociais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
