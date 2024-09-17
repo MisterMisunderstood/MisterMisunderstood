@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [G�s feito de luz � criado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-gas-unidimensional-feito-luz&id=010165240916)
-- [Diodo s�nico: Uma rua de m�o �nica para as ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-sonico-rua-mao-unica-ondas-sonoras&id=010170240916)
-- [Tato virtual atinge qualidade compar�vel ao tato real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tato-virtual-atinge-qualidade-comparavel-tato-real&id=010180240916)
+- [Esta bateria continua funcionando mesmo depois de cortada ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-enxofre-continua-funcionando-mesmo-depois-cortada-meio&id=010115240917)
+- [Cientistas balan�am o n�cleo de um �tomo e criam qubit anti-interfer�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balancar-nucleo-atomo-cria-qubit-anti-interferencias&id=010165240917)
+- [Esquisitice c�smica: Planetas dan�am ao redor de estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esquisitice-cosmica-planetas-dancam-redor-estrela&id=010130240917)
 - [Dicas para criar um conteúdo acessível para o seu produto](https://www.alura.com.br/artigos/como-criar-conteudo-acessivel-para-produto)
 - [Mockito no Flutter: testando aplicações de forma eficiente](https://www.alura.com.br/artigos/mockito-para-apps-flutter)
-- [Copilot: como a IA pode transformar apresentações no PowerPoint](https://www.alura.com.br/artigos/copilot)
-- [Dart e JavaScript: descubra as diferenças](https://www.alura.com.br/artigos/diferencas-entre-dart-e-javascript)
+- [G�s feito de luz � criado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-gas-unidimensional-feito-luz&id=010165240916)
+- [Diodo s�nico: Uma rua de m�o �nica para as ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-sonico-rua-mao-unica-ondas-sonoras&id=010170240916)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
