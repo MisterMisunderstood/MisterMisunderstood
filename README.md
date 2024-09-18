@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Concreto inspirado nos ossos fica mais resistente sem aditivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-inspirado-ossos-fica-mais-resistente-sem-aditivos&id=010160240918)
+- [Esta tela armazena e mostra imagens criptografadas sem eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-tela-armazena-mostra-imagens-criptografadas-sem-eletronica&id=010150240918)
 - [LHC mede massa do b�son W e acalma a F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-mede-massa-boson-w-acalma-fisica-particulas&id=020115240917)
 - [iOS: o que é internacionalização e sua configuração inicial em um projeto](https://www.alura.com.br/artigos/internacionalizacao-no-ios)
 - [Medidas em CSS e seu impacto na acessibilidade na web](https://www.alura.com.br/artigos/medidas-css-acessibilidade-web)
 - [Esta bateria continua funcionando mesmo depois de cortada ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-enxofre-continua-funcionando-mesmo-depois-cortada-meio&id=010115240917)
 - [Cientistas balan�am o n�cleo de um �tomo e criam qubit anti-interfer�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balancar-nucleo-atomo-cria-qubit-anti-interferencias&id=010165240917)
-- [Esquisitice c�smica: Planetas dan�am ao redor de estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esquisitice-cosmica-planetas-dancam-redor-estrela&id=010130240917)
-- [Dicas para criar um conteúdo acessível para o seu produto](https://www.alura.com.br/artigos/como-criar-conteudo-acessivel-para-produto)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
