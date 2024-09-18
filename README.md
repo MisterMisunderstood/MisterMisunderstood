@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Esta bateria continua funcionando mesmo depois de cortada ao meio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-enxofre-continua-funcionando-mesmo-depois-cortada-meio&id=010115240917)
 - [Cientistas balan�am o n�cleo de um �tomo e criam qubit anti-interfer�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balancar-nucleo-atomo-cria-qubit-anti-interferencias&id=010165240917)
 - [Esquisitice c�smica: Planetas dan�am ao redor de estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esquisitice-cosmica-planetas-dancam-redor-estrela&id=010130240917)
-- [G�s feito de luz � criado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-gas-unidimensional-feito-luz&id=010165240916)
+- [Dicas para criar um conteúdo acessível para o seu produto](https://www.alura.com.br/artigos/como-criar-conteudo-acessivel-para-produto)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
