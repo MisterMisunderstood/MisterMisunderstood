@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Concreto inspirado nos ossos fica mais resistente sem aditivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-inspirado-ossos-fica-mais-resistente-sem-aditivos&id=010160240918)
+- [Esta tela armazena e mostra imagens criptografadas sem eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-tela-armazena-mostra-imagens-criptografadas-sem-eletronica&id=010150240918)
 - [CSS, SASS e SCSS: escolhendo a ferramenta para estilizar sua aplicação web](https://www.alura.com.br/artigos/css-sass-scss)
 - [SASS e Frameworks: estilize seu projeto front-end](https://www.alura.com.br/artigos/sass-nos-frameworks)
 - [IA Conference Brasil 2024: confira tudo que rolou no evento](https://www.alura.com.br/artigos/cobertura-ia-conference-brasil-2024)
-- [Concreto inspirado nos ossos fica mais resistente sem aditivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-inspirado-ossos-fica-mais-resistente-sem-aditivos&id=010160240918)
-- [Esta tela armazena e mostra imagens criptografadas sem eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-tela-armazena-mostra-imagens-criptografadas-sem-eletronica&id=010150240918)
+- [LHC mede massa do b�son W e acalma a F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-mede-massa-boson-w-acalma-fisica-particulas&id=020115240917)
 - [Medidas em CSS e seu impacto na acessibilidade na web](https://www.alura.com.br/artigos/medidas-css-acessibilidade-web)
-- [iOS: o que é internacionalização e sua configuração inicial em um projeto](https://www.alura.com.br/artigos/internacionalizacao-no-ios)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
