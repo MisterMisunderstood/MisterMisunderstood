@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia completo do Microsoft Azure: o que é, para que serve e como começar a usar](https://www.alura.com.br/artigos/azure)
 - [Cuidados com CSRF/XSRF ao utilizar a Push API](https://www.alura.com.br/artigos/cuidados-com-csrf)
 - [Renasce teoria de 100 anos que descarta Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=renasce-teoria-luz-cansada-descarta-big-bang&id=010130240919)
 - [Circuito integrado fot�nico armazena e processa dados usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuito-integrado-fotonico-armazena-processa-dados-usando-apenas-luz&id=010150240919)
 - [CSS, SASS e SCSS: escolhendo a ferramenta para estilizar sua aplicação web](https://www.alura.com.br/artigos/css-sass-scss)
-- [SASS e Frameworks: estilize seu projeto front-end](https://www.alura.com.br/artigos/sass-nos-frameworks)
 - [IA Conference Brasil 2024: confira tudo que rolou no evento](https://www.alura.com.br/artigos/cobertura-ia-conference-brasil-2024)
-- [Concreto inspirado nos ossos fica mais resistente sem aditivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-inspirado-ossos-fica-mais-resistente-sem-aditivos&id=010160240918)
+- [SASS e Frameworks: estilize seu projeto front-end](https://www.alura.com.br/artigos/sass-nos-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
