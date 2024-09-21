@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Mem�ria de cristal com genoma humano sobreviver� � extin��o da humanidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=genoma-humano-gravado-memoria-cristal-sobrevivera-extincao-humanidade&id=010125240920)
 - [Condi��es do n�cleo de uma estrela s�o criadas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condicoes-nucleo-estrela-criadas-laboratorio&id=010130240920)
-- [Guia completo do Microsoft Azure: o que é, para que serve e como começar a usar](https://www.alura.com.br/artigos/azure)
-- [Cuidados com CSRF/XSRF ao utilizar a Push API](https://www.alura.com.br/artigos/cuidados-com-csrf)
 - [Renasce teoria de 100 anos que descarta Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=renasce-teoria-luz-cansada-descarta-big-bang&id=010130240919)
 - [Circuito integrado fot�nico armazena e processa dados usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuito-integrado-fotonico-armazena-processa-dados-usando-apenas-luz&id=010150240919)
-- [CSS, SASS e SCSS: escolhendo a ferramenta para estilizar sua aplicação web](https://www.alura.com.br/artigos/css-sass-scss)
+- [Guia completo do Microsoft Azure: o que é, para que serve e como começar a usar](https://www.alura.com.br/artigos/azure)
+- [Cuidados com CSRF/XSRF ao utilizar a Push API](https://www.alura.com.br/artigos/cuidados-com-csrf)
+- [Concreto inspirado nos ossos fica mais resistente sem aditivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=concreto-inspirado-ossos-fica-mais-resistente-sem-aditivos&id=010160240918)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
