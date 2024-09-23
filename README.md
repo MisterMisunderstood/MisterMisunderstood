@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Coletor de energia gera eletricidade a partir da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-gera-eletricidade-partir-agua-mar&id=010115240923)
+- [Enxergando como uma borboleta: Lente plana multiplica capacidades das c�meras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxergando-como-borboleta-lente-plana-multiplica-capacidades-cameras&id=010110240923)
+- [Sensores anf�bios tornam poss�veis novas tecnologias � prova d��gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-anfibios-tornam-possiveis-novas-tecnologias-prova-d-agua&id=010160240923)
 - [Mem�ria de cristal com genoma humano sobreviver� � extin��o da humanidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=genoma-humano-gravado-memoria-cristal-sobrevivera-extincao-humanidade&id=010125240920)
 - [Condi��es do n�cleo de uma estrela s�o criadas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condicoes-nucleo-estrela-criadas-laboratorio&id=010130240920)
 - [Guia completo do Microsoft Azure: o que é, para que serve e como começar a usar](https://www.alura.com.br/artigos/azure)
 - [Cuidados com CSRF/XSRF ao utilizar a Push API](https://www.alura.com.br/artigos/cuidados-com-csrf)
-- [Renasce teoria de 100 anos que descarta Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=renasce-teoria-luz-cansada-descarta-big-bang&id=010130240919)
-- [Circuito integrado fot�nico armazena e processa dados usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuito-integrado-fotonico-armazena-processa-dados-usando-apenas-luz&id=010150240919)
-- [CSS, SASS e SCSS: escolhendo a ferramenta para estilizar sua aplicação web](https://www.alura.com.br/artigos/css-sass-scss)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
