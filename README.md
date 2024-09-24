@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Micro-frontends e suas arquiteturas: mais escalabilidade e independência](https://www.alura.com.br/artigos/micro-frontends)
 - [Conhe�a o componente neurom�rfico de 14 bits que ir� revolucionar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-componente-neuromorfico-prestes-revolucionar-computacao&id=010150240924)
 - [Microsc�pio hologr�fico no celular agora port�til e em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-holografico-baseado-celular-agora-opera-tempo-real&id=010165240924)
 - [Surpresa: Cidades est�o recebendo mais chuvas que seus entornos rurais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chuva-mais-intensa-maioria-cidades-devido-calor-poluicao&id=010125240924)
 - [NASA encontra pedra inexplic�vel em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-encontra-pedra-inexplicavel-marte&id=010130240923)
 - [Entendendo Single Sign-On (SSO) e sua utilização com o micro front-ends](https://www.alura.com.br/artigos/single-sign-on)
 - [Coletor de energia gera eletricidade a partir da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-gera-eletricidade-partir-agua-mar&id=010115240923)
-- [Enxergando como uma borboleta: Lente plana multiplica capacidades das c�meras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxergando-como-borboleta-lente-plana-multiplica-capacidades-cameras&id=010110240923)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
