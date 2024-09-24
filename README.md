@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo Single Sign-On (SSO) e sua utilização com o micro front-ends](https://www.alura.com.br/artigos/single-sign-on)
 - [NASA encontra pedra inexplic�vel em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-encontra-pedra-inexplicavel-marte&id=010130240923)
 - [Coletor de energia gera eletricidade a partir da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coletor-energia-gera-eletricidade-partir-agua-mar&id=010115240923)
 - [Enxergando como uma borboleta: Lente plana multiplica capacidades das c�meras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxergando-como-borboleta-lente-plana-multiplica-capacidades-cameras&id=010110240923)
 - [Sensores anf�bios tornam poss�veis novas tecnologias � prova d��gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-anfibios-tornam-possiveis-novas-tecnologias-prova-d-agua&id=010160240923)
+- [Entendendo Single Sign-On (SSO) e sua utilização com o micro front-ends](https://www.alura.com.br/artigos/single-sign-on)
 - [Mem�ria de cristal com genoma humano sobreviver� � extin��o da humanidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=genoma-humano-gravado-memoria-cristal-sobrevivera-extincao-humanidade&id=010125240920)
 - [Condi��es do n�cleo de uma estrela s�o criadas em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condicoes-nucleo-estrela-criadas-laboratorio&id=010130240920)
 <!-- BLOG-POST-LIST:END -->
