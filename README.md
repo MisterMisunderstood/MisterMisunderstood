@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Intelig�ncia Material: Pol�mero eletroativo aprende a jogar Pong](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-material-polimero-eletroativo-aprende-jogar-pong&id=010180240926)
 - [Tubos armazenados planos viram pe�as estruturais fortes em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tubos-armazenados-planos-inspirados-origami-bambu&id=010170240925)
 - [Canh�o de raios X pode defender a Terra de asteroides](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=canhao-raios-x-evitar-asteroides-se-choquem-terra&id=010130240925)
-- [Decaimento ultra-raro de part�cula acena com uma nova f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decaimento-ultra-raro-particula-acena-nova-fisica&id=010115240924)
 - [Micro-frontends e suas arquiteturas: mais escalabilidade e independência](https://www.alura.com.br/artigos/micro-frontends)
+- [Decaimento ultra-raro de part�cula acena com uma nova f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=decaimento-ultra-raro-particula-acena-nova-fisica&id=010115240924)
 - [Conhe�a o componente neurom�rfico de 14 bits que ir� revolucionar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-componente-neuromorfico-prestes-revolucionar-computacao&id=010150240924)
 <!-- BLOG-POST-LIST:END -->
 
