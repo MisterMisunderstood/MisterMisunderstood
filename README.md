@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Circuito el�trico vai testar se gravidade � qu�ntica ou n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuito-eletrico-permitira-testar-gravidade-quantica&id=010130240927)
 - [Criado primeiro sensor que mede campos magn�ticos em qualquer dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-sensor-magnetico-omnidirecional&id=010110240927)
 - [Mapa mais detalhado da Via L�ctea mostra 1,5 bilh�o de corpos celestes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-mais-detalhado-via-lactea-mostra-1-5-bilhao-corpos-celestes&id=010130240926)
+- [Como criar a navegação dos protótipos com a IA do Figma](https://www.alura.com.br/artigos/make-a-prototype-figma)
 - [Conhe�a a bateria h�brida nuclear-fotovoltaica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-bateria-hibrida-nuclear-fotovoltaica&id=010115240926)
 - [Intelig�ncia Material: Pol�mero eletroativo aprende a jogar Pong](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-material-polimero-eletroativo-aprende-jogar-pong&id=010180240926)
-- [Como criar a navegação dos protótipos com a IA do Figma](https://www.alura.com.br/artigos/make-a-prototype-figma)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
