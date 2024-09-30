@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gestão eficiente de projetos: conheça 3 técnicas visuais](https://www.alura.com.br/artigos/gestao-eficiente-de-projetos)
 - [H�lice movida a ar come�a a equipar balsas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balsas-impulsionadas-ar-comprimido&id=010170240930)
 - [Nova fase da mat�ria desafia mec�nica estat�stica e entusiasma computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-bose-2d-desafia-mecanica-estatistica-entusiasma-computacao-quantica&id=010160240930)
 - [Uma Terra para Todos: Nosso modo de vida s� se manter� se acabarmos com a desigualdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-terra-todos-modo-vida-se-mantera-acabar-desigualdade&id=010125240930)
 - [Thymeleaf: descubra como usá-lo em aplicações Java](https://www.alura.com.br/artigos/thymeleaf)
 - [Circuito el�trico vai testar se gravidade � qu�ntica ou n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuito-eletrico-permitira-testar-gravidade-quantica&id=010130240927)
 - [Criado primeiro sensor que mede campos magn�ticos em qualquer dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-sensor-magnetico-omnidirecional&id=010110240927)
-- [Mapa mais detalhado da Via L�ctea mostra 1,5 bilh�o de corpos celestes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-mais-detalhado-via-lactea-mostra-1-5-bilhao-corpos-celestes&id=010130240926)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
