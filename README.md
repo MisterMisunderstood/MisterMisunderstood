@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Roupa de nanotubos proteger� astronautas contra radia��o c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-nanotubos-boro-protege-astronautas-contra-radiacao-cosmica&id=010130241001)
 - [Refrigera��o passiva, sem gasto de energia, agora adapt�vel � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-passivo-sem-gasto-energia-agora-se-adapta-temperatura-ambiente&id=010115241001)
 - [Qubits semelhantes a transistores fazem computa��o qu�ntica de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-semelhantes-transistores-fazem-computacao-quantica-silicio&id=010150241001)
-- [H�lice movida a ar come�a a equipar balsas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balsas-impulsionadas-ar-comprimido&id=010170240930)
+- [Gestão eficiente de projetos: conheça 3 técnicas visuais](https://www.alura.com.br/artigos/gestao-eficiente-de-projetos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
