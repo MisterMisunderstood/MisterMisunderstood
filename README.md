@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Filmada pela primeira vez rea��o de oxig�nio e hidrog�nio formando �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reacao-oxigenio-hidrogenio-formando-agua-filmada-pela-primeira-vez&id=010125241002)
+- [Computa��o i�nica: �ons resolvem fun��es matem�ticas e l�gicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-ionica-ions-resolvem-funcoes-matematicas-logicas&id=010150241002)
 - [Sonda Juice captura imagem mais n�tida do cintur�o de radia��o da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-juice-captura-imagem-mais-nitida-cinturao-radiacao-terra&id=020130241001)
 - [Roupa de nanotubos proteger� astronautas contra radia��o c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-nanotubos-boro-protege-astronautas-contra-radiacao-cosmica&id=010130241001)
 - [Refrigera��o passiva, sem gasto de energia, agora adapt�vel � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-passivo-sem-gasto-energia-agora-se-adapta-temperatura-ambiente&id=010115241001)
 - [Qubits semelhantes a transistores fazem computa��o qu�ntica de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-semelhantes-transistores-fazem-computacao-quantica-silicio&id=010150241001)
 - [H�lice movida a ar come�a a equipar balsas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=balsas-impulsionadas-ar-comprimido&id=010170240930)
-- [Nova fase da mat�ria desafia mec�nica estat�stica e entusiasma computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-bose-2d-desafia-mecanica-estatistica-entusiasma-computacao-quantica&id=010160240930)
-- [Uma Terra para Todos: Nosso modo de vida s� se manter� se acabarmos com a desigualdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=uma-terra-todos-modo-vida-se-mantera-acabar-desigualdade&id=010125240930)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
