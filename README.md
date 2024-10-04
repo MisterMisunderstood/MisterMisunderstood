@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [A Lua pode ter sido capturada do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-lua-ter-sido-capturada-espaco&id=010130241003)
 - [Descoberto um antigo fundo do mar entalado nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antigo-fundo-mar-submerso-revela-segredos-profundos-terra&id=010125241003)
+- [Autoliderança: a competência-chave para o seu sucesso pessoal e no trabalho](https://www.alura.com.br/artigos/autolideranca)
 - [Descoberto planeta em �rbita da estrela individual mais pr�xima do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-planeta-orbita-estrela-individual-mais-proxima-sol&id=010130241002)
 - [Filmada pela primeira vez rea��o de oxig�nio e hidrog�nio formando �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reacao-oxigenio-hidrogenio-formando-agua-filmada-pela-primeira-vez&id=010125241002)
 - [Computa��o i�nica: �ons resolvem fun��es matem�ticas e l�gicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-ionica-ions-resolvem-funcoes-matematicas-logicas&id=010150241002)
 - [Sonda Juice captura imagem mais n�tida do cintur�o de radia��o da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonda-juice-captura-imagem-mais-nitida-cinturao-radiacao-terra&id=020130241001)
-- [Roupa de nanotubos proteger� astronautas contra radia��o c�smica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-nanotubos-boro-protege-astronautas-contra-radiacao-cosmica&id=010130241001)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
