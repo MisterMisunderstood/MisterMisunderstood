@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tipos de aplicativos: o que são apps nativos, web e híbridos?](https://www.alura.com.br/artigos/tipos-de-aplicativos)
 - [G�mea da Via L�ctea antiga demais desafia modelo padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gemea-via-lactea-antiga-demais-desafia-modelo-padrao-cosmologia&id=010130241007)
 - [L�gica com luz: Conhe�a o computador por proje��o de difra��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=logica-luz-conheca-computador-projecao-difracao&id=010150241007)
 - [Bateria de Marte gera energia usando gases do planeta vermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-marte-gera-energia-usando-gases-planeta-vermelho&id=010115241007)
 - [Trans�stor comest�vel � feito a partir de pasta de dente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-comestivel-feito-partir-pasta-dente&id=010110241007)
 - [Aplicativos que usam Flutter: quais empresas usam essa stack em seu app](https://www.alura.com.br/artigos/aplicativos-flutter)
 - [Raio trator para c�lulas cabe dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-trator-particulas-biologicas-cabe-dentro-chip&id=010165241004)
-- [Nossa vizinhan�a c�smica � pelo menos 10x maior que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nossa-vizinhanca-cosmica-pelo-menos-10x-maior-se-pensava&id=020130241004)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
