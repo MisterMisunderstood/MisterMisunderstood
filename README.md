@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [L�gica com luz: Conhe�a o computador por proje��o de difra��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=logica-luz-conheca-computador-projecao-difracao&id=010150241007)
+- [Bateria de Marte gera energia usando gases do planeta vermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-marte-gera-energia-usando-gases-planeta-vermelho&id=010115241007)
+- [Trans�stor comest�vel � feito a partir de pasta de dente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-comestivel-feito-partir-pasta-dente&id=010110241007)
 - [Aplicativos que usam Flutter: quais empresas usam essa stack em seu app](https://www.alura.com.br/artigos/aplicativos-flutter)
 - [Raio trator para c�lulas cabe dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raio-trator-particulas-biologicas-cabe-dentro-chip&id=010165241004)
 - [Nossa vizinhan�a c�smica � pelo menos 10x maior que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nossa-vizinhanca-cosmica-pelo-menos-10x-maior-se-pensava&id=020130241004)
 - [NASA bate recorde em comunica��o a laser no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-bate-recorde-comunicacao-laser-espaco&id=010130241004)
-- [Autoliderança: a competência-chave para o seu sucesso pessoal e no trabalho](https://www.alura.com.br/artigos/autolideranca)
-- [A Lua pode ter sido capturada do espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-lua-ter-sido-capturada-espaco&id=010130241003)
-- [Descoberto um antigo fundo do mar entalado nas profundezas da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antigo-fundo-mar-submerso-revela-segredos-profundos-terra&id=010125241003)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
