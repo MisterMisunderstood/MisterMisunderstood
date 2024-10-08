@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobel de F�sica premia intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-premia-inteligencia-artificial&id=010150241008)
 - [Sintesc�pio: Criado um equipamento que escreve com �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sintescopio-criado-equipamento-escreve-atomos&id=010165241008)
 - [Eletr�litos inovadores podem transformar metalurgia, siderurgia e baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrolitos-inovadores-transformar-metalurgia-siderurgia-baterias&id=010160241008)
 - [Descoberta de monopolos do momento angular orbital abre caminho para orbitr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-monopolos-momento-angular-orbital-abre-caminho-orbitronica&id=010110241008)
 - [G�mea da Via L�ctea antiga demais desafia modelo padr�o da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gemea-via-lactea-antiga-demais-desafia-modelo-padrao-cosmologia&id=010130241007)
 - [Tipos de aplicativos: o que são apps nativos, web e híbridos?](https://www.alura.com.br/artigos/tipos-de-aplicativos)
 - [L�gica com luz: Conhe�a o computador por proje��o de difra��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=logica-luz-conheca-computador-projecao-difracao&id=010150241007)
-- [Bateria de Marte gera energia usando gases do planeta vermelho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-marte-gera-energia-usando-gases-planeta-vermelho&id=010115241007)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
