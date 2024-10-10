@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [El�trons que se dividem viabilizam o mais poderoso dos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-se-dividem-viabilizam-mais-poderoso-computadores-quanticos&id=020110241010)
+- [OLED obt�m vis�o noturna org�nica, compacta e leve](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oled-obtem-visao-noturna-organica-compacta-leve&id=010110241010)
 - [Nobel de Qu�mica premia bioinform�tica das prote�nas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-premia-bioinformatica-proteinas&id=010150241009)
 - [LED produz cores do amanhecer e entardecer para melhorar seu sono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-produz-cores-amanhecer-entardecer-melhorar-seu-sono&id=010115241009)
-- [Nobel de F�sica premia intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-premia-inteligencia-artificial&id=010150241008)
 - [PHP: um guia completo sobre essa linguagem de programação](https://www.alura.com.br/artigos/php)
+- [Nobel de F�sica premia intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-premia-inteligencia-artificial&id=010150241008)
 - [Sintesc�pio: Criado um equipamento que escreve com �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sintescopio-criado-equipamento-escreve-atomos&id=010165241008)
-- [Eletr�litos inovadores podem transformar metalurgia, siderurgia e baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrolitos-inovadores-transformar-metalurgia-siderurgia-baterias&id=010160241008)
-- [Descoberta de monopolos do momento angular orbital abre caminho para orbitr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-monopolos-momento-angular-orbital-abre-caminho-orbitronica&id=010110241008)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
