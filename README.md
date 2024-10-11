@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers: o que é, como funciona e quais são os seus benefícios](https://www.alura.com.br/artigos/transformers)
 - [El�trons que se dividem viabilizam o mais poderoso dos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-se-dividem-viabilizam-mais-poderoso-computadores-quanticos&id=020110241010)
 - [OLED obt�m vis�o noturna org�nica, compacta e leve](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oled-obtem-visao-noturna-organica-compacta-leve&id=010110241010)
+- [Transformers: o que é, como funciona e quais são os seus benefícios](https://www.alura.com.br/artigos/transformers)
 - [Nobel de Qu�mica premia bioinform�tica das prote�nas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-premia-bioinformatica-proteinas&id=010150241009)
 - [LED produz cores do amanhecer e entardecer para melhorar seu sono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-produz-cores-amanhecer-entardecer-melhorar-seu-sono&id=010115241009)
-- [PHP: um guia completo sobre essa linguagem de programação](https://www.alura.com.br/artigos/php)
 - [Nobel de F�sica premia intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-premia-inteligencia-artificial&id=010150241008)
+- [PHP: um guia completo sobre essa linguagem de programação](https://www.alura.com.br/artigos/php)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
