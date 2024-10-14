@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bomba inspirada em intestino de tubar�o supera v�lvula de Tesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bomba-fluxo-assimetrico-inspirada-intestino-tubarao&id=010170241014)
+- [Circuitos eletr�nicos flex�veis feitos com seda e grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-flexiveis-feitos-seda-grafeno&id=010110241014)
+- [Dedo rob�tico ultrassens�vel mede o pulso e faz exame de mama preventivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dedo-robotico-ultrassensivel-mede-pulso-faz-exame-mama-preventivo&id=010180241014)
 - [Canh�o acelera el�trons a 80% da velocidade da luz em 5cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-acelerados-80-velocidade-luz-5cm&id=010115241011)
 - [Tecnologia inspirada no Homem-Aranha lan�a teias de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inspirada-homem-aranha-lanca-teias-seda-verdade&id=010160241011)
 - [Transformers: o que é, como funciona e quais são os seus benefícios](https://www.alura.com.br/artigos/transformers)
 - [El�trons que se dividem viabilizam o mais poderoso dos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-se-dividem-viabilizam-mais-poderoso-computadores-quanticos&id=020110241010)
-- [OLED obt�m vis�o noturna org�nica, compacta e leve](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oled-obtem-visao-noturna-organica-compacta-leve&id=010110241010)
-- [Nobel de Qu�mica premia bioinform�tica das prote�nas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-premia-bioinformatica-proteinas&id=010150241009)
-- [LED produz cores do amanhecer e entardecer para melhorar seu sono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-produz-cores-amanhecer-entardecer-melhorar-seu-sono&id=010115241009)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
