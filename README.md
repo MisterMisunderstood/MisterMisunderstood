@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Redes neurais: o que são e como funcionam](https://www.alura.com.br/artigos/redes-neurais)
 - [Cibersegurança na era da IA Generativa: um Guia prático para profissionais de TI](https://www.alura.com.br/artigos/ciberseguranca-com-ia-generativa)
+- [Conhe�a Clipper, a sonda que desvendar� mist�rios da lua Europa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-clipper-sonda-desvendara-misterios-lua-europa&id=010130241014)
 - [Bomba inspirada em intestino de tubar�o supera v�lvula de Tesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bomba-fluxo-assimetrico-inspirada-intestino-tubarao&id=010170241014)
 - [Circuitos eletr�nicos flex�veis feitos com seda e grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-flexiveis-feitos-seda-grafeno&id=010110241014)
 - [Dedo rob�tico ultrassens�vel mede o pulso e faz exame de mama preventivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dedo-robotico-ultrassensivel-mede-pulso-faz-exame-mama-preventivo&id=010180241014)
 - [Canh�o acelera el�trons a 80% da velocidade da luz em 5cm](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-acelerados-80-velocidade-luz-5cm&id=010115241011)
-- [Tecnologia inspirada no Homem-Aranha lan�a teias de verdade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inspirada-homem-aranha-lanca-teias-seda-verdade&id=010160241011)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
