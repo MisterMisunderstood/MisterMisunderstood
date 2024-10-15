@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Melhore seus testes e2e com Playwright usando o modelo Page Object](https://www.alura.com.br/artigos/page-object-model)
 - [Clean Swift: como criar um aplicativo iOS e organizar o código](https://www.alura.com.br/artigos/clean-swift)
+- [Sol atinge fase m�xima do Ciclo Solar 25](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sol-atinge-fase-maxima-ciclo-solar-25&id=020125241015)
 - [Corrente alternada faz computa��o magn�tica super eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=corrente-alternada-computacao-magnetica-super-eficiente&id=010110241015)
 - [Termoel�trico org�nico transforma calor ambiente em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termoeletrico-organico-transforma-calor-ambiente-eletricidade&id=010115241015)
 - [Transi��o verde e transi��o digital est�o buscando objetivos conflitantes?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transicao-verde-transicao-digital-estao-buscando-objetivos-conflitantes&id=010125241015)
 - [Redes neurais: o que são e como funcionam](https://www.alura.com.br/artigos/redes-neurais)
-- [Cibersegurança na era da IA Generativa: um Guia prático para profissionais de TI](https://www.alura.com.br/artigos/ciberseguranca-com-ia-generativa)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
