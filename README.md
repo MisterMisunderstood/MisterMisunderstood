@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Termoel�trico org�nico transforma calor ambiente em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termoeletrico-organico-transforma-calor-ambiente-eletricidade&id=010115241015)
 - [Transi��o verde e transi��o digital est�o buscando objetivos conflitantes?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transicao-verde-transicao-digital-estao-buscando-objetivos-conflitantes&id=010125241015)
 - [Conhe�a Clipper, a sonda que desvendar� mist�rios da lua Europa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-clipper-sonda-desvendara-misterios-lua-europa&id=010130241014)
+- [Redes neurais: o que são e como funcionam](https://www.alura.com.br/artigos/redes-neurais)
+- [Cibersegurança na era da IA Generativa: um Guia prático para profissionais de TI](https://www.alura.com.br/artigos/ciberseguranca-com-ia-generativa)
 - [Bomba inspirada em intestino de tubar�o supera v�lvula de Tesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bomba-fluxo-assimetrico-inspirada-intestino-tubarao&id=010170241014)
-- [Circuitos eletr�nicos flex�veis feitos com seda e grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-flexiveis-feitos-seda-grafeno&id=010110241014)
-- [Dedo rob�tico ultrassens�vel mede o pulso e faz exame de mama preventivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dedo-robotico-ultrassensivel-mede-pulso-faz-exame-mama-preventivo&id=010180241014)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
