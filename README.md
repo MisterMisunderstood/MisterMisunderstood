@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Boas práticas do Dart para organizar um projeto](https://www.alura.com.br/artigos/boas-praticas-dart)
 - [Energia solar dia e noite: Calor do Sol � armazenado a 1200 graus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-solar-dia-noite&id=010115241016)
 - [Microrrob� em forma de anel nada autonomamente em l�quidos viscosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micro-robo-formato-anel-nada-autonomamente-liquidos-viscosos&id=010180241016)
 - [Sol atinge fase m�xima do Ciclo Solar 25](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sol-atinge-fase-maxima-ciclo-solar-25&id=020125241015)
 - [Melhore seus testes e2e com Playwright usando o modelo Page Object](https://www.alura.com.br/artigos/page-object-model)
 - [Clean Swift: como criar um aplicativo iOS e organizar o código](https://www.alura.com.br/artigos/clean-swift)
 - [Corrente alternada faz computa��o magn�tica super eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=corrente-alternada-computacao-magnetica-super-eficiente&id=010110241015)
-- [Termoel�trico org�nico transforma calor ambiente em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termoeletrico-organico-transforma-calor-ambiente-eletricidade&id=010115241015)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
