@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Intelig�ncia artificial multissensorial � inspirada em borboletas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borboletas-inspiram-inteligencia-artificial-multissensorial&id=010150241021)
+- [Rede p�blico-privada � a solu��o para a entrega de pacotes de encomenda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-publico-privada-solucao-entrega-pacotes-encomenda&id=010125241021)
+- [M�dulos eletro-hidr�ulicos mont�veis viram rob�s multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-eletro-hidraulicos-montaveis-viram-robos-multifuncionais&id=010180241021)
 - [Metalurgia revolucion�ria: Do min�rio ao metal em uma �nica etapa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalurgia-revolucionaria-minerio-metal-unica-etapa&id=010170241018)
 - [C�mera de eventos super r�pida � inspirada no olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-eventos-super-rapida-inspirada-olho-humano&id=010110241018)
 - [Desvendada origem da maioria dos meteoritos que j� ca�ram na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=desvendada-origem-maioria-meteoritos-ja-cairam-terra&id=010130241017)
 - [Hardware magn�tico junta duas arquiteturas de computa��o alternativa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hardware-magnetico-junta-duas-arquiteturas-computacao-alternativa&id=010150241017)
-- [Nanomotor inspirado em bact�rias apresenta pot�ncia surpreendente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanomotor-inspirado-bacterias-apresenta-potencia-surpreendente&id=010165241017)
-- [Estrela "louca" lan�a jatos pelo espa�o como um vulc�o girat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-louca-lanca-jatos-pelo-espaco-como-vulcao-giratorio&id=010130241016)
-- [Boas práticas do Dart para organizar um projeto](https://www.alura.com.br/artigos/boas-praticas-dart)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
