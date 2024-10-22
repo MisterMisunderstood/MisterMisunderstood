@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como usar IA para personalizar apresentações: dicas para personalizar conteúdos e designs](https://www.alura.com.br/artigos/como-usar-ia-para-personalizar-apresentacoes)
 - [Eletr�nica viscosa: El�trons n�o fluem como bolinhas, mas como um fluido viscoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-viscosa-eletrons-nao-fluem-como-bolinhas-mas-como-fluido-viscoso&id=010110241022)
 - [Duas pe�as para criar forma de vida artificial est�o prontas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-novas-pecas-essenciais-criar-forma-vida-artificial&id=010165241022)
 - [Brilho estranho de Betelgeuse pode ser causado por estrela companheira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-gigante-betelgeuse-ter-companheira-faz-pulsar&id=010130241022)
 - [Compartilhando CSS em projetos do Nx](https://www.alura.com.br/artigos/compartilhando-css-projetos-nx)
 - [Intelig�ncia artificial multissensorial � inspirada em borboletas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borboletas-inspiram-inteligencia-artificial-multissensorial&id=010150241021)
 - [Rede p�blico-privada � a solu��o para a entrega de pacotes de encomenda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-publico-privada-solucao-entrega-pacotes-encomenda&id=010125241021)
-- [M�dulos eletro-hidr�ulicos mont�veis viram rob�s multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=modulos-eletro-hidraulicos-montaveis-viram-robos-multifuncionais&id=010180241021)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
