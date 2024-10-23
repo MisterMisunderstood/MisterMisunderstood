@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Árvores de decisão: modelo de Machine Learning para Classificação e Regressão](https://www.alura.com.br/artigos/arvores-de-decisao)
 - [Reescrevendo o futuro: Trocando os discos a laser por discos qu�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reescrevendo-futuro-trocando-discos-laser-discos-quimicos&id=010110241023)
 - [Como falar com extraterrestres? Guia de Comunica��o Interestelar responde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-falar-extraterrestres-guia-comunicacao-interestelar-responde&id=010130241023)
 - [Como usar IA para personalizar apresentações: dicas para personalizar conteúdos e designs](https://www.alura.com.br/artigos/como-usar-ia-para-personalizar-apresentacoes)
 - [Eletr�nica viscosa: El�trons n�o fluem como bolinhas, mas como um fluido viscoso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-viscosa-eletrons-nao-fluem-como-bolinhas-mas-como-fluido-viscoso&id=010110241022)
 - [Duas pe�as para criar forma de vida artificial est�o prontas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-novas-pecas-essenciais-criar-forma-vida-artificial&id=010165241022)
 - [Brilho estranho de Betelgeuse pode ser causado por estrela companheira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-gigante-betelgeuse-ter-companheira-faz-pulsar&id=010130241022)
-- [Compartilhando CSS em projetos do Nx](https://www.alura.com.br/artigos/compartilhando-css-projetos-nx)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
