@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como o Upskilling e Reskilling podem impulsionar sua carreira através da autoaprendizagem](https://www.alura.com.br/artigos/upskilling-reskilling)
 - [Supernova hist�rica explodiu na forma de um dente-de-le�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-historica-explodiu-forma-dente-leao&id=010130241025)
 - [Processador de luz resolve enigma matem�tico com 100% de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-integrado-resolve-enigma-matematico-100-precisao&id=010150241025)
 - [Aparelho para coletar �gua do ar fica simples e port�til](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-simples-eficiente-coleta-agua-ar-feito-casa&id=010125241025)
 - [ChatGPT, IA e PowerPoint na construção de apresentações](https://www.alura.com.br/artigos/como-usar-ia-para-criar-apresentacoes)
 - [IA est� criando um processo de pensamento fora das nossas mentes?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-esta-criando-nova-maneira-pensar-processo-pensamento-externo-fora-nossas-mentes&id=010150241024)
 - [Terremoto em um chip: Ondas sonoras s�o contidas dentro de um microchip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terremoto-chip-ondas-sonoras-contidas-microchip&id=010170241024)
-- [NASA apresenta primeiro telesc�pio espacial de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-apresenta-prototipo-telescopio-espacial-ondas-gravitacionais&id=020130241023)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
