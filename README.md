@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processador de luz resolve enigma matem�tico com 100% de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-integrado-resolve-enigma-matematico-100-precisao&id=010150241025)
+- [Aparelho para coletar �gua do ar fica simples e port�til](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-simples-eficiente-coleta-agua-ar-feito-casa&id=010125241025)
+- [ChatGPT, IA e PowerPoint na construção de apresentações](https://www.alura.com.br/artigos/como-usar-ia-para-criar-apresentacoes)
 - [IA est� criando um processo de pensamento fora das nossas mentes?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-esta-criando-nova-maneira-pensar-processo-pensamento-externo-fora-nossas-mentes&id=010150241024)
 - [Terremoto em um chip: Ondas sonoras s�o contidas dentro de um microchip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terremoto-chip-ondas-sonoras-contidas-microchip&id=010170241024)
-- [ChatGPT, IA e PowerPoint na construção de apresentações](https://www.alura.com.br/artigos/como-usar-ia-para-criar-apresentacoes)
 - [NASA apresenta primeiro telesc�pio espacial de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-apresenta-prototipo-telescopio-espacial-ondas-gravitacionais&id=020130241023)
-- [Reescrevendo o futuro: Trocando os discos a laser por discos qu�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reescrevendo-futuro-trocando-discos-laser-discos-quimicos&id=010110241023)
-- [Como falar com extraterrestres? Guia de Comunica��o Interestelar responde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-falar-extraterrestres-guia-comunicacao-interestelar-responde&id=010130241023)
 - [Árvores de decisão: modelo de Machine Learning para Classificação e Regressão](https://www.alura.com.br/artigos/arvores-de-decisao)
 <!-- BLOG-POST-LIST:END -->
 
