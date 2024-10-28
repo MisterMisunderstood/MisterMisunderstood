@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Usabilidade e acessibilidade em produtos digitais e não digitais](https://www.alura.com.br/artigos/usabilidade-acessibilidade)
 - [RRAMs, as mem�rias que fazem c�lculos, mais pr�ximas de mudar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rrams-memorias-fazem-calculos-proximas-mudar-computacao&id=010110241028)
 - [Mem�ria de luz traz avan�o multin�vel para computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-luz-traz-avanco-multinivel-computacao-optica&id=010150241028)
 - [Simular fluxo de calor nos eletr�nicos agora ficou uma brisa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simular-fluxo-calor-componentes-eletronicos-agora-ficou-brisa&id=010115241028)
-- [Supernova hist�rica explodiu na forma de um dente-de-le�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-historica-explodiu-forma-dente-leao&id=010130241025)
 - [Como o Upskilling e Reskilling podem impulsionar sua carreira através da autoaprendizagem](https://www.alura.com.br/artigos/upskilling-reskilling)
+- [Supernova hist�rica explodiu na forma de um dente-de-le�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-historica-explodiu-forma-dente-leao&id=010130241025)
 - [Processador de luz resolve enigma matem�tico com 100% de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-integrado-resolve-enigma-matematico-100-precisao&id=010150241025)
-- [Aparelho para coletar �gua do ar fica simples e port�til](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-simples-eficiente-coleta-agua-ar-feito-casa&id=010125241025)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
