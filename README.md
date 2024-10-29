@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolu��o na radioastronomia: Ondas de r�dio geram imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-radioastronomia-ondas-radio-geram-imagens-3d&id=010130241029)
+- [Rumo aos eletr�nicos flex�veis: Placas de circuito impresso ficam totalmente male�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-flexivel-placas-circuito-impresso-maleaveis&id=010110241029)
+- [Entrela�amento qu�ntico entre part�culas n�o � instant�neo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-entre-particulas-nao-instantaneo&id=010165241029)
+- [Usabilidade e acessibilidade em produtos digitais e não digitais](https://www.alura.com.br/artigos/usabilidade-acessibilidade)
 - [RRAMs, as mem�rias que fazem c�lculos, mais pr�ximas de mudar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rrams-memorias-fazem-calculos-proximas-mudar-computacao&id=010110241028)
 - [Mem�ria de luz traz avan�o multin�vel para computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-luz-traz-avanco-multinivel-computacao-optica&id=010150241028)
 - [Simular fluxo de calor nos eletr�nicos agora ficou uma brisa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simular-fluxo-calor-componentes-eletronicos-agora-ficou-brisa&id=010115241028)
-- [Usabilidade e acessibilidade em produtos digitais e não digitais](https://www.alura.com.br/artigos/usabilidade-acessibilidade)
-- [Supernova hist�rica explodiu na forma de um dente-de-le�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supernova-historica-explodiu-forma-dente-leao&id=010130241025)
-- [Como o Upskilling e Reskilling podem impulsionar sua carreira através da autoaprendizagem](https://www.alura.com.br/artigos/upskilling-reskilling)
-- [Processador de luz resolve enigma matem�tico com 100% de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-integrado-resolve-enigma-matematico-100-precisao&id=010150241025)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
