@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Rumo aos eletr�nicos flex�veis: Placas de circuito impresso ficam totalmente male�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-flexivel-placas-circuito-impresso-maleaveis&id=010110241029)
 - [Entrela�amento qu�ntico entre part�culas n�o � instant�neo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-entre-particulas-nao-instantaneo&id=010165241029)
 - [RRAMs, as mem�rias que fazem c�lculos, mais pr�ximas de mudar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rrams-memorias-fazem-calculos-proximas-mudar-computacao&id=010110241028)
+- [Usabilidade e acessibilidade em produtos digitais e não digitais](https://www.alura.com.br/artigos/usabilidade-acessibilidade)
 - [Mem�ria de luz traz avan�o multin�vel para computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-luz-traz-avanco-multinivel-computacao-optica&id=010150241028)
-- [Simular fluxo de calor nos eletr�nicos agora ficou uma brisa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simular-fluxo-calor-componentes-eletronicos-agora-ficou-brisa&id=010115241028)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
