@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tecido de isopor na frente do ventilador gera at� 230V](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-isopor-frente-ventilador-gera-ate-230v&id=020115241030)
+- [Disque-antimat�ria: Tudo pronto para transportar antimat�ria em caminh�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disque-antimateria-tudo-pronto-transportar-antimateria-caminhao&id=010115241030)
 - [Habilidades técnicas e sociais no mercado de trabalho](https://www.alura.com.br/artigos/habilidades-tecnicas-e-sociais)
 - [Revolu��o na radioastronomia: Ondas de r�dio geram imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-radioastronomia-ondas-radio-geram-imagens-3d&id=010130241029)
 - [Rumo aos eletr�nicos flex�veis: Placas de circuito impresso ficam totalmente male�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-flexivel-placas-circuito-impresso-maleaveis&id=010110241029)
 - [Entrela�amento qu�ntico entre part�culas n�o � instant�neo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-entre-particulas-nao-instantaneo&id=010165241029)
-- [RRAMs, as mem�rias que fazem c�lculos, mais pr�ximas de mudar a computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rrams-memorias-fazem-calculos-proximas-mudar-computacao&id=010110241028)
 - [Usabilidade e acessibilidade em produtos digitais e não digitais](https://www.alura.com.br/artigos/usabilidade-acessibilidade)
-- [Mem�ria de luz traz avan�o multin�vel para computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-luz-traz-avanco-multinivel-computacao-optica&id=010150241028)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
