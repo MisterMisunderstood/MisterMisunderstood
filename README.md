@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob�s controlados por IA t�m vulnerabilidades cr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-controlados-ia-tem-vulnerabilidades-criticas&id=010180241031)
+- [Se os ETs n�o falam conosco, ser� que eles est�o conversando entre si?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=se-ets-nao-falam-conosco-sera-eles-estao-conversando-entre-si&id=010130241031)
 - [NLP: explorando modelos para Linguagem Natural](https://www.alura.com.br/artigos/modelos-de-nlp)
 - [Tecido de isopor na frente do ventilador gera at� 230V](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-isopor-frente-ventilador-gera-ate-230v&id=020115241030)
 - [Disque-antimat�ria: Tudo pronto para transportar antimat�ria em caminh�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=disque-antimateria-tudo-pronto-transportar-antimateria-caminhao&id=010115241030)
 - [Habilidades técnicas e sociais no mercado de trabalho](https://www.alura.com.br/artigos/habilidades-tecnicas-e-sociais)
 - [Revolu��o na radioastronomia: Ondas de r�dio geram imagens 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-radioastronomia-ondas-radio-geram-imagens-3d&id=010130241029)
-- [Rumo aos eletr�nicos flex�veis: Placas de circuito impresso ficam totalmente male�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-flexivel-placas-circuito-impresso-maleaveis&id=010110241029)
-- [Entrela�amento qu�ntico entre part�culas n�o � instant�neo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-entre-particulas-nao-instantaneo&id=010165241029)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
