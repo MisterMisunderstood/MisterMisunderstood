@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Eletr�nica sem semicondutores e feita em casa? � poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-sem-semicondutores-feita-casa-possivel&id=010110241101)
 - [Gerador produz eletricidade usando somente o calor da sua pele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-produz-eletricidade-somente-calor-sua-pele&id=010115241101)
 - [T�cnica para remover micro e nanopl�sticos da �gua � criada por brasileiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-criam-tecnica-remover-micro-nanoplasticos-agua&id=010125241031)
+- [Arquiteturas de redes neurais: aplicações práticas na Inteligência Artificial](https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais)
 - [Rob�s controlados por IA t�m vulnerabilidades cr�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-controlados-ia-tem-vulnerabilidades-criticas&id=010180241031)
 - [Se os ETs n�o falam conosco, ser� que eles est�o conversando entre si?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=se-ets-nao-falam-conosco-sera-eles-estao-conversando-entre-si&id=010130241031)
-- [Arquiteturas de redes neurais: aplicações práticas na Inteligência Artificial](https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
