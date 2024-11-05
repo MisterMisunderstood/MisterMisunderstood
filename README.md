@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Coprocessador metatr�nico resolve equa��es na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coprocessador-metatronico-resolve-equacoes-ondas-eletromagneticas-velocidade-luz&id=010150241105)
+- [Res�duos baratos e impuros produzem oxig�nio puro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=residuos-baratos-impuros-produzem-oxigenio-puro&id=010125241105)
+- [Baterias de gotas alimentar�o dispositivos m�dicos biointegrados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-gotas-alimentarao-dispositivos-medicos-biointegrados-miniatura&id=010115241105)
 - [Invisibilidade? C�mera unidirecional permite ver sem ser visto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-unidirecional&id=010110241104)
 - [Asas de p�ssaros inspiram nova abordagem para seguran�a dos avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-passaros-inspiram-nova-abordagem-seguranca-avioes&id=010170241104)
 - [Baterias de zinco superam a casa dos 100 mil ciclos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-zinco-superam-casa-100-mil-ciclos&id=010115241104)
 - [Métricas de avaliação para modelos de regressão](https://www.alura.com.br/artigos/metricas-de-regressao)
-- [Container queries: responsividade além das media queries](https://www.alura.com.br/artigos/container-queries)
-- [Eletr�nica sem semicondutores e feita em casa? � poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-sem-semicondutores-feita-casa-possivel&id=010110241101)
-- [Gerador produz eletricidade usando somente o calor da sua pele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-produz-eletricidade-somente-calor-sua-pele&id=010115241101)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
