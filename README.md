@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Escudo eletromagn�tico: Pel�cula ultrafina absorve todas as frequ�ncias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-pelicula-ultrafina-absorve-todas-frequencias&id=010115241106)
+- [Plantas artificiais purificam o ar do ambiente e geram eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plantas-artificiais-purificam-ar-ambiente-geram-eletricidade&id=010125241106)
 - [Primeiro sat�lite artificial de madeira � lan�ado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-satelite-artificial-madeira-lancado&id=010130241105)
 - [O que é Gateway: como essa ferramenta facilita a comunicação na internet](https://www.alura.com.br/artigos/gateway)
 - [Coprocessador metatr�nico resolve equa��es na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=coprocessador-metatronico-resolve-equacoes-ondas-eletromagneticas-velocidade-luz&id=010150241105)
 - [Res�duos baratos e impuros produzem oxig�nio puro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=residuos-baratos-impuros-produzem-oxigenio-puro&id=010125241105)
 - [Baterias de gotas alimentar�o dispositivos m�dicos biointegrados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-gotas-alimentarao-dispositivos-medicos-biointegrados-miniatura&id=010115241105)
-- [Invisibilidade? C�mera unidirecional permite ver sem ser visto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-unidirecional&id=010110241104)
-- [Asas de p�ssaros inspiram nova abordagem para seguran�a dos avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asas-passaros-inspiram-nova-abordagem-seguranca-avioes&id=010170241104)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
