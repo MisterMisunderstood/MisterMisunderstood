@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [DevOps: um guia sobre a cultura de desenvolvimento e operações](https://www.alura.com.br/artigos/o-que-e-devops)
 - [Cadeias de qubits que conversam entre si s�o criadas no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cadeias-qubits-conversam-entre-si-grafeno&id=010110241108)
 - [Superfluidez em supers�lido � confirmada por v�rtices qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superfluidez-supersolido-confirmada-vortices-quanticos&id=010160241108)
+- [Garantindo alta disponibilidade no PostgreSQL com replicação](https://www.alura.com.br/artigos/alta-disponibilidade-postgresql-com-replicacao)
 - [Profundosc�pio, o microsc�pio que promete revolucionar a neuroci�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=profundoscopio-microscopio-promete-revolucionar-neurociencia&id=010165241107)
 - [Rob�s ganham olhos de gato para enxergar de dia e de noite](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-ganham-olhos-gato-enxergar-dia-noite&id=010180241107)
-- [Garantindo alta disponibilidade no PostgreSQL com replicação](https://www.alura.com.br/artigos/alta-disponibilidade-postgresql-com-replicacao)
-- [Escudo eletromagn�tico: Pel�cula ultrafina absorve todas as frequ�ncias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-eletromagnetico-pelicula-ultrafina-absorve-todas-frequencias&id=010115241106)
+- [Indica Dev: indique a Alura para suas amizades, acumule pontos e troque por brindes exclusivos](https://www.alura.com.br/artigos/indica-dev)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
