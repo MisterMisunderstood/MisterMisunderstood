@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [A importância da manutenção preventiva no PostgreSQL para garantir desempenho e disponibilidade](https://www.alura.com.br/artigos/manutencao-preventiva-postgresql)
 - [Descoberto t�nel interestelar conectando Sistema Solar a outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-tunel-interestelar-conectando-sistema-solar-outras-estrelas&id=010130241111)
 - [In�dito: Material r�gido absorve vibra��es e ru�dos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inedito-material-rigido-absorve-vibracoes-ruidos&id=010170241111)
 - [Aquecimento ou refrigera��o sob demanda - sem gastar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-oferece-aquecimento-ou-refrigeracao-sob-demanda-sem-gastar-eletricidade&id=010115241111)
 - [DevOps: um guia sobre a cultura de desenvolvimento e operações](https://www.alura.com.br/artigos/o-que-e-devops)
 - [Cadeias de qubits que conversam entre si s�o criadas no grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cadeias-qubits-conversam-entre-si-grafeno&id=010110241108)
 - [Superfluidez em supers�lido � confirmada por v�rtices qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superfluidez-supersolido-confirmada-vortices-quanticos&id=010160241108)
-- [Garantindo alta disponibilidade no PostgreSQL com replicação](https://www.alura.com.br/artigos/alta-disponibilidade-postgresql-com-replicacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
