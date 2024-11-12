@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Reator torna captura direta de CO2 mais eficiente e mais flex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-torna-captura-direta-co2-mais-eficiente-mais-flexivel&id=010125241112)
 - [Desvendado segredo de Urano: Foi s� uma coincid�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=desvendado-segredo-magnetosfera-urano-foi-so-coincidencia&id=020130241111)
 - [Descoberto t�nel interestelar conectando Sistema Solar a outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-tunel-interestelar-conectando-sistema-solar-outras-estrelas&id=010130241111)
+- [A importância da manutenção preventiva no PostgreSQL para garantir desempenho e disponibilidade](https://www.alura.com.br/artigos/manutencao-preventiva-postgresql)
 - [In�dito: Material r�gido absorve vibra��es e ru�dos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inedito-material-rigido-absorve-vibracoes-ruidos&id=010170241111)
-- [Aquecimento ou refrigera��o sob demanda - sem gastar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-oferece-aquecimento-ou-refrigeracao-sob-demanda-sem-gastar-eletricidade&id=010115241111)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
