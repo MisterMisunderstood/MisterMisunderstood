@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Ser� que a teoria de Einstein s� vale na escala do Sistema Solar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-teoria-einstein-so-vale-escala-sistema-solar&id=010130241112)
 - [Comp�sito de pol�mero e metal l�quido tira o calor dos eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-polimero-metal-liquido-tira-calor-eletronicos&id=010160241112)
 - [Reator torna captura direta de CO2 mais eficiente e mais flex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-torna-captura-direta-co2-mais-eficiente-mais-flexivel&id=010125241112)
-- [Desvendado segredo de Urano: Foi s� uma coincid�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=desvendado-segredo-magnetosfera-urano-foi-so-coincidencia&id=020130241111)
 - [A importância da manutenção preventiva no PostgreSQL para garantir desempenho e disponibilidade](https://www.alura.com.br/artigos/manutencao-preventiva-postgresql)
+- [Desvendado segredo de Urano: Foi s� uma coincid�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=desvendado-segredo-magnetosfera-urano-foi-so-coincidencia&id=020130241111)
 - [Descoberto t�nel interestelar conectando Sistema Solar a outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-tunel-interestelar-conectando-sistema-solar-outras-estrelas&id=010130241111)
 <!-- BLOG-POST-LIST:END -->
 
