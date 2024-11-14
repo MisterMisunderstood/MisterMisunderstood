@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Captura de �gua da umidade do ar agora at� em regi�es �ridas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captura-agua-umidade-ar-agora-funciona-ate-regioes-aridas&id=010125241114)
+- [Pl�stico que dissolve na �gua pode combater crise dos micropl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bio-plastico-dissolve-agua&id=010160241114)
 - [Políticas de Backup no PostgreSQL: como garantir a recuperação rápida e eficiente de dados](https://www.alura.com.br/artigos/politicas-backup-postgresql)
 - [Luz faz curvas com material inspirado nas nuvens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-inspirado-nuvens-faz-luz-fazer-curvas&id=010160241113)
 - [Plantar �rvores para evitar o aquecimento global? Mesmo esta regra tem exce��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plantar-arvores-artico-pioraria-aquecimento-global-dizem-cientistas&id=010125241113)
 - [Guia de bibliotecas para lidar com gerenciamento de estados em projetos React](https://www.alura.com.br/artigos/guia-de-bibliotecas-react)
 - [Ser� que a teoria de Einstein s� vale na escala do Sistema Solar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sera-teoria-einstein-so-vale-escala-sistema-solar&id=010130241112)
-- [Comp�sito de pol�mero e metal l�quido tira o calor dos eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-polimero-metal-liquido-tira-calor-eletronicos&id=010160241112)
-- [Reator torna captura direta de CO2 mais eficiente e mais flex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-torna-captura-direta-co2-mais-eficiente-mais-flexivel&id=010125241112)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
