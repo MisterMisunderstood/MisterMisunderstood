@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- ["Monstros Vermelhas": Webb descobre mais tr�s gal�xias que contestam teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monstros-vermelhas-tres-galaxias-gigantes-contestam-teorias&id=010130241114)
 - [LLMs abertas: benefícios, características e exemplos práticos](https://www.alura.com.br/artigos/llms-abertas)
+- ["Monstros Vermelhas": Webb descobre mais tr�s gal�xias que contestam teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monstros-vermelhas-tres-galaxias-gigantes-contestam-teorias&id=010130241114)
 - [Captura de �gua da umidade do ar agora at� em regi�es �ridas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captura-agua-umidade-ar-agora-funciona-ate-regioes-aridas&id=010125241114)
 - [Pl�stico que dissolve na �gua pode combater crise dos micropl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bio-plastico-dissolve-agua&id=010160241114)
 - [Políticas de Backup no PostgreSQL: como garantir a recuperação rápida e eficiente de dados](https://www.alura.com.br/artigos/politicas-backup-postgresql)
