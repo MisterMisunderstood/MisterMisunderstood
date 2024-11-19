@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Gerador termoel�trico transforma calor e CO2 em qu�micos - at� em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-termoeletrico-calor-residual-co2-quimicos-marte&id=010125241118)
 - [CSR, SSR e SSG: entenda as diferenças e aplicações](https://www.alura.com.br/artigos/csr-ssr-ssg)
 - ["Monstros Vermelhas": Webb descobre mais tr�s gal�xias que contestam teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=monstros-vermelhas-tres-galaxias-gigantes-contestam-teorias&id=010130241114)
+- [LLMs abertas: benefícios, características e exemplos práticos](https://www.alura.com.br/artigos/llms-abertas)
 - [Captura de �gua da umidade do ar agora at� em regi�es �ridas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=captura-agua-umidade-ar-agora-funciona-ate-regioes-aridas&id=010125241114)
-- [Pl�stico que dissolve na �gua pode combater crise dos micropl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bio-plastico-dissolve-agua&id=010160241114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
