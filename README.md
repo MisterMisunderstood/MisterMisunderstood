@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Finalmente um cristal do tempo que voc� vai conseguir ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-cristal-tempo-voce-vai-ver-mudar-como-usamos-controlamos-luz&id=010160241119)
 - [Criado um qubit mec�nico, feito com um tambor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-qubit-mecanico-feito-tambor&id=010150241119)
 - [Gato de Schrodinger recordista fica indeciso entre vivo ou morto por 23s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-indeciso-entre-vivo-ou-morto-23s&id=010165241119)
-- [CSR, SSR e SSG: entenda as diferenças e aplicações](https://www.alura.com.br/artigos/csr-ssr-ssg)
 - [Sim, a luz tamb�m pode gerar uma sombra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-luz-gera-sombra&id=010115241118)
 - [Papel hidrof�bico promete embalagens que nunca se molham](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-hidrofobico-promete-embalagens-nunca-se-molham&id=010160241118)
+- [Gerador termoel�trico transforma calor e CO2 em qu�micos - at� em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-termoeletrico-calor-residual-co2-quimicos-marte&id=010125241118)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
