@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Aplicações do R: exemplos práticos e casos reais](https://www.alura.com.br/artigos/aplicacoes-em-r)
+- [Índices no PostgreSQL: estratégias para otimização de consultas complexas](https://www.alura.com.br/artigos/indices-no-postgresql)
 - [Conheça os Design Patterns mais usados no ecossistema Flutter](https://www.alura.com.br/artigos/design-patterns-flutter)
 - [Finalmente um cristal do tempo que voc� vai conseguir ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-cristal-tempo-voce-vai-ver-mudar-como-usamos-controlamos-luz&id=010160241119)
 - [Criado um qubit mec�nico, feito com um tambor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-qubit-mecanico-feito-tambor&id=010150241119)
 - [Gato de Schrodinger recordista fica indeciso entre vivo ou morto por 23s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-indeciso-entre-vivo-ou-morto-23s&id=010165241119)
 - [CSR, SSR e SSG: entenda as diferenças e aplicações](https://www.alura.com.br/artigos/csr-ssr-ssg)
-- [Sim, a luz tamb�m pode gerar uma sombra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-luz-gera-sombra&id=010115241118)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
