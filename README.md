@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Controlando múltiplas instâncias dinâmicas com atomFamily e selectorFamily](https://www.alura.com.br/artigos/atom-selector-family)
 - [Kubernetes: como usá-lo para gerenciar suas aplicações](https://www.alura.com.br/artigos/kubernetes)
+- [Planeta prematuro desafia teorias da forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-prematuro-desafia-teorias-formacao-planetaria&id=010130241121)
 - [Hidrog�is fazem fotoss�ntese artificial para produzir hidrog�nio solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-fazem-fotossintese-artificial-produzir-hidrogenio-solar&id=010125241121)
 - [Qual � o formato de um f�ton?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descrevem-formato-foton&id=010165241121)
 - [Índices no PostgreSQL: estratégias para otimização de consultas complexas](https://www.alura.com.br/artigos/indices-no-postgresql)
 - [Aplicações do R: exemplos práticos e casos reais](https://www.alura.com.br/artigos/aplicacoes-em-r)
-- [Conheça os Design Patterns mais usados no ecossistema Flutter](https://www.alura.com.br/artigos/design-patterns-flutter)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
