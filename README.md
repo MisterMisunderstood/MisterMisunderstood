@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: como usá-lo para gerenciar suas aplicações](https://www.alura.com.br/artigos/kubernetes)
 - [Hidrog�is fazem fotoss�ntese artificial para produzir hidrog�nio solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-fazem-fotossintese-artificial-produzir-hidrogenio-solar&id=010125241121)
 - [Qual � o formato de um f�ton?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descrevem-formato-foton&id=010165241121)
 - [Aplicações do R: exemplos práticos e casos reais](https://www.alura.com.br/artigos/aplicacoes-em-r)
 - [Índices no PostgreSQL: estratégias para otimização de consultas complexas](https://www.alura.com.br/artigos/indices-no-postgresql)
 - [Conheça os Design Patterns mais usados no ecossistema Flutter](https://www.alura.com.br/artigos/design-patterns-flutter)
 - [Finalmente um cristal do tempo que voc� vai conseguir ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-cristal-tempo-voce-vai-ver-mudar-como-usamos-controlamos-luz&id=010160241119)
-- [Criado um qubit mec�nico, feito com um tambor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-qubit-mecanico-feito-tambor&id=010150241119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
