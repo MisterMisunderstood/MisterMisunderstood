@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Cientistas transformam sangue em materiais biocooperativos que regeneram tecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-transformam-sangue-materiais-biocooperativos-regeneram-tecidos&id=010160241122)
 - [Forma ex�tica de mat�ria viabiliza computadores qu�nticos ainda mais poderosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forma-exotica-materia-viabiliza-forma-ainda-mais-poderosa-computacao-quantica&id=010110241122)
 - [Planeta prematuro desafia teorias da forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-prematuro-desafia-teorias-formacao-planetaria&id=010130241121)
-- [Controlando múltiplas instâncias dinâmicas com atomFamily e selectorFamily](https://www.alura.com.br/artigos/atom-selector-family)
-- [Kubernetes: como usá-lo para gerenciar suas aplicações](https://www.alura.com.br/artigos/kubernetes)
 - [Hidrog�is fazem fotoss�ntese artificial para produzir hidrog�nio solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-fazem-fotossintese-artificial-produzir-hidrogenio-solar&id=010125241121)
+- [Qual � o formato de um f�ton?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descrevem-formato-foton&id=010165241121)
+- [Finalmente um cristal do tempo que voc� vai conseguir ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=finalmente-cristal-tempo-voce-vai-ver-mudar-como-usamos-controlamos-luz&id=010160241119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
