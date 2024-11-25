@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini no Android Studio: a Github Copilot da Google](https://www.alura.com.br/artigos/gemini-no-android-studio)
 - [Liga met�lica ultraforte para uso espacial � fabricada por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-ultraforte-uso-espacial-fabricada-impressao-3d&id=010170241125)
 - [Luz l�quida simplifica drasticamente aparelhos de resson�ncia nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-liquida-transforma-ressonancia-nuclear-magnetica-ressonancia-optica&id=010115241125)
 - [Pela primeira vez fotografamos uma estrela de outra gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-outra-galaxia-fotografada-pela-primeira-vez&id=010130241122)
 - [Cientistas transformam sangue em materiais biocooperativos que regeneram tecidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cientistas-transformam-sangue-materiais-biocooperativos-regeneram-tecidos&id=010160241122)
 - [Forma ex�tica de mat�ria viabiliza computadores qu�nticos ainda mais poderosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forma-exotica-materia-viabiliza-forma-ainda-mais-poderosa-computacao-quantica&id=010110241122)
 - [Planeta prematuro desafia teorias da forma��o planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-prematuro-desafia-teorias-formacao-planetaria&id=010130241121)
-- [Controlando múltiplas instâncias dinâmicas com atomFamily e selectorFamily](https://www.alura.com.br/artigos/atom-selector-family)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
