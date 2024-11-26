@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Brand Persona: o segredo para conectar sua marca ao público](https://www.alura.com.br/artigos/brand-persona)
+- [Buyer Persona: o que é e como usar para aumentar conversões](https://www.alura.com.br/artigos/buyer-persona)
 - [Matem�tica decomp�e causalidades para explicar melhor causa e efeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-decompoe-causalidades-explicar-melhor-causa-efeito&id=010125241126)
 - [Conhe�a o rob� que ir� consertar sat�lites e montar estruturas no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-robo-ira-consertar-satelites-montar-estruturas-espaco&id=010180241126)
-- [LlamaIndex: onde é aplicado](https://www.alura.com.br/artigos/llamaindex)
 - [Gemini no Android Studio: a Github Copilot da Google](https://www.alura.com.br/artigos/gemini-no-android-studio)
+- [LlamaIndex: onde é aplicado](https://www.alura.com.br/artigos/llamaindex)
 - [Liga met�lica ultraforte para uso espacial � fabricada por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-ultraforte-uso-espacial-fabricada-impressao-3d&id=010170241125)
-- [Luz l�quida simplifica drasticamente aparelhos de resson�ncia nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-liquida-transforma-ressonancia-nuclear-magnetica-ressonancia-optica&id=010115241125)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
