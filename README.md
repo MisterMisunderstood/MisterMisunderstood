@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Combust�vel qu�ntico aumenta efici�ncia da fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-quantico-aumenta-eficiencia-fusao-nuclear&id=010115241127)
+- [Rob�-pombo voa como p�ssaro e elimina a cauda vertical dos avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-pombo-voa-como-passaro-elimina-cauda-vertical-avioes&id=010180241127)
 - [Brand Persona: o segredo para conectar sua marca ao público](https://www.alura.com.br/artigos/brand-persona)
 - [Buyer Persona: o que é e como usar para aumentar conversões](https://www.alura.com.br/artigos/buyer-persona)
 - [Matem�tica decomp�e causalidades para explicar melhor causa e efeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-decompoe-causalidades-explicar-melhor-causa-efeito&id=010125241126)
 - [Conhe�a o rob� que ir� consertar sat�lites e montar estruturas no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-robo-ira-consertar-satelites-montar-estruturas-espaco&id=010180241126)
 - [Liga met�lica ultraforte para uso espacial � fabricada por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-ultraforte-uso-espacial-fabricada-impressao-3d&id=010170241125)
-- [Luz l�quida simplifica drasticamente aparelhos de resson�ncia nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-liquida-transforma-ressonancia-nuclear-magnetica-ressonancia-optica&id=010115241125)
-- [Gemini no Android Studio: a Github Copilot da Google](https://www.alura.com.br/artigos/gemini-no-android-studio)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
