@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Evite fraudes: guia prático para identificar as comunicações oficiais da Alura](https://www.alura.com.br/artigos/evite-fraudes)
+- [Liderança](https://www.alura.com.br/artigos/lideranca)
 - [Protótipos com condicionais no Figma: dicas de como criar](https://www.alura.com.br/artigos/prototipos-com-condicionais-no-figma)
+- [Evite fraudes: guia prático para identificar as comunicações oficiais da Alura](https://www.alura.com.br/artigos/evite-fraudes)
 - [Combust�vel qu�ntico aumenta efici�ncia da fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustivel-quantico-aumenta-eficiencia-fusao-nuclear&id=010115241127)
 - [Rob�-pombo voa como p�ssaro e elimina a cauda vertical dos avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-pombo-voa-como-passaro-elimina-cauda-vertical-avioes&id=010180241127)
 - [Brand Persona: o segredo para conectar sua marca ao público](https://www.alura.com.br/artigos/brand-persona)
 - [Buyer Persona: o que é e como usar para aumentar conversões](https://www.alura.com.br/artigos/buyer-persona)
-- [Matem�tica decomp�e causalidades para explicar melhor causa e efeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-decompoe-causalidades-explicar-melhor-causa-efeito&id=010125241126)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
