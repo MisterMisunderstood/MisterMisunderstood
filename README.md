@@ -129,7 +129,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Entrela�amento qu�ntico pode ser feito entre part�culas de luz e de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=casamento-entre-diferentes-entrelacamento-quantico-entre-particulas-luz-som&id=010110241128)
 - [Nova pesquisa contesta teoria da mat�ria escura na forma��o das gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-pesquisa-contesta-teoria-materia-escura-formacao-galaxias&id=010130241128)
 - [Protótipos com condicionais no Figma: dicas de como criar](https://www.alura.com.br/artigos/prototipos-com-condicionais-no-figma)
-- [Liderança](https://www.alura.com.br/artigos/lideranca)
+- [Liderança: o que é e como desenvolver essa habilidade](https://www.alura.com.br/artigos/lideranca)
 - [Evite fraudes: guia prático para identificar as comunicações oficiais da Alura](https://www.alura.com.br/artigos/evite-fraudes)
 <!-- BLOG-POST-LIST:END -->
 
