@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Madeira agora emite luz, gra�as � bioluminesc�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-agora-emite-luz-gracas-bioluminescencia-artificial&id=010160241129)
+- [Madeira agora emite luz, com bioluminesc�ncia quase natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-agora-emite-luz-gracas-bioluminescencia-artificial&id=010160241129)
 - [Rodovia para �ons viabiliza carga r�pida de baterias e tecnologias neurom�rficas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rodovia-ions-viabilizara-carregamento-rapido-baterias-tecnologias-neuromorficas&id=010115241129)
 - [Entrela�amento qu�ntico pode ser feito entre part�culas de luz e de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=casamento-entre-diferentes-entrelacamento-quantico-entre-particulas-luz-som&id=010110241128)
 - [Nova pesquisa contesta teoria da mat�ria escura na forma��o das gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-pesquisa-contesta-teoria-materia-escura-formacao-galaxias&id=010130241128)
