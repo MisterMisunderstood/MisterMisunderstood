@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Se as metalentes j� eram imbat�veis, metalentes com IA s�o ainda melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalentes-com-ia&id=010150241202)
+- [Nanogerador flex�vel carrega seu notebook conforme voc� digita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-flexivel-carrega-seu-notebook-conforme-voce-digita&id=010115241202)
+- [Tecidos revestidos de giz ficam ainda mais frios em ambientes urbanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-revestidos-giz-ficam-ainda-mais-frios-ambientes-urbanos&id=010160241202)
 - [Segurança psicológica: o que é e sua relevância no trabalho](https://www.alura.com.br/artigos/seguranca-psicologica)
 - [Alura libera o maior desconto do ano na Black Friday](https://www.alura.com.br/artigos/noticia-bf)
 - [Ainda vale a pena aprender Redux? – vem ver nossa opinião e o motivo dela](https://www.alura.com.br/artigos/vale-a-pena-aprender-redux)
 - [Madeira agora emite luz, com bioluminesc�ncia quase natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-agora-emite-luz-gracas-bioluminescencia-artificial&id=010160241129)
-- [Rodovia para �ons viabiliza carga r�pida de baterias e tecnologias neurom�rficas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rodovia-ions-viabilizara-carregamento-rapido-baterias-tecnologias-neuromorficas&id=010115241129)
-- [Entrela�amento qu�ntico pode ser feito entre part�culas de luz e de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=casamento-entre-diferentes-entrelacamento-quantico-entre-particulas-luz-som&id=010110241128)
-- [Nova pesquisa contesta teoria da mat�ria escura na forma��o das gal�xias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-pesquisa-contesta-teoria-materia-escura-formacao-galaxias&id=010130241128)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
