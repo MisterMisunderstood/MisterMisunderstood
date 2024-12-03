@@ -124,11 +124,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como agentes potencializam a performance das LLMs](https://www.alura.com.br/artigos/como-agentes-podem-ajudar-llms)
-- [Engenharia de Computação: o guia completo sobre o curso e carreira](https://www.alura.com.br/artigos/engenharia-de-computacao)
 - [Se as metalentes j� eram imbat�veis, metalentes com IA s�o ainda melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalentes-com-ia&id=010150241202)
 - [Nanogerador flex�vel carrega seu notebook conforme voc� digita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-flexivel-carrega-seu-notebook-conforme-voce-digita&id=010115241202)
 - [Tecidos revestidos de giz ficam ainda mais frios em ambientes urbanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-revestidos-giz-ficam-ainda-mais-frios-ambientes-urbanos&id=010160241202)
+- [Como agentes potencializam a performance das LLMs](https://www.alura.com.br/artigos/como-agentes-podem-ajudar-llms)
+- [Engenharia de Computação: o guia completo sobre o curso e carreira](https://www.alura.com.br/artigos/engenharia-de-computacao)
 - [Alura libera o maior desconto do ano na Black Friday](https://www.alura.com.br/artigos/noticia-bf)
 - [Ainda vale a pena aprender Redux? – vem ver nossa opinião e o motivo dela](https://www.alura.com.br/artigos/vale-a-pena-aprender-redux)
 <!-- BLOG-POST-LIST:END -->
