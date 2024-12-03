@@ -127,10 +127,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Buracos negros primordiais deixam rastros em planetoides e objetos comuns na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-primordiais-detectados-planetoides-objetos-comuns-terra&id=010130241203)
 - [Processador de luz agora faz todos os c�lculos necess�rios para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-agora-faz-todos-calculos-necessarios-ia&id=010150241203)
 - [Bateria qu�ntica pode ser carregada sem um campo externo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-quantica-spin-carregada-sem-campo-externo&id=010115241203)
+- [Como agentes potencializam a performance das LLMs](https://www.alura.com.br/artigos/como-agentes-podem-ajudar-llms)
+- [Engenharia de Computação: o guia completo sobre o curso e carreira](https://www.alura.com.br/artigos/engenharia-de-computacao)
 - [Se as metalentes j� eram imbat�veis, metalentes com IA s�o ainda melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalentes-com-ia&id=010150241202)
 - [Nanogerador flex�vel carrega seu notebook conforme voc� digita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-flexivel-carrega-seu-notebook-conforme-voce-digita&id=010115241202)
-- [Tecidos revestidos de giz ficam ainda mais frios em ambientes urbanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecidos-revestidos-giz-ficam-ainda-mais-frios-ambientes-urbanos&id=010160241202)
-- [Como agentes potencializam a performance das LLMs](https://www.alura.com.br/artigos/como-agentes-podem-ajudar-llms)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
