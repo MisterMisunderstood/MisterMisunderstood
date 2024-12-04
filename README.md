@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidrog�nio limpo e mais barato gra�as a cristais quirais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-limpo-mais-barato-gracas-cristais-quirais&id=010115241204)
+- [Antenas de alta efici�ncia s�o fabricadas em tecido usando tric�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-alta-eficiencia-tricotadas-tecido&id=010110241204)
 - [Faculdade de marketing: conheça o curso e veja se ele combina com você e seus objetivos](https://www.alura.com.br/artigos/faculdade-de-marketing)
 - [Data Science ou Inteligência Artificial: qual é o melhor caminho para você?](https://www.alura.com.br/artigos/data-science-ou-ia)
 - [Buracos negros primordiais deixam rastros em planetoides e objetos comuns na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-primordiais-detectados-planetoides-objetos-comuns-terra&id=010130241203)
 - [Processador de luz agora faz todos os c�lculos necess�rios para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-agora-faz-todos-calculos-necessarios-ia&id=010150241203)
 - [Bateria qu�ntica pode ser carregada sem um campo externo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-quantica-spin-carregada-sem-campo-externo&id=010115241203)
-- [Se as metalentes j� eram imbat�veis, metalentes com IA s�o ainda melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalentes-com-ia&id=010150241202)
-- [Nanogerador flex�vel carrega seu notebook conforme voc� digita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogerador-flexivel-carrega-seu-notebook-conforme-voce-digita&id=010115241202)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
