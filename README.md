@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Material Design e Cupertino no Flutter: o que são e como usar](https://www.alura.com.br/artigos/material-desing-e-cupertino)
-- [Deep Learning: o guia completo para iniciantes](https://www.alura.com.br/artigos/deep-learning)
 - [Como criar um g�s qu�ntico em 10 ms e ver uma explos�o Bosenova](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-gas-quantico-10-milissegundos-ver-explosao-bosenova&id=010115241205)
 - [Eletroagricultura poder� cultivar alimentos no escuro, sem fotoss�ntese](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-eletroagricultura&id=010125241205)
-- [Design Digital: tudo sobre a área, mercado e cursos](https://www.alura.com.br/artigos/faculdade-de-design)
-- [UX Lead: caminhos para uma liderança de alto impacto](https://www.alura.com.br/artigos/ux-lead)
+- [Material Design e Cupertino no Flutter: o que são e como usar](https://www.alura.com.br/artigos/material-desing-e-cupertino)
+- [Deep Learning: o guia completo para iniciantes](https://www.alura.com.br/artigos/deep-learning)
 - [Hidrog�nio limpo e mais barato gra�as a cristais quirais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-limpo-mais-barato-gracas-cristais-quirais&id=010115241204)
+- [Antenas de alta efici�ncia fabricadas em tecido usando tric�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-alta-eficiencia-tricotadas-tecido&id=010110241204)
+- [Design Digital: tudo sobre a área, mercado e cursos](https://www.alura.com.br/artigos/faculdade-de-design)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
