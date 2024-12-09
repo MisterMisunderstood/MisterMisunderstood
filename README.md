@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Metamaterial apresenta propriedades bizarras de alongamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-apresenta-propriedades-bizarras-alongamento&id=010160241206)
 - [Como criar um g�s qu�ntico em 10 ms e ver uma explos�o Bosenova](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-gas-quantico-10-milissegundos-ver-explosao-bosenova&id=010115241205)
 - [Eletroagricultura poder� cultivar alimentos no escuro, sem fotoss�ntese](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-eletroagricultura&id=010125241205)
-- [Material Design e Cupertino no Flutter: o que são e como usar](https://www.alura.com.br/artigos/material-desing-e-cupertino)
 - [Deep Learning: o guia completo para iniciantes](https://www.alura.com.br/artigos/deep-learning)
+- [Material Design e Cupertino no Flutter: o que são e como usar](https://www.alura.com.br/artigos/material-desing-e-cupertino)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
