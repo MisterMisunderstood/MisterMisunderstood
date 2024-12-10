@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mem�ria de computador semelhante a bateria funciona acima de 600 �C](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-computador-semelhante-bateria-funciona-acima-600-c&id=010110241210)
+- [Observa��es mais completas do Webb confirmam desafio � teoria cosmol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-mais-completas-Webb-contestam-teoria-cosmologica&id=010130241210)
+- [Livre com�rcio deve ser substitu�do por Com�rcio Mundial �tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=livre-comercio-deve-substituido-comercio-mundial-etico&id=010125241210)
 - [Comportamento emergente: Quando pra tr�s e pra frente gera movimentos multidimensionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comportamento-emergente-quando-tras-frente-gera-movimentos-multidimensionais&id=010180241209)
 - [V�m a� a esteriliza��o e a desinfec��o a laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vem-ai-esterilizacao-desinfeccao-laser&id=010115241209)
 - [Demonstrada liga��o entre teoria da informa��o qu�ntica e f�sica de part�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=demonstrada-ligacao-entre-teoria-informacao-quantica-fisica-particulas&id=010150241209)
 - [Sistemas de Recomendação: o que são e como são usados](https://www.alura.com.br/artigos/sistemas-de-recomendacoes)
-- [Bateria de diamante e carbono-14 gera energia por milhares de anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-diamante-carbono-14-gera-energia-milhares-anos&id=010115241206)
-- [Metamaterial apresenta propriedades bizarras de alongamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-apresenta-propriedades-bizarras-alongamento&id=010160241206)
-- [Como criar um g�s qu�ntico em 10 ms e ver uma explos�o Bosenova](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-gas-quantico-10-milissegundos-ver-explosao-bosenova&id=010115241205)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
