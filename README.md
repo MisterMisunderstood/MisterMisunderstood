@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sistemas de Recomendação: o que são e como são usados](https://www.alura.com.br/artigos/sistemas-de-recomendacoes)
 - [Bateria de diamante e carbono-14 gera energia por milhares de anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-diamante-carbono-14-gera-energia-milhares-anos&id=010115241206)
 - [Metamaterial apresenta propriedades bizarras de alongamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-apresenta-propriedades-bizarras-alongamento&id=010160241206)
-- [Deep Learning: o guia completo para iniciantes](https://www.alura.com.br/artigos/deep-learning)
+- [Como criar um g�s qu�ntico em 10 ms e ver uma explos�o Bosenova](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-criar-gas-quantico-10-milissegundos-ver-explosao-bosenova&id=010115241205)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
