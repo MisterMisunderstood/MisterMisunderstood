@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Massa ou energia? Descoberta part�cula que s� tem massa quando se move numa dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-so-tem-massa-quando-se-move-direcao-observada-pela-primeira-vez&id=010165241212)
+- [Processador qu�ntico modular poder� ter qualquer n�mero de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-modular-podera-ter-qualquer-numero-qubits&id=010150241212)
 - [Feedback e mentoria: como evoluir e capacitar sua equipe](https://www.alura.com.br/artigos/feedback-mentoria)
 - [Ordem no caos: Experimento comprova exist�ncia de padr�es ordenados no caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-comprova-haver-padroes-ordenados-caos&id=010165241211)
 - [Smart TVs coletam dados do que voc� est� vendo a cada poucos segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=smart-tvs-coletam-dados-voce-esta-vendo-cada-poucos-segundos&id=010150241211)
 - [Gestão de custos – conceitos fundamentais, importância e recomendações](https://www.alura.com.br/artigos/gestao-de-custos)
 - [Mem�ria de computador semelhante a bateria funciona acima de 600 �C](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-computador-semelhante-bateria-funciona-acima-600-c&id=010110241210)
-- [Observa��es mais completas do Webb confirmam desafio � teoria cosmol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observacoes-mais-completas-Webb-contestam-teoria-cosmologica&id=010130241210)
-- [Livre com�rcio deve ser substitu�do por Com�rcio Mundial �tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=livre-comercio-deve-substituido-comercio-mundial-etico&id=010125241210)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
