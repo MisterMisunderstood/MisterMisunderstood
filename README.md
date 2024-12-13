@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Massa ou energia? Descoberta part�cula que s� tem massa quando se move numa dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-so-tem-massa-quando-se-move-direcao-observada-pela-primeira-vez&id=010165241212)
 - [Processador qu�ntico modular poder� ter qualquer n�mero de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-modular-podera-ter-qualquer-numero-qubits&id=010150241212)
 - [O que é RAG e como essa técnica funciona](https://www.alura.com.br/artigos/o-que-e-rag)
+- [Feedback e mentoria: como evoluir e capacitar sua equipe](https://www.alura.com.br/artigos/feedback-mentoria)
 - [Ordem no caos: Experimento comprova exist�ncia de padr�es ordenados no caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-comprova-haver-padroes-ordenados-caos&id=010165241211)
-- [Smart TVs coletam dados do que voc� est� vendo a cada poucos segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=smart-tvs-coletam-dados-voce-esta-vendo-cada-poucos-segundos&id=010150241211)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
