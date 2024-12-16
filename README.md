@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Testes automatizados: como melhorar qualidade e confiabilidade do seu software](https://www.alura.com.br/artigos/testes-automatizados)
 - [C�pula t�rmica revoluciona tecnologias de invisibilidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cupula-termica-revoluciona-tecnologias-invisibilidade&id=010160241213)
 - [Fotografado novo tipo de magnetismo que pode revolucionar dispositivos digitais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-novo-tipo-magnetismo-revolucionar-dispositivos-digitais&id=010110241213)
-- [Massa ou energia? Descoberta part�cula que s� tem massa quando se move numa dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-so-tem-massa-quando-se-move-direcao-observada-pela-primeira-vez&id=010165241212)
+- [O que é RAG e como essa técnica funciona](https://www.alura.com.br/artigos/o-que-e-rag)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
