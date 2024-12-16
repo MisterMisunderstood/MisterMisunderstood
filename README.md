@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado um material com repel�ncia � �gua quase perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-repelencia-agua-quase-perfeita&id=010160241216)
+- [Folhas magn�ticas manipulam objetos sem precisar agarr�-los](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folhas-magneticas-manipulam-objetos-sem-precisar-agarra-los&id=010170241216)
+- [Resfriamento com luz agora tamb�m em objetos de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-luz-agora-tambem-objetos-estado-solido&id=010115241216)
 - [Testes automatizados: como melhorar qualidade e confiabilidade do seu software](https://www.alura.com.br/artigos/testes-automatizados)
 - [C�pula t�rmica revoluciona tecnologias de invisibilidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cupula-termica-revoluciona-tecnologias-invisibilidade&id=010160241213)
 - [Fotografado novo tipo de magnetismo que pode revolucionar dispositivos digitais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-novo-tipo-magnetismo-revolucionar-dispositivos-digitais&id=010110241213)
 - [Massa ou energia? Descoberta part�cula que s� tem massa quando se move numa dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particula-so-tem-massa-quando-se-move-direcao-observada-pela-primeira-vez&id=010165241212)
-- [Processador qu�ntico modular poder� ter qualquer n�mero de qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-modular-podera-ter-qualquer-numero-qubits&id=010150241212)
-- [O que é RAG e como essa técnica funciona](https://www.alura.com.br/artigos/o-que-e-rag)
-- [Ordem no caos: Experimento comprova exist�ncia de padr�es ordenados no caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-comprova-haver-padroes-ordenados-caos&id=010165241211)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
