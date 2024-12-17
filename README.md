@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Analytics: o que é, qual a importância e como desenvolver uma carreira nessa área](https://www.alura.com.br/artigos/engenharia-de-analytics)
 - [Criado um material com repel�ncia � �gua quase perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-repelencia-agua-quase-perfeita&id=010160241216)
 - [Folhas magn�ticas manipulam objetos sem precisar agarr�-los](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folhas-magneticas-manipulam-objetos-sem-precisar-agarra-los&id=010170241216)
 - [Resfriamento com luz agora tamb�m em objetos de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-luz-agora-tambem-objetos-estado-solido&id=010115241216)
+- [Engenharia de Analytics: o que é, qual a importância e como desenvolver uma carreira nessa área](https://www.alura.com.br/artigos/engenharia-de-analytics)
 - [Testes automatizados: como melhorar qualidade e confiabilidade do seu software](https://www.alura.com.br/artigos/testes-automatizados)
 - [C�pula t�rmica revoluciona tecnologias de invisibilidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cupula-termica-revoluciona-tecnologias-invisibilidade&id=010160241213)
 - [Fotografado novo tipo de magnetismo que pode revolucionar dispositivos digitais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotografado-novo-tipo-magnetismo-revolucionar-dispositivos-digitais&id=010110241213)
