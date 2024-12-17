@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça 9 ferramentas de IA para criar logo](https://www.alura.com.br/artigos/ia-para-criar-logo)
 - [Bateria de Pr�tons: Op��o inovadora para o futuro do armazenamento de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-protons-opcao-inovadora-futuro-armazenamento-energia&id=010115241217)
 - [Mol�culas de �gua s�o assim�tricas, o que pode explicar anomalias da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-agua-assimetricas-explicar-anomalias-agua&id=010125241217)
 - [Arraias inspiram rob� macio mais r�pido j� constru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arraias-inspiram-robo-macio-mais-rapido-ja-construido&id=010180241217)
 - [Engenharia de Analytics: o que é, qual a importância e como desenvolver uma carreira nessa área](https://www.alura.com.br/artigos/engenharia-de-analytics)
 - [Criado um material com repel�ncia � �gua quase perfeita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-material-repelencia-agua-quase-perfeita&id=010160241216)
 - [Folhas magn�ticas manipulam objetos sem precisar agarr�-los](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folhas-magneticas-manipulam-objetos-sem-precisar-agarra-los&id=010170241216)
-- [Resfriamento com luz agora tamb�m em objetos de estado s�lido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-luz-agora-tambem-objetos-estado-solido&id=010115241216)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
