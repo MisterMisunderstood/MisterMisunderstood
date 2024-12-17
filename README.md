@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Descoberta estrela bin�ria pr�xima ao buraco negro central da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-estrela-binaria-proxima-buraco-negro-central-via-lactea&id=010130241217)
 - [Conheça 9 ferramentas de IA para criar logo](https://www.alura.com.br/artigos/ia-para-criar-logo)
+- [Descoberta estrela bin�ria pr�xima ao buraco negro central da Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-estrela-binaria-proxima-buraco-negro-central-via-lactea&id=010130241217)
 - [Bateria de Pr�tons: Op��o inovadora para o futuro do armazenamento de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-protons-opcao-inovadora-futuro-armazenamento-energia&id=010115241217)
 - [Mol�culas de �gua s�o assim�tricas, o que pode explicar anomalias da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-agua-assimetricas-explicar-anomalias-agua&id=010125241217)
 - [Arraias inspiram rob� macio mais r�pido j� constru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arraias-inspiram-robo-macio-mais-rapido-ja-construido&id=010180241217)
