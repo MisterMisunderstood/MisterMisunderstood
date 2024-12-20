@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Estratégias de SEO para potencializar negócios digitais](https://www.alura.com.br/artigos/seo-para-negocios-digitais)
 - [Al�m do l�tio: Quais s�o as tecnologias alternativas de baterias mais promissoras?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alem-litio-veja-tecnologias-alternativas-baterias-mais-promissoras&id=010115241219)
 - [Est� pronta a pe�a que faltava para os computadores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-pronta-peca-faltava-computadores-luz&id=010110241219)
+- [Construindo soluções baseadas em IA utilizando o Amazon Bedrock e modelos da Anthropic](https://www.alura.com.br/artigos/aws-bedrock)
 - [Idealizado novo tipo de motor de detona��o para avi�es e foguetes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=idealizado-novo-tipo-motor-detonacao-avioes-foguetes&id=010170241218)
 - [Computa��o com DNA ganha registradores e fica r�pida e regrav�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-dna-ganha-registradores-fica-rapida-regravavel&id=010150241218)
-- [Construindo soluções baseadas em IA utilizando o Amazon Bedrock e modelos da Anthropic](https://www.alura.com.br/artigos/aws-bedrock)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
