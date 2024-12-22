@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Como o ML Kit facilita o desenvolvimento de apps mobile com IA](https://www.alura.com.br/artigos/mlkit)
 - [Tecnologia de telesc�pio leva soldagem a laser e impress�o 3D a novos patamares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-telescopio-leva-soldagem-laser-impressao-3d-novos-patamares&id=010170241220)
 - [O que veio primeiro, a vida ou a evolu��o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-veio-primeiro-vida-ou-evolucao&id=010125241220)
-- [Retrospectiva 2024 da Alura: confira tudo que construímos juntos nesse ano](https://www.alura.com.br/artigos/retrospectiva-2024)
 - [Estratégias de SEO para potencializar negócios digitais](https://www.alura.com.br/artigos/seo-para-negocios-digitais)
+- [Retrospectiva 2024 da Alura: confira tudo que construímos juntos nesse ano](https://www.alura.com.br/artigos/retrospectiva-2024)
 - [Al�m do l�tio: Quais s�o as tecnologias alternativas de baterias mais promissoras?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alem-litio-veja-tecnologias-alternativas-baterias-mais-promissoras&id=010115241219)
 - [Est� pronta a pe�a que faltava para os computadores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esta-pronta-peca-faltava-computadores-luz&id=010110241219)
 <!-- BLOG-POST-LIST:END -->
