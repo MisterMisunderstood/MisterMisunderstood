@@ -124,12 +124,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [ORM: aprenda a simplificar a integração com bancos de dados](https://www.alura.com.br/artigos/orm)
 - [Buracos negros podem ter n�cleos din�micos, desafiando as teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-ter-nucleos-dinamicos-desafiando-teorias&id=010130241223)
 - [Cer�mica fica macia e sensitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ceramica-fica-macia-sensitiva&id=010160241223)
 - [Como o ML Kit facilita o desenvolvimento de apps mobile com IA](https://www.alura.com.br/artigos/mlkit)
 - [Tecnologia de telesc�pio leva soldagem a laser e impress�o 3D a novos patamares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-telescopio-leva-soldagem-laser-impressao-3d-novos-patamares&id=010170241220)
 - [O que veio primeiro, a vida ou a evolu��o?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-veio-primeiro-vida-ou-evolucao&id=010125241220)
-- [Estratégias de SEO para potencializar negócios digitais](https://www.alura.com.br/artigos/seo-para-negocios-digitais)
 - [Retrospectiva 2024 da Alura: confira tudo que construímos juntos nesse ano](https://www.alura.com.br/artigos/retrospectiva-2024)
 <!-- BLOG-POST-LIST:END -->
 
