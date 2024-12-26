@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Circuitos t�rmicos: Fluxo de calor � controlado usando campo el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-termicos-fluxo-calor-controlado-meio-campos-eletricos&id=010110241226)
+- [V�rtices de luz multiplicam por 13 capacidade de transmiss�o de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vortices-luz-multiplicam-13-capacidade-transmissao-dados&id=010150241226)
 - [M�quinas inteligentes: Rede neural mec�nica roda em processador mec�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maquinas-inteligentes-rede-neural-mecanica-roda-processador-mecanico&id=010180241224)
 - [Conhe�a os ex�ticos metais qu�nticos cr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-exoticos-metais-quanticos-criticos&id=010165241224)
 - [ORM: aprenda a simplificar a integração com bancos de dados](https://www.alura.com.br/artigos/orm)
 - [Buracos negros podem ter n�cleos din�micos, desafiando as teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-ter-nucleos-dinamicos-desafiando-teorias&id=010130241223)
 - [Cer�mica fica macia e sensitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ceramica-fica-macia-sensitiva&id=010160241223)
-- [Como o ML Kit facilita o desenvolvimento de apps mobile com IA](https://www.alura.com.br/artigos/mlkit)
-- [Tecnologia de telesc�pio leva soldagem a laser e impress�o 3D a novos patamares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-telescopio-leva-soldagem-laser-impressao-3d-novos-patamares&id=010170241220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
