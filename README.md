@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [CMS e IA Como criar conteúdos de forma ágil](https://www.alura.com.br/artigos/ferramentas-de-cms)
 - [Luz comprimida dobra capacidade de detec��o de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-comprimida-dobra-capacidade-deteccao-ondas-gravitacionais&id=010130241230)
 - [Biohidrog�nio limpo � produzido a partir de res�duos de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biohidrogenio-limpo-produzido-partir-residuos-madeira&id=010125241230)
 - [� poss�vel alcan�ar uma avia��o sustent�vel?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aviacao-sustentavel&id=010170241227)
 - [Nanolaser feito de nanocubos � simples o suficiente para fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanolaser-feito-nanocubos-simples-suficiente-fabricacao-industrial&id=010115241227)
 - [As diferenças entre Tech Lead e UX Lead na construção de um produto](https://www.alura.com.br/artigos/diferenca-entre-tech-lead-e-ux-lead)
 - [Circuitos t�rmicos: Fluxo de calor � controlado usando campo el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-termicos-fluxo-calor-controlado-meio-campos-eletricos&id=010110241226)
-- [V�rtices de luz multiplicam por 13 capacidade de transmiss�o de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vortices-luz-multiplicam-13-capacidade-transmissao-dados&id=010150241226)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
