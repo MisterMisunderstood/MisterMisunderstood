@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como usar o Excel para fazer controle financeiro eficaz](https://www.alura.com.br/artigos/excel-para-controle-financeiro)
 - [Unidades el�tricas fundamentais aproximam-se do padr�o qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unidades-eletricas-fundamentais-aproximam-se-padrao-quantico&id=010170250103)
 - [Tecnologia que acelera evapora��o da �gua do mar pode beneficiar bilh�es de pessoas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-acelera-evaporacao-agua-mar-beneficiar-bilhoes-pessoas&id=010125250103)
 - [FinOps: o que é, como funciona e como usar na gestão de cloud](https://www.alura.com.br/artigos/finops)
 - [Novo disco �ptico armazena dados em camadas reais e virtuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-disco-optico-armazena-dados-camadas-reais-virtuais&id=010150250102)
 - [Conhe�a o eletrobiodiesel, um biocombust�vel mais eficiente e mais limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-eletrobiodiesel-biocombustivel-caminhoes-mais-eficiente-limpo&id=010115250102)
 - [Cristal espa�o-temporal junta o melhor dos cristais comuns e dos cristais do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-espaco-temporal-junta-melhor-cristais-comuns-cristais-tempo&id=010160241231)
-- [Luz � usada para criar bioeletr�nica dentro de organismos vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-usada-criar-bioeletronica-dentro-organismos-vivos&id=010110241231)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
