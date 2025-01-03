@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps: o que é, como funciona e como usar na gestão de cloud](https://www.alura.com.br/artigos/finops)
 - [Novo disco �ptico armazena dados em camadas reais e virtuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-disco-optico-armazena-dados-camadas-reais-virtuais&id=010150250102)
 - [Conhe�a o eletrobiodiesel, um biocombust�vel mais eficiente e mais limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conheca-eletrobiodiesel-biocombustivel-caminhoes-mais-eficiente-limpo&id=010115250102)
+- [FinOps: o que é, como funciona e como usar na gestão de cloud](https://www.alura.com.br/artigos/finops)
 - [Cristal espa�o-temporal junta o melhor dos cristais comuns e dos cristais do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-espaco-temporal-junta-melhor-cristais-comuns-cristais-tempo&id=010160241231)
 - [Luz � usada para criar bioeletr�nica dentro de organismos vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-usada-criar-bioeletronica-dentro-organismos-vivos&id=010110241231)
-- [CMS e IA Como criar conteúdos de forma ágil](https://www.alura.com.br/artigos/ferramentas-de-cms)
 - [Luz comprimida dobra capacidade de detec��o de ondas gravitacionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-comprimida-dobra-capacidade-deteccao-ondas-gravitacionais&id=010130241230)
+- [Biohidrog�nio limpo � produzido a partir de res�duos de madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biohidrogenio-limpo-produzido-partir-residuos-madeira&id=010125241230)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
