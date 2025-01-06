@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Multicloud: o que é, vantagens e desafios na implementação](https://www.alura.com.br/artigos/multicloud)
 - [Como o bambol� vence a gravidade? A resposta ter� amplo impacto na engenharia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-bambole-vence-gravidade-resposta-tera-amplo-impacto-engenharia&id=010180250106)
 - [Energia escura n�o existe, garantem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-existe-garantem-cientistas&id=010130250106)
 - [Teletransporte qu�ntico poder� funcionar nas fibras �pticas da internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teletransporte-quantico-podera-funcionar-cabos-comuns-internet&id=010150250106)
 - [Como usar o Excel para fazer controle financeiro eficaz](https://www.alura.com.br/artigos/excel-para-controle-financeiro)
 - [Unidades el�tricas fundamentais aproximam-se do padr�o qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unidades-eletricas-fundamentais-aproximam-se-padrao-quantico&id=010170250103)
 - [Tecnologia que acelera evapora��o da �gua do mar pode beneficiar bilh�es de pessoas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-acelera-evaporacao-agua-mar-beneficiar-bilhoes-pessoas&id=010125250103)
-- [FinOps: o que é, como funciona e como usar na gestão de cloud](https://www.alura.com.br/artigos/finops)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
