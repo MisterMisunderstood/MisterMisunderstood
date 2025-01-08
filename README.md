@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Miniaturizada chave �ptica que roteia os sinais das fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizada-chave-optica-roteia-sinais-fibras-opticas&id=010110250108)
+- [Nova tecnologia de detec��o qu�ntica capta sinais de �tomos individuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-deteccao-quantica-capta-sinais-atomos-individuais&id=010165250108)
 - [M�gica qu�ntica? Sim, e com impacto direto na computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magica-quantica-sim-impacto-direto-computacao-quantica&id=010130250107)
 - [Bateria de l�tio s�lido tem tr�s camadas contra fogo e explos�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-solido-tem-tres-camadas-contra-fogo-explosao&id=010115250107)
 - [Sensores luminescentes medem for�a usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensores-luminescentes-medem-forca-usando-apenas-luz&id=010170250107)
 - [Multicloud: o que é, vantagens e desafios na implementação](https://www.alura.com.br/artigos/multicloud)
 - [Como o bambol� vence a gravidade? A resposta ter� amplo impacto na engenharia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-bambole-vence-gravidade-resposta-tera-amplo-impacto-engenharia&id=010180250106)
-- [Energia escura n�o existe, garantem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-existe-garantem-cientistas&id=010130250106)
-- [Teletransporte qu�ntico poder� funcionar nas fibras �pticas da internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teletransporte-quantico-podera-funcionar-cabos-comuns-internet&id=010150250106)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
