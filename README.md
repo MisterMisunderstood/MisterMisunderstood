@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Part�culas consideradas "imposs�veis" pela f�sica podem de fato existir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-comprovam-possibilidade-existencia-particulas-tidas-como-impossiveis&id=010160250109)
 - [Luz torcida � produzida por l�mpada incandescente "tunada"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-torcida-produzida-lampada-incandescente-tunada&id=010115250109)
 - [Alura oferece 100 mil vagas para curso online e gratuito em Front-end](https://www.alura.com.br/artigos/imersao-front-end)
 - [Observando os estados de uma aplicação React com a biblioteca MobX](https://www.alura.com.br/artigos/mobx)
 - [Miniaturizada chave �ptica que roteia os sinais das fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizada-chave-optica-roteia-sinais-fibras-opticas&id=010110250108)
 - [Nova tecnologia de detec��o qu�ntica capta sinais de �tomos individuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-deteccao-quantica-capta-sinais-atomos-individuais&id=010165250108)
 - [M�gica qu�ntica? Sim, e com impacto direto na computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magica-quantica-sim-impacto-direto-computacao-quantica&id=010130250107)
-- [Bateria de l�tio s�lido tem tr�s camadas contra fogo e explos�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-solido-tem-tres-camadas-contra-fogo-explosao&id=010115250107)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
