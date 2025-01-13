@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Part�culas consideradas "imposs�veis" pela f�sica podem de fato existir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-comprovam-possibilidade-existencia-particulas-tidas-como-impossiveis&id=010160250109)
 - [Luz torcida � produzida por l�mpada incandescente "tunada"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-torcida-produzida-lampada-incandescente-tunada&id=010115250109)
 - [O papel dos React hooks na arquitetura de software no front-end](https://www.alura.com.br/artigos/papel-dos-hooks)
-- [Miniaturizada chave �ptica que roteia os sinais das fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizada-chave-optica-roteia-sinais-fibras-opticas&id=010110250108)
+- [Observando os estados de uma aplicação React com a biblioteca MobX](https://www.alura.com.br/artigos/mobx)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
