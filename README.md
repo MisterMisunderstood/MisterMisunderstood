@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [React: estratégias para componentes escaláveis](https://www.alura.com.br/artigos/componentes-do-react)
 - [O que � um agente de IA? Cientista explica nova ferramenta da intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-agente-inteligencia-artificial&id=010150250110)
 - [Tudo que observamos na natureza pode ser medido com uma �nica constante, o segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=natureza-medida-unica-constante-segundo&id=010130250110)
-- [React: estratégias para componentes escaláveis](https://www.alura.com.br/artigos/componentes-do-react)
 - [Part�culas consideradas "imposs�veis" pela f�sica podem de fato existir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-comprovam-possibilidade-existencia-particulas-tidas-como-impossiveis&id=010160250109)
 - [Luz torcida � produzida por l�mpada incandescente "tunada"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-torcida-produzida-lampada-incandescente-tunada&id=010115250109)
 - [O papel dos React hooks na arquitetura de software no front-end](https://www.alura.com.br/artigos/papel-dos-hooks)
