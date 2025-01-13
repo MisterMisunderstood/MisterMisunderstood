@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberta de nova quasipart�cula redefine o magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-quasiparticula-redefine-magnetismo&id=010110250113)
+- [Material � magnetizado usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-magnetizado-usando-apenas-luz&id=010115250113)
+- [Hidrog�is condutores viabilizam fus�o da biologia com a eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-condutores-viabilizam-fusao-biologia-eletronica&id=010160250113)
 - [React: estratégias para componentes escaláveis](https://www.alura.com.br/artigos/componentes-do-react)
 - [O que � um agente de IA? Cientista explica nova ferramenta da intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-agente-inteligencia-artificial&id=010150250110)
 - [Tudo que observamos na natureza pode ser medido com uma �nica constante, o segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=natureza-medida-unica-constante-segundo&id=010130250110)
 - [Part�culas consideradas "imposs�veis" pela f�sica podem de fato existir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-comprovam-possibilidade-existencia-particulas-tidas-como-impossiveis&id=010160250109)
-- [Luz torcida � produzida por l�mpada incandescente "tunada"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-torcida-produzida-lampada-incandescente-tunada&id=010115250109)
-- [O papel dos React hooks na arquitetura de software no front-end](https://www.alura.com.br/artigos/papel-dos-hooks)
-- [Observando os estados de uma aplicação React com a biblioteca MobX](https://www.alura.com.br/artigos/mobx)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
