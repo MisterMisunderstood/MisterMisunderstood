@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Online first vs Offline first no Flutter: como usar e quando escolher](https://www.alura.com.br/artigos/online-offline-first)
 - [Descoberta de nova quasipart�cula redefine o magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-quasiparticula-redefine-magnetismo&id=010110250113)
 - [Material � magnetizado usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-magnetizado-usando-apenas-luz&id=010115250113)
 - [Hidrog�is condutores viabilizam fus�o da biologia com a eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-condutores-viabilizam-fusao-biologia-eletronica&id=010160250113)
+- [Online first vs Offline first no Flutter: como usar e quando escolher](https://www.alura.com.br/artigos/online-offline-first)
 - [React: estratégias para componentes escaláveis](https://www.alura.com.br/artigos/componentes-do-react)
 - [O que � um agente de IA? Cientista explica nova ferramenta da intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-agente-inteligencia-artificial&id=010150250110)
 - [Tudo que observamos na natureza pode ser medido com uma �nica constante, o segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=natureza-medida-unica-constante-segundo&id=010130250110)
