@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gato de Schrodinger vivo ou morto dentro de chip tem sete vidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-vivo-morto-dentro-chip-elimina-erros-computadores-quanticos&id=010150250115)
+- [Ao contr�rio dos buracos negros, "singularidades nuas" podem ser observadas diretamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=singularidades-nuas&id=010130250115)
 - [Tipos de modelos de LLMs: generalistas, especialistas, compactos e multimodais](https://www.alura.com.br/artigos/tipos-de-llms)
 - [Evento no Sistema Solar explica aceleradores c�smicos de part�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evento-sistema-solar-explica-aceleradores-cosmicos-particulas&id=010130250114)
 - [Detectados tr�s formatos diferentes do n�cleo at�mico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectados-tres-formatos-diferentes-nucleo-atomico&id=010165250114)
 - [Geladeira qu�ntica faz corre��o autom�tica de erros nos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geladeira-quantica-correcao-automatica-erros-computadores-quanticos&id=010150250114)
-- [Descoberta de nova quasipart�cula redefine o magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-quasiparticula-redefine-magnetismo&id=010110250113)
-- [Material � magnetizado usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-magnetizado-usando-apenas-luz&id=010115250113)
-- [Hidrog�is condutores viabilizam fus�o da biologia com a eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogeis-condutores-viabilizam-fusao-biologia-eletronica&id=010160250113)
+- [Online first vs Offline first no Flutter: como usar e quando escolher](https://www.alura.com.br/artigos/online-offline-first)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
