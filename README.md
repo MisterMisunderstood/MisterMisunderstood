@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomic design no front-end: construa componentes escaláveis e modulares](https://www.alura.com.br/artigos/atomic-design)
 - [Os alien�genas existem? Veja o que os cientistas realmente pensam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=os-alienigenas-existem-veja-cientistas-realmente-pensam&id=010130250116)
 - [Aparelho flex�vel reduz temperaturas em 14 graus em segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-flexivel-reduz-temperaturas-14-graus-segundos&id=010170250116)
 - [Arquitetura de software vs design de aplicação: entenda as diferenças](https://www.alura.com.br/artigos/design-de-aplicacao-e-arquitetura)
 - [Gato de Schrodinger vivo ou morto dentro de chip tem sete vidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gato-schrodinger-vivo-morto-dentro-chip-elimina-erros-computadores-quanticos&id=010150250115)
 - [Ao contr�rio dos buracos negros, "singularidades nuas" podem ser observadas diretamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=singularidades-nuas&id=010130250115)
 - [Tipos de modelos de LLMs: generalistas, especialistas, compactos e multimodais](https://www.alura.com.br/artigos/tipos-de-llms)
-- [Evento no Sistema Solar explica aceleradores c�smicos de part�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=evento-sistema-solar-explica-aceleradores-cosmicos-particulas&id=010130250114)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
