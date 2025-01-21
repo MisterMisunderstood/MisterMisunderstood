@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Testes de hipóteses: o que são, para que servem e principais tipos](https://www.alura.com.br/artigos/testes-de-hipoteses)
 - [Material ultraforte � feito com mol�culas travadas mecanicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-ultraforte-feito-moleculas-travadas-mecanicamente&id=010160250120)
 - [Ladrilhos sustent�veis mant�m qualidade do ar sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ladrilhos-sustentaveis-mantem-qualidade-ar-sem-gastar-energia&id=010125250120)
 - [C�mera inspirada nos olhos de inseto captura 9.120 quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-inspirada-olhos-inseto-captura-9-120-quadros-segundo&id=010110250120)
+- [Testes de hipóteses: o que são, para que servem e principais tipos](https://www.alura.com.br/artigos/testes-de-hipoteses)
 - [GraphQL ou REST: descubra a melhor escolha para seu App Flutter](https://www.alura.com.br/artigos/graphql-ou-rest)
 - [Cristais pl�sticos podem tornar geladeiras mais sustent�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-cristais-plasticos-tornar-geladeiras-mais-sustentaveis&id=010170250117)
 - [Lente plana amplia horizontes tecnol�gicos, com foco na miniaturiza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-amplia-horizontes-tecnologicos-foco-miniaturizacao&id=010165250117)
