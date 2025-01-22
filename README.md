@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tempestade c�smica: Este planeta tem ventos de 33.000 km/h](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempestade-cosmica-este-planeta-tem-ventos-33-000-km-h&id=020130250122)
 - [Biobateria n�o precisa ser recarregada - precisa ser alimentada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-nao-precisa-recarregada-precisa-alimentada&id=010115250122)
 - [NASA come�a a trabalhar em nave com propuls�o nuclear-el�trica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-comeca-trabalhar-nave-propulsao-nuclear-eletrica&id=010130250122)
 - [Como publicar uma biblioteca de hooks React no npm usando Turborepo](https://www.alura.com.br/artigos/lib-de-hooks-com-turborepo)
 - [Leis da Rob�tica de Asimov precisam de atualiza��o para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-robotica-asimov-precisam-atualizacao-ia&id=010180250121)
 - [Mem�ria magneto-�ptica faz c�lculos super r�pidos e dura uma vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-magneto-optica-faz-calculos-super-rapidos-dura-vida&id=010150250121)
 - [Expans�o da Universo: Tens�o de Hubble transforma-se em crise da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=expansao-universo-tensao-hubble-transforma-se-crise-cosmologia&id=010130250121)
-- [Material ultraforte � feito com mol�culas travadas mecanicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-ultraforte-feito-moleculas-travadas-mecanicamente&id=010160250120)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
