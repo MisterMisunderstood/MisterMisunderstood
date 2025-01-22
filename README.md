@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Biobateria n�o precisa ser recarregada - precisa ser alimentada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-nao-precisa-recarregada-precisa-alimentada&id=010115250122)
+- [NASA come�a a trabalhar em nave com propuls�o nuclear-el�trica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-comeca-trabalhar-nave-propulsao-nuclear-eletrica&id=010130250122)
 - [Como publicar uma biblioteca de hooks React no npm usando Turborepo](https://www.alura.com.br/artigos/lib-de-hooks-com-turborepo)
 - [Leis da Rob�tica de Asimov precisam de atualiza��o para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-robotica-asimov-precisam-atualizacao-ia&id=010180250121)
 - [Mem�ria magneto-�ptica faz c�lculos super r�pidos e dura uma vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-magneto-optica-faz-calculos-super-rapidos-dura-vida&id=010150250121)
 - [Expans�o da Universo: Tens�o de Hubble transforma-se em crise da cosmologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=expansao-universo-tensao-hubble-transforma-se-crise-cosmologia&id=010130250121)
 - [Material ultraforte � feito com mol�culas travadas mecanicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-ultraforte-feito-moleculas-travadas-mecanicamente&id=010160250120)
-- [Ladrilhos sustent�veis mant�m qualidade do ar sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ladrilhos-sustentaveis-mantem-qualidade-ar-sem-gastar-energia&id=010125250120)
-- [C�mera inspirada nos olhos de inseto captura 9.120 quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-inspirada-olhos-inseto-captura-9-120-quadros-segundo&id=010110250120)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
