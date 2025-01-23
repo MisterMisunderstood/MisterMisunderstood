@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Diamante � fabricado na forma de pel�cula ultraflex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-fabricado-forma-peliculas-ultraflexiveis&id=010165250123)
+- [Supercola ecol�gica e biodegrad�vel supera todas as colas comerciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercola-ecologica-biodegradavel-supera-todas-colas-comerciais&id=010160250123)
 - [Sol artificial da China bate recorde de conten��o de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-sol-artificial-china-bate-recorde-contencao-plasma&id=020115250122)
 - [Tempestade c�smica: Este planeta tem ventos de 33.000 km/h](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempestade-cosmica-este-planeta-tem-ventos-33-000-km-h&id=020130250122)
 - [Estatística descritiva](https://www.alura.com.br/artigos/estatistica-descritiva)
 - [Biobateria n�o precisa ser recarregada - precisa ser alimentada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobateria-nao-precisa-recarregada-precisa-alimentada&id=010115250122)
 - [NASA come�a a trabalhar em nave com propuls�o nuclear-el�trica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-comeca-trabalhar-nave-propulsao-nuclear-eletrica&id=010130250122)
-- [Como publicar uma biblioteca de hooks React no npm usando Turborepo](https://www.alura.com.br/artigos/lib-de-hooks-com-turborepo)
-- [Leis da Rob�tica de Asimov precisam de atualiza��o para IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leis-robotica-asimov-precisam-atualizacao-ia&id=010180250121)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
