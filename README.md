@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Couchbase: o que é e como usá-lo no Flutter para criar um app offline first](https://www.alura.com.br/artigos/coachbase)
 - [Diamante � fabricado na forma de pel�cula ultraflex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-fabricado-forma-peliculas-ultraflexiveis&id=010165250123)
 - [Supercola ecol�gica e biodegrad�vel supera todas as atuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercola-ecologica-biodegradavel-supera-todas-colas-comerciais&id=010160250123)
-- [Sol artificial da China bate recorde de conten��o de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-sol-artificial-china-bate-recorde-contencao-plasma&id=020115250122)
+- [Estatística descritiva](https://www.alura.com.br/artigos/estatistica-descritiva)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
