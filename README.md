@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Como configurar o Framer com boas práticas de SEO](https://www.alura.com.br/artigos/seo-com-framer)
 - [Intelig�ncia n�o � suficiente. Vem a� a Imagina��o Artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-nao-suficiente-vem-ai-imaginacao-artificial&id=010150250124)
 - [Grafeno branco abre caminho para tecnologias de �ltima gera��o mais limpas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-branco-abre-caminho-energia-mais-limpa-tecnologia-ultima-geracao&id=010160250124)
-- [Diamante � fabricado na forma de pel�cula ultraflex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-fabricado-forma-peliculas-ultraflexiveis&id=010165250123)
+- [Couchbase: o que é e como usá-lo no Flutter para criar um app offline first](https://www.alura.com.br/artigos/coachbase)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
