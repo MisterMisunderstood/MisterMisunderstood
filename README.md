@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tecido t�rmico aquece at� 30�C em 10 minutos sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-termico-aquece-ate-30-c-10-minutos-sob-sol&id=010160250127)
+- [Estrutura fina como papel leva eletr�nica flex�vel para uso no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrutura-fina-como-papel-leva-eletronica-flexivel-uso-espaco&id=010130250127)
+- [Miniaturizado gerador de f�tons entrela�ados para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizado-gerador-fotons-entrelacados-tecnologias-quanticas&id=010110250127)
 - [Como configurar o Framer com boas práticas de SEO](https://www.alura.com.br/artigos/seo-com-framer)
 - [Intelig�ncia n�o � suficiente. Vem a� a Imagina��o Artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-nao-suficiente-vem-ai-imaginacao-artificial&id=010150250124)
 - [Grafeno branco abre caminho para tecnologias de �ltima gera��o mais limpas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-branco-abre-caminho-energia-mais-limpa-tecnologia-ultima-geracao&id=010160250124)
 - [Diamante � fabricado na forma de pel�cula ultraflex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-fabricado-forma-peliculas-ultraflexiveis&id=010165250123)
-- [Supercola ecol�gica e biodegrad�vel supera todas as atuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercola-ecologica-biodegradavel-supera-todas-colas-comerciais&id=010160250123)
-- [Couchbase: o que é e como usá-lo no Flutter para criar um app offline first](https://www.alura.com.br/artigos/coachbase)
-- [Sol artificial da China bate recorde de conten��o de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-sol-artificial-china-bate-recorde-contencao-plasma&id=020115250122)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
