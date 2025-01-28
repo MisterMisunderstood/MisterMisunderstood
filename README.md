@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokamak esf�rico in�dito gera primeiro plasma rumo � fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tokamak-esferico-inedito-gera-primeiro-plasma-rumo-fusao-nuclear&id=010115250128)
+- [Forte como a�o, leve como espuma: Chegou a era da nanoengenharia estrutural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forte-como-aco-leve-como-espuma-chegou-era-nanoengenharia-estrutural&id=010170250128)
+- [Efeito de proximidade permite que materiais avan�ados ganhem novas propriedades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-proximidade-permite-materiais-avancados-ganhem-novas-propriedades&id=010160250128)
 - [Tecido t�rmico aquece at� 30�C em 10 minutos sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-termico-aquece-ate-30-c-10-minutos-sob-sol&id=010160250127)
 - [Estrutura fina como papel leva eletr�nica flex�vel para uso no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrutura-fina-como-papel-leva-eletronica-flexivel-uso-espaco&id=010130250127)
 - [Miniaturizado gerador de f�tons entrela�ados para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizado-gerador-fotons-entrelacados-tecnologias-quanticas&id=010110250127)
 - [Como configurar o Framer com boas práticas de SEO](https://www.alura.com.br/artigos/seo-com-framer)
-- [Intelig�ncia n�o � suficiente. Vem a� a Imagina��o Artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-nao-suficiente-vem-ai-imaginacao-artificial&id=010150250124)
-- [Grafeno branco abre caminho para tecnologias de �ltima gera��o mais limpas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grafeno-branco-abre-caminho-energia-mais-limpa-tecnologia-ultima-geracao&id=010160250124)
-- [Diamante � fabricado na forma de pel�cula ultraflex�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-fabricado-forma-peliculas-ultraflexiveis&id=010165250123)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
