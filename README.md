@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Quanto mede um segundo? Rel�gios �pticos dar�o a resposta que esperamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-luz-abre-caminho-novo-segundo&id=010130250129)
+- [Sensa��es t�teis sem precedentes s�o obtidas com m�sculos artificiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensacoes-tateis-sem-precedentes-obtidas-musculos-artificiais&id=010180250129)
 - [Tokamak esf�rico in�dito gera primeiro plasma rumo � fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tokamak-esferico-inedito-gera-primeiro-plasma-rumo-fusao-nuclear&id=010115250128)
 - [Forte como a�o, leve como espuma: Chegou a era da nanoengenharia estrutural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forte-como-aco-leve-como-espuma-chegou-era-nanoengenharia-estrutural&id=010170250128)
 - [Efeito de proximidade faz materiais avan�ados ganharem novas propriedades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-proximidade-permite-materiais-avancados-ganhem-novas-propriedades&id=010160250128)
 - [Tecido t�rmico aquece at� 30�C em 10 minutos sob o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-termico-aquece-ate-30-c-10-minutos-sob-sol&id=010160250127)
 - [Estrutura fina como papel leva eletr�nica flex�vel para uso no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrutura-fina-como-papel-leva-eletronica-flexivel-uso-espaco&id=010130250127)
-- [Miniaturizado gerador de f�tons entrela�ados para tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizado-gerador-fotons-entrelacados-tecnologias-quanticas&id=010110250127)
-- [Como configurar o Framer com boas práticas de SEO](https://www.alura.com.br/artigos/seo-com-framer)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
