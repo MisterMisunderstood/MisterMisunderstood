@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processos biol�gicos reais s�o reproduzidos com neur�nios artificiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processos-biologicos-reais-reproduzidos-neuronios-sinteticos&id=020110250204)
+- [Ra�zes de �rvores inspiram eletr�nicos flex�veis robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raizes-arvores-inspiram-eletronicos-flexiveis-mais-robustos&id=010110250204)
+- [Pedra semipreciosa espin�lio tem qubit para computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pedra-semipreciosa-espinelio-tem-qubit-computador-quantico&id=020110250204)
 - [Carros el�tricos j� duram tanto quanto os movidos a gasolina e diesel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carros-eletricos-ja-duram-tanto-quanto-movidos-gasolina-diesel&id=010170250203)
 - [Bateria cheia de furos torna vest�veis mais respir�veis que algod�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cheia-furos-torna-vestiveis-mais-respiraveis-algodao&id=010115250203)
 - [Eletr�nica de fronteira inspirada no c�rebro � feita na fronteira... dos materiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-fronteira-inspirada-cerebro-feita-fronteira-materiais&id=010110250203)
 - [For�a nuclear desprezada ajuda a manter a mat�ria est�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forca-nuclear-desprezada-ajuda-manter-materia-estavel&id=010160250131)
-- [Neuro-meta-roteador desafia limite te�rico das comunica��es por fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuro-meta-roteador-limite-teorico-comunicacoes-fibra-optica&id=010150250131)
-- [Descoberta bact�ria que transforma lixo pl�stico em biopl�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-bacteria-transforma-lixo-plastico-bioplastico&id=010125250131)
-- [Asteroide Bennu possui ingredientes necess�rios para vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroide-bennu-possui-ingredientes-necessarios-vida&id=020130250130)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
