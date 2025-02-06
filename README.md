@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Metodologia Ágil: como aplicá-la em projetos de educação corporativa](https://www.alura.com.br/artigos/metodologia-agil-educacao-corporativa)
 - [Sombreamento bioinspirado controla clima de pr�dios sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sombreamento-bioinspirado-torna-predios-responsivos-condicoes-climaticas&id=010170250206)
 - [Aparelho produz eletricidade e luz simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-produz-eletricidade-luz-simultaneamente&id=010115250206)
 - [O silêncio que sabota: como a cultura do silêncio impacta seu potencial](https://www.alura.com.br/artigos/cultura-do-silencio)
 - [Computador qu�ntico simula destino final do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-simula-destino-final-universo&id=010130250205)
 - [Cristais que acendem e apagam dispensam l�mpadas na computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-acendem-apagam-dispensam-lampadas-computacao-optica&id=010150250205)
 - [Processos biol�gicos reais s�o reproduzidos com neur�nios artificiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processos-biologicos-reais-reproduzidos-neuronios-sinteticos&id=020110250204)
-- [Ra�zes de �rvores inspiram eletr�nicos flex�veis robustos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raizes-arvores-inspiram-eletronicos-flexiveis-mais-robustos&id=010110250204)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
