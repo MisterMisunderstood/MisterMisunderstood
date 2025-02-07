@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Sonho de Tesla? Eletricidade � guiada no ar usando som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonho-tesla-eletricidade-guiada-ar-usando-som&id=010115250207)
 - [Mem�rias digitais ficam melhores gra�as a um g�s nobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-digitais-ficam-melhores-gracas-gas-nobre&id=010110250207)
+- [Metodologia Ágil: como aplicá-la em projetos de educação corporativa](https://www.alura.com.br/artigos/metodologia-agil-educacao-corporativa)
 - [Sombreamento bioinspirado controla clima de pr�dios sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sombreamento-bioinspirado-torna-predios-responsivos-condicoes-climaticas&id=010170250206)
 - [Aparelho produz eletricidade e luz simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-produz-eletricidade-luz-simultaneamente&id=010115250206)
-- [Metodologia Ágil: como aplicá-la em projetos de educação corporativa](https://www.alura.com.br/artigos/metodologia-agil-educacao-corporativa)
+- [O silêncio que sabota: como a cultura do silêncio impacta seu potencial](https://www.alura.com.br/artigos/cultura-do-silencio)
 - [Computador qu�ntico simula destino final do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-simula-destino-final-universo&id=010130250205)
-- [Cristais que acendem e apagam dispensam l�mpadas na computa��o �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-acendem-apagam-dispensam-lampadas-computacao-optica&id=010150250205)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
