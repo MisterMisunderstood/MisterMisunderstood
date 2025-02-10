@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como liderar com coragem: o papel da segurança psicológica no sucesso das equipes](https://www.alura.com.br/artigos/como-liderar-com-seguranca-psicologica)
 - [A que dist�ncia os ETs t�m que estar para detectar a Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-distancia-ets-tem-estar-detectar-terra&id=010130250210)
 - [Metais que n�o se expandem com o calor? Agora sabemos como projet�-los](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-nao-se-expandem-calor-agora-sabemos-como-projeta-los&id=010170250210)
 - [Criado aparelho na fronteira entre a f�sica cl�ssica e a f�sica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-aparelho-fronteira-entre-fisica-classica-fisica-quantica&id=010165250210)
 - [A comunicação como ferramenta estratégica em ações educacionais](https://www.alura.com.br/artigos/comunicacao-acoes-educacionais)
 - [Sonho de Tesla? Eletricidade � guiada no ar usando som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonho-tesla-eletricidade-guiada-ar-usando-som&id=010115250207)
 - [Mem�rias digitais ficam melhores gra�as a um g�s nobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-digitais-ficam-melhores-gracas-gas-nobre&id=010110250207)
-- [Metodologia Ágil: como aplicá-la em projetos de educação corporativa](https://www.alura.com.br/artigos/metodologia-agil-educacao-corporativa)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
