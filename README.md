@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [A comunicação como ferramenta estratégica em ações educacionais](https://www.alura.com.br/artigos/comunicacao-acoes-educacionais)
 - [Sonho de Tesla? Eletricidade � guiada no ar usando som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sonho-tesla-eletricidade-guiada-ar-usando-som&id=010115250207)
 - [Mem�rias digitais ficam melhores gra�as a um g�s nobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memorias-digitais-ficam-melhores-gracas-gas-nobre&id=010110250207)
-- [A comunicação como ferramenta estratégica em ações educacionais](https://www.alura.com.br/artigos/comunicacao-acoes-educacionais)
 - [Sombreamento bioinspirado controla clima de pr�dios sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sombreamento-bioinspirado-torna-predios-responsivos-condicoes-climaticas&id=010170250206)
 - [Aparelho produz eletricidade e luz simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-produz-eletricidade-luz-simultaneamente&id=010115250206)
 - [Metodologia Ágil: como aplicá-la em projetos de educação corporativa](https://www.alura.com.br/artigos/metodologia-agil-educacao-corporativa)
