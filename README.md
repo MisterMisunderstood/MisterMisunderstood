@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Sua geladeira usa tecnologia dos anos 1950, mas uma atualiza��o est� a caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-termogalvanica-promete-atualizar-tecnologia-sua-geladeira&id=010115250211)
 - [Conhe�a o primeiro computador qu�ntico fot�nico totalmente modular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-fotonico-totalmente-modular&id=010150250211)
 - [Flores de cobre turbinam folhas artificiais para produzir combust�vel limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flores-cobre-turbinam-folhas-artificiais-produzir-combustivel-limpo&id=010160250211)
-- [A que dist�ncia os ETs t�m que estar para detectar a Terra?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-distancia-ets-tem-estar-detectar-terra&id=010130250210)
+- [Como liderar com coragem: o papel da segurança psicológica no sucesso das equipes](https://www.alura.com.br/artigos/como-liderar-com-seguranca-psicologica)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
