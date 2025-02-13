@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descobertas novas propriedades dos diamantes semicondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-novas-propriedades-diamantes-semicondutores&id=010110250213)
+- [Materiais mec�nicos guardam mem�ria de uma sequ�ncia de eventos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-mecanicos-guardam-memoria-sequencia-eventos&id=010180250213)
 - [Luz de vagalume vira sensor que detecta altera��es nas c�lulas humanas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-vagalume-vira-sensor-detecta-alteracoes-celulas-humanas&id=010160250212)
 - [Dois supercondutores ficam est�veis � press�o ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-supercondutores-ficam-estaveis-pressao-ambiente&id=010115250212)
 - [Experimento qu�ntico gerou pulso de luz em 37 dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-gerou-pulso-luz-37-dimensoes&id=010165250212)
 - [N�cleo da Terra pode n�o ser s�lido e estar mudando de formato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-terra-nao-solido-estar-mudando-formato&id=010125250211)
 - [Sua geladeira usa tecnologia dos anos 1950, mas uma atualiza��o est� a caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-termogalvanica-promete-atualizar-tecnologia-sua-geladeira&id=010115250211)
-- [Conhe�a o primeiro computador qu�ntico fot�nico totalmente modular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-fotonico-totalmente-modular&id=010150250211)
-- [Flores de cobre turbinam folhas artificiais para produzir combust�vel limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flores-cobre-turbinam-folhas-artificiais-produzir-combustivel-limpo&id=010160250211)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
