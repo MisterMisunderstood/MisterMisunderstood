@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [F�sicos descobrem setas do tempo opostas emergindo do reino qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descobrem-setas-tempo-opostas-reino-quantico&id=020130250214)
+- [Buracos negros podem nascer apenas por gravidade, sem singularidades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-singularidades-buracos-negros-criados-gravidade-pura&id=010130250214)
 - [Subst�ncia que quebra celulose dever� revolucionar produ��o de biocombust�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=substancia-quebra-celulose-devera-revolucionar-producao-biocombustiveis&id=010160250213)
 - [Detectado o neutrino mais energ�tico j� visto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-neutrino-mais-energetico-se-julgava-possivel&id=010130250213)
 - [Descobertas novas propriedades dos diamantes semicondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-novas-propriedades-diamantes-semicondutores&id=010110250213)
 - [Materiais mec�nicos guardam mem�ria de uma sequ�ncia de eventos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-mecanicos-guardam-memoria-sequencia-eventos&id=010180250213)
 - [Luz de vagalume vira sensor que detecta altera��es nas c�lulas humanas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-vagalume-vira-sensor-detecta-alteracoes-celulas-humanas&id=010160250212)
-- [Dois supercondutores ficam est�veis � press�o ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-supercondutores-ficam-estaveis-pressao-ambiente&id=010115250212)
-- [Experimento qu�ntico gerou pulso de luz em 37 dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-gerou-pulso-luz-37-dimensoes&id=010165250212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
