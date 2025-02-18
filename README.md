@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Calor do escapamento de carros e helic�pteros vira eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-escapamento-carros-helicopteros-vira-eletricidade&id=010170250218)
+- [Computa��o magn�tica: Conhe�a o primeiro processador magn�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-magnetica-conheca-primeiro-processador-magnonico&id=010150250218)
+- [At� a f�sica qu�ntica obedece � lei da entropia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ate-fisica-quantica-obedece-lei-entropia&id=010115250218)
 - [Alum�nio fica transparente usando eletricidade e got�culas de �cido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aluminio-fica-transparente-usando-eletricidade-goticulas-acido&id=010170250217)
 - [N�cleo at�mico deformado pode indicar exist�ncia de "for�a escura"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-atomico-deformado-indicar-existencia-forca-escura&id=010130250217)
 - [Lei da Calif�rnia mudou modo como alguns produtos s�o fabricados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-california-mudou-modo-como-alguns-produtos-fabricados&id=010125250217)
 - [F�sicos descobrem setas do tempo opostas emergindo do reino qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-descobrem-setas-tempo-opostas-reino-quantico&id=020130250214)
-- [Buracos negros podem nascer apenas por gravidade, sem singularidades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adeus-singularidades-buracos-negros-criados-gravidade-pura&id=010130250214)
-- [Subst�ncia que quebra celulose revoluciona produ��o de biocombust�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=substancia-quebra-celulose-devera-revolucionar-producao-biocombustiveis&id=010160250213)
-- [Detectado o neutrino mais energ�tico j� visto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectado-neutrino-mais-energetico-se-julgava-possivel&id=010130250213)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
