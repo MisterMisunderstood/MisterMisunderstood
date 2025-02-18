@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Como liderar com coragem: o papel da segurança psicológica no sucesso das equipes](https://www.alura.com.br/artigos/como-liderar-com-seguranca-psicologica)
 - [O futuro do estudo em tecnologia: lançamentos marcam um próximo nível da Alura em 2025](https://www.alura.com.br/artigos/proximos-passos-2025)
+- [Exoplaneta de clima extremo tem ventos de ferro e tit�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-clima-extremo-tem-ventos-ferro-titanio&id=010130250218)
 - [Calor do escapamento de carros e helic�pteros vira eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-escapamento-carros-helicopteros-vira-eletricidade&id=010170250218)
 - [Computa��o magn�tica: Conhe�a o primeiro processador magn�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-magnetica-conheca-primeiro-processador-magnonico&id=010150250218)
 - [At� a f�sica qu�ntica obedece � lei da entropia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ate-fisica-quantica-obedece-lei-entropia&id=010115250218)
 - [Alum�nio fica transparente usando eletricidade e got�culas de �cido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aluminio-fica-transparente-usando-eletricidade-goticulas-acido&id=010170250217)
-- [N�cleo at�mico deformado pode indicar exist�ncia de "for�a escura"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-atomico-deformado-indicar-existencia-forca-escura&id=010130250217)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
