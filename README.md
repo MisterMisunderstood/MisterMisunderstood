@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [USP inaugura usina de hidrog�nio fabricado a partir do etanol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-inaugura-usina-hidrogenio-fabricado-partir-etanol&id=030115250220)
 - [Combust�o seletiva: Catalisador queima s� um combust�vel em uma mistura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustao-seletiva-catalisador-queima-so-combustivel-mistura&id=010170250220)
-- [Nova tecnologia transforma calor em eletricidade desafiando limite f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-transforma-calor-eletricidade-desafiando-limite-fisico&id=020115250220)
+- [Calor � transformado em eletricidade desafiando limite f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-transforma-calor-eletricidade-desafiando-limite-fisico&id=020115250220)
 - [Fus�o nuclear: Reator franc�s bate recorde mundial de dura��o de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-reator-frances-bate-recorde-mundial-duracao-plasma&id=010115250220)
 - [Terabytes de dados s�o gravados em cristal milim�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terabytes-dados-gravados-cristal-milimetrico&id=010110250219)
 - [Refra��o negativa da luz obtida com �tomos, em vez de metamateriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refracao-negativa-luz-obtida-atomos-vez-metamateriais&id=010160250219)
 - [Exoplaneta de clima extremo tem ventos de ferro e tit�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-clima-extremo-tem-ventos-ferro-titanio&id=010130250218)
-- [Como liderar com coragem: o papel da segurança psicológica no sucesso das equipes](https://www.alura.com.br/artigos/como-liderar-com-seguranca-psicologica)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
