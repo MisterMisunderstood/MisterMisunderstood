@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Fus�o nuclear: Reator franc�s bate recorde mundial de dura��o de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-reator-frances-bate-recorde-mundial-duracao-plasma&id=010115250220)
 - [Terabytes de dados s�o gravados em cristal milim�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terabytes-dados-gravados-cristal-milimetrico&id=010110250219)
 - [Refra��o negativa da luz obtida com �tomos, em vez de metamateriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refracao-negativa-luz-obtida-atomos-vez-metamateriais&id=010160250219)
-- [Como liderar com coragem: o papel da segurança psicológica no sucesso das equipes](https://www.alura.com.br/artigos/como-liderar-com-seguranca-psicologica)
+- [Exoplaneta de clima extremo tem ventos de ferro e tit�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-clima-extremo-tem-ventos-ferro-titanio&id=010130250218)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
