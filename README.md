@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Quer saber se a Alura tem cursos ao vivo? Vem conhecer os Cursos Imersivos!](https://www.alura.com.br/artigos/cursos-ao-vivo)
 - [Microsoft apresenta processador qu�ntico revolucion�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-apresenta-processador-quantico-revolucionario&id=010150250221)
 - [Camada at�mica amorfa de carbono � 8 vezes mais resistente que grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camada-atomica-amorfa-carbono-8-vezes-mais-resistente-grafeno&id=010165250221)
 - [Descoberta a maior superestrutura j� vista no Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-maior-superestrutura-ja-vista-universo&id=010130250221)
+- [Quer saber se a Alura tem cursos ao vivo? Vem conhecer os Cursos Imersivos!](https://www.alura.com.br/artigos/cursos-ao-vivo)
 - [USP inaugura usina de hidrog�nio fabricado a partir do etanol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=usp-inaugura-usina-hidrogenio-fabricado-partir-etanol&id=030115250220)
 - [Combust�o seletiva: Catalisador queima s� um combust�vel em uma mistura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=combustao-seletiva-catalisador-queima-so-combustivel-mistura&id=010170250220)
 - [Calor � transformado em eletricidade desafiando limite f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnologia-transforma-calor-eletricidade-desafiando-limite-fisico&id=020115250220)
