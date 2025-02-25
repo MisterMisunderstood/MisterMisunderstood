@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gerador h�brido captura energia solar e armazena energia t�rmica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hibrido-captura-energia-solar-armazena-energia-termica&id=010115250225)
+- [Mat�ria ativa: Part�culas inertes viram vermes sint�ticos tridimensionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-ativa-particulas-viram-vermes-sinteticos-tridimensionais&id=010180250225)
+- [F�sicos medem o tamanho de um neutrino](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-medem-tamanho-neutrino&id=010130250225)
 - [Pele de elefante inspira isolante t�rmico para edif�cios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-elefante-inspira-isolante-termico-edificios&id=010125250224)
 - [Motor t�rmico vence Limite de Carnot depois de 200 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-termico-bioquimico-vence-limite-carnot-depois-200-anos&id=010170250224)
 - [Supercomputadores qu�nticos? Divis�o de tarefas chega � computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algoritmo-quantico-distribuido-varios-processadores-pela-primeira-vez&id=010150250224)
 - [Quer saber se a Alura tem cursos ao vivo? Vem conhecer os Cursos Imersivos!](https://www.alura.com.br/artigos/cursos-ao-vivo)
-- [Microsoft apresenta processador qu�ntico revolucion�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microsoft-apresenta-processador-quantico-revolucionario&id=010150250221)
-- [Camada at�mica amorfa de carbono � 8 vezes mais resistente que grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camada-atomica-amorfa-carbono-8-vezes-mais-resistente-grafeno&id=010165250221)
-- [Descoberta a maior superestrutura j� vista no Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-maior-superestrutura-ja-vista-universo&id=010130250221)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
