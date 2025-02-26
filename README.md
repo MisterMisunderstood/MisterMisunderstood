@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Inteligência artificial no RH: uso estratégico de ferramentas de IA no RH](https://www.alura.com.br/artigos/ia-no-rh)
 - [Explorador C�smico ser� maior instrumento cient�fico j� constru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explorador-cosmico-sera-maior-instrumento-cientifico-ja-construido&id=010130250226)
 - [M�e Terra ficou gr�vida da humanidade de modo muito natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mae-terra-ficou-gravida-humanidade-modo-muito-natural&id=010125250226)
 - [Gerador h�brido captura energia solar e armazena energia t�rmica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hibrido-captura-energia-solar-armazena-energia-termica&id=010115250225)
 - [Mat�ria ativa: Part�culas inertes viram vermes sint�ticos tridimensionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-ativa-particulas-viram-vermes-sinteticos-tridimensionais&id=010180250225)
 - [F�sicos medem o tamanho de um neutrino](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-medem-tamanho-neutrino&id=010130250225)
 - [Pele de elefante inspira isolante t�rmico para edif�cios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-elefante-inspira-isolante-termico-edificios&id=010125250224)
-- [Motor t�rmico vence Limite de Carnot depois de 200 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-termico-bioquimico-vence-limite-carnot-depois-200-anos&id=010170250224)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
