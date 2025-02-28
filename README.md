@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsc�pio revolucion�rio � criado com sensores de diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-revolucionario-criado-sensores-diamante&id=010165250228)
+- [H�lio reage com ferro e muda entendimento do n�cleo da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helio-reage-ferro-muda-entendimento-nucleo-terra&id=010130250228)
+- [Técnicas de estudo: estratégias para melhorar sua aprendizagem](https://www.alura.com.br/artigos/tecnicas-de-estudo)
 - [Material compress�vel superforte � inspirado na esponja do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-compressivel-superforte-inspirado-esponja-mar&id=020160250227)
 - [T�buas de corte podem ficar livres de bact�rias imitando pele de tubar�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-tubarao-inspira-tecnica-manter-tabuas-corte-livres-bacterias&id=010160250227)
-- [Técnicas de estudo: estratégias para melhorar sua aprendizagem](https://www.alura.com.br/artigos/tecnicas-de-estudo)
-- [Explorador C�smico ser� maior instrumento cient�fico j� constru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explorador-cosmico-sera-maior-instrumento-cientifico-ja-construido&id=010130250226)
-- [M�e Terra ficou gr�vida da humanidade de modo muito natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mae-terra-ficou-gravida-humanidade-modo-muito-natural&id=010125250226)
 - [Inteligência artificial no RH: uso estratégico de ferramentas de IA no RH](https://www.alura.com.br/artigos/ia-no-rh)
-- [Gerador h�brido captura energia solar e armazena energia t�rmica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hibrido-captura-energia-solar-armazena-energia-termica&id=010115250225)
+- [Explorador C�smico ser� maior instrumento cient�fico j� constru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=explorador-cosmico-sera-maior-instrumento-cientifico-ja-construido&id=010130250226)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
