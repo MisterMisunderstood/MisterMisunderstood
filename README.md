@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo processo faz seda do bicho-da-seda superar seda natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seda-bicho-seda-supera-seda-natural&id=010160250305)
+- [Vem a� o computador que imita os olhos humanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-neuromorfico-optoeletronico-imita-sistema-visual-humano&id=010110250305)
 - [Terra entrar� em nova Era do Gelo em cerca de 10 mil anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-entrara-nova-era-gelo-cerca-10-mil-anos&id=010125250228)
 - [Transformando dados em insights: como criar um relatório baseado em análises de dados](https://www.alura.com.br/artigos/transformar-dados-em-insights)
 - [Microsc�pio revolucion�rio � criado com sensores de diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-revolucionario-criado-sensores-diamante&id=010165250228)
 - [H�lio reage com ferro e muda entendimento do n�cleo da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helio-reage-ferro-muda-entendimento-nucleo-terra&id=010130250228)
 - [Técnicas de estudo: estratégias para melhorar sua aprendizagem](https://www.alura.com.br/artigos/tecnicas-de-estudo)
-- [Material compress�vel superforte � inspirado na esponja do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-compressivel-superforte-inspirado-esponja-mar&id=020160250227)
-- [T�buas de corte podem ficar livres de bact�rias imitando pele de tubar�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-tubarao-inspira-tecnica-manter-tabuas-corte-livres-bacterias&id=010160250227)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
