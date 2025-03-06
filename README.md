@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Modelagem de dados: conceitos gerais e regras de relacionamento](https://www.alura.com.br/artigos/conceitos-modelagem-de-dados)
 - [Novo processo faz seda do bicho-da-seda superar seda natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seda-bicho-seda-supera-seda-natural&id=010160250305)
 - [Vem a� o computador que imita os olhos humanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-neuromorfico-optoeletronico-imita-sistema-visual-humano&id=010110250305)
-- [Terra entrar� em nova Era do Gelo em cerca de 10 mil anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-entrara-nova-era-gelo-cerca-10-mil-anos&id=010125250228)
+- [Transformando dados em insights: como criar um relatório baseado em análises de dados](https://www.alura.com.br/artigos/transformar-dados-em-insights)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
