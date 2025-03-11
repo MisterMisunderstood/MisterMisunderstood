@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [P-Valor: aprenda o que é e dicas de como aplicá-lo corretamente](https://www.alura.com.br/artigos/p-valor)
 - [Rel�gios at�micos de pulso revolucionar�o celulares, GPS e mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-pulso-revolucionarao-celulares-gps&id=010110250310)
 - [Vidro fotocr�mico armazena dados 3D regrav�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-fotocromico-armazena-dados-3d-regravaveis&id=010160250310)
 - [Linguagem de programa��o para mat�ria ativa controla c�lulas com precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=linguagem-programacao-materia-ativa-controla-celulas-precisao&id=010180250310)
+- [P-Valor: aprenda o que é e dicas de como aplicá-lo corretamente](https://www.alura.com.br/artigos/p-valor)
 - [Luz � solidificada e vira um supers�lido pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-supersolida&id=010115250307)
 - [Melhor que espelho: Nanotubos de carbono emitem mais luz do que recebem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-carbono-emitem-mais-luz-que-recebem&id=010165250307)
 - [NASA desliga instrumentos das sondas Voyager para mant�-las funcionando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-desliga-instrumentos-sondas-voyager-mante-las-funcionando&id=010130250306)
