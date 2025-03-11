@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [IA Conference Brasil 2025: vem aí o evento que está construindo novos futuros com IA](https://www.alura.com.br/artigos/iacb-2025)
 - [IA Conference Brasil 2025: vem aí o evento que está construindo novos futuros com IA](https://www.alura.com.br/artigos/ia-conference-2025)
 - [Amazon Q no QuickSight: IA generativa para análise de dados](https://www.alura.com.br/artigos/amazon-q-quicksight)
+- [IA Conference Brasil 2025: vem aí o evento que está construindo novos futuros com IA](https://www.alura.com.br/artigos/iacb-2025)
 - [Hidrogel autocurativo imita de perto a pele humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogel-autocurativo-imita-pele-humana&id=020160250311)
 - [Efeito Leidenfrost inverso: Gota quente flutua sobre panela fria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-leidenfrost-inverso-gota-quente-flutua-sobre-panela-fria&id=010160250311)
 - [A �gua pode ser mais antiga do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-formou-se-logo-apos-big-bang&id=010130250311)
