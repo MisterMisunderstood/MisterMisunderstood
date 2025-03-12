@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Hidrogel autocurativo imita de perto a pele humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogel-autocurativo-imita-pele-humana&id=020160250311)
 - [Efeito Leidenfrost inverso: Gota quente flutua sobre panela fria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-leidenfrost-inverso-gota-quente-flutua-sobre-panela-fria&id=010160250311)
 - [A �gua pode ser mais antiga do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-formou-se-logo-apos-big-bang&id=010130250311)
-- [P-Valor: aprenda o que é e dicas de como aplicá-lo corretamente](https://www.alura.com.br/artigos/p-valor)
+- [Rel�gios at�micos de pulso revolucionar�o celulares, GPS e mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-pulso-revolucionarao-celulares-gps&id=010110250310)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
