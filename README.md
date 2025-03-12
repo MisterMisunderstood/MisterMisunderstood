@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolucion�rio: Era p�s-sil�cio inaugurada com trans�stor 2D � base de metal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucionario-transistor-2d-base-metal-supera-silicio&id=010110250312)
+- [Telesc�pio espacial SPHEREx far� imagem mais colorida do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-espacial-spherex&id=010130250312)
+- [Crescem d�vidas sobre novo computador qu�ntico da Microsoft](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-computador-quantico-microsoft-contestado-pela-comunidade-cientifica&id=010150250312)
 - [IA Conference Brasil 2025: vem aí o evento que está construindo novos futuros com IA](https://www.alura.com.br/artigos/ia-conference-2025)
 - [Amazon Q no QuickSight: IA generativa para análise de dados](https://www.alura.com.br/artigos/amazon-q-quicksight)
 - [IA Conference Brasil 2025: vem aí o evento que está construindo novos futuros com IA](https://www.alura.com.br/artigos/iacb-2025)
 - [Hidrogel autocurativo imita de perto a pele humana](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogel-autocurativo-imita-pele-humana&id=020160250311)
-- [Efeito Leidenfrost inverso: Gota quente flutua sobre panela fria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-leidenfrost-inverso-gota-quente-flutua-sobre-panela-fria&id=010160250311)
-- [A �gua pode ser mais antiga do que pens�vamos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-formou-se-logo-apos-big-bang&id=010130250311)
-- [Rel�gios at�micos de pulso revolucionar�o celulares, GPS e mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-pulso-revolucionarao-celulares-gps&id=010110250310)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
