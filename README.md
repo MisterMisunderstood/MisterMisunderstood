@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Universo pode estar dentro de um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-estar-dentro-buraco-negro&id=010130250314)
 - [Manto da invisibilidade magn�tico torna caminhos invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manto-invisibilidade-magnetico-nao-esconde-particulas-esconde-caminhos&id=010160250313)
 - [Luz ilumina dualidade espa�o-tempo criando imagem de si mesma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=autoimagem-luz-dualidade-espaco-tempo&id=010115250313)
-- [Revolucion�rio: Era p�s-sil�cio inaugurada com trans�stor 2D � base de metal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucionario-transistor-2d-base-metal-supera-silicio&id=010110250312)
 - [Boas práticas em GO: como organizar códigos e projetos em Go](https://www.alura.com.br/artigos/boas-praticas-em-go)
+- [Revolucion�rio: Era p�s-sil�cio inaugurada com trans�stor 2D � base de metal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucionario-transistor-2d-base-metal-supera-silicio&id=010110250312)
 - [Telesc�pio espacial SPHEREx far� imagem mais colorida do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-espacial-spherex&id=010130250312)
 <!-- BLOG-POST-LIST:END -->
 
