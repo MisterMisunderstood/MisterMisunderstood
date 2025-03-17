@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vida alien�gena pode ser encontrada j� focando nos planetas e gases corretos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-alienigena-encontrada-ja-focando-planetas-gases-corretos&id=010130250317)
 - [Criado primeiro sistema operacional para redes qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-primeiro-sistema-operacional-redes-quanticas&id=010150250317)
 - [Melhorar autonomia dos ve�culos el�tricos exigir� trocar cobre por alum�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhorar-autonomia-veiculos-eletricos-exigira-trocar-cobre-aluminio&id=010170250317)
 - [D-Wave alcan�ou supremacia qu�ntica? Sim e n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=d-wave-alcancou-supremacia-quantica-sim-nao&id=010150250314)
 - [Universo pode estar dentro de um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-estar-dentro-buraco-negro&id=010130250314)
 - [Manto da invisibilidade magn�tico torna caminhos invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manto-invisibilidade-magnetico-nao-esconde-particulas-esconde-caminhos&id=010160250313)
 - [Luz ilumina dualidade espa�o-tempo criando imagem de si mesma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=autoimagem-luz-dualidade-espaco-tempo&id=010115250313)
-- [Boas práticas em GO: como organizar códigos e projetos em Go](https://www.alura.com.br/artigos/boas-praticas-em-go)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
