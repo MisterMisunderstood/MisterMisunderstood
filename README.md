@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns em Python: um guia para aplicar padrões de projeto](https://www.alura.com.br/artigos/design-patterns-python)
 - [Energia escura n�o � o que pensamos, o que muda nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-pensamos-muda-nossa-visao-universo&id=020130250320)
 - [Algo do nada: F�sicos resfriam objeto medindo... nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algo-do-nada-resfriamento-luz-funciona-quando-nao-ha-luz&id=010165250320)
 - [Velas de luz precisam de mais pot�ncia para alcan�ar outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-precisam-mais-potencia-alcancar-outras-estrelas&id=010130250320)
 - [Comunidade do QuickSight: se destaque na criação de dashboards e análise de dados](https://www.alura.com.br/artigos/comunidade-do-quicksight)
 - [Lan�ado computador qu�ntico de sil�cio pronto para ser plugado na tomada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-baseado-silicio-usado-casa&id=010150250319)
 - [Medi��o que contesta teoria da f�sica � revalidada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicao-contesta-teoria-fisica-revalidada&id=010130250319)
-- [Quasicristal do tempo � criado dentro de um diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristal-tempo-criado-dentro-diamante&id=010160250319)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
