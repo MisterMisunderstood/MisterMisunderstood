@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Algo do nada: F�sicos resfriam objeto medindo... nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algo-do-nada-resfriamento-luz-funciona-quando-nao-ha-luz&id=010165250320)
 - [Velas de luz precisam de mais pot�ncia para alcan�ar outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-precisam-mais-potencia-alcancar-outras-estrelas&id=010130250320)
+- [Comunidade do QuickSight: se destaque na criação de dashboards e análise de dados](https://www.alura.com.br/artigos/comunidade-do-quicksight)
 - [Lan�ado computador qu�ntico de sil�cio pronto para ser plugado na tomada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-baseado-silicio-usado-casa&id=010150250319)
 - [Medi��o que contesta teoria da f�sica � revalidada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicao-contesta-teoria-fisica-revalidada&id=010130250319)
 - [Quasicristal do tempo � criado dentro de um diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasicristal-tempo-criado-dentro-diamante&id=010160250319)
 - [Como fazer testes remotos com pessoas usuárias com foco em UX?](https://www.alura.com.br/artigos/testes-remotos)
-- [Metais 2D: Pela primeira vez, metais viram folhas com �tomos de espessura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-2d-pela-primeira-vez-metais-viram-folhas-atomos-espessura&id=010170250318)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
