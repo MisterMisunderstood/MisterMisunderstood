@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Design Patterns em Python: um guia para aplicar padrões de projeto](https://www.alura.com.br/artigos/design-patterns-python)
 - [Algo do nada: F�sicos resfriam objeto medindo... nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algo-do-nada-resfriamento-luz-funciona-quando-nao-ha-luz&id=010165250320)
 - [Velas de luz precisam de mais pot�ncia para alcan�ar outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-precisam-mais-potencia-alcancar-outras-estrelas&id=010130250320)
-- [Lan�ado computador qu�ntico de sil�cio pronto para ser plugado na tomada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-baseado-silicio-usado-casa&id=010150250319)
+- [Comunidade do QuickSight: se destaque na criação de dashboards e análise de dados](https://www.alura.com.br/artigos/comunidade-do-quicksight)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
