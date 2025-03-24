@@ -128,8 +128,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [V�rtion: Novo estado magn�tico imita sinapses, guarda dados e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vortion-novo-estado-magnetico-imita-sinapses-guarda-dados-muito-mais&id=010110250324)
 - [Constantes fundamentais da natureza garantem supercondutores a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=constantes-fundamentais-natureza-garantem-supercondutores-temperatura-ambiente&id=010115250321)
 - [O Universo se comporta da mesma maneira em todos os lugares?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-universo-se-comporta-mesma-maneira-todos-lugares&id=010130250321)
-- [Energia escura n�o � o que pensamos, o que muda nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-pensamos-muda-nossa-visao-universo&id=020130250320)
 - [Design Patterns em Python: um guia para aplicar padrões de projeto](https://www.alura.com.br/artigos/design-patterns-python)
+- [Energia escura n�o � o que pensamos, o que muda nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-pensamos-muda-nossa-visao-universo&id=020130250320)
 - [Algo do nada: F�sicos resfriam objeto medindo... nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algo-do-nada-resfriamento-luz-funciona-quando-nao-ha-luz&id=010165250320)
 <!-- BLOG-POST-LIST:END -->
 
