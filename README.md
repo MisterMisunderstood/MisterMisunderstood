@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [E se buracos negros forem o come�o, e n�o o fim de algo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-buracos-brancos&id=010130250324)
+- [V�rtion: Novo estado magn�tico imita sinapses, guarda dados e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vortion-novo-estado-magnetico-imita-sinapses-guarda-dados-muito-mais&id=010110250324)
 - [Constantes fundamentais da natureza garantem supercondutores a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=constantes-fundamentais-natureza-garantem-supercondutores-temperatura-ambiente&id=010115250321)
 - [O Universo se comporta da mesma maneira em todos os lugares?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-universo-se-comporta-mesma-maneira-todos-lugares&id=010130250321)
 - [Energia escura n�o � o que pensamos, o que muda nossa vis�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-escura-nao-pensamos-muda-nossa-visao-universo&id=020130250320)
 - [Design Patterns em Python: um guia para aplicar padrões de projeto](https://www.alura.com.br/artigos/design-patterns-python)
 - [Algo do nada: F�sicos resfriam objeto medindo... nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=algo-do-nada-resfriamento-luz-funciona-quando-nao-ha-luz&id=010165250320)
-- [Velas de luz precisam de mais pot�ncia para alcan�ar outras estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-precisam-mais-potencia-alcancar-outras-estrelas&id=010130250320)
-- [Lan�ado computador qu�ntico de sil�cio pronto para ser plugado na tomada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiro-computador-quantico-baseado-silicio-usado-casa&id=010150250319)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
