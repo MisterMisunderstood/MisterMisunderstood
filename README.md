@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Encontradas em Marte mol�culas org�nicas enormes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontradas-marte-moleculas-organicas-enormes&id=010130250325)
 - [Ar-condicionado verde e de estado s�lido alcan�a escala de quilowatts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-resfriamento-elastocalorico-alcanca-escala-quilowatts&id=010170250325)
 - [Term�metro at�mico mede temperatura com mais precis�o e sem contato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termometro-atomico-mede-temperatura-mais-precisao-sem-contato&id=010165250325)
 - [�gua l�quida n�o � �nica: S�o dois l�quidos diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-liquida-nao-unica-dois-liquidos-diferentes&id=010160250325)
 - [Eletricidade � gerada usando rota��o da Terra em seu pr�prio campo magn�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-gerada-usando-campo-magnetico-rotacao-terra&id=010115250324)
 - [E se buracos negros forem o come�o, e n�o o fim de algo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-buracos-brancos&id=010130250324)
 - [V�rtion: Novo estado magn�tico imita sinapses, guarda dados e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vortion-novo-estado-magnetico-imita-sinapses-guarda-dados-muito-mais&id=010110250324)
-- [Constantes fundamentais da natureza garantem supercondutores a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=constantes-fundamentais-natureza-garantem-supercondutores-temperatura-ambiente&id=010115250321)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
