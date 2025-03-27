@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberta nova fase da mat�ria: "Meio gelo, meio fogo"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-fase-materia-meio-gelo-meio-fogo&id=020160250327)
+- [Madeira transparente e resistente � feita com arroz e clara de ovo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-transparente-feita-arroz-clara-ovo-substituir-janelas&id=010160250327)
 - [Gravidade pode emergir da entropia, e n�o da curvatura do espa�o-tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-emergir-entropia-unificando-mecanica-quantica-relatividade&id=010130250326)
 - [Pequenos rob�s viram c�lulas de materiais inteligentes que imitam a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-robos-viram-celulas-materiais-inteligentes-imitam-vida&id=010180250326)
 - [Encontradas em Marte mol�culas org�nicas enormes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontradas-marte-moleculas-organicas-enormes&id=010130250325)
 - [Ar-condicionado verde e de estado s�lido alcan�a escala de quilowatts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-resfriamento-elastocalorico-alcanca-escala-quilowatts&id=010170250325)
 - [Term�metro at�mico mede temperatura com mais precis�o e sem contato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termometro-atomico-mede-temperatura-mais-precisao-sem-contato&id=010165250325)
-- [�gua l�quida n�o � �nica: S�o dois l�quidos diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-liquida-nao-unica-dois-liquidos-diferentes&id=010160250325)
-- [Eletricidade � gerada usando rota��o da Terra em seu pr�prio campo magn�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-gerada-usando-campo-magnetico-rotacao-terra&id=010115250324)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
