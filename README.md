@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Buracos negros podem fomentar a vida gal�xia afora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-fomentar-vida-galaxia-afora&id=010130250327)
 - [Nova fase do ecossistema da Alura, FIAP e PM3: avanços na estrutura organizacional e a chegada de novos CEOs](https://www.alura.com.br/artigos/nova-fase-do-ecossistema)
+- [Buracos negros podem fomentar a vida gal�xia afora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-fomentar-vida-galaxia-afora&id=010130250327)
 - [Descoberta nova fase da mat�ria: "Meio gelo, meio fogo"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-fase-materia-meio-gelo-meio-fogo&id=020160250327)
 - [Madeira transparente e resistente � feita com arroz e clara de ovo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-transparente-feita-arroz-clara-ovo-substituir-janelas&id=010160250327)
 - [Gravidade pode emergir da entropia, e n�o da curvatura do espa�o-tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-emergir-entropia-unificando-mecanica-quantica-relatividade&id=010130250326)
