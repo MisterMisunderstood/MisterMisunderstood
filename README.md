@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanos como hardware: Computa��o � feita na pele do nosso bra�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=humanos-como-hardware-computacao-feita-tecido-biologico&id=010150250328)
+- [Teoria qu�ntica e termodin�mica podem viver em harmonia, mesmo discordando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-quantica-termodinamica-viver-harmonia-mesmo-discordando&id=010115250328)
 - [Buracos negros podem fomentar a vida gal�xia afora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-fomentar-vida-galaxia-afora&id=010130250327)
+- [Nova fase do ecossistema da Alura, FIAP e PM3: avanços na estrutura organizacional e a chegada de novos CEOs](https://www.alura.com.br/artigos/nova-fase-do-ecossistema)
 - [Descoberta nova fase da mat�ria: "Meio gelo, meio fogo"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-nova-fase-materia-meio-gelo-meio-fogo&id=020160250327)
 - [Madeira transparente e resistente � feita com arroz e clara de ovo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-transparente-feita-arroz-clara-ovo-substituir-janelas&id=010160250327)
-- [Nova fase do ecossistema da Alura, FIAP e PM3: avanços na estrutura organizacional e a chegada de novos CEOs](https://www.alura.com.br/artigos/nova-fase-do-ecossistema)
 - [Gravidade pode emergir da entropia, e n�o da curvatura do espa�o-tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-emergir-entropia-unificando-mecanica-quantica-relatividade&id=010130250326)
-- [Pequenos rob�s viram c�lulas de materiais inteligentes que imitam a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-robos-viram-celulas-materiais-inteligentes-imitam-vida&id=010180250326)
-- [Encontradas em Marte mol�culas org�nicas enormes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontradas-marte-moleculas-organicas-enormes&id=010130250325)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
