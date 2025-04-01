@@ -124,10 +124,10 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda o que são Buffers e qual o seu papel no Node.js](https://www.alura.com.br/artigos/buffers-nodejs)
 - [Flores de metal amplificam magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flores-metal-amplificam-magnetismo&id=010165250331)
 - [Rival dos computadores qu�nticos tem avan�o revolucion�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rival-computadores-quanticos-tem-avanco-dramatico&id=010150250331)
 - [Vidro de safira resiste a arranh�es, neblina, poeira e ofuscamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-safira-resiste-arranhoes-neblina-poeira-ofuscamento&id=010160250331)
+- [Entenda o que são Buffers e qual o seu papel no Node.js](https://www.alura.com.br/artigos/buffers-nodejs)
 - [Como utilizar o GetiT com o Adapter no Flutter](https://www.alura.com.br/artigos/getit-flutter)
 - [Humanos como hardware: Computa��o � feita na pele do nosso bra�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=humanos-como-hardware-computacao-feita-tecido-biologico&id=010150250328)
 - [Teoria qu�ntica e termodin�mica podem viver em harmonia, mesmo discordando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-quantica-termodinamica-viver-harmonia-mesmo-discordando&id=010115250328)
