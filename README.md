@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Simula��o refor�a ind�cios da exist�ncia do Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-reforca-indicios-existencia-planeta-9&id=010130250401)
 - [Design tokens: o que são e como contribuem para a acessibilidade](https://www.alura.com.br/artigos/design-tokens)
 - [Madeira adensada supera resist�ncia dos metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-autodensificada-supera-resistencia-metais&id=010160250401)
 - [Lan�ado um "linux" para computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancado-sistema-operacional-codigo-aberto-computadores-quanticos&id=010150250401)
 - [Dep�sito gigantesco de hidrog�nio descoberto na Fran�a � renov�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=deposito-gigantesco-hidrogenio-descoberto-franca-renovavel&id=010115250401)
 - [Entenda o que são Buffers e qual o seu papel no Node.js](https://www.alura.com.br/artigos/buffers-nodejs)
 - [Flores de metal amplificam magnetismo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flores-metal-amplificam-magnetismo&id=010165250331)
-- [Rival dos computadores qu�nticos tem avan�o revolucion�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rival-computadores-quanticos-tem-avanco-dramatico&id=010150250331)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
