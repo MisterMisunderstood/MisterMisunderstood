@@ -127,8 +127,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Conheça o Gemini Nano: a versão do Gemini que funciona localmente no Android](https://www.alura.com.br/artigos/gemini-nano)
 - [L�quens sobrevivem em atmosfera simulada de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquens-sobrevivem-atmosfera-simulada-marte&id=010130250402)
 - [Por que voc� n�o deve usar sua bateria at� o final da carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-voce-nao-deve-usar-sua-bateria-ate-final-carga&id=010115250402)
-- [Simula��o refor�a ind�cios da exist�ncia do Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-reforca-indicios-existencia-planeta-9&id=010130250401)
 - [Design tokens: o que são e como contribuem para a acessibilidade](https://www.alura.com.br/artigos/design-tokens)
+- [Simula��o refor�a ind�cios da exist�ncia do Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-reforca-indicios-existencia-planeta-9&id=010130250401)
 - [Madeira adensada supera resist�ncia dos metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-autodensificada-supera-resistencia-metais&id=010160250401)
 - [Lan�ado um "linux" para computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lancado-sistema-operacional-codigo-aberto-computadores-quanticos&id=010150250401)
 <!-- BLOG-POST-LIST:END -->
