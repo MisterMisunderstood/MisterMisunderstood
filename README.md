@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Redshift, BigQuery ou Snowflake: qual data warehouse escolher?](https://www.alura.com.br/artigos/comparacao-redshift-bigquery-snowflake)
 - [Evolu��o das molas: Hastes torcidas armazenam quantidades enormes de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molas-2-0-hastes-torcidas-armazenam-quantidades-enormes-energia&id=010170250403)
 - [Dois materiais "imposs�veis" s�o unidos em um melhor ainda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dois-materiais-impossiveis-unidos-melhor-ainda&id=010165250403)
 - [Conheça o Gemini Nano: a versão do Gemini que funciona localmente no Android](https://www.alura.com.br/artigos/gemini-nano)
 - [L�quens sobrevivem em atmosfera simulada de Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquens-sobrevivem-atmosfera-simulada-marte&id=010130250402)
 - [Por que voc� n�o deve usar sua bateria at� o final da carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-voce-nao-deve-usar-sua-bateria-ate-final-carga&id=010115250402)
 - [Simula��o refor�a ind�cios da exist�ncia do Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-reforca-indicios-existencia-planeta-9&id=010130250401)
-- [Design tokens: o que são e como contribuem para a acessibilidade](https://www.alura.com.br/artigos/design-tokens)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
