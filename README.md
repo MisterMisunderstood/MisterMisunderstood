@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Descobertas estrelas que v�o explodir perto da Terra - mas vai demorar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-estrelas-vao-explodir-perto-terra-mas-vai-demorar&id=010130250407)
 - [SQL para Machine Learning: como acontece essa conexão?](https://www.alura.com.br/artigos/sql-para-machine-learning)
+- [Descobertas estrelas que v�o explodir perto da Terra - mas vai demorar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-estrelas-vao-explodir-perto-terra-mas-vai-demorar&id=010130250407)
 - [Descoberta uma exce��o �s leis da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-excecao-leis-termodinamica&id=010170250407)
 - [Transistores s�o reinventados para hardware de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-reinventados-hardware-ia&id=010110250407)
 - [Chip 3D integra fot�nica e eletr�nica para IA energeticamente eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-3d-integra-fotonica-eletronica-ia-energeticamente-eficiente&id=010150250407)
