@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native: um guia definitivo para publicar seu aplicativo](https://www.alura.com.br/artigos/como-publicar-app-react-native)
 - [Computa��o ac�stica resolve problemas eletronicamente incomput�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-acustica-resolve-problemas-computacionalmente-impraticaveis&id=010150250408)
 - [Hidrog�nio superfluido � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-superfluido-observado-pela-primeira-vez&id=010160250408)
 - [Bact�rias v�o tapar trincas em pr�dios da Lua e Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-vao-tapar-trincas-predios-lua-marte&id=010130250408)
 - [Descobertas estrelas que v�o explodir perto da Terra - mas vai demorar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-estrelas-vao-explodir-perto-terra-mas-vai-demorar&id=010130250407)
 - [SQL para Machine Learning: como acontece essa conexão?](https://www.alura.com.br/artigos/sql-para-machine-learning)
 - [Descoberta uma exce��o �s leis da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-excecao-leis-termodinamica&id=010170250407)
-- [Transistores s�o reinventados para hardware de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-reinventados-hardware-ia&id=010110250407)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
