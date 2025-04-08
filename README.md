@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o ac�stica resolve problemas eletronicamente incomput�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-acustica-resolve-problemas-computacionalmente-impraticaveis&id=010150250408)
+- [Hidrog�nio superfluido � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-superfluido-observado-pela-primeira-vez&id=010160250408)
+- [Bact�rias v�o tapar trincas em pr�dios da Lua e Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-vao-tapar-trincas-predios-lua-marte&id=010130250408)
 - [Descobertas estrelas que v�o explodir perto da Terra - mas vai demorar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descobertas-estrelas-vao-explodir-perto-terra-mas-vai-demorar&id=010130250407)
 - [Descoberta uma exce��o �s leis da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-excecao-leis-termodinamica&id=010170250407)
 - [Transistores s�o reinventados para hardware de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-reinventados-hardware-ia&id=010110250407)
 - [Chip 3D integra fot�nica e eletr�nica para IA energeticamente eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-3d-integra-fotonica-eletronica-ia-energeticamente-eficiente&id=010150250407)
-- [Espa�o formado por "�tomos de espa�o" unifica mec�nica qu�ntica e relatividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=se-espaco-for-formado-atomos-espaco-mecanica-quantica-relatividade-conversam&id=010130250404)
-- [Neur�nios artificiais acionados por luz imitam processamento do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-alimentados-luz-imitam-processamento-cerebro&id=010110250404)
-- [Pain�is solares poder�o ser fabricados na Lua fundindo o solo lunar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-poderao-fabricados-lua-fundindo-regolito&id=010130250403)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
