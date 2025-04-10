@@ -124,9 +124,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: devendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 - [Criados componentes que superam "esquecimento catastr�fico" da IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-memoristores-superam-esquecimento-catastrofico-ia&id=010110250409)
 - [Polui��o n�o � s� o que sai pela chamin� - 70% se forma no ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poluicao-nao-so-sai-pela-chamine-70-se-forma-ar&id=010125250409)
-- [DeepSeek: devendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 - [React Native: um guia definitivo para publicar seu aplicativo](https://www.alura.com.br/artigos/como-publicar-app-react-native)
 - [Computa��o ac�stica resolve problemas eletronicamente incomput�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-acustica-resolve-problemas-computacionalmente-impraticaveis&id=010150250408)
 - [Hidrog�nio superfluido � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-superfluido-observado-pela-primeira-vez&id=010160250408)
