@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
 - [Dois computadores de luz aproximam-se do lan�amento comercial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apresentados-dois-computadores-luz-proximos-lancamento-comercial&id=010150250410)
 - [Na busca por vida alien�gena, n�o encontrar nada tamb�m ajuda muito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=na-busca-vida-alienigena-nao-encontrar-nada-tambem-ajuda-muito&id=010130250410)
 - [DeepSeek: devendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 - [Criados componentes que superam "esquecimento catastr�fico" da IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-memoristores-superam-esquecimento-catastrofico-ia&id=010110250409)
 - [Polui��o n�o � s� o que sai pela chamin� - 70% se forma no ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poluicao-nao-so-sai-pela-chamine-70-se-forma-ar&id=010125250409)
 - [React Native: um guia definitivo para publicar seu aplicativo](https://www.alura.com.br/artigos/como-publicar-app-react-native)
-- [Computa��o ac�stica resolve problemas eletronicamente incomput�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-acustica-resolve-problemas-computacionalmente-impraticaveis&id=010150250408)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
