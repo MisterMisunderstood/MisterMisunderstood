@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Hologramas 3D podem ser agarrados e manipulados com as m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-3d-agarrados-manipulados-maos&id=010150250411)
+- [Maxwell explica: Teoria dos f�tons de Einstein pode ser desnecess�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maxwell-explica-teoria-fotons-einstein-desnecessaria&id=010115250411)
 - [Dois computadores de luz aproximam-se do lan�amento comercial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apresentados-dois-computadores-luz-proximos-lancamento-comercial&id=010150250410)
 - [Na busca por vida alien�gena, n�o encontrar nada tamb�m ajuda muito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=na-busca-vida-alienigena-nao-encontrar-nada-tambem-ajuda-muito&id=010130250410)
 - [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
 - [Criados componentes que superam "esquecimento catastr�fico" da IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-memoristores-superam-esquecimento-catastrofico-ia&id=010110250409)
 - [Polui��o n�o � s� o que sai pela chamin� - 70% se forma no ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=poluicao-nao-so-sai-pela-chamine-70-se-forma-ar&id=010125250409)
-- [DeepSeek: devendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
-- [React Native: um guia definitivo para publicar seu aplicativo](https://www.alura.com.br/artigos/como-publicar-app-react-native)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
