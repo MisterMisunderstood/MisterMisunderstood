@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dois computadores de luz aproximam-se do lan�amento comercial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apresentados-dois-computadores-luz-proximos-lancamento-comercial&id=010150250410)
 - [Na busca por vida alien�gena, n�o encontrar nada tamb�m ajuda muito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=na-busca-vida-alienigena-nao-encontrar-nada-tambem-ajuda-muito&id=010130250410)
 - [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [Criados componentes que superam "esquecimento catastr�fico" da IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-memoristores-superam-esquecimento-catastrofico-ia&id=010110250409)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
