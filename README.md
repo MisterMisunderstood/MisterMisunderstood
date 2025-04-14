@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vidro � reinventado usando sal e ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-reinventado-usando-sal-ondas-sonoras&id=010160250414)
+- [Fio ultrafino de ni�bio conduz eletricidade seis vezes melhor que cobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-ultrafino-niobio-conduz-eletricidade-seis-vezes-melhor-cobre&id=010115250414)
+- [Rob�s macios demonstram seu potencial como salvadores de vidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-macios-demonstram-seu-potencial-como-salvadores-vidas&id=010180250414)
 - [Massa do neutrino � menor que 0,45 eV - provavelmente muito menor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=massa-neutrino-menor-0-45-ev&id=010130250411)
 - [Hologramas 3D podem ser agarrados e manipulados com as m�os](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hologramas-3d-agarrados-manipulados-maos&id=010150250411)
 - [Maxwell explica: Teoria dos f�tons de Einstein pode ser desnecess�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maxwell-explica-teoria-fotons-einstein-desnecessaria&id=010115250411)
 - [Dois computadores de luz aproximam-se do lan�amento comercial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=apresentados-dois-computadores-luz-proximos-lancamento-comercial&id=010150250410)
-- [Na busca por vida alien�gena, n�o encontrar nada tamb�m ajuda muito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=na-busca-vida-alienigena-nao-encontrar-nada-tambem-ajuda-muito&id=010130250410)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [Criados componentes que superam "esquecimento catastr�fico" da IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novos-memoristores-superam-esquecimento-catastrofico-ia&id=010110250409)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
