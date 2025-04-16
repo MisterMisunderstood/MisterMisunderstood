@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Intelig�ncia artificial fot�nica � integrada dentro de fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensoriamento-distribuido-ganha-processamento-neural-fotonico&id=010110250416)
+- [C�lulas artificiais acendem em v�rias cores quando detectam subst�ncias-alvo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-artificiais-acendem-varias-cores-quando-detectam-substancias-alvo&id=010165250416)
+- [NASA afirma que vento solar pode produzir �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-afirma-vento-solar-produzir-agua-lua&id=010130250415)
 - [Bateria fluida pode assumir qualquer formato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-fluida-assumir-qualquer-formato&id=020115250415)
 - [Criada uma liga met�lica leve e flex�vel para temperaturas extremas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-liga-metalica-leve-flexivel-temperaturas-extremas&id=010170250415)
 - [Bateria � base de �gua pode viabilizar avi�es el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-base-agua-atinge-2-000-ciclos-viabilizar-avioes-eletricos&id=010115250415)
 - [Vidro � reinventado usando sal e ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-reinventado-usando-sal-ondas-sonoras&id=010160250414)
-- [Fio ultrafino de ni�bio conduz eletricidade seis vezes melhor que cobre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-ultrafino-niobio-conduz-eletricidade-seis-vezes-melhor-cobre&id=010115250414)
-- [Rob�s macios demonstram seu potencial como salvadores de vidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-macios-demonstram-seu-potencial-como-salvadores-vidas&id=010180250414)
-- [Massa do neutrino � menor que 0,45 eV - provavelmente muito menor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=massa-neutrino-menor-0-45-ev&id=010130250411)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
