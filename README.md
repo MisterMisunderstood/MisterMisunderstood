@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gotas de chuva geram eletricidade limpa diretamente - sem geradores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gotas-chuva-geram-eletricidade-limpa-diretamente-sem-geradores&id=010115250417)
+- [Bioconstru��o: Material de constru��o � base de fungos e bact�rias vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioconstrucao-material-construcao-base-fungos-bacterias-vivas&id=010160250417)
+- [Astr�nomos encontram fortes ind�cios de atividade biol�gica em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-encontram-fortes-indicios-atividade-biologica-exoplaneta&id=010130250417)
 - [Exoplaneta bizarro tem �rbita perpendicular em torno de duas estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-bizarro-tem-orbita-perpendicular-torno-duas-estrelas&id=010130250416)
 - [Intelig�ncia artificial fot�nica � integrada dentro de fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensoriamento-distribuido-ganha-processamento-neural-fotonico&id=010110250416)
 - [C�lulas artificiais acendem em v�rias cores quando detectam subst�ncias-alvo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-artificiais-acendem-varias-cores-quando-detectam-substancias-alvo&id=010165250416)
 - [NASA afirma que vento solar pode produzir �gua na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-afirma-vento-solar-produzir-agua-lua&id=010130250415)
-- [Bateria fluida pode assumir qualquer formato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-fluida-assumir-qualquer-formato&id=020115250415)
-- [Criada uma liga met�lica leve e flex�vel para temperaturas extremas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-liga-metalica-leve-flexivel-temperaturas-extremas&id=010170250415)
-- [Bateria � base de �gua pode viabilizar avi�es el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-base-agua-atinge-2-000-ciclos-viabilizar-avioes-eletricos&id=010115250415)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
