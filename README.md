@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Análise de dados com AWS: resolva problemas com Redshift](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
 - [Ondas s�o capturadas sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-capturadas-sem-perdas&id=010170250422)
 - [Meteorito derruba teoria sobre origem da �gua na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-derruba-teoria-sobre-origem-agua-terra&id=010130250422)
 - [Podemos ter descoberto como seres vivos usam comunica��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=podemos-ter-descoberto-como-seres-vivos-usam-comunicacao-quantica&id=010150250422)
 - [Gotas de chuva geram eletricidade limpa diretamente - sem geradores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gotas-chuva-geram-eletricidade-limpa-diretamente-sem-geradores&id=010115250417)
 - [Bioconstru��o: Material de constru��o � base de fungos e bact�rias vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bioconstrucao-material-construcao-base-fungos-bacterias-vivas&id=010160250417)
 - [Astr�nomos encontram fortes ind�cios de atividade biol�gica em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-encontram-fortes-indicios-atividade-biologica-exoplaneta&id=010130250417)
-- [Exoplaneta bizarro tem �rbita perpendicular em torno de duas estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplaneta-bizarro-tem-orbita-perpendicular-torno-duas-estrelas&id=010130250416)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
