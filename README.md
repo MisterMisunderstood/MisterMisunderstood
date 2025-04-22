@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Análise de dados com AWS: resolva problemas com Redshift](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
 - [Ondas s�o capturadas sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-capturadas-sem-perdas&id=010170250422)
 - [Meteorito derruba teoria sobre origem da �gua na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-derruba-teoria-sobre-origem-agua-terra&id=010130250422)
 - [Podemos ter descoberto como seres vivos usam comunica��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=podemos-ter-descoberto-como-seres-vivos-usam-comunicacao-quantica&id=010150250422)
