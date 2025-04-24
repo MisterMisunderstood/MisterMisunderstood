@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
 - [Mensagens qu�nticas viajam 254 km em rede comum de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mensagens-quanticas-viajam-254-km-rede-comum-fibra-optica&id=010150250424)
 - [Cimento termoel�trico pode tornar edif�cios autossuficientes em energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-termoeletrico-gera-energia-proprios-edificios&id=010115250424)
 - [Madrep�rola artificial finalmente pronta para usos pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madreperola-artificial-finalmente-pronta-usos-praticos&id=010160250424)
 - [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
 - [B�ssolas at�micas v�o melhorar imagens cerebrais, navega��o e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bussolas-atomicas-vao-melhorar-imagens-cerebrais-navegacao-muito-mais&id=010165250423)
 - [Dispositivo �ptico imita buracos negros e buracos brancos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-optico-imita-buracos-negros-buracos-brancos&id=010130250423)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
