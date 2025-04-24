@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
 - [B�ssolas at�micas v�o melhorar imagens cerebrais, navega��o e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bussolas-atomicas-vao-melhorar-imagens-cerebrais-navegacao-muito-mais&id=010165250423)
 - [Dispositivo �ptico imita buracos negros e buracos brancos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-optico-imita-buracos-negros-buracos-brancos&id=010130250423)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
 - [Ondas s�o capturadas sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-capturadas-sem-perdas&id=010170250422)
 - [Meteorito derruba teoria sobre origem da �gua na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-derruba-teoria-sobre-origem-agua-terra&id=010130250422)
 - [Podemos ter descoberto como seres vivos usam comunica��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=podemos-ter-descoberto-como-seres-vivos-usam-comunicacao-quantica&id=010150250422)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
