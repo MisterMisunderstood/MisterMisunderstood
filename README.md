@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Cimento termoel�trico pode tornar edif�cios autossuficientes em energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-termoeletrico-gera-energia-proprios-edificios&id=010115250424)
 - [Madrep�rola artificial finalmente pronta para usos pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madreperola-artificial-finalmente-pronta-usos-praticos&id=010160250424)
+- [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
 - [B�ssolas at�micas v�o melhorar imagens cerebrais, navega��o e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bussolas-atomicas-vao-melhorar-imagens-cerebrais-navegacao-muito-mais&id=010165250423)
 - [Dispositivo �ptico imita buracos negros e buracos brancos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dispositivo-optico-imita-buracos-negros-buracos-brancos&id=010130250423)
-- [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
 - [Ondas s�o capturadas sem perdas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-capturadas-sem-perdas&id=010170250422)
-- [Meteorito derruba teoria sobre origem da �gua na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meteorito-derruba-teoria-sobre-origem-agua-terra&id=010130250422)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
