@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
 - [Drone captura raio e o dirige com seguran�a para a terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-captura-raio-dirige-seguranca-terra&id=010115250425)
 - [Internet da Natureza: Seres vivos mant�m troca disseminada de informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-natureza-troca-informacoes-disseminada-mundo-biologico&id=010125250425)
 - [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
 - [Mensagens qu�nticas viajam 254 km em rede comum de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mensagens-quanticas-viajam-254-km-rede-comum-fibra-optica&id=010150250424)
 - [Cimento termoel�trico pode tornar edif�cios autossuficientes em energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cimento-termoeletrico-gera-energia-proprios-edificios&id=010115250424)
 - [Madrep�rola artificial finalmente pronta para usos pr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madreperola-artificial-finalmente-pronta-usos-praticos&id=010160250424)
-- [Alura Stars: programa de embaixadores que fortalecesse a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
