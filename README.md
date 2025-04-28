@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
 - [Drone captura raio e o dirige com seguran�a para a terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-captura-raio-dirige-seguranca-terra&id=010115250425)
 - [Internet da Natureza: Seres vivos mant�m troca disseminada de informa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-natureza-troca-informacoes-disseminada-mundo-biologico&id=010125250425)
-- [Mensagens qu�nticas viajam 254 km em rede comum de fibra �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mensagens-quanticas-viajam-254-km-rede-comum-fibra-optica&id=010150250424)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
