@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Espa�o ou tempo? Descoberta luz que aparece e some do nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espaco-ou-tempo-descoberta-nova-dimensao-luz&id=010115250430)
+- [A humilde hematita vira estrela da tecnologia de ponta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hematita-mineral-ferro-vira-estrela-tecnologia-ponta&id=010110250430)
 - [Gravidade pode ser evid�ncia de que o Universo � um imenso computador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-evidencia-universo-imenso-computador&id=010130250429)
 - [Mover calor como onda resfria eletr�nicos instantaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-ultrarrapida-resfriamento-retira-calor-como-onda&id=010115250429)
 - [Materiais sint�ticos agora podem ser fortes e flex�veis simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-sinteticos-agora-fortes-flexiveis-simultaneamente&id=010160250429)
 - [C�mera de celular raqueada filma antimat�ria com precis�o sem precedentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-celular-raqueada-filma-antimateria-precisao-sem-precedentes&id=010130250428)
 - [Papel transparente ret�m �gua fervente e degrada em meses](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-transparente-celulose-retem-agua-fervente-degrada-meses&id=020160250428)
-- [As revolucion�rias metassuperf�cies agora manipulam a luz em dose dupla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=as-revolucionarias-metassuperficies-agora-manipulam-luz-dose-dupla&id=010160250428)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
