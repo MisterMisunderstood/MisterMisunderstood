@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Trocar Big Bang por m�ltiplas singularidades elimina mat�ria e energia escuras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trocar-big-bang-multiplas-singularidades-elimina-materia-escura-energia-escura&id=010130250505)
+- [Vis�o sobre-humana: Tecnologia de rastreamento ocular "enxerga o invis�vel"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-sobre-humana-tecnologia-rastreamento-ocular-enxerga-invisivel&id=010150250505)
+- [Osciladores macrosc�picos movem-se como um s� no n�vel qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=osciladores-macroscopicos-movem-se-como-so-nivel-quantico&id=010165250505)
 - [Rob�s voadores abrem novos horizontes na constru��o civil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-voadores-abrem-novos-horizontes-construcao-civil&id=010180250502)
 - [Caminh�es a hidrog�nio: C�lula de combust�vel dura 200.000 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhoes-hidrogenio-celula-combustivel-dura-200-000-horas&id=010115250502)
 - [Criada uma tinta resistente que mata bact�rias e v�rus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-tinta-resistente-mata-bacterias-virus&id=010160250502)
 - [Espa�o ou tempo? Descoberta luz que aparece e some do nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espaco-ou-tempo-descoberta-nova-dimensao-luz&id=010115250430)
-- [A humilde hematita vira estrela da tecnologia de ponta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hematita-mineral-ferro-vira-estrela-tecnologia-ponta&id=010110250430)
-- [Gravidade pode ser evid�ncia de que o Universo � um imenso computador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gravidade-evidencia-universo-imenso-computador&id=010130250429)
-- [Mover calor como onda resfria eletr�nicos instantaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-ultrarrapida-resfriamento-retira-calor-como-onda&id=010115250429)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
