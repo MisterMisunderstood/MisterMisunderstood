@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nova teoria da gravidade reacende sonho da Teoria de Tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-gravidade-reacende-sonho-teoria-tudo&id=010130250506)
+- [Motores a ar substituem motores diesel em embarca��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motores-ar-substituem-motores-diesel-embarcacoes&id=010170250506)
+- [Criado um filtro para extrair elementos de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-filtro-extrair-elementos-terras-raras&id=010160250506)
 - [Trocar Big Bang por m�ltiplas singularidades elimina mat�ria e energia escuras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trocar-big-bang-multiplas-singularidades-elimina-materia-escura-energia-escura&id=010130250505)
 - [Vis�o sobre-humana: Tecnologia de rastreamento ocular "enxerga o invis�vel"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-sobre-humana-tecnologia-rastreamento-ocular-enxerga-invisivel&id=010150250505)
 - [Osciladores macrosc�picos movem-se como um s� no n�vel qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=osciladores-macroscopicos-movem-se-como-so-nivel-quantico&id=010165250505)
 - [Rob�s voadores abrem novos horizontes na constru��o civil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-voadores-abrem-novos-horizontes-construcao-civil&id=010180250502)
-- [Caminh�es a hidrog�nio: C�lula de combust�vel dura 200.000 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhoes-hidrogenio-celula-combustivel-dura-200-000-horas&id=010115250502)
-- [Criada uma tinta resistente que mata bact�rias e v�rus](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criada-tinta-resistente-mata-bacterias-virus&id=010160250502)
-- [Espa�o ou tempo? Descoberta luz que aparece e some do nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espaco-ou-tempo-descoberta-nova-dimensao-luz&id=010115250430)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
