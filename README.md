@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [LHC transforma chumbo em ouro, realizando sonho da alquimia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-transforma-chumbo-ouro-realizando-sonho-alquimia&id=020160250508)
 - [DNA fabrica componentes eletr�nicos 3D de baixo para cima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dna-fabrica-componentes-eletronicos-3d-baixo-cima&id=010110250508)
 - [Material magn�tico reprogram�vel tem usos ilimitados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-magnetico-reprogramavel-tem-usos-ilimitados&id=010160250508)
 - [Teoria da relatividade � tornada vis�vel e comprova efeito �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatividade-visivel-demonstrado-efeito-rotacao-objetos-muito-rapidos&id=010130250507)
 - [Camuflagem f�sica faz defeitos estruturais desaparecerem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-fisica-faz-defeitos-estruturais-desaparecerem&id=010170250507)
 - [Nova teoria da gravidade reacende sonho da Teoria de Tudo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-teoria-gravidade-reacende-sonho-teoria-tudo&id=010130250506)
 - [Motores a ar substituem motores diesel em embarca��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motores-ar-substituem-motores-diesel-embarcacoes&id=010170250506)
-- [Criado um filtro para extrair elementos de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-filtro-extrair-elementos-terras-raras&id=010160250506)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
