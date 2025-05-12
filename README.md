@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- ["Supercondutor molecular" substitui fios nos chips e computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condutor-molecular-substitui-fios-chips-computadores&id=010110250512)
+- [Portas reais viram portais para o mundo virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=realidade-mista-portas-reais-viram-portais-mundo-virtual&id=010150250512)
+- [Fa�a voc� mesma suas pr�prias unhas posti�as biodegrad�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=faca-voce-mesma-suas-proprias-unhas-posticas-biodegradaveis&id=010160250512)
 - [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
 - [N�o, n�s n�o sabemos como s�o os buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-sabemos-como-sao-buracos-negros&id=010130250509)
 - [Rotatum �ptico: Luz espirala seguindo matem�tica da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rotatum-optico-luz-espirala-seguindo-matematica-natureza&id=010115250509)
 - [LHC transforma chumbo em ouro, realizando sonho da alquimia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-transforma-chumbo-ouro-realizando-sonho-alquimia&id=020160250508)
-- [DNA fabrica componentes eletr�nicos 3D de baixo para cima](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dna-fabrica-componentes-eletronicos-3d-baixo-cima&id=010110250508)
-- [Material magn�tico reprogram�vel tem usos ilimitados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-magnetico-reprogramavel-tem-usos-ilimitados&id=010160250508)
-- [Teoria da relatividade � tornada vis�vel e comprova efeito �ptico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relatividade-visivel-demonstrado-efeito-rotacao-objetos-muito-rapidos&id=010130250507)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
