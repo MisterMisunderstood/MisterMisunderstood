@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Impress�o 3D com ultrassom cria objetos dentro de seres vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-ultrassom-cria-objetos-dentro-seres-vivos&id=010170250516)
-- [Nave espacial que transpira revoluciona escudos t�rmicos para reentrada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=naves-espaciais-transpiram-escudos-termicos-reentrada&id=010130250516)
-- [Chip de vis�o neurom�rfica dar� vis�o instant�nea para carros e rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-visao-neuromorfica-promete-visao-instantanea-carros-robos&id=010150250515)
-- [Fungos criam material vivo �til de emuls�es a baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fungos-criam-material-vivo-util-emulsoes-baterias&id=010160250515)
-- [Dessaliniza��o com estanho derretido gera �gua doce e metais valiosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizacao-estanho-derretido-gera-agua-doce-metais-valiosos&id=010125250514)
-- [Das cal�adas para a rob�tica: Bonecos infl�veis inspiram rob�s sem c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bonecos-inflaveis-inspiram-robos-sem-cerebro-sem-eletronica&id=010180250514)
-- [Universo inteiro vai evaporar - mas vai demorar muito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-inteiro-vai-evaporar-mas-vai-demorar-muito&id=010130250513)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
