@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip de IA inovador opera descentralizado, sem internet ou nuvem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-ia-inovador-opera-descentralizado-sem-internet-ou-nuvem&id=020150250520)
-- [Processador qu�ntico simula rea��o qu�mica pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-simula-reacao-quimica-pela-primeira-vez&id=010150250520)
-- [Esponja de madeira captura �gua pot�vel da umidade do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esponja-madeira-captura-agua-potavel-umidade-ar&id=010125250520)
-- [Sinais parecidos com enxurradas em Marte s�o causados por poeira e vento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxurradas-marte-causados-poeira-vento&id=020130250519)
-- [Hidrog�nio � extra�do da �gua do mar por tecnologia industrialmente vi�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-extraido-agua-mar-tecnologia-industrialmente-viavel&id=010115250519)
-- [Luz pode esclarecer conex�o entre mec�nica qu�ntica e relatividade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-esclarecer-conexao-entre-mecanica-quantica-relatividade&id=010130250519)
-- [Este microsc�pio consegue filmar o calor se movendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-microscopio-consegue-filmar-calor-se-movendo&id=010165250519)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
