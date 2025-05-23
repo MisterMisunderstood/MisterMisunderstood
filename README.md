@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Seguran�a da avia��o deve evoluir para imitar sistema imunol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seguranca-aviacao-deve-evoluir-imitar-sistema-imunologico&id=010170250523)
+- [Tecnologia de "compress�o do calor" fica ao alcance do uso pr�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-compressao-calor-fica-alcance-uso-pratico&id=010115250523)
 - [Interface c�rebro-computador revolucion�ria evolui com sinais cerebrais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-cerebro-computador-revolucionaria-evolui-sinais-cerebrais&id=010110250522)
 - [Bateria optoi�nica guarda energia solar por at� 48 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-optoionica-guarda-energia-solar-ate-48-horas&id=010115250522)
 - [Baterias que respiram CO2 mais pr�ximas da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-respiram-co2-mais-proximas-realidade&id=020115250521)
 - [Resist�ncia � in�til: Aposte nos diodos supercondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resistencia-inutil-aposte-diodos-supercondutores&id=010115250521)
 - [Chip de IA inovador opera descentralizado, sem internet ou nuvem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-ia-inovador-opera-descentralizado-sem-internet-ou-nuvem&id=020150250520)
-- [Processador qu�ntico simula rea��o qu�mica pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-quantico-simula-reacao-quimica-pela-primeira-vez&id=010150250520)
-- [Esponja de madeira captura �gua pot�vel da umidade do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=esponja-madeira-captura-agua-potavel-umidade-ar&id=010125250520)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
