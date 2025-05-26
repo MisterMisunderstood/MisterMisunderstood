@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [C�mera de um �nico p�xel grava filmes hologr�ficos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-unico-pixel-grava-filmes-holograficos&id=010165250526)
+- [Recarregamento por ultrassom alimenta implantes m�dicos dentro do corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recarregamento-bateria-sem-fio-ultrassonico-implantes-medicos&id=010115250526)
+- [Componente l�gico de luz alcan�a 240 GHz em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=porta-logica-universal-luz-alcanca-240-ghz-temperatura-ambiente&id=010110250526)
 - [Descoberto novo planeta an�o nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-planeta-anao-confins-sistema-solar&id=010130250523)
 - [Seguran�a da avia��o deve evoluir para imitar sistema imunol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seguranca-aviacao-deve-evoluir-imitar-sistema-imunologico&id=010170250523)
 - [Tecnologia de "compress�o do calor" fica ao alcance do uso pr�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-compressao-calor-fica-alcance-uso-pratico&id=010115250523)
 - [Interface c�rebro-computador revolucion�ria evolui com sinais cerebrais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-cerebro-computador-revolucionaria-evolui-sinais-cerebrais&id=010110250522)
-- [Bateria optoi�nica guarda energia solar por at� 48 horas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-optoionica-guarda-energia-solar-ate-48-horas&id=010115250522)
-- [Baterias que respiram CO2 mais pr�ximas da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-respiram-co2-mais-proximas-realidade&id=020115250521)
-- [Resist�ncia � in�til: Aposte nos diodos supercondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resistencia-inutil-aposte-diodos-supercondutores&id=010115250521)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
