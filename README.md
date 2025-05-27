@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lentes de contato de vis�o noturna permitem enxergar no escuro, mesmo com olhos fechados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lentes-contato-infravermelhas-permitem-enxergar-escuro&id=020160250527)
+- [Borracha torna-se 10 vezes mais resistente a rachaduras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=borracha-10-vezes-mais-resistente-rachaduras&id=010160250527)
+- [Paradoxo: Descoberto um supercondutor que tamb�m � magn�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paradoxo-descoberto-supercondutor-tambem-magnetico&id=010115250527)
 - [C�mera de um �nico p�xel grava filmes hologr�ficos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-unico-pixel-grava-filmes-holograficos&id=010165250526)
 - [Recarregamento por ultrassom alimenta implantes m�dicos dentro do corpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recarregamento-bateria-sem-fio-ultrassonico-implantes-medicos&id=010115250526)
 - [Componente l�gico de luz alcan�a 240 GHz em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=porta-logica-universal-luz-alcanca-240-ghz-temperatura-ambiente&id=010110250526)
 - [Descoberto novo planeta an�o nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-planeta-anao-confins-sistema-solar&id=010130250523)
-- [Seguran�a da avia��o deve evoluir para imitar sistema imunol�gico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seguranca-aviacao-deve-evoluir-imitar-sistema-imunologico&id=010170250523)
-- [Tecnologia de "compress�o do calor" fica ao alcance do uso pr�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-compressao-calor-fica-alcance-uso-pratico&id=010115250523)
-- [Interface c�rebro-computador revolucion�ria evolui com sinais cerebrais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interface-cerebro-computador-revolucionaria-evolui-sinais-cerebrais&id=010110250522)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
