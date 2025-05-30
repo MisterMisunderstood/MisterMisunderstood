@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Vis�o a laser enxerga texto milim�trico a mais de 1 km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-laser-enxerga-texto-milimetrico-mais-1-km-distancia&id=010150250530)
+- [Vis�o a laser enxerga a mais de 1 km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-laser-enxerga-texto-milimetrico-mais-1-km-distancia&id=010150250530)
 - [Intercristais: Descobertos cristais com propriedades revolucion�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=intercristais-descobertos-cristais-propriedades-revolucionarias&id=010160250530)
 - [C�lula de combust�vel de s�dio pode viabilizar avi�es el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-combustivel-sodio-viabilizar-aviacao-eletrica&id=010115250529)
 - [China lan�a sonda para coletar amostras de asteroide e cometa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=china-lanca-sonda-coletar-amostras-asteroide-cometa&id=020130250529)
