@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Vis�o a laser enxerga texto milim�trico a mais de 1 km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-laser-enxerga-texto-milimetrico-mais-1-km-distancia&id=010150250530)
+- [Intercristais: Descobertos cristais com propriedades revolucion�rias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=intercristais-descobertos-cristais-propriedades-revolucionarias&id=010160250530)
+- [C�lula de combust�vel de s�dio pode viabilizar avi�es el�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-combustivel-sodio-viabilizar-aviacao-eletrica&id=010115250529)
+- [China lan�a sonda para coletar amostras de asteroide e cometa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=china-lanca-sonda-coletar-amostras-asteroide-cometa&id=020130250529)
+- [Mist�rio c�smico: Objeto desconhecido emite r�dio e raios X periodicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-cosmico-objeto-desconhecido-emite-radio-raios-x-periodicamente&id=010130250529)
+- [Criado um silicone semicondutor e que emite luz, com m�ltiplas aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=silicone-semicondutor-emite-luz&id=010110250528)
+- [Ferramenta de medi��o revolucion�ria explora propriedades qu�nticas da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ferramenta-medicao-revolucionaria-explora-propriedades-quanticas-luz&id=010165250528)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
