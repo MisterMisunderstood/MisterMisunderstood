@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Cinco coisas para n�o fazer - e cinco para fazer - na realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cinco-coisas-nao-fazer-cinco-fazer-realidade-virtual&id=010150250603)
+- [Material que coleta passivamente �gua do ar � descoberto por acaso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-acaso-material-coleta-passivamente-agua-ar&id=020160250603)
+- [Rejeitos da constru��o civil viram alternativa verde ao cimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rejeitos-construcao-civil-viram-alternativa-verde-cimento&id=010160250603)
+- [Geladeiras de estado s�lido viabilizadas por termoel�tricos nanoengenheirados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geladeiras-estado-solido-viabilizadas-termoeletricos-nanoengenheirados&id=010170250602)
+- [H�lio-3 � produzido por ondas de r�dio em reator de fus�o nuclear](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=helio-3-produzido-ondas-radio-reator-fusao-nuclear&id=010115250602)
+- [Superfluoresc�ncia abre caminho para tecnologias qu�nticas de alta temperatura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superfluorescencia-abre-caminho-tecnologias-quanticas-alta-temperatura&id=010110250602)
+- [Vis�o a laser enxerga a mais de 1 km de dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-laser-enxerga-texto-milimetrico-mais-1-km-distancia&id=010150250530)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
