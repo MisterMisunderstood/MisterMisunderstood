@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como fazer luz laser surgir do nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fazer-laser-surgir-nada&id=020115250609)
-- [L� met�lica abre caminho para baterias do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=la-metalica-abre-caminho-baterias-futuro&id=010115250609)
-- [Holografia com metassuperf�cie: Dezenas de imagens escondidas em uma �nica tela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=holografia-metassuperficie-dezenas-imagens-escondidas-unica-tela&id=010150250609)
-- [Turbul�ncia: Como entender a bagun�a que o Universo adora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbulencia-como-entender-bagunca-universo-adora&id=010170250606)
-- [Diodos supercondutores geram corrente cont�nua para circuitos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodos-supercondutores-geram-corrente-continua-circuitos-quanticos&id=010110250606)
-- [Lente plana ultrafina converte calor em luz vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-ultrafina-converte-infravermelho-luz-visivel&id=010115250605)
-- [Descoberto novo n�cleo at�mico emissor de pr�tons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-nucleo-atomico-emissor-protons&id=010165250605)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
