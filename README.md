@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [L� met�lica abre caminho para baterias do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=la-metalica-abre-caminho-baterias-futuro&id=010115250609)
+- [Holografia com metassuperf�cie: Dezenas de imagens escondidas em uma �nica tela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=holografia-metassuperficie-dezenas-imagens-escondidas-unica-tela&id=010150250609)
 - [Turbul�ncia: Como entender a bagun�a que o Universo adora](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbulencia-como-entender-bagunca-universo-adora&id=010170250606)
 - [Diodos supercondutores geram corrente cont�nua para circuitos qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodos-supercondutores-geram-corrente-continua-circuitos-quanticos&id=010110250606)
 - [Lente plana ultrafina converte calor em luz vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-ultrafina-converte-infravermelho-luz-visivel&id=010115250605)
 - [Descoberto novo n�cleo at�mico emissor de pr�tons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-novo-nucleo-atomico-emissor-protons&id=010165250605)
 - [Sim, um planeta pode ser maior que sua estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-maior-que-estrela&id=010130250605)
-- [Experimento com m�ons faz sua parte, mas teoria muda e destr�i esperan�a de Nova F�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-muons-faz-sua-parte-mas-teoria-muda-destroi-esperanca-nova-fisica&id=020115250604)
-- [Super laser mede objetos a 10 quintilh�es de quadros por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=super-laser-mede-objetos-velocidade-10-quintilhoes-quadros-segundo&id=010115250604)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
