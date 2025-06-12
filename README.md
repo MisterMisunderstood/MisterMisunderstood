@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhe�a os dois primeiros computadores 2D sem sil�cio do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiros-computadores-2d-sem-silicio&id=010150250612)
+- [Criado um motor el�trico totalmente sem metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-motor-eletrico-totalmente-sem-metais&id=010170250612)
 - [Onde fica o centro do Universo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-centro-universo&id=010130250611)
 - [IBM anuncia computador qu�ntico tolerante a falhas para 2029](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-anuncia-computador-quantico-tolerante-falhas-2029&id=010150250611)
 - [E se pararmos de fabricar transistores de sil�cio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-pararmos-fabricar-transistores-silicio&id=010110250610)
 - [Magnetismo dirige �tomos individuais, derrubando teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetismo-dirige-atomos-individuais&id=010115250610)
 - [Como controlar objetos s�lidos em l�quidos - em uma gota de l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-controlar-objetos-solidos-em-liquidos&id=010165250610)
-- [Como fazer luz laser surgir do nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-fazer-laser-surgir-nada&id=020115250609)
-- [L� met�lica abre caminho para baterias do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=la-metalica-abre-caminho-baterias-futuro&id=010115250609)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
