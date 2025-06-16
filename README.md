@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Rel�gios at�micos multiplicam precis�o sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-multiplicam-precisao-sem-gastar-energia&id=010165250616)
+- [Rel�gios at�micos multiplicam precis�o rompendo limite do gasto de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-multiplicam-precisao-sem-gastar-energia&id=010165250616)
 - [Lixo pl�stico vira hidrog�nio limpo usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixo-plastico-vira-hidrogenio-limpo-usando-energia-solar&id=010125250616)
 - [Girinos ciborgues recebem implantes que se incorporam ao seu c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=girinos-ciborgues-crescem-implantes-controlam-seu-cerebro&id=010180250616)
 - [Processadores qu�nticos fot�nicos tornam IA mais r�pida e mais ecol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-quanticos-fotonicos-tornam-ia-melhor&id=010150250613)
