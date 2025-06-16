@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rel�gios at�micos multiplicam precis�o sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-multiplicam-precisao-sem-gastar-energia&id=010165250616)
+- [Lixo pl�stico vira hidrog�nio limpo usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixo-plastico-vira-hidrogenio-limpo-usando-energia-solar&id=010125250616)
+- [Girinos ciborgues recebem implantes que se incorporam ao seu c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=girinos-ciborgues-crescem-implantes-controlam-seu-cerebro&id=010180250616)
 - [Processadores qu�nticos fot�nicos tornam IA mais r�pida e mais ecol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-quanticos-fotonicos-tornam-ia-melhor&id=010150250613)
 - [Buracos negros podem funcionar como supercolisores de part�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-negros-funcionar-como-supercolisores-particulas&id=010130250613)
 - [Conhe�a os dois primeiros computadores 2D sem sil�cio do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeiros-computadores-2d-sem-silicio&id=010150250612)
 - [Criado um motor el�trico totalmente sem metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criado-motor-eletrico-totalmente-sem-metais&id=010170250612)
-- [Onde fica o centro do Universo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-centro-universo&id=010130250611)
-- [IBM anuncia computador qu�ntico tolerante a falhas para 2029](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ibm-anuncia-computador-quantico-tolerante-falhas-2029&id=010150250611)
-- [E se pararmos de fabricar transistores de sil�cio?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=e-se-pararmos-fabricar-transistores-silicio&id=010110250610)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
