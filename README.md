@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Rel�gios de luz em rede estabelecem bases para redefinir o segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-luz-rede-bases-redefinir-segundo&id=010110250617)
-- [Sinais captados do gelo da Ant�rtida podem ser part�culas desconhecidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-detectados-antartida-particulas-desconhecidas&id=010130250617)
-- [Pele eletr�nica de material �nico d� tato quase humano aos rob�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-eletronica-toque-humano-robos&id=010180250617)
-- [Rel�gios at�micos multiplicam precis�o rompendo limite do gasto de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogios-atomicos-multiplicam-precisao-sem-gastar-energia&id=010165250616)
-- [Lixo pl�stico vira hidrog�nio limpo usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixo-plastico-vira-hidrogenio-limpo-usando-energia-solar&id=010125250616)
-- [Girinos ciborgues recebem implantes que se incorporam ao seu c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=girinos-ciborgues-crescem-implantes-controlam-seu-cerebro&id=010180250616)
-- [Processadores qu�nticos fot�nicos tornam IA mais r�pida e mais ecol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-quanticos-fotonicos-tornam-ia-melhor&id=010150250613)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
