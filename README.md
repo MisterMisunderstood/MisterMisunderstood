@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [F�sico prop�e que o tempo tem tr�s dimens�es - o espa�o � um efeito secund�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-tem-tres-dimensoes-espaco-efeito-secundario&id=010130250624)
+- [Nanomaterial leve como uma pena captura �gua pot�vel do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanomaterial-leve-como-pena-captura-agua-potavel-ar&id=010125250624)
+- [Sinapse artificial imita vis�o humana de cores - sem bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinapse-artificial-imita-visao-cores-humana&id=010110250624)
 - [Obra-prima do Universo: Gal�xia � vista em milhares de cores pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-vista-milhares-cores&id=020130250623)
 - [Motor neural �ptico junta computa��o com luz e redes neurais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-neural-optico-junta-computacao-luz-redes-neurais&id=010150250623)
 - [Adesivo feito de madeira funciona em pistola de cola quente e � reutiliz�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=adesivo-feito-madeira-funciona-pistola-cola-quente-e-reutilizavel&id=010160250623)
 - [Nova temporada de "Encontrada mat�ria perdida do Universo"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=encontrada-materia-perdida-universo-nova-temporada&id=010130250623)
-- [F�sicos observam fluxo de energia em tempo real pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-observam-fluxo-energia&id=010115250620)
-- [Esculpir a �gua permite formar relevos l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-esculpir-agua-formar-relevos-liquidos&id=010170250620)
-- [F�sico resolve problema de 120 anos e prova que Einstein estava errado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-prova-einstein-estava-errado&id=010170250618)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
