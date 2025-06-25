@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Terra est� pulsando sob a �frica como um cora��o batendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulsacao-terra-esta-dividindo-africa&id=010125250625)
 - [Glicerina supera muito a �gua na produ��o de hidrog�nio verde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=glicerina-supera-muito-agua-producao-hidrogenio-verde&id=010115250625)
 - [Material de constru��o vivo faz fotoss�ntese e armazena carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-vivo-fotossintesse-armazena-carbono&id=010160250625)
 - [Voc� est� sendo rastreado na internet pela impress�o digital do navegador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voce-esta-sendo-rastreado-internet-pela-impressao-digital-navegador&id=010150250625)
 - [F�sico prop�e que o tempo tem tr�s dimens�es - o espa�o � um efeito secund�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-tem-tres-dimensoes-espaco-efeito-secundario&id=010130250624)
 - [Nanomaterial leve como uma pena captura �gua pot�vel do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanomaterial-leve-como-pena-captura-agua-potavel-ar&id=010125250624)
 - [Sinapse artificial imita vis�o humana de cores - sem bateria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinapse-artificial-imita-visao-cores-humana&id=010110250624)
-- [Obra-prima do Universo: Gal�xia � vista em milhares de cores pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=galaxia-vista-milhares-cores&id=020130250623)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
