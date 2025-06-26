@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Lei de Kirchhoff da radia��o t�rmica � quebrada depois de 165 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-kirchhoff-radiacao-termica-quebrada&id=020115250626)
-- [Acelerador de mesa: Microbocais e lasers v�o substituir aceleradores gigantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-mesa-laser-substituir-aceleradores-gigantes&id=010115250626)
-- [Terra est� pulsando sob a �frica como um cora��o batendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulsacao-terra-esta-dividindo-africa&id=010125250625)
-- [Glicerina supera muito a �gua na produ��o de hidrog�nio verde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=glicerina-supera-muito-agua-producao-hidrogenio-verde&id=010115250625)
-- [Material de constru��o vivo faz fotoss�ntese e armazena carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-vivo-fotossintesse-armazena-carbono&id=010160250625)
-- [Voc� est� sendo rastreado na internet pela impress�o digital do navegador](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voce-esta-sendo-rastreado-internet-pela-impressao-digital-navegador&id=010150250625)
-- [F�sico prop�e que o tempo tem tr�s dimens�es - o espa�o � um efeito secund�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-tem-tres-dimensoes-espaco-efeito-secundario&id=010130250624)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
