@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computa��o com luz usa 100 canais paralelos e rompe escala de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-paralela-rompe-escala-velocidade&id=010150250630)
+- [Metal vira termoel�trico gra�as a engarrafamento de el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-vira-termoeletrico-gracas-engarrafamento-eletrons&id=010115250630)
+- [Res�duos agr�colas podem se tornar as roupas do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=residuos-agricolas-se-tornar-roupas-futuro&id=010125250630)
 - [Nova tecnologia de chips elimina sali�ncias de solda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-chips-elimina-saliencias-solda&id=010110250627)
 - [Esque�a a superintelig�ncia - precisamos enfrentar primeiro a IA est�pida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superinteligencia-enfrentar-ia-estupida&id=010150250627)
 - [Lei de Kirchhoff da radia��o t�rmica � quebrada depois de 165 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-kirchhoff-radiacao-termica-quebrada&id=020115250626)
 - [Acelerador de mesa: Microbocais e lasers v�o substituir aceleradores gigantes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-mesa-laser-substituir-aceleradores-gigantes&id=010115250626)
-- [Terra est� pulsando sob a �frica como um cora��o batendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pulsacao-terra-esta-dividindo-africa&id=010125250625)
-- [Glicerina supera muito a �gua na produ��o de hidrog�nio verde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=glicerina-supera-muito-agua-producao-hidrogenio-verde&id=010115250625)
-- [Material de constru��o vivo faz fotoss�ntese e armazena carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-vivo-fotossintesse-armazena-carbono&id=010160250625)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
