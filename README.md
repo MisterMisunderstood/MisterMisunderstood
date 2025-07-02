@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Crise na F�sica: Quando o Universo responde com sil�ncio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=crise-fisica-quando-universo-responde-silencio&id=010130250701)
-- [Ouro � extra�do de min�rio ou lixo eletr�nico usando apenas luz e sal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-extraido-minerio-lixo-eletronico-luz-sal&id=020125250701)
-- [Descoberto mecanismo de evolu��o que apoia teoria alternativa a Darwin](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-estao-estagios-intermediarios-evolucao&id=010125250701)
-- [Computa��o com luz usa 100 canais paralelos e rompe escala de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-paralela-rompe-escala-velocidade&id=010150250630)
-- [Metal vira termoel�trico gra�as a engarrafamento de el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-vira-termoeletrico-gracas-engarrafamento-eletrons&id=010115250630)
-- [Res�duos agr�colas podem se tornar as roupas do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=residuos-agricolas-se-tornar-roupas-futuro&id=010125250630)
-- [Nova tecnologia de chips elimina sali�ncias de solda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-chips-elimina-saliencias-solda&id=010110250627)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
