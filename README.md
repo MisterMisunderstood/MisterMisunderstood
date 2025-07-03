@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Marcas d'�gua para etiquetar imagens de IA s�o facilmente manipuladas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marcas-d-agua-imagens-ia-manipuladas&id=010150250703)
+- [Sensor autoiluminado dispensa fonte de luz e fica min�sculo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-autoiluminado-dispensa-fonte-luz&id=010165250703)
 - [NASA mostra liga ex�tica que garantir� estabilidade dos futuros telesc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-liga-exotica-estabilidade-telescopios&id=010170250702)
 - [Condutor que vira isolante acelera eletr�nica em 1.000 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-1-000-vezes-mais-rapidos-material-passa-condutor-isolante&id=010110250702)
 - [Crise na F�sica: Quando o Universo responde com sil�ncio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=crise-fisica-quando-universo-responde-silencio&id=010130250701)
 - [Ouro � extra�do de min�rio ou lixo eletr�nico usando apenas luz e sal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-extraido-minerio-lixo-eletronico-luz-sal&id=020125250701)
 - [Descoberto mecanismo de evolu��o que apoia teoria alternativa a Darwin](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onde-estao-estagios-intermediarios-evolucao&id=010125250701)
-- [Computa��o com luz usa 100 canais paralelos e rompe escala de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-paralela-rompe-escala-velocidade&id=010150250630)
-- [Metal vira termoel�trico gra�as a engarrafamento de el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-vira-termoeletrico-gracas-engarrafamento-eletrons&id=010115250630)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
