@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lei fundamental da conserva��o de energia � confirmada no n�vel qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-conservacao-energia-confirmada-nivel-quantico&id=010115250707)
+- [Revestimento antichama suporta fogo a 1.400 �C por mais de 15 minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antichama-suporta-fogo-15-minutos&id=010160250707)
+- [Eletr�nico biocompat�vel dissolve-se na �gua ap�s o uso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronico-biocompativel-dissolve-agua&id=010110250707)
 - [Arranjos de �m�s permanentes rivalizam com �m�s supercondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arranjos-imas-permanentes-rivalizam-supercondutores&id=010115250704)
 - [Am�nia feita com ar, �gua e luz solar, imitando a fotoss�ntese](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amonia-feita-ar-agua-luz-solar-fotossintese&id=010125250704)
 - [Veja imagem in�dita de estrela que explodiu duas vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=veja-imagem-estrela-explodiu-duas-vezes&id=010130250703)
 - [Marcas d'�gua para etiquetar imagens de IA s�o facilmente manipuladas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=marcas-d-agua-imagens-ia-manipuladas&id=010150250703)
-- [Sensor autoiluminado dispensa fonte de luz e fica min�sculo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-autoiluminado-dispensa-fonte-luz&id=010165250703)
-- [NASA mostra liga ex�tica que garantir� estabilidade dos futuros telesc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-liga-exotica-estabilidade-telescopios&id=010170250702)
-- [Condutor que vira isolante acelera eletr�nica em 1.000 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-1-000-vezes-mais-rapidos-material-passa-condutor-isolante&id=010110250702)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
