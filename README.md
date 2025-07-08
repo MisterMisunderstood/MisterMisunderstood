@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Fibras �pticas v�o levar dados e energia simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-levar-dados-energia&id=010150250708)
+- [Dados e energia trafegar�o pela mesma fibra �ptica, simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-levar-dados-energia&id=010150250708)
 - [Bateria de entrela�amento revela equivalente qu�ntico da segunda lei da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-entrelacamento-segunda-lei-termodinamica-quantica&id=010115250708)
 - [O que acontece quando duas estrelas de n�utrons colidem?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-acontece-quando-duas-estrelas-colidem&id=010130250708)
 - [Lei fundamental da conserva��o de energia � confirmada no n�vel qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-conservacao-energia-confirmada-nivel-quantico&id=010115250707)
