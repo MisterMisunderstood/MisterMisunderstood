@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [C�lulas solares atingem alta efici�ncia em ambientes internos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-ambiente-interno&id=010115250710)
+- [Transmiss�o de sinais por som supera circuitos eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transmissao-sinais-som-supera-circuitos-eletronicos&id=010165250710)
 - [Por que o Sol � mais eficiente em fazer a �gua evaporar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-sol-mais-eficiente-evaporacao-agua&id=010125250709)
 - [Dados e energia trafegar�o pela mesma fibra �ptica, simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-levar-dados-energia&id=010150250708)
 - [Bateria de entrela�amento revela equivalente qu�ntico da segunda lei da termodin�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-entrelacamento-segunda-lei-termodinamica-quantica&id=010115250708)
 - [O que acontece quando duas estrelas de n�utrons colidem?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-acontece-quando-duas-estrelas-colidem&id=010130250708)
 - [Lei fundamental da conserva��o de energia � confirmada no n�vel qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lei-conservacao-energia-confirmada-nivel-quantico&id=010115250707)
-- [Revestimento antichama suporta fogo a 1.400 �C por mais de 15 minutos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-antichama-suporta-fogo-15-minutos&id=010160250707)
-- [Eletr�nico biocompat�vel dissolve-se na �gua ap�s o uso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronico-biocompativel-dissolve-agua&id=010110250707)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
