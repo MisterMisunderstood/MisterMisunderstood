@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Supercimento gasta 60% menos material e captura 140% mais CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercimento-gasta-60-menos-material&id=010160250711)
+- [Terra est� dentro de um vazio c�smico? Isso elucidaria expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-esta-dentro-vazio-cosmico&id=020130250711)
+- [Rochas ejetadas em padr�es inesperados complicam desvio de asteroides](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rochas-ejetadas-desvio-asteroide&id=010130250711)
+- [C�lulas solares atingem alta efici�ncia em ambientes internos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-ambiente-interno&id=010115250710)
+- [Transmiss�o de sinais por som supera circuitos eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transmissao-sinais-som-supera-circuitos-eletronicos&id=010165250710)
+- [Por que o Sol � mais eficiente em fazer a �gua evaporar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-sol-mais-eficiente-evaporacao-agua&id=010125250709)
+- [Dados e energia trafegar�o pela mesma fibra �ptica, simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-levar-dados-energia&id=010150250708)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
