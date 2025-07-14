@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Finalmente um substituto para o pl�stico?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=existe-algum-substituto-plastico&id=010160250714)
+- [Bateria qu�ntica atinge limite te�rico de velocidade e dura muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-quantica-limite-teorico-velocidade-dura-mais&id=010115250714)
+- [Voo das corujas inspira tecnologia recordista de redu��o de ru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=voo-corujas-tecnologia-recorde-reducao-ruido&id=010170250714)
 - [Supercimento gasta 60% menos material e captura 140% mais CO2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercimento-gasta-60-menos-material&id=010160250711)
 - [Terra est� dentro de um vazio c�smico? Isso elucidaria expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-esta-dentro-vazio-cosmico&id=020130250711)
 - [Rochas ejetadas em padr�es inesperados complicam desvio de asteroides](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rochas-ejetadas-desvio-asteroide&id=010130250711)
 - [C�lulas solares atingem alta efici�ncia em ambientes internos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-ambiente-interno&id=010115250710)
-- [Transmiss�o de sinais por som supera circuitos eletr�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transmissao-sinais-som-supera-circuitos-eletronicos&id=010165250710)
-- [Por que o Sol � mais eficiente em fazer a �gua evaporar?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-sol-mais-eficiente-evaporacao-agua&id=010125250709)
-- [Dados e energia trafegar�o pela mesma fibra �ptica, simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-levar-dados-energia&id=010150250708)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
