@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Agrominera��o: Procuram-se plantas brasileiras que acumulam metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agromineracao&id=010125250716)
 - [Rel�gio mais preciso do mundo atinge precis�o de 19 casas decimais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-mais-preciso-mundo-zeptossegundos&id=020130250716)
 - [Descoberta de "f�ssil" nos confins do Sistema Solar complica Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fossil-sistema-solar-complica-planeta-9&id=010130250716)
 - [Bateria com separador de madeira dura 60% mais e n�o pega fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-separador-madeira&id=020115250715)
 - [Acelerador de part�culas frias testar� v�rias teorias pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=acelerador-particulas-frias&id=010130250715)
 - [Laser sintoniz�vel alterna suavemente entre m�ltiplas cores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-sintonizavel&id=010115250715)
 - [Finalmente um substituto para o pl�stico?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=existe-algum-substituto-plastico&id=010160250714)
-- [Bateria qu�ntica atinge limite te�rico de velocidade e dura muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-quantica-limite-teorico-velocidade-dura-mais&id=010115250714)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
