@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [LHC detecta assimetria crucial entre mat�ria e antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-assimetria-entre-materia-antimateria&id=020130250717)
 - [L�minas de Luz: T�cnica de mesa vai gerar campos magn�ticos megatesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laminas-luz-campos-magneticos-megatesla&id=010115250717)
 - [Est�vamos calculando errado o tamanho dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplanetas-maiores-se-calculava&id=010130250717)
 - [Nascimento de um novo sistema solar � fotografado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-novo-sistema-solar&id=030130250716)
 - [Agrominera��o: Procuram-se plantas brasileiras que acumulam metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agromineracao&id=010125250716)
 - [Rel�gio mais preciso do mundo atinge precis�o de 19 casas decimais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-mais-preciso-mundo-zeptossegundos&id=020130250716)
 - [Descoberta de "f�ssil" nos confins do Sistema Solar complica Planeta 9](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fossil-sistema-solar-complica-planeta-9&id=010130250716)
-- [Bateria com separador de madeira dura 60% mais e n�o pega fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-separador-madeira&id=020115250715)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
