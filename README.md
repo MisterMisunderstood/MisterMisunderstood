@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Nova teoria elimina infla��o na origem do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-elimina-inflacao-origem-universo&id=010130250718)
+- [Material in�dito cria interface entre eletr�nica, fot�nica e qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-interface-eletronica-fotonica-quantica&id=010110250718)
+- [LHC detecta assimetria crucial entre mat�ria e antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-assimetria-entre-materia-antimateria&id=020130250717)
+- [L�minas de Luz: T�cnica de mesa vai gerar campos magn�ticos megatesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laminas-luz-campos-magneticos-megatesla&id=010115250717)
+- [Est�vamos calculando errado o tamanho dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplanetas-maiores-se-calculava&id=010130250717)
+- [Nascimento de um novo sistema solar � fotografado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-novo-sistema-solar&id=030130250716)
+- [Agrominera��o: Procuram-se plantas brasileiras que acumulam metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agromineracao&id=010125250716)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
