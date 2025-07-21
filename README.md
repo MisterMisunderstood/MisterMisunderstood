@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Chip filma e controla rea��o qu�mica em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-filma-controla-reacao-quimica-tempo-real&id=010165250721)
+- [Lasers capturam dan�a invis�vel do vento e das ondas do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lasers-capturam-interacao-vento-oceano&id=010125250721)
+- [Filtro � instalado e limpo dentro de canos usando �m�s externos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-magnetico-instalado-limpo-dentro-canos-usando-imas-externos&id=010160250721)
 - [Nova teoria elimina infla��o na origem do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-elimina-inflacao-origem-universo&id=010130250718)
 - [Material in�dito cria interface entre eletr�nica, fot�nica e qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-interface-eletronica-fotonica-quantica&id=010110250718)
 - [LHC detecta assimetria crucial entre mat�ria e antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-assimetria-entre-materia-antimateria&id=020130250717)
 - [L�minas de Luz: T�cnica de mesa vai gerar campos magn�ticos megatesla](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laminas-luz-campos-magneticos-megatesla&id=010115250717)
-- [Est�vamos calculando errado o tamanho dos planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exoplanetas-maiores-se-calculava&id=010130250717)
-- [Nascimento de um novo sistema solar � fotografado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-novo-sistema-solar&id=030130250716)
-- [Agrominera��o: Procuram-se plantas brasileiras que acumulam metais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agromineracao&id=010125250716)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
