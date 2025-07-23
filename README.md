@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Resfriamento radiante produz sensa��o t�rmica melhor do que a sombra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-radiante-sensacao-termica-melhor-sombra&id=010125250723)
+- [LHC anuncia novos resultados do decaimento do b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-resultados-decaimentos-raros-boson-higgs&id=010130250723)
 - [Internet qu�ntica permitir� testar espa�o-tempo curvo e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-testar-espaco-tempo-curvo-mecanica-quantica&id=010130250722)
 - [Pain�is solares com refrigera��o passiva produzem mais e duram muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-refrigeracao-passiva&id=010115250722)
 - [Lubrificar com eletricidade? Funciona, � dur�vel e reduz muito o desgaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lubrificacao-com-eletricidade&id=010170250722)
 - [Astr�nomos fotografam planetas se formando - ou talvez seja uma estrela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-construindo-se&id=010130250721)
 - [Chip filma e controla rea��o qu�mica em tempo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-filma-controla-reacao-quimica-tempo-real&id=010165250721)
-- [Lasers capturam dan�a invis�vel do vento e das ondas do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lasers-capturam-interacao-vento-oceano&id=010125250721)
-- [Filtro � instalado e limpo dentro de canos usando �m�s externos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-magnetico-instalado-limpo-dentro-canos-usando-imas-externos&id=010160250721)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
