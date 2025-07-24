@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Rede neural de luz supera modelos digitais de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-luz-multissinapse&id=010150250724)
-- [Mist�rio do tunelamento qu�ntico � visto pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-tunelamento-quantico&id=010165250724)
-- [Resfriamento radiante produz sensa��o t�rmica melhor do que a sombra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-radiante-sensacao-termica-melhor-sombra&id=010125250723)
-- [LHC anuncia novos resultados do decaimento do b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-resultados-decaimentos-raros-boson-higgs&id=010130250723)
-- [Internet qu�ntica permitir� testar espa�o-tempo curvo e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-testar-espaco-tempo-curvo-mecanica-quantica&id=010130250722)
-- [Pain�is solares com refrigera��o passiva produzem mais e duram muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-refrigeracao-passiva&id=010115250722)
-- [Lubrificar com eletricidade? Funciona, � dur�vel e reduz muito o desgaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lubrificacao-com-eletricidade&id=010170250722)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
