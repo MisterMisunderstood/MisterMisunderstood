@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Pl�sticos coloridos sem tintas ou corantes podem at� ser comidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-coloridos-sem-tintas-ou-corantes&id=010160250725)
+- [Reciclagem do calor: Nanomaterial armazena calor leve](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-calor-abaixo-100-graus&id=010170250725)
 - [Rede neural de luz supera modelos digitais de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-luz-multissinapse&id=010150250724)
 - [Mist�rio do tunelamento qu�ntico � visto pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-tunelamento-quantico&id=010165250724)
 - [Resfriamento radiante produz sensa��o t�rmica melhor do que a sombra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-radiante-sensacao-termica-melhor-sombra&id=010125250723)
 - [LHC anuncia novos resultados do decaimento do b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lhc-resultados-decaimentos-raros-boson-higgs&id=010130250723)
 - [Internet qu�ntica permitir� testar espa�o-tempo curvo e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-quantica-testar-espaco-tempo-curvo-mecanica-quantica&id=010130250722)
-- [Pain�is solares com refrigera��o passiva produzem mais e duram muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paineis-solares-refrigeracao-passiva&id=010115250722)
-- [Lubrificar com eletricidade? Funciona, � dur�vel e reduz muito o desgaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lubrificacao-com-eletricidade&id=010170250722)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
