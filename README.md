@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Confirmado (de novo): Luz � tanto onda quanto part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-experimento-dupla-fenda-prova&id=010115250729)
+- [Fenda extrema confirma: Luz � tanto onda quanto part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-experimento-dupla-fenda-prova&id=010115250729)
 - [Descoberto novo estado da mat�ria qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=excitons-novo-estado-materia&id=010110250729)
 - [Fabrica��o "verde" de fios de celulose chega � escala industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-verde-fios-celulose&id=010125250729)
 - [Criado um qubit de antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-de-antimateria&id=010150250728)
