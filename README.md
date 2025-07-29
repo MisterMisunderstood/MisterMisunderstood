@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Confirmado (de novo): Luz � tanto onda quanto part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-experimento-dupla-fenda-prova&id=010115250729)
+- [Descoberto novo estado da mat�ria qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=excitons-novo-estado-materia&id=010110250729)
+- [Fabrica��o "verde" de fios de celulose chega � escala industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-verde-fios-celulose&id=010125250729)
 - [Criado um qubit de antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-de-antimateria&id=010150250728)
 - [Criado primeiro meio-metal 2D do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meio-metal-2d&id=010110250728)
 - [Microsc�pio �ptico enxerga �tomos com resolu��o de 1 nan�metro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-captura-luz-escala-atomica&id=010165250728)
 - [Pl�sticos coloridos sem tintas ou corantes podem at� ser comidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-coloridos-sem-tintas-ou-corantes&id=010160250725)
-- [Reciclagem do calor: Nanomaterial armazena calor leve](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-calor-abaixo-100-graus&id=010170250725)
-- [Rede neural de luz supera modelos digitais de IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-neural-luz-multissinapse&id=010150250724)
-- [Mist�rio do tunelamento qu�ntico � visto pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=misterio-tunelamento-quantico&id=010165250724)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
