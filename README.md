@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Fenda extrema confirma: Luz � tanto onda quanto part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-experimento-dupla-fenda-prova&id=010115250729)
+- [Descoberto novo estado da mat�ria qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=excitons-novo-estado-materia&id=010110250729)
+- [Fabrica��o "verde" de fios de celulose chega � escala industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-verde-fios-celulose&id=010125250729)
+- [Criado um qubit de antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-de-antimateria&id=010150250728)
+- [Criado primeiro meio-metal 2D do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meio-metal-2d&id=010110250728)
+- [Microsc�pio �ptico enxerga �tomos com resolu��o de 1 nan�metro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-captura-luz-escala-atomica&id=010165250728)
+- [Pl�sticos coloridos sem tintas ou corantes podem at� ser comidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-coloridos-sem-tintas-ou-corantes&id=010160250725)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
