@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhe�a o melhor LED azul j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-led-azul&id=010115250731)
+- [Criado um m�todo universal para calcular a entropia de l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-calcula-entropia-liquido&id=010170250731)
 - [Vulnerabilidade grave: Um �nico dado pode travar seu celular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulnerabilidade-celulares-pacote-trava-aparelho&id=010150250730)
 - [Reator simples extrai �gua do solo lunar e produz oxig�nio e hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-extrai-agua-solo-lunar&id=010130250730)
 - [IA ganha corpo: Rob�s crescem usando canibalismo rob�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metabolismo-robotico-canibalismo-robotico&id=010180250730)
 - [Fenda extrema confirma: Luz � tanto onda quanto part�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-experimento-dupla-fenda-prova&id=010115250729)
 - [Descoberto novo estado da mat�ria qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=excitons-novo-estado-materia&id=010110250729)
-- [Fabrica��o "verde" de fios de celulose chega � escala industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-verde-fios-celulose&id=010125250729)
-- [Criado um qubit de antimat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-de-antimateria&id=010150250728)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
