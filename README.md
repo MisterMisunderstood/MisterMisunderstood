@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz dos lasers fica 10.000 vezes mais pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-lasers-fica-10-000-vezes-mais-pura&id=010115250804)
+- [Material tem propriedades transformadas usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-propriedades-transformadas-luz&id=020110250804)
+- [Sacos de skyrmions, os bits magn�ticos do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sacos-skyrmions-bits-magneticos-futuro&id=010110250804)
 - [Madeira bioforte supera resist�ncia do a�o inoxid�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-bioforte-supera-aco-inoxidavel&id=010160250801)
 - [Microfone visual escuta usando luz em vez de som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfone-visual-escuta-usando-luz&id=010110250801)
 - [Maior raio da hist�ria estava perdido nos arquivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-raio-historia&id=010125250731)
 - [Conhe�a o melhor LED azul j� feito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=melhor-led-azul&id=010115250731)
-- [Criado um m�todo universal para calcular a entropia de l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-se-calcula-entropia-liquido&id=010170250731)
-- [Vulnerabilidade grave: Um �nico dado pode travar seu celular](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vulnerabilidade-celulares-pacote-trava-aparelho&id=010150250730)
-- [Reator simples extrai �gua do solo lunar e produz oxig�nio e hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-extrai-agua-solo-lunar&id=010130250730)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
