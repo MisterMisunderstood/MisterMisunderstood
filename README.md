@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mineral espacial h�brido revoluciona controle do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hibrido-cristal-vidro-controle-calor&id=010170250806)
+- [Raios c�smicos podem alimentar vida subterr�nea em luas e planetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-cosmicos-vida-subterranea-luas-planetas&id=010130250806)
 - [Sarga�o melhora cer�micas para constru��o civil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sargaco-ceramica-construcao-civil&id=020160250805)
 - [Sintetizado diamante mais duro que qualquer diamante natural](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-hexagonal-mais-duro-diamante-natural&id=010160250805)
 - [Como os raios come�am? Cientistas finalmente desvendam o mist�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-raios-comecam&id=010125250805)
 - [Recria��o da primeira mol�cula do Universo resolve enigma de 13 bilh�es de anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=primeira-molecula-universo&id=010130250805)
 - [Luz dos lasers fica 10.000 vezes mais pura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-lasers-fica-10-000-vezes-mais-pura&id=010115250804)
-- [Material tem propriedades transformadas usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-propriedades-transformadas-luz&id=020110250804)
-- [Sacos de skyrmions, os bits magn�ticos do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sacos-skyrmions-bits-magneticos-futuro&id=010110250804)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
