@@ -125,8 +125,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Despenca temperatura para transformar hidrog�nio em eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-combustivel-hidrogenio-baixa-temperatura&id=010115250812)
-- [Chips s�o projetados para suportar radia��o no interior do LHC](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-suportar-radiacao-interior-lhc&id=010110250812)
-- [Estado qu�ntico puro � obtido a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estado-quantico-puro-temperatura-ambiente&id=010165250812)
+- [Chips s�o feitos para suportar radia��o no interior do LHC](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-suportar-radiacao-interior-lhc&id=010110250812)
+- [Pureza qu�ntica � obtida a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estado-quantico-puro-temperatura-ambiente&id=010165250812)
 - [Liga met�lica com mem�ria de forma nasce talhada para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-memoria-forma-espaco&id=010170250811)
 - [Rob� inspirado em semente voa 26 minutos com uma asa s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-semente-voa-uma-asa-so&id=010180250811)
 - [Cargas el�tricas no espa�o est�o ao contr�rio e ningu�m reparou](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cargas-eletricas-espaco-contrario&id=010130250811)
