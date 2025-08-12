@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Liga met�lica com mem�ria de forma nasce talhada para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-metalica-memoria-forma-espaco&id=010170250811)
+- [Rob� inspirado em semente voa 26 minutos com uma asa s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-semente-voa-uma-asa-so&id=010180250811)
+- [Cargas el�tricas no espa�o est�o ao contr�rio e ningu�m reparou](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cargas-eletricas-espaco-contrario&id=010130250811)
+- [Merc�rio pode ter sido formado pela colis�o de dois protoplanetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mercurio-formado-colisao-protoplanetas&id=010130250808)
+- [Brasileira cria material invis�vel para tecnologias inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileira-material-invisivel-tecnologias-inteligentes&id=010110250808)
+- [Novos ind�cios de que impacto de cometa resfriou a Terra h� 12.800 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-resfriou-terra-12-800-anos&id=010125250808)
+- [Criado um trans�stor de celulose, que j� nasce biocompat�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-de-celulose&id=010110250807)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
