@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Bateria el�stica para tecidos eletr�nicos � ativada pelo suor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ativada-pelo-suor&id=010115250815)
+- [Revestimento ac�stico antirru�dos absorve sete oitavas de barulho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-acustico-antirruidos&id=010160250815)
+- [Drones leves como penas flutuar�o indefinidamente com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drones-leves-penas-voam-energia-solar&id=030130250814)
+- [Rob� marciano pode detectar vida e NASA n�o sabia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-marciano-detectar-vida-nasa-nao-sabia&id=020130250814)
+- [Planetas sem �gua podem ter vida baseada em l�quidos i�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planetas-sem-agua-ter-vida-baseada-liquidos-ionicos&id=010130250814)
+- [Ouro brilha e surpreende em tr�s experimentos hist�ricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-brilha-surpreende-tres-experimentos-historicos&id=020160250813)
+- [Pl�stico mais resistente que a�o tem mem�ria, autorreparo e reciclagem c�clica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-mais-resistente-aco&id=010160250813)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
