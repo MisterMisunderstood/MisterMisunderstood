@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria nuclear ganha efici�ncia e durabilidade de 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-nuclear-fotovoltaica&id=010115250820)
+- [Ondas de r�dio fazem curvas  para levar redes sem fios mais longe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-radio-fazem-curvas&id=010150250820)
 - [C�rebro de micro-ondas: Um chip anal�gico de intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-cerebro-micro-ondas&id=010150250819)
 - [Novo material absorve, se curva ou rebate impactos sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-absorve-curva-rebate-impactos&id=010160250819)
 - [Este pl�stico ir� desaparecer em 13 meses](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-biodegradavel-oceano&id=010125250819)
 - [Descoberto cristal que respira oxig�nio, com amplas aplica��es tecnol�gicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-respira-oxigenio&id=010160250818)
 - [Transporte por levita��o leva cargas a qualquer lugar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transporte-por-levitacao&id=010170250818)
-- [Inova��o tecnol�gica tem uma rota estreita e fr�gil](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-tecnologica-tem-rota-estreita-fragil&id=010150250818)
-- [Bateria el�stica para tecidos eletr�nicos � ativada pelo suor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ativada-pelo-suor&id=010115250815)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
