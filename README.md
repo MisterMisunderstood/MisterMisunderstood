@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Eletricidade � guiada no interior de metais usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-guiada-interior-metais&id=010110250822)
+- [Efeito do Observador pode ser anulado tornando as part�culas invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-observador-anulado&id=010165250822)
 - [Por mais energia que receba, este g�s se recusa a esquentar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gas-se-recusa-esquentar&id=010115250821)
 - [Microrrob�s usam som para se auto-organizar em grupos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microrrobos-usam-som-se-auto-organizar-grupos-inteligentes&id=010180250821)
 - [Bateria nuclear ganha efici�ncia e durabilidade de 50 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-nuclear-fotovoltaica&id=010115250820)
 - [Ondas de r�dio fazem curvas  para levar redes sem fios mais longe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-radio-fazem-curvas&id=010150250820)
 - [C�rebro de micro-ondas: Um chip anal�gico de intelig�ncia artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-cerebro-micro-ondas&id=010150250819)
-- [Novo material absorve, se curva ou rebate impactos sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-absorve-curva-rebate-impactos&id=010160250819)
-- [Este pl�stico ir� desaparecer em 13 meses](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-biodegradavel-oceano&id=010125250819)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
