@@ -126,7 +126,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Computador dentro de fibra �ptica amplia conceito de roupas eletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-dentro-fibra-optica&id=010150250825)
 - [Onda solit�ria respira energia para durar muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-solitaria-respira-energia-durar-muito-mais&id=010170250825)
-- [Mat�ria que pensa: Metamateriais decidem e mudam para realizar m�ltiplas tarefas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-pensa-metamateriais-decidem&id=010160250825)
+- [Mat�ria que pensa decide e muda para realizar m�ltiplas tarefas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-pensa-metamateriais-decidem&id=010160250825)
 - [Eletricidade � guiada no interior de metais usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-guiada-interior-metais&id=010110250822)
 - [Efeito do Observador pode ser anulado tornando as part�culas invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-observador-anulado&id=010165250822)
 - [Por mais energia que receba, este g�s se recusa a esquentar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gas-se-recusa-esquentar&id=010115250821)
