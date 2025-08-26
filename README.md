@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Planeta Y: Sistema Solar pode ter outro planeta do tamanho da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-y&id=010130250826)
+- [Antena que muda de forma tem usos muito al�m das comunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-antena-muda-forma&id=010150250826)
+- [Metal preto melhora em 15 vezes efici�ncia dos pain�is solares termoel�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-preto-paineis-solares-termoeletricos&id=010115250826)
 - [Computador dentro de fibra �ptica amplia conceito de roupas eletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-dentro-fibra-optica&id=010150250825)
 - [Onda solit�ria respira energia para durar muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-solitaria-respira-energia-durar-muito-mais&id=010170250825)
 - [Mat�ria que pensa decide e muda para realizar m�ltiplas tarefas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-pensa-metamateriais-decidem&id=010160250825)
 - [Eletricidade � guiada no interior de metais usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-guiada-interior-metais&id=010110250822)
-- [Efeito do Observador pode ser anulado tornando as part�culas invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-observador-anulado&id=010165250822)
-- [Por mais energia que receba, este g�s se recusa a esquentar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gas-se-recusa-esquentar&id=010115250821)
-- [Microrrob�s usam som para se auto-organizar em grupos inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microrrobos-usam-som-se-auto-organizar-grupos-inteligentes&id=010180250821)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
