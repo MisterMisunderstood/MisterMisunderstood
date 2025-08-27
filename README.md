@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Todas as unidades da eletricidade s�o medidas juntas pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unidades-eletricidade-medidas-juntas&id=010115250827)
+- [Observat�rio de neutrinos JUNO entra em opera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observatorio-neutrinos-juno&id=010130250827)
+- [Planeta Y: Sistema Solar pode ter outro planeta do tamanho da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-y&id=010130250826)
+- [Antena que muda de forma tem usos muito al�m das comunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-antena-muda-forma&id=010150250826)
+- [Metal preto melhora em 15 vezes efici�ncia dos pain�is solares termoel�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-preto-paineis-solares-termoeletricos&id=010115250826)
+- [Computador dentro de fibra �ptica amplia conceito de roupas eletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-dentro-fibra-optica&id=010150250825)
+- [Onda solit�ria respira energia para durar muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-solitaria-respira-energia-durar-muito-mais&id=010170250825)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
