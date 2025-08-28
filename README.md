@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Suculentas brilham como l�mpadas e recarregam com luz do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suculentas-brilham-como-lampadas&id=010125250828)
+- [Diamante funciona como sensor para detectar c�ncer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-detecta-cancer&id=010165250828)
 - [Todas as unidades da eletricidade s�o medidas juntas pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unidades-eletricidade-medidas-juntas&id=010115250827)
 - [Observat�rio de neutrinos JUNO entra em opera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observatorio-neutrinos-juno&id=010130250827)
 - [Planeta Y: Sistema Solar pode ter outro planeta do tamanho da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-y&id=010130250826)
 - [Antena que muda de forma tem usos muito al�m das comunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-antena-muda-forma&id=010150250826)
 - [Metal preto melhora em 15 vezes efici�ncia dos pain�is solares termoel�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-preto-paineis-solares-termoeletricos&id=010115250826)
-- [Computador dentro de fibra �ptica amplia conceito de roupas eletr�nicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-dentro-fibra-optica&id=010150250825)
-- [Onda solit�ria respira energia para durar muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-solitaria-respira-energia-durar-muito-mais&id=010170250825)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
