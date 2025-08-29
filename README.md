@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cristais feitos de n�s de luz desdobram-se no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-hopfions-espaco-tempo&id=010160250829)
+- [Insetos com p�s em forma de asa inspiram rob�s aqu�ticos muito r�pidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=insetos-pes-forma-asa-robos&id=010180250829)
 - [Suculentas brilham como l�mpadas e recarregam com luz do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suculentas-brilham-como-lampadas&id=010125250828)
 - [Diamante funciona como sensor para detectar c�ncer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-detecta-cancer&id=010165250828)
 - [Todas as unidades da eletricidade s�o medidas juntas pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=unidades-eletricidade-medidas-juntas&id=010115250827)
 - [Observat�rio de neutrinos JUNO entra em opera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=observatorio-neutrinos-juno&id=010130250827)
 - [Planeta Y: Sistema Solar pode ter outro planeta do tamanho da Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-y&id=010130250826)
-- [Antena que muda de forma tem usos muito al�m das comunica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-antena-muda-forma&id=010150250826)
-- [Metal preto melhora em 15 vezes efici�ncia dos pain�is solares termoel�tricos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-preto-paineis-solares-termoeletricos&id=010115250826)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
