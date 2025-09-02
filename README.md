@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Um toque de vida na eletr�nica: Mol�culas de precis�o para tecnologias do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-alem-eletronica&id=010110250901)
-- [Qubit l�gico, sem erros, � criado com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-logico-unico-atomo&id=010150250901)
-- [Atrito que esfria: Fen�meno inusitado "esfria" rob�s sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atrito-esfria&id=010170250901)
-- [Cristais feitos de n�s de luz desdobram-se no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-hopfions-espaco-tempo&id=010160250829)
-- [Insetos com p�s em forma de asa inspiram rob�s aqu�ticos muito r�pidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=insetos-pes-forma-asa-robos&id=010180250829)
-- [Suculentas brilham como l�mpadas e recarregam com luz do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=suculentas-brilham-como-lampadas&id=010125250828)
-- [Diamante funciona como sensor para detectar c�ncer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-detecta-cancer&id=010165250828)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
