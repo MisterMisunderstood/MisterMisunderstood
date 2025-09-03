@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerg�ncia da vida na Terra � simulada em experimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=emergencia-vida-terra-experimento&id=010125250903)
+- [Movimento do calor � fotografado em escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=movimento-calor-escala-atomica&id=010165250903)
 - [Soprando cata-ventos de luz: Criadas formas 3D "vivas" de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soprando-cata-ventos-luz&id=010115250902)
 - [Telesc�pio retangular pode fotografar exoplanetas na zona habit�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-retangular&id=010130250902)
 - [Falc�o peregrino inspira motor de avi�o a hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=falcao-peregrino-aviao-hidrogenio&id=010170250902)
 - [Um toque de vida na eletr�nica: Mol�culas de precis�o para tecnologias do futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-alem-eletronica&id=010110250901)
 - [Qubit l�gico, sem erros, � criado com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-logico-unico-atomo&id=010150250901)
-- [Atrito que esfria: Fen�meno inusitado "esfria" rob�s sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atrito-esfria&id=010170250901)
-- [Cristais feitos de n�s de luz desdobram-se no espa�o e no tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-hopfions-espaco-tempo&id=010160250829)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
