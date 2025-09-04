@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Nova fibra �ptica oca acelera dados em at� 1.000x](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-oca-acelera-dados&id=010150250904)
+- [Gelo gera eletricidade e desvenda mist�rio dos raios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-gera-eletricidade&id=010115250904)
+- [Emerg�ncia da vida na Terra � simulada em experimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=emergencia-vida-terra-experimento&id=010125250903)
+- [Movimento do calor � fotografado em escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=movimento-calor-escala-atomica&id=010165250903)
+- [Soprando cata-ventos de luz: Criadas formas 3D "vivas" de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soprando-cata-ventos-luz&id=010115250902)
+- [Telesc�pio retangular pode fotografar exoplanetas na zona habit�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-retangular&id=010130250902)
+- [Falc�o peregrino inspira motor de avi�o a hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=falcao-peregrino-aviao-hidrogenio&id=010170250902)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
