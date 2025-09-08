@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processador mec�nico chega onde nenhum computador digital jamais foi antes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-mecanico-imita-quantico&id=010150250908)
+- [Escudo ac�stico bloqueia ru�do sem bloquear passagem do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-acustico-passagem-ar&id=010160250908)
+- [Rob�tica bi�nica agora com m�sculos artificiais ossificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-ossificados-robotica-bionica&id=010180250908)
 - [Rede qu�ntica roda usando protocolo padr�o da internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-envia-sinais-quanticos-protocolo-padrao-internet&id=010150250905)
 - [Erup��es solares s�o 6,5 vezes mais quentes do que se acreditava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcoes-solares-6-vezes-mais-quentes&id=010130250905)
 - [Nova fibra �ptica oca acelera dados em at� 1.000x](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-oca-acelera-dados&id=010150250904)
 - [Gelo gera eletricidade e desvenda mist�rio dos raios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-gera-eletricidade&id=010115250904)
-- [Emerg�ncia da vida na Terra � simulada em experimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=emergencia-vida-terra-experimento&id=010125250903)
-- [Movimento do calor � fotografado em escala at�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=movimento-calor-escala-atomica&id=010165250903)
-- [Soprando cata-ventos de luz: Criadas formas 3D "vivas" de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soprando-cata-ventos-luz&id=010115250902)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
