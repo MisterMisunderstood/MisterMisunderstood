@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Processador mec�nico chega onde nenhum computador digital jamais foi antes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-mecanico-imita-quantico&id=010150250908)
-- [Escudo ac�stico bloqueia ru�do sem bloquear passagem do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-acustico-passagem-ar&id=010160250908)
-- [Rob�tica bi�nica agora com m�sculos artificiais ossificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-ossificados-robotica-bionica&id=010180250908)
-- [Rede qu�ntica roda usando protocolo padr�o da internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-envia-sinais-quanticos-protocolo-padrao-internet&id=010150250905)
-- [Erup��es solares s�o 6,5 vezes mais quentes do que se acreditava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcoes-solares-6-vezes-mais-quentes&id=010130250905)
-- [Nova fibra �ptica oca acelera dados em at� 1.000x](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-oca-acelera-dados&id=010150250904)
-- [Gelo gera eletricidade e desvenda mist�rio dos raios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-gera-eletricidade&id=010115250904)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
