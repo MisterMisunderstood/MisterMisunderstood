@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado primeiro cristal de tempo que os humanos podem realmente ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-visivel&id=010160250909)
+- [Motor com propuls�o bidirecional pode derrubar lixo espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-propulsao-bidirecional-derrubar-lixo-espacial&id=010130250909)
+- [Material 2D d� um giro de luz e aumenta comunica��es �pticas em 50 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-2d-giro-luz-comunicacoes-opticas&id=010110250909)
 - [Processador mec�nico chega onde nenhum computador digital jamais foi antes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-mecanico-imita-quantico&id=010150250908)
 - [Escudo ac�stico bloqueia ru�do sem bloquear passagem do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-acustico-passagem-ar&id=010160250908)
 - [Rob�tica bi�nica agora com m�sculos artificiais ossificados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculos-artificiais-ossificados-robotica-bionica&id=010180250908)
 - [Rede qu�ntica roda usando protocolo padr�o da internet](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-envia-sinais-quanticos-protocolo-padrao-internet&id=010150250905)
-- [Erup��es solares s�o 6,5 vezes mais quentes do que se acreditava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=erupcoes-solares-6-vezes-mais-quentes&id=010130250905)
-- [Nova fibra �ptica oca acelera dados em at� 1.000x](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-oca-acelera-dados&id=010150250904)
-- [Gelo gera eletricidade e desvenda mist�rio dos raios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-gera-eletricidade&id=010115250904)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
