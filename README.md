@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fita cassete de DNA pode conter todas as m�sicas conhecidas - e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fita-cassete-dna&id=010150250912)
+- [Desviar um asteroide requer uma mira precisa, sen�o...](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mirar-lugar-errado-asteroide&id=010130250912)
 - [Luz esculpida com som impactar� das telas comuns � holografia 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-esculpida-com-som&id=010165250911)
 - [Simula��o da turbul�ncia na gal�xia n�o saiu de acordo com as teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-turbulencia-galaxia&id=010130250911)
 - [NASA anuncia poss�vel sinal de vida antiga em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-anuncia-possivel-sinal-vida-antiga-marte&id=010130250910)
 - [Laser de neutrinos ser� perigoso, mas pode valer a pena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-de-neutrinos&id=020115250910)
 - [Processador de luz aumenta efici�ncia energ�tica da IA em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-eficiencia-ia-100-vezes&id=010150250910)
-- [Bateria de l�tio met�lico carrega em 12 minutos e d� autonomia de 800km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-metalico&id=010115250910)
-- [Criado primeiro cristal do tempo que os humanos podem realmente ver](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-visivel&id=010160250909)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
