@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo modo de controlar eletricidade no sil�cio muda microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controlar-eletricidade-silicio&id=010110250915)
+- [Peneira �ptica: M�todo simples detecta os perigosos nanopl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peneira-optica-detecta-nanoplasticos&id=010125250915)
+- [Mochila com tecnologia aeroespacial devolve equil�brio a pacientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mochila-equilibrio-ataxia&id=010180250915)
 - [Fita cassete de DNA pode conter todas as m�sicas conhecidas - e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fita-cassete-dna&id=010150250912)
 - [Desviar um asteroide requer uma mira precisa, sen�o...](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mirar-lugar-errado-asteroide&id=010130250912)
 - [Luz esculpida com som impactar� das telas comuns � holografia 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-esculpida-com-som&id=010165250911)
 - [Simula��o da turbul�ncia na gal�xia n�o saiu de acordo com as teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simulacao-turbulencia-galaxia&id=010130250911)
-- [NASA anuncia poss�vel sinal de vida antiga em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-anuncia-possivel-sinal-vida-antiga-marte&id=010130250910)
-- [Laser de neutrinos ser� perigoso, mas pode valer a pena](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-de-neutrinos&id=020115250910)
-- [Processador de luz aumenta efici�ncia energ�tica da IA em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-luz-eficiencia-ia-100-vezes&id=010150250910)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
