@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Novo combust�vel para foguetes supera todos os concorrentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-combustivel-foguetes&id=010130250916)
-- [Aerodin�mica de trens de alta velocidade melhora com projeto hol�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aerodinamica-trens-alta-velocidade&id=010170250916)
-- [IA feita com luz: V�m a� os modelos generativos �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-feita-com-luz&id=010150250916)
-- [Novo modo de controlar eletricidade no sil�cio muda microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controlar-eletricidade-silicio&id=010110250915)
-- [Peneira �ptica: M�todo simples detecta os perigosos nanopl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peneira-optica-detecta-nanoplasticos&id=010125250915)
-- [Mochila com tecnologia aeroespacial devolve equil�brio a pacientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mochila-equilibrio-ataxia&id=010180250915)
-- [Fita cassete de DNA pode conter todas as m�sicas conhecidas - e muito mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fita-cassete-dna&id=010150250912)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
