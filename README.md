@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de �ons de hidrog�nio come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-hidrogenio&id=010115250918)
+- [Tremores de terra representam apenas 10% da energia de um terremoto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-terremoto&id=010125250918)
 - [Diamante derretido: Cientistas observam carbono l�quido pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-derretido-carbono-liquido&id=010160250917)
 - [Experimentos questionam ind�cios de vida na lua Enc�lado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=questionados-indicios-vida-encelado&id=010130250917)
 - [Novo combust�vel para foguetes supera todos os concorrentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-combustivel-foguetes&id=010130250916)
 - [Aerodin�mica de trens de alta velocidade melhora com projeto hol�stico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aerodinamica-trens-alta-velocidade&id=010170250916)
 - [IA feita com luz: V�m a� os modelos generativos �pticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-feita-com-luz&id=010150250916)
-- [Novo modo de controlar eletricidade no sil�cio muda microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controlar-eletricidade-silicio&id=010110250915)
-- [Peneira �ptica: M�todo simples detecta os perigosos nanopl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=peneira-optica-detecta-nanoplasticos&id=010125250915)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
