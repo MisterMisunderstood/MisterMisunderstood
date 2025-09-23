@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Efeito Unruh pode unificar relatividade e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-unruh-unificar-relatividade-quantica&id=010130250923)
+- [C�mera de cristal  v� o interior do corpo humano com precis�o in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-cristal-interior-corpo-humano&id=010110250923)
+- [Gelo dissolve o ferro mais r�pido que a �gua l�quida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-dissolve-ferro-mais-que-agua&id=010125250923)
 - [Sistema de navega��o via sat�lite agora tamb�m para mergulhadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-navegacao-via-satelite-mergulhadores&id=010150250922)
 - [Manipular mat�ria com luz � muito mais promissor do que cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipular-materia-com-luz&id=010165250922)
 - [Oscila��o da Terra no espa�o � medida do solo com laser de anel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oscilacao-terra-laser-anel&id=010130250922)
 - [Engrenagens menores que fio de cabelo giram acionadas por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engrenagens-giram-acionadas-luz&id=010180250919)
-- [Mol�cula que guarda quatro cargas impulsiona fotoss�ntese artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=molecula-guarda-quatro-cargas&id=010115250919)
-- [Bateria de �ons de hidrog�nio come�a a virar realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-hidrogenio&id=010115250918)
-- [Tremores de terra representam apenas 10% da energia de um terremoto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-terremoto&id=010125250918)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
