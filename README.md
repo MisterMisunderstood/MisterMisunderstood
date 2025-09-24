@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Computadores qu�nticos do futuro poder�o usar som em vez de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-quanticos-som&id=010150250924)
-- [Direto dos livros de f�sica para o recarregamento sem fios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=direto-fisica-recarregamento-sem-fios&id=010115250924)
-- [Efeito Unruh pode unificar relatividade e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-unruh-unificar-relatividade-quantica&id=010130250923)
-- [C�mera de cristal  v� o interior do corpo humano com precis�o in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-cristal-interior-corpo-humano&id=010110250923)
-- [Gelo dissolve o ferro mais r�pido que a �gua l�quida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-dissolve-ferro-mais-que-agua&id=010125250923)
-- [Sistema de navega��o via sat�lite agora tamb�m para mergulhadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-navegacao-via-satelite-mergulhadores&id=010150250922)
-- [Manipular mat�ria com luz � muito mais promissor do que cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipular-materia-com-luz&id=010165250922)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
