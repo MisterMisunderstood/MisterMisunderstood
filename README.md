@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador qu�ntico bate recorde com 6.100 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-bate-recorde-6-100-qubits&id=010150250925)
+- [Material estabelece novo recorde de isolamento t�rmico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-isolamento-termico&id=010160250925)
 - [Computadores qu�nticos do futuro poder�o usar som em vez de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-quanticos-som&id=010150250924)
 - [Direto dos livros de f�sica para o recarregamento sem fios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=direto-fisica-recarregamento-sem-fios&id=010115250924)
 - [Efeito Unruh pode unificar relatividade e mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-unruh-unificar-relatividade-quantica&id=010130250923)
 - [C�mera de cristal  v� o interior do corpo humano com precis�o in�dita](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-cristal-interior-corpo-humano&id=010110250923)
 - [Gelo dissolve o ferro mais r�pido que a �gua l�quida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-dissolve-ferro-mais-que-agua&id=010125250923)
-- [Sistema de navega��o via sat�lite agora tamb�m para mergulhadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-navegacao-via-satelite-mergulhadores&id=010150250922)
-- [Manipular mat�ria com luz � muito mais promissor do que cientistas pensavam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manipular-materia-com-luz&id=010165250922)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
