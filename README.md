@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Processadores qu�nticos de sil�cio chegam � fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-quanticos-silicio-industrial&id=010150250929)
-- [IA f�sica usa vis�o e tato para manipular objetos como um humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-fisica&id=010180250929)
-- [Matem�tica viabiliza c�lulas de combust�vel para avi�es e ve�culos espaciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-celulas-combustivel&id=010115250929)
-- [Tempo negativo � real, garantem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-negativo&id=010115250926)
-- [Novo microsc�pio fotografa amostras curvas instantaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-fotografa-amostras-curvas&id=010165250926)
-- [Computador qu�ntico bate recorde com 6.100 qubits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-bate-recorde-6-100-qubits&id=010150250925)
-- [Material estabelece novo recorde de isolamento t�rmico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-isolamento-termico&id=010160250925)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
