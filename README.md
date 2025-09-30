@@ -126,7 +126,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [O gelo � flex�vel? �, e isso tem implica��es enormes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-e-flexivel&id=010160250930)
 - [Cientistas driblam princ�pio da incerteza de Heisenberg e medem tudo com precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=driblam-principio-incerteza-heisenberg&id=010165250930)
-- [Supremacia qu�ntica demonstrada em medi��o f�sica: 20 milh�es de anos em 20 segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supremacia-quantica-medicao-fisica&id=010150250930)
+- [Supremacia qu�ntica f�sica: 20 milh�es de anos de medi��es em 20 segundos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supremacia-quantica-medicao-fisica&id=010150250930)
 - [Processadores qu�nticos de sil�cio chegam � fabrica��o industrial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processadores-quanticos-silicio-industrial&id=010150250929)
 - [IA f�sica usa vis�o e tato para manipular objetos como um humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-fisica&id=010180250929)
 - [Matem�tica viabiliza c�lulas de combust�vel para avi�es e ve�culos espaciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-celulas-combustivel&id=010115250929)
