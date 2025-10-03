@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sinais de WiFi medem frequ�ncia card�aca de pessoas no ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-medem-frequencia-cardiaca&id=010150251003)
+- [No final daquele arco-�ris tem... um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=no-final-daquele-arco-iris-tem-chip&id=010110251003)
 - [Paraquedas � reinventado, todo furado e caindo direto na vertical](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paraquedas-kirigami-todo-furado&id=010170251002)
 - [El�trons comportam-se como l�quido e quebram lei fundamental da f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-comportam-se-como-liquido&id=010115251002)
 - [Descoberta onda gigantesca de estrelas na Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=a-grande-onda-via-lactea-tem-onda-gigantesca&id=010130251001)
 - [Ondas comportam-se de modo diferente dependendo da dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conversao-frequencias-assimetrica&id=010170251001)
 - [Rea��o da Terra ao aquecimento global pode gerar nova era glacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquecimento-global-virar-era-glacial&id=010125251001)
-- [O gelo � flex�vel? �, e isso tem implica��es enormes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-e-flexivel&id=010160250930)
-- [Cientistas driblam princ�pio da incerteza de Heisenberg e medem tudo com precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=driblam-principio-incerteza-heisenberg&id=010165250930)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
