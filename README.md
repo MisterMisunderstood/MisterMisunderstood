@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob�s rolantes e baratos podem explorar Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-esfericos-rolantes-marte&id=010180251007)
+- [Energia solar est� �s portas de uma revolu��o org�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-solar-revolucao-organica&id=010115251007)
+- [Computa��o verde: Mem�ria eletr�nica � fabricada a partir de folhas de caf�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folhas-cafe-nanoparticulas-computacao-verde&id=010160251007)
 - [Filtro cer�mico traz c�lulas de hidrog�nio para o mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-ceramico-celulas-hidrogenio&id=010115251006)
 - [Um buraco de fechadura que deixa ver o invis�vel em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-fechadura-invisivel-3d&id=010110251006)
 - [Ordem dentro da desordem explica estrutura de vidros e cer�micas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ordem-dentro-desordem&id=010160251006)
 - [Sinais de WiFi medem frequ�ncia card�aca de pessoas no ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-wifi-medem-frequencia-cardiaca&id=010150251003)
-- [No final daquele arco-�ris tem... um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=no-final-daquele-arco-iris-tem-chip&id=010110251003)
-- [Paraquedas � reinventado, todo furado e caindo direto na vertical](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=paraquedas-kirigami-todo-furado&id=010170251002)
-- [El�trons comportam-se como l�quido e quebram lei fundamental da f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-comportam-se-como-liquido&id=010115251002)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
