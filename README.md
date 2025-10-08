@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel de F�sica vai para observa��es da mec�nica qu�ntica em escala macro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-2025&id=010110251007)
-- [Rob�s rolantes e baratos podem explorar Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-esfericos-rolantes-marte&id=010180251007)
-- [Energia solar est� �s portas de uma revolu��o org�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-solar-revolucao-organica&id=010115251007)
-- [Computa��o verde: Mem�ria eletr�nica � fabricada a partir de folhas de caf�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folhas-cafe-nanoparticulas-computacao-verde&id=010160251007)
-- [Filtro cer�mico traz c�lulas de hidrog�nio para o mundo real](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-ceramico-celulas-hidrogenio&id=010115251006)
-- [Um buraco de fechadura que deixa ver o invis�vel em 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-fechadura-invisivel-3d&id=010110251006)
-- [Ordem dentro da desordem explica estrutura de vidros e cer�micas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ordem-dentro-desordem&id=010160251006)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
