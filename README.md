@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Mat�ria escura e energia escura s�o apenas ilus�o c�smica, defende astrof�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materia-escura-energia-escura-ilusao-cosmica&id=010130251010)
+- [Hidrog�nio verde � produzido s� com energia solar e umidade do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-solar-hidrogenio-umidade-ar&id=010115251010)
 - [Seguran�a qu�ntica inviol�vel agora cabe dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-quantico-de-numeros-aleatorios&id=010150251009)
 - [Superado limite te�rico de efici�ncia das c�lulas solares](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limite-teorico-eficiencia-celulas-solares&id=010115251009)
 - [Nobel de Qu�mica premia s�ntese de estruturas porosas com m�ltiplos usos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-quimica-premia-estruturas-metal-organicas&id=020160251008)
 - [Mouse de madeira mostra que eletr�nica pode ser verde e biodegrad�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=placas-circuito-impresso-madeira&id=010150251008)
 - [Pl�stico de bambu atinge resist�ncia industrial, � recicl�vel e biodegrad�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-de-bambu&id=010160251008)
-- [Nobel de F�sica vai para observa��es da mec�nica qu�ntica em escala macro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nobel-fisica-2025&id=010110251007)
-- [Rob�s rolantes e baratos podem explorar Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-esfericos-rolantes-marte&id=010180251007)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
