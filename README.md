@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Bateria de glicose d� uma vitaminada na gera��o de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-glicose&id=010115251016)
+- [Iontr�nica: Chip nanoflu�dico tem mem�ria semelhante � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=iontronica-chip-fluidico&id=010165251016)
+- [Comunica��o qu�ntica estabelecida com avi�o em voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comunicacao-quantica-com-aviao-voo&id=010150251015)
+- [LED fino como papel emite luz saud�vel como a do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-fino-como-papel&id=010115251015)
+- [Fus�o nuclear: Tanque de combust�vel duplo melhora rendimento em 10 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-tanque-combustivel-duplo&id=010115251014)
+- [Conhe�a o p�xel que far� seu celular projetar hologramas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixel-hologramas-3d-celular&id=010150251014)
+- [Neur�nios artificiais prontos para conex�o com neur�nios vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-conectar-neuronios-vivos&id=010110251014)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
