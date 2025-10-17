@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Amortecedores contra vibra��es ficam melhores com um s�culo de f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-mecanicos-absorvem-vibracoes&id=010170251017)
+- [� pl�stico de papel ou papel pl�stico? � brasileiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-plastico-brasileiro&id=010160251017)
+- [Calor � convertido em eletricidade muito acima do limite te�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-convertido-eletricidade-acima-limite-teorico&id=010115251017)
 - [Bateria de glicose d� uma vitaminada na gera��o de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-glicose&id=010115251016)
 - [Iontr�nica: Chip nanoflu�dico tem mem�ria semelhante � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=iontronica-chip-fluidico&id=010165251016)
 - [Comunica��o qu�ntica estabelecida com avi�o em voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comunicacao-quantica-com-aviao-voo&id=010150251015)
 - [LED fino como papel emite luz saud�vel como a do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-fino-como-papel&id=010115251015)
-- [Fus�o nuclear: Tanque de combust�vel duplo melhora rendimento em 10 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fusao-nuclear-tanque-combustivel-duplo&id=010115251014)
-- [Conhe�a o p�xel que far� seu celular projetar hologramas 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixel-hologramas-3d-celular&id=010150251014)
-- [Neur�nios artificiais prontos para conex�o com neur�nios vivos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-conectar-neuronios-vivos&id=010110251014)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
