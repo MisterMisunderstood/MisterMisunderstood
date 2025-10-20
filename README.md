@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Chip de 6 andares detona recordes de miniaturiza��o e velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-6-andares&id=010110251020)
 - [Barreiras de luz controlam fluxo de fluido em tr�s dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=barreiras-luz-controlam-fluxo-fluido-tres-dimensoes&id=010165251020)
 - [Rob� submarino parte para primeira circunavega��o aut�noma do globo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-submarino-parte-circunavegacao-globo&id=010180251020)
 - [Amortecedores contra vibra��es ficam melhores com um s�culo de f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-mecanicos-absorvem-vibracoes&id=010170251017)
 - [� pl�stico de papel ou papel pl�stico? � brasileiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-plastico-brasileiro&id=010160251017)
 - [Calor � convertido em eletricidade muito acima do limite te�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-convertido-eletricidade-acima-limite-teorico&id=010115251017)
 - [Bateria de glicose d� uma vitaminada na gera��o de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-glicose&id=010115251016)
-- [Iontr�nica: Chip nanoflu�dico tem mem�ria semelhante � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=iontronica-chip-fluidico&id=010165251016)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
