@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Sensor na rolha detecta contaminantes em vinho e outras bebidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-rolha-detecta-contaminantes-vinho&id=020110251020)
+- [Chip de 6 andares detona recordes de miniaturiza��o e velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-6-andares&id=010110251020)
+- [Barreiras de luz controlam fluxo de fluido em tr�s dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=barreiras-luz-controlam-fluxo-fluido-tres-dimensoes&id=010165251020)
+- [Rob� submarino parte para primeira circunavega��o aut�noma do globo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-submarino-parte-circunavegacao-globo&id=010180251020)
+- [Amortecedores contra vibra��es ficam melhores com um s�culo de f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-mecanicos-absorvem-vibracoes&id=010170251017)
+- [� pl�stico de papel ou papel pl�stico? � brasileiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-plastico-brasileiro&id=010160251017)
+- [Calor � convertido em eletricidade muito acima do limite te�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-convertido-eletricidade-acima-limite-teorico&id=010115251017)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
