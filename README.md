@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Barreiras de luz controlam fluxo de fluido em tr�s dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=barreiras-luz-controlam-fluxo-fluido-tres-dimensoes&id=010165251020)
+- [Rob� submarino parte para primeira circunavega��o aut�noma do globo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-submarino-parte-circunavegacao-globo&id=010180251020)
 - [Amortecedores contra vibra��es ficam melhores com um s�culo de f�sica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamateriais-mecanicos-absorvem-vibracoes&id=010170251017)
 - [� pl�stico de papel ou papel pl�stico? � brasileiro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-plastico-brasileiro&id=010160251017)
 - [Calor � convertido em eletricidade muito acima do limite te�rico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-convertido-eletricidade-acima-limite-teorico&id=010115251017)
 - [Bateria de glicose d� uma vitaminada na gera��o de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-glicose&id=010115251016)
 - [Iontr�nica: Chip nanoflu�dico tem mem�ria semelhante � do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=iontronica-chip-fluidico&id=010165251016)
-- [Comunica��o qu�ntica estabelecida com avi�o em voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=comunicacao-quantica-com-aviao-voo&id=010150251015)
-- [LED fino como papel emite luz saud�vel como a do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-fino-como-papel&id=010115251015)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
