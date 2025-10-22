@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processador demonstra computa��o anal�gica na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-computacao-analogica-velocidade-luz&id=010150251022)
+- [Trans�stor magn�tico tem mem�ria embutida e maior efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-magnetico&id=010110251022)
 - [Bateria revolucion�ria tem c�tion duplo: S�dio e l�tio juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cation-duplo-sodio-litio&id=010115251021)
 - [Metais "cultivados" crescem para ficar ultrafortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metais-cultivados-crescem-ultrafortes&id=010160251021)
 - [Computa��o afetiva: � seguro deixar as m�quinas reconhecerem suas emo��es?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=riscos-da-computacao-afetiva&id=010150251021)
 - [Sensor na rolha detecta contaminantes em vinho e outras bebidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-rolha-detecta-contaminantes-vinho&id=020110251020)
 - [Chip de 6 andares detona recordes de miniaturiza��o e velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-6-andares&id=010110251020)
-- [Barreiras de luz controlam fluxo de fluido em tr�s dimens�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=barreiras-luz-controlam-fluxo-fluido-tres-dimensoes&id=010165251020)
-- [Rob� submarino parte para primeira circunavega��o aut�noma do globo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-submarino-parte-circunavegacao-globo&id=010180251020)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
