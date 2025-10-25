@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Rel�gio com tique-taque aleat�rio pode unificar a f�sica e desvendar a biologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-tiquetaque-aleatorio&id=010130251024)
+- [Cristais do tempo fazem trabalho e poder�o alimentar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-do-tempo-trabalho-quantico&id=010150251023)
+- [P�xel atinge maior resolu��o poss�vel para o olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixel-atinge-maior-resolucao-possivel-olho-humano&id=010110251023)
+- [Eletricidade � gerada usando apenas sil�cio e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerar-eletricidade-silicio-agua&id=010115251023)
+- [Processador demonstra computa��o anal�gica na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-computacao-analogica-velocidade-luz&id=010150251022)
+- [Trans�stor magn�tico tem mem�ria embutida e maior efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-magnetico&id=010110251022)
+- [Bateria revolucion�ria tem c�tion duplo: S�dio e l�tio juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cation-duplo-sodio-litio&id=010115251021)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
