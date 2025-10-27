@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Era dos N�s pode explicar por que o Universo existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=era-nos-por-que-universo-existe&id=010130251027)
+- [Nova mem�ria n�o vol�til � controlada por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-nao-volatil-controlada-luz&id=010110251027)
+- [Agricultura flutuante: Plataformas artificiais economizam terra e tratam a �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agricultura-flutuante-plataformas-artificiais&id=010125251027)
 - [Rel�gio com tique-taque aleat�rio pode unificar a f�sica e desvendar a biologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-tiquetaque-aleatorio&id=010130251024)
 - [Cristais do tempo fazem trabalho e poder�o alimentar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-do-tempo-trabalho-quantico&id=010150251023)
 - [P�xel atinge maior resolu��o poss�vel para o olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixel-atinge-maior-resolucao-possivel-olho-humano&id=010110251023)
 - [Eletricidade � gerada usando apenas sil�cio e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerar-eletricidade-silicio-agua&id=010115251023)
-- [Processador demonstra computa��o anal�gica na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-computacao-analogica-velocidade-luz&id=010150251022)
-- [Trans�stor magn�tico tem mem�ria embutida e maior efici�ncia energ�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-magnetico&id=010110251022)
-- [Bateria revolucion�ria tem c�tion duplo: S�dio e l�tio juntos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-cation-duplo-sodio-litio&id=010115251021)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
