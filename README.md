@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado (de novo) o menor p�xel do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-pixel-mundo&id=010150251028)
+- [Cogumelos viram computadores que imitam o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cogumelos-viram-computadores-imitam-cerebro&id=010110251028)
+- [For�as fundamentais da natureza s�o transformadas em luz vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forcas-fundamentais-natureza-brilham-como-luz&id=010170251028)
 - [Era dos N�s pode explicar por que o Universo existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=era-nos-por-que-universo-existe&id=010130251027)
 - [Nova mem�ria n�o vol�til � controlada por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-nao-volatil-controlada-luz&id=010110251027)
 - [Agricultura flutuante: Plataformas artificiais economizam terra e tratam a �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agricultura-flutuante-plataformas-artificiais&id=010125251027)
 - [Rel�gio com tique-taque aleat�rio pode unificar a f�sica e desvendar a biologia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-tiquetaque-aleatorio&id=010130251024)
-- [Cristais do tempo realizam trabalho e poder�o alimentar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-do-tempo-trabalho-quantico&id=010150251023)
-- [P�xel atinge maior resolu��o poss�vel para o olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixel-atinge-maior-resolucao-possivel-olho-humano&id=010110251023)
-- [Eletricidade � gerada usando apenas sil�cio e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerar-eletricidade-silicio-agua&id=010115251023)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
