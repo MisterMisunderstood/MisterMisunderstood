@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Metal com estrutura de cesto reescreve as regras da eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-kagome-reescreve-regras-eletricidade&id=010115251029)
-- [Tecido inteligente ouve sua voz sem microfone e se conecta com IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-ouve-sem-microfone&id=010150251029)
-- [Criado (de novo) o menor p�xel do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-pixel-mundo&id=010150251028)
-- [Cogumelos viram computadores que imitam o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cogumelos-viram-computadores-imitam-cerebro&id=010110251028)
-- [For�as fundamentais da natureza s�o transformadas em luz vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forcas-fundamentais-natureza-brilham-como-luz&id=010170251028)
-- [Era dos N�s pode explicar por que o Universo existe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=era-nos-por-que-universo-existe&id=010130251027)
-- [Nova mem�ria n�o vol�til � controlada por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-nao-volatil-controlada-luz&id=010110251027)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
