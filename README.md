@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Recorde quente: Medido calor de trilh�es de graus logo ap�s o Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-calor-trilhoes-graus-big-bang&id=010130251030)
-- [Novo material para usinas termossolares absorve 99,5% da luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-termossolar-absorve-99-5-luz&id=010115251030)
+- [Material ultrapreto para usinas termossolares absorve 99,5% da luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-termossolar-absorve-99-5-luz&id=010115251030)
 - [Metal com estrutura de cesto reescreve as regras da eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-kagome-reescreve-regras-eletricidade&id=010115251029)
 - [Tecido inteligente ouve sua voz sem microfone e se conecta com IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-ouve-sem-microfone&id=010150251029)
 - [Criado (de novo) o menor p�xel do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-pixel-mundo&id=010150251028)
