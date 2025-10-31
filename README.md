@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Semicondutor vira supercondutor com t�cnica padr�o da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-vira-supercondutor&id=010110251031)
+- [Descoberta uma maneira de simular o Universo em um laptop](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simular-universo-laptop&id=010130251031)
 - [Recorde quente: Medido calor de trilh�es de graus logo ap�s o Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-calor-trilhoes-graus-big-bang&id=010130251030)
 - [Material ultrapreto para usinas termossolares absorve 99,5% da luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-termossolar-absorve-99-5-luz&id=010115251030)
 - [Metal com estrutura de cesto reescreve as regras da eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-kagome-reescreve-regras-eletricidade&id=010115251029)
 - [Tecido inteligente ouve sua voz sem microfone e se conecta com IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-inteligente-ouve-sem-microfone&id=010150251029)
 - [Criado (de novo) o menor p�xel do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-pixel-mundo&id=010150251028)
-- [Cogumelos viram computadores que imitam o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cogumelos-viram-computadores-imitam-cerebro&id=010110251028)
-- [For�as fundamentais da natureza s�o transformadas em luz vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=forcas-fundamentais-natureza-brilham-como-luz&id=010170251028)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
