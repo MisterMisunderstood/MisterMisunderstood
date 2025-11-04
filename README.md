@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cristais qu�nticos podem revolucionar da computa��o � ind�stria qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-quanticos-eletrons-livres&id=010160251104)
+- [Pol�mero metam�rfico assume 12 formatos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=polimero-metamorfico&id=010180251104)
+- [Como nasce a �gua dos planetas? Experimento revela a cria��o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-nasce-agua-dos-planetas&id=010130251104)
 - [Universo n�o � simula��o porque n�o pode ser descrito computacionalmente, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-vivemos-matrix&id=010130251103)
 - [Laser sem espelhos: Nasce uma nova fonte de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-sem-espelho&id=020115251103)
 - [Raios X ficam coloridos para revolucionar imagens m�dicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-x-coloridos&id=010115251103)
 - [Semicondutor vira supercondutor com t�cnica padr�o da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-vira-supercondutor&id=010110251031)
-- [Descoberta uma maneira de simular o Universo em um laptop](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=simular-universo-laptop&id=010130251031)
-- [Recorde quente: Medido calor de trilh�es de graus logo ap�s o Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-calor-trilhoes-graus-big-bang&id=010130251030)
-- [Material ultrapreto para usinas termossolares absorve 99,5% da luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-termossolar-absorve-99-5-luz&id=010115251030)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
