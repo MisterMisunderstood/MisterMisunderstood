@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nasce computador para resolver problemas mais dif�ceis da computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-problemas-np-completos&id=010150251105)
+- [Transfer�ncia de calor em nanoescala contraria teorias em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transferencia-calor-nanoescala&id=010115251105)
 - [Cristais qu�nticos podem revolucionar da computa��o � ind�stria qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-quanticos-eletrons-livres&id=010160251104)
 - [Pol�mero metam�rfico assume 12 formatos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=polimero-metamorfico&id=010180251104)
 - [Como nasce a �gua dos planetas? Experimento revela a cria��o da �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-nasce-agua-dos-planetas&id=010130251104)
 - [Universo n�o � simula��o porque n�o pode ser descrito computacionalmente, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-vivemos-matrix&id=010130251103)
 - [Laser sem espelhos: Nasce uma nova fonte de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-sem-espelho&id=020115251103)
-- [Raios X ficam coloridos para revolucionar imagens m�dicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=raios-x-coloridos&id=010115251103)
-- [Semicondutor vira supercondutor com t�cnica padr�o da microeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-vira-supercondutor&id=010110251031)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
