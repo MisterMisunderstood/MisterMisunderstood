@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Um �nico material aquece e resfria o ambiente sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquecimento-resfriamento-sem-energia&id=010115251110)
+- [Astr�nomos raqueiam telesc�pio para enxergar mais longe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-raqueiam-telescopio&id=010130251110)
+- [Neur�nios artificiais replicam fun��es biol�gicas trocando el�trons por �ons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-trocam-eletrons-ions&id=010150251110)
 - [Bateria de magn�sio atinge opera��o est�vel em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-magnesio&id=010115251107)
 - [D� para superar segunda lei da termodin�mica no reino qu�ntico, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superar-segunda-lei-termodinamica-reino-quantico&id=010165251107)
 - [Folha semi-artificial transforma polui��o e luz solar em qu�micos �teis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-semi-artificial&id=010125251106)
 - [Revolu��o fot�nica: Onda em forma de narval miniaturiza a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-forma-narval-miniaturiza-luz&id=010110251106)
-- [Nasce computador para resolver problemas mais dif�ceis da computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-problemas-np-completos&id=010150251105)
-- [Transfer�ncia de calor em nanoescala contraria teorias em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transferencia-calor-nanoescala&id=010115251105)
-- [Cristais qu�nticos podem revolucionar da computa��o � ind�stria qu�mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-quanticos-eletrons-livres&id=010160251104)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
