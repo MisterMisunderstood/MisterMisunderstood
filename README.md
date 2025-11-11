@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tecido ajusta suas propriedades aerodin�micas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ajusta-propriedades-aerodinamicas&id=010160251111)
+- [Qubits longa vida levam internet qu�ntica a 2.000km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-longa-vida-internet-quantica&id=010150251111)
+- [Dados n�o confirmam acelera��o da expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-nao-confirmam-aceleracao-expansao-universo&id=010130251111)
 - [Um �nico material aquece e resfria o ambiente sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquecimento-resfriamento-sem-energia&id=010115251110)
 - [Astr�nomos raqueiam telesc�pio para enxergar mais longe](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-raqueiam-telescopio&id=010130251110)
 - [Neur�nios artificiais replicam fun��es biol�gicas trocando el�trons por �ons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuronios-artificiais-trocam-eletrons-ions&id=010150251110)
 - [Bateria de magn�sio atinge opera��o est�vel em temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-de-magnesio&id=010115251107)
-- [D� para superar segunda lei da termodin�mica no reino qu�ntico, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superar-segunda-lei-termodinamica-reino-quantico&id=010165251107)
-- [Folha semi-artificial transforma polui��o e luz solar em qu�micos �teis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-semi-artificial&id=010125251106)
-- [Revolu��o fot�nica: Onda em forma de narval miniaturiza a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=onda-forma-narval-miniaturiza-luz&id=010110251106)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
