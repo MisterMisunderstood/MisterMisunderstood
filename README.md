@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Impacto com um trem mostra como espuma met�lica supera a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-metalica-supera-aco&id=010170251112)
+- [Impacto com trem mostra como espuma met�lica supera a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-metalica-supera-aco&id=010170251112)
 - [Caminho aberto para os componentes eletr�nicos controlados por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-eletronicos-controlados-luz&id=010110251112)
 - [Tecido ajusta suas propriedades aerodin�micas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ajusta-propriedades-aerodinamicas&id=010160251111)
 - [Qubits longa vida levam internet qu�ntica a 2.000km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-longa-vida-internet-quantica&id=010150251111)
