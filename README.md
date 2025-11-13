@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motor sem combust�vel funciona expulsando calor da Terra para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-sem-combustivel-calor-terra-espaco&id=010170251113)
 - [Nasce uma supernova: Estrela � flagrada explodindo pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-supernova&id=010130251113)
 - [Impacto com trem mostra como espuma met�lica supera a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-metalica-supera-aco&id=010170251112)
 - [Caminho aberto para os componentes eletr�nicos controlados por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-eletronicos-controlados-luz&id=010110251112)
 - [Tecido ajusta suas propriedades aerodin�micas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ajusta-propriedades-aerodinamicas&id=010160251111)
 - [Qubits longa vida levam internet qu�ntica a 2.000km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-longa-vida-internet-quantica&id=010150251111)
 - [Dados n�o confirmam acelera��o da expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-nao-confirmam-aceleracao-expansao-universo&id=010130251111)
-- [Um �nico material aquece e resfria o ambiente sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aquecimento-resfriamento-sem-energia&id=010115251110)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
