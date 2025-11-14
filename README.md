@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Motor sem combust�vel funciona expulsando calor da Terra para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-sem-combustivel-calor-terra-espaco&id=010170251113)
-- [Nasce uma supernova: Pela primeira vez estrela � flagrada explodindo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-supernova&id=010130251113)
-- [Impacto com trem mostra como espuma met�lica supera a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-metalica-supera-aco&id=010170251112)
-- [Caminho aberto para os componentes eletr�nicos controlados por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componentes-eletronicos-controlados-luz&id=010110251112)
-- [Tecido ajusta suas propriedades aerodin�micas sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-ajusta-propriedades-aerodinamicas&id=010160251111)
-- [Qubits longa vida levam internet qu�ntica a 2.000km](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-longa-vida-internet-quantica&id=010150251111)
-- [Dados n�o confirmam acelera��o da expans�o do Universo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-nao-confirmam-aceleracao-expansao-universo&id=010130251111)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
