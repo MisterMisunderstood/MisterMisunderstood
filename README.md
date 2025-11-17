@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Sistema Solar � tr�s vezes mais r�pido, contestando teoria cosmol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tres-vezes-mais-rapido&id=010130251117)
 - [Gerador transforma vibra��es de qualquer frequ�ncia em energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-adapta-vibracoes&id=010115251117)
 - [Miniaturiza��o da Metrologia quer um INMETRO dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrologia-inmetro-dentro-chip&id=010165251117)
 - [Giromorfo, o estranho material que vai impulsionar os computadores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=giromorfo-computadores-luz&id=010150251114)
 - ["Metal vivo" pode unificar biologia e eletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metal-vivo-unificar-biologia-eletronica&id=010110251114)
 - [Motor sem combust�vel funciona expulsando calor da Terra para o espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-sem-combustivel-calor-terra-espaco&id=010170251113)
 - [Nasce uma supernova: Pela primeira vez estrela � flagrada explodindo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nascimento-supernova&id=010130251113)
-- [Impacto com trem mostra como espuma met�lica supera a�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-metalica-supera-aco&id=010170251112)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
