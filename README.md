@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Laser de amendoim coloca luz a servi�o da medicina e da sa�de](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biolaser-folhas-betula-amendoim&id=010115251119)
-- [Finalmente: Criada t�cnica de reciclagem qu�mica do PET](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-quimica-pet&id=010125251119)
-- [Ler as horas em um rel�gio qu�ntico gasta mais energia que faz�-lo funcionar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ler-horas-relogio-quantico&id=010130251118)
-- [Fractais e metamateriais juntam-se para melhorar som automotivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metamaterial-fractal-som-automotivo&id=010170251118)
-- [N�cleo da Terra � s�lido ou l�quido? Nenhum deles, � superi�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nucleo-terra-superionico&id=010125251118)
-- [Sistema Solar � tr�s vezes mais r�pido, contestando teoria cosmol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-solar-tres-vezes-mais-rapido&id=010130251117)
-- [Gerador transforma vibra��es de qualquer frequ�ncia em energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-adapta-vibracoes&id=010115251117)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
