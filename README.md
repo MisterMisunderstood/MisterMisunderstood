@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Duas h�lices girando ao contr�rio tornam navios mais eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-helices-girando-contrario-navios&id=010170251125)
+- [Experimento da dupla fenda com som mostra diferen�as em rela��o � luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-som&id=010115251125)
 - [Termodin�mica da luz leva tecnologias �pticas a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-optica-tecnologias-luz&id=010150251124)
 - [Micromotores voam impulsionados apenas por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micromotores-voam-impulsionados-luz&id=010180251124)
 - [Modelos clim�ticos n�o incorporam a verdadeira microf�sica das nuvens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfisica-nuvens&id=010125251124)
 - [Material supera diamante na condu��o de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arseneto-boro-desbanca-diamante-conducao-calor&id=010160251121)
 - [Descoberta liga magnetismo e eletricidade para tecnologias mais r�pidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-liga-magnetismo-eletricidade&id=010110251121)
-- [Laser de amendoim coloca luz a servi�o da medicina e da sa�de](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biolaser-folhas-betula-amendoim&id=010115251119)
-- [Finalmente: Criada t�cnica de reciclagem qu�mica do PET](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-quimica-pet&id=010125251119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
