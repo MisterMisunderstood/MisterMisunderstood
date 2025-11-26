@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Theia, o planeta que formou a Lua, era vizinho do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=theia-planeta-formou-lua-vizinho-sol&id=010130251125)
+- [Duas h�lices girando ao contr�rio tornam navios mais eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-helices-girando-contrario-navios&id=010170251125)
+- [Experimento da dupla fenda com som mostra diferen�as em rela��o � luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-som&id=010115251125)
+- [Termodin�mica da luz leva tecnologias �pticas a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-optica-tecnologias-luz&id=010150251124)
+- [Micromotores voam impulsionados apenas por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micromotores-voam-impulsionados-luz&id=010180251124)
+- [Modelos clim�ticos n�o incorporam a verdadeira microf�sica das nuvens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microfisica-nuvens&id=010125251124)
+- [Material supera diamante na condu��o de calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arseneto-boro-desbanca-diamante-conducao-calor&id=010160251121)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
