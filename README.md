@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [P�xeis de toque adicionam tato � realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixeis-toque-tato-realidade-virtual&id=010180251127)
+- ["Achei a mat�ria escura," diz 1 cientista. Os outros discordam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-detectamos-materia-escura&id=010130251127)
 - [Madeira � protegida com t�cnica para fazer m�mias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-mumias-preservar-madeira&id=010160251126)
 - [Metassuperf�cie de grafeno liga e desliga ondas eletromagn�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-grafeno-ondas-eletromagneticas&id=010110251126)
 - [Theia, o planeta que formou a Lua, era vizinho do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=theia-planeta-formou-lua-vizinho-sol&id=010130251125)
 - [Duas h�lices girando ao contr�rio tornam navios mais eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=duas-helices-girando-contrario-navios&id=010170251125)
 - [Experimento da dupla fenda com som mostra diferen�as em rela��o � luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-dupla-fenda-som&id=010115251125)
-- [Termodin�mica da luz leva tecnologias �pticas a um novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=termodinamica-optica-tecnologias-luz&id=010150251124)
-- [Micromotores voam impulsionados apenas por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micromotores-voam-impulsionados-luz&id=010180251124)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
