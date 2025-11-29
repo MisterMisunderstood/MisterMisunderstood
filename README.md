@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Folha artificial refresca ver�o e aquece inverno sem gastar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-sem-gastar-eletricidade&id=010125251128)
-- ["Grande Microsc�pio Unificado" enxerga da microescala at� a nanoescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-microscopio-unificado&id=010165251128)
-- [P�xeis de toque adicionam tato � realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixeis-toque-tato-realidade-virtual&id=010180251127)
-- ["Achei a mat�ria escura," diz 1 cientista. Os outros discordam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-detectamos-materia-escura&id=010130251127)
-- [Madeira � protegida com t�cnica para fazer m�mias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-mumias-preservar-madeira&id=010160251126)
-- [Metassuperf�cie de grafeno liga e desliga ondas eletromagn�ticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-grafeno-ondas-eletromagneticas&id=010110251126)
-- [Theia, o planeta que formou a Lua, era vizinho do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=theia-planeta-formou-lua-vizinho-sol&id=010130251125)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
