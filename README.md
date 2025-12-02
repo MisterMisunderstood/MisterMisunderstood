@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Roupa anticalor vai refrescar atletas, trabalhadores e at� bombeiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-anticalor&id=010160251202)
+- [Porta l�gica de luz � constru�da em "material que computa"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=porta-logica-luz-material-computa&id=010110251202)
+- [Seres humanos evolu�ram para a natureza, n�o para as cidades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=humanos-evoluiram-natureza-nao-cidades&id=010125251202)
 - [Nova fonte de luz � criada com nanocristais de terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanocristais-terras-raras-nova-fonte-luz&id=010115251201)
 - [A luz fica inteligente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-fica-inteligente&id=010150251201)
 - [Minera��o submarina fica mais ecol�gica com t�cnica � base de hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnica-ecologica-mineracao-aguas-profundas&id=010170251201)
 - [Folha artificial refresca ver�o e aquece inverno sem gastar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-sem-gastar-eletricidade&id=010125251128)
-- ["Grande Microsc�pio Unificado" enxerga da microescala at� a nanoescala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=grande-microscopio-unificado&id=010165251128)
-- [P�xeis de toque adicionam tato � realidade virtual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pixeis-toque-tato-realidade-virtual&id=010180251127)
-- ["Achei a mat�ria escura," diz 1 cientista. Os outros discordam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nao-detectamos-materia-escura&id=010130251127)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
