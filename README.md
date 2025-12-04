@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Vidro de bambu cria janela termoisolante para inverno e ver�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-bambu-janela-termoisolante&id=010125251204)
+- [Menores OLEDs do mundo v�o saltar das telas para os microsc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menores-oleds-mundo&id=010115251204)
+- [Qual teoria sobre buracos negros est� correta? Estamos come�ando a descobrir](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qual-teoria-buracos-negros-esta-correta&id=010130251203)
+- [Lente imita os olhos humanos alimentando-se da pr�pria luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-musculos-artificiais&id=010180251203)
+- [Roupa anticalor vai refrescar atletas, trabalhadores e at� bombeiros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-anticalor&id=010160251202)
+- [Porta l�gica de luz � constru�da em "material que computa"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=porta-logica-luz-material-computa&id=010110251202)
+- [Seres humanos evolu�ram para a natureza, n�o para as cidades](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=humanos-evoluiram-natureza-nao-cidades&id=010125251202)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
