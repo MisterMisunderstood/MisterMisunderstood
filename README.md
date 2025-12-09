@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimento qu�ntico comprova erro de Einstein e acerto de Niels Bohr](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-bohr-certo-einstein-errado&id=010130251209)
-- [Tecido mais preto do mundo � inspirado em ave-do-para�so](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-mais-preto-mundo&id=010160251209)
-- [Reator brasileiro gera hidrog�nio verde usando luz solar e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-brasileiro-hidrogenio-verde&id=010115251209)
-- [Nanogeladeiras expulsam calor que limita velocidade dos computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogeladeiras-calor-computadores&id=010150251208)
-- [Aparelho inteligente gerencia resfriamento e aquecimento sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-inteligente-gerencia-resfriamento-aquecimento&id=010115251208)
-- [Resina de pinus pode ser t�o rent�vel quanto a madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resina-pinus-tao-rentavel-quanto-madeira&id=010125251208)
-- [Bateria de l�tio-ar atinge a classe de 1-Wh](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-ar-1-wh&id=010115251205)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
