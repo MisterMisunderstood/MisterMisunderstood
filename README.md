@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimento qu�ntico comprova erro de Einstein e acerto de Niels Bohr](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-bohr-certo-einstein-errado&id=010130251209)
+- [Tecido mais preto do mundo � inspirado em ave-do-para�so](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-mais-preto-mundo&id=010160251209)
+- [Reator brasileiro gera hidrog�nio verde usando luz solar e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-brasileiro-hidrogenio-verde&id=010115251209)
 - [Nanogeladeiras expulsam calor que limita velocidade dos computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanogeladeiras-calor-computadores&id=010150251208)
 - [Aparelho inteligente gerencia resfriamento e aquecimento sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aparelho-inteligente-gerencia-resfriamento-aquecimento&id=010115251208)
 - [Resina de pinus pode ser t�o rent�vel quanto a madeira](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resina-pinus-tao-rentavel-quanto-madeira&id=010125251208)
 - [Bateria de l�tio-ar atinge a classe de 1-Wh](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-litio-ar-1-wh&id=010115251205)
-- [Quasipart�cula escura agora brilha, com amplas aplica��es nanotecnol�gicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exciton-escuro&id=010165251205)
-- [Vidro de bambu cria janela termoisolante para inverno e ver�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-bambu-janela-termoisolante&id=010125251204)
-- [Menores OLEDs do mundo v�o saltar das telas para os microsc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menores-oleds-mundo&id=010115251204)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
