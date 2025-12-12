@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Vis�o noturna inspirada nas cobras enxerga infravermelho em 4K](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-noturna-cobras-infravermelho-4k&id=010110251212)
+- [Compostos de enxofre n�o s�o exclusivos da vida, questionando vida em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxofre-nao-exclusivo-vida&id=010130251212)
+- [Neutrino vindo do Sol transforma carbono em nitrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrino-transforma-carbono-nitrogenio&id=020130251211)
+- [Sensor da NASA decola em busca de minerais cr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-nasa-minerais-criticos&id=010130251211)
+- [Observada fase ex�tica da mat�ria, h�brida entre s�lido e l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fase-hexatica&id=010165251210)
+- [Cada estrela explode do seu pr�prio jeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-estrelas-explodem&id=010130251210)
+- [Experimento qu�ntico comprova erro de Einstein e acerto de Niels Bohr](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-bohr-certo-einstein-errado&id=010130251209)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
