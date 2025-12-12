@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vis�o noturna inspirada nas cobras enxerga infravermelho em 4K](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-noturna-cobras-infravermelho-4k&id=010110251212)
+- [Compostos de enxofre n�o s�o exclusivos da vida, questionando vida em exoplaneta](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enxofre-nao-exclusivo-vida&id=010130251212)
 - [Neutrino vindo do Sol transforma carbono em nitrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrino-transforma-carbono-nitrogenio&id=020130251211)
 - [Sensor da NASA decola em busca de minerais cr�ticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-nasa-minerais-criticos&id=010130251211)
 - [Observada fase ex�tica da mat�ria, h�brida entre s�lido e l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fase-hexatica&id=010165251210)
 - [Cada estrela explode do seu pr�prio jeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-estrelas-explodem&id=010130251210)
 - [Experimento qu�ntico comprova erro de Einstein e acerto de Niels Bohr](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-quantico-bohr-certo-einstein-errado&id=010130251209)
-- [Tecido mais preto do mundo � inspirado em ave-do-para�so](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-mais-preto-mundo&id=010160251209)
-- [Reator brasileiro gera hidrog�nio verde usando luz solar e �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-brasileiro-hidrogenio-verde&id=010115251209)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
