@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [A massa pode emergir da geometria do Universo, sem o b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=massa-emergir-geometria&id=010130251216)
+- [Pl�sticos s�o programados para se autodestruir em dias ou meses](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-programados-autodestruir&id=010125251216)
+- [Meta-rob�s sem baterias ou motores mudam de forma, movimentam-se e agarram coisas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-robos-sem-baterias-ou-motores&id=010180251216)
+- [Comp�sito met�lico que imita concreto armado supera a�o e alum�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-metalico-imita-concreto-armado&id=010170251215)
+- [Isolamento t�rmico para janelas bloqueia o calor, mas n�o sua vista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=isolamento-termico-janelas&id=010160251215)
+- [Criado primeiro mapa da fronteira externa do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mapa-fronteira-externa-sol&id=010130251215)
+- [Vis�o noturna inspirada nas cobras enxerga infravermelho em 4K](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-noturna-cobras-infravermelho-4k&id=010110251212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
