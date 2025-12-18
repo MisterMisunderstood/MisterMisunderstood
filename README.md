@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Madeira super-hidrof�bica repele a �gua como borracha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-repele-agua-como-borracha&id=010160251218)
+- [Estudantes desenvolvem processo inovador de impress�o 3D multimetal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-3d-rotativa-multimetal&id=010170251218)
 - [Gerador de f�tons para computadores qu�nticos agora cabe em um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-fotons-computadores-quanticos-agora-cabe-chip&id=010110251217)
 - [Vencer limita��o fundamental da levita��o ac�stica levou a descoberta inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limitacao-fundamental-levitacao-acustica&id=010165251217)
 - [A massa pode emergir da geometria do Universo, sem o b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=massa-emergir-geometria&id=010130251216)
 - [Pl�sticos s�o programados para se autodestruir em dias ou meses](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plasticos-programados-autodestruir&id=010125251216)
 - [Meta-rob�s sem baterias ou motores mudam de forma, movimentam-se e agarram coisas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=meta-robos-sem-baterias-ou-motores&id=010180251216)
-- [Comp�sito met�lico que imita concreto armado supera a�o e alum�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-metalico-imita-concreto-armado&id=010170251215)
-- [Isolamento t�rmico para janelas bloqueia o calor, mas n�o sua vista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=isolamento-termico-janelas&id=010160251215)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
