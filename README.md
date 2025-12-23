@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Garra rob�tica inspirada em planta cria rob� inspirado em p�ssaro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-inspirada-planta&id=010180251223)
+- [Ci�ncia b�sica coloca eletr�nica impressa de baixo custo no horizonte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ciencia-basica-eletronica-impressa&id=010110251223)
+- [Fio qu�ntico faz massa e energia flu�rem sem resist�ncia e sem perda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-quantico-massa-fluir-sem-resistencia&id=010115251222)
+- [Neurochip conversa com o c�rebro por meio de luz - de fora do cr�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-conversa-cerebro-luz&id=010150251222)
 - [Todas as part�culas do Universo s�o inextricavelmente entrela�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=todas-particulas-universo-entrelacadas&id=010130251219)
 - [Maior fonte de polui��o nas estradas n�o sai pelo escapamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-fonte-poluicao-estradas&id=010125251219)
 - [Madeira super-hidrof�bica repele a �gua como borracha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-repele-agua-como-borracha&id=010160251218)
-- [Estudantes desenvolvem processo inovador de impress�o 3D multimetal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressora-3d-rotativa-multimetal&id=010170251218)
-- [Gerador de f�tons para computadores qu�nticos agora cabe em um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-fotons-computadores-quanticos-agora-cabe-chip&id=010110251217)
-- [Vencer limita��o fundamental da levita��o ac�stica levou a descoberta inesperada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limitacao-fundamental-levitacao-acustica&id=010165251217)
-- [A massa pode emergir da geometria do Universo, sem o b�son de Higgs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=massa-emergir-geometria&id=010130251216)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
