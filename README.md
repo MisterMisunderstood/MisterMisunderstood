@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo microsc�pio gera imagens de material invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-imagens-invisivel-grafeno-branco&id=010165251226)
+- [Material ac�stico reprogram�vel manipula o som de maneiras infinitas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-acustico-reprogramavel&id=010160251226)
 - [Garra rob�tica inspirada em planta cria rob� inspirado em p�ssaro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-inspirada-planta&id=010180251223)
 - [Ci�ncia b�sica coloca eletr�nica impressa de baixo custo no horizonte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ciencia-basica-eletronica-impressa&id=010110251223)
 - [Fio qu�ntico faz massa e energia flu�rem sem resist�ncia e sem perda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-quantico-massa-fluir-sem-resistencia&id=010115251222)
 - [Neurochip conversa com o c�rebro por meio de luz - de fora do cr�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-conversa-cerebro-luz&id=010150251222)
 - [Todas as part�culas do Universo s�o inextricavelmente entrela�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=todas-particulas-universo-entrelacadas&id=010130251219)
-- [Maior fonte de polui��o nas estradas n�o sai pelo escapamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-fonte-poluicao-estradas&id=010125251219)
-- [Madeira super-hidrof�bica repele a �gua como borracha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-repele-agua-como-borracha&id=010160251218)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
