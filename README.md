@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Garra rob�tica inspirada em planta cria rob� inspirado em p�ssaro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-inspirada-planta&id=010180251223)
+- [Ci�ncia b�sica coloca eletr�nica impressa de baixo custo no horizonte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ciencia-basica-eletronica-impressa&id=010110251223)
+- [Fio qu�ntico faz massa e energia flu�rem sem resist�ncia e sem perda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fio-quantico-massa-fluir-sem-resistencia&id=010115251222)
+- [Neurochip conversa com o c�rebro por meio de luz - de fora do cr�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neurochip-conversa-cerebro-luz&id=010150251222)
+- [Todas as part�culas do Universo s�o inextricavelmente entrela�adas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=todas-particulas-universo-entrelacadas&id=010130251219)
+- [Maior fonte de polui��o nas estradas n�o sai pelo escapamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-fonte-poluicao-estradas&id=010125251219)
+- [Madeira super-hidrof�bica repele a �gua como borracha](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-repele-agua-como-borracha&id=010160251218)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
