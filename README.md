@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Vida pode ter emergido em g�is da Terra primitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-emergido-geis&id=010125251230)
-- [Por que os buracos negros brilham tanto?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-buracos-negros-brilham&id=010130251230)
-- [Luz helicoidal gira no espa�o e no tempo, uma aut�ntica concha de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-helicoidal&id=010115251229)
-- [Motor de catraca converte vibra��es aleat�rias em movimento cont�nuo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-de-catraca&id=010170251229)
-- [Novo microsc�pio gera imagens de material invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-imagens-invisivel-grafeno-branco&id=010165251226)
-- [Material ac�stico reprogram�vel manipula o som de maneiras infinitas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-acustico-reprogramavel&id=010160251226)
-- [Garra rob�tica inspirada em planta cria rob� inspirado em p�ssaro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=garra-robotica-inspirada-planta&id=010180251223)
+- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
+- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
+- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
+- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
+- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
+- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
+- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
