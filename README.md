@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Substituto do concreto tem emiss�o negativa de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-negativo-carbono&id=010160260105)
+- [Rob�s aqu�ticos inspirados em folhas far�o monitoramento ambiental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-aquaticos-inspirados-folhas&id=010180260105)
 - [IA feita com luz faz todos os c�lculos de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-com-luz&id=010150260102)
 - [Descoberta alternativa sem chumbo para componentes eletr�nicos essenciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ferroeletrico-sem-chumbo&id=010110260102)
 - [Vida pode ter emergido em g�is da Terra primitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-emergido-geis&id=010125251230)
 - [Por que os buracos negros brilham tanto?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-buracos-negros-brilham&id=010130251230)
 - [Luz helicoidal gira no espa�o e no tempo, uma aut�ntica concha de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-helicoidal&id=010115251229)
-- [Motor de catraca converte vibra��es aleat�rias em movimento cont�nuo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-de-catraca&id=010170251229)
-- [Novo microsc�pio gera imagens de material invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-imagens-invisivel-grafeno-branco&id=010165251226)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
