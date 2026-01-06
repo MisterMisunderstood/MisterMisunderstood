@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criado telesc�pio para observar estruturas gal�cticas quase invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-estruturas-galacticas-invisiveis&id=010130260106)
+- [El�trons conversam com cristais seguindo uma regra qu�ntica universal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-conversam-cristais&id=010165260106)
 - [Substituto do concreto tem emiss�o negativa de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-negativo-carbono&id=010160260105)
 - [Rob�s aqu�ticos inspirados em folhas far�o monitoramento ambiental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-aquaticos-inspirados-folhas&id=010180260105)
 - [IA feita com luz faz todos os c�lculos de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-com-luz&id=010150260102)
 - [Descoberta alternativa sem chumbo para componentes eletr�nicos essenciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ferroeletrico-sem-chumbo&id=010110260102)
 - [Vida pode ter emergido em g�is da Terra primitiva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-emergido-geis&id=010125251230)
-- [Por que os buracos negros brilham tanto?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-que-buracos-negros-brilham&id=010130251230)
-- [Luz helicoidal gira no espa�o e no tempo, uma aut�ntica concha de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-helicoidal&id=010115251229)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
