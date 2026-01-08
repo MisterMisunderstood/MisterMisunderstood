@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Controle magn�tico do l�tio cria uma "bateria dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-dos-sonhos&id=010115260108)
+- [Manto de invisibilidade magn�tico proteger� tecnologias sens�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manto-invisibilidade-magnetico&id=010160260108)
 - [Engenheiros tentam dar adeus � bigorna com nova tecnologia de soldagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soldagem-friccao-sem-bigorna&id=010170260107)
 - [Purificador remove 99,9% da poeira ultrafina usando neblina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-ar-sem-filtro&id=010125260107)
 - [Criado telesc�pio para observar estruturas gal�cticas quase invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-estruturas-galacticas-invisiveis&id=010130260106)
 - [El�trons conversam com cristais seguindo uma regra qu�ntica universal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-conversam-cristais&id=010165260106)
 - [Substituto do concreto tem emiss�o negativa de carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-construcao-negativo-carbono&id=010160260105)
-- [Rob�s aqu�ticos inspirados em folhas far�o monitoramento ambiental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-aquaticos-inspirados-folhas&id=010180260105)
-- [IA feita com luz faz todos os c�lculos de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-com-luz&id=010150260102)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
