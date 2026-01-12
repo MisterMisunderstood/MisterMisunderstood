@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [F�sicos descobriram uma maneira de ver o calor no espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-ver-calor-espaco-vazio&id=010130260112)
+- [Pl�stico perfeito? Feito de plantas, biodegrad�vel no mar e sem micropl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-perfeito&id=020160260112)
+- [Metassuperf�cies impulsionam bioeletr�nica rumo aos implantes m�dicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficies-impulsionam-bioeletronica&id=010160260112)
 - [O pi � real: F�rmulas para calcular o pi t�m fundamentos f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pi-e-real&id=010130260109)
 - [Descoberto s�lido que conduz �ons t�o bem quanto os l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solido-conduz-ions&id=010115260109)
 - [Controle magn�tico do l�tio cria uma "bateria dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-dos-sonhos&id=010115260108)
 - [Manto de invisibilidade magn�tico proteger� tecnologias sens�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manto-invisibilidade-magnetico&id=010160260108)
-- [Engenheiros tentam dar adeus � bigorna com nova tecnologia de soldagem](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=soldagem-friccao-sem-bigorna&id=010170260107)
-- [Purificador usa neblina para remover 99,9% da poeira ultrafina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=purificador-ar-sem-filtro&id=010125260107)
-- [Criado telesc�pio para observar estruturas gal�cticas quase invis�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-estruturas-galacticas-invisiveis&id=010130260106)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
