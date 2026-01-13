@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Brasileira descobre como aumentar energia �til extra�da da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aumentar-energia-util-extraida-luz&id=020115260113)
+- [Novo OLED dobra o brilho e reduz o aquecimento das telas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oled-dobra-brilho-telas&id=010115260113)
+- [Brasileiros descobrem cristal com condutividade t�rmica de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-condutividade-termica-vidro&id=010110260113)
 - [F�sicos descobriram uma maneira de ver o calor no espa�o vazio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fisicos-ver-calor-espaco-vazio&id=010130260112)
 - [Pl�stico perfeito? Feito de plantas, biodegrad�vel no mar e sem micropl�sticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-perfeito&id=020160260112)
 - [Metassuperf�cies impulsionam bioeletr�nica rumo aos implantes m�dicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficies-impulsionam-bioeletronica&id=010160260112)
 - [O pi � real: F�rmulas para calcular o pi t�m fundamentos f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pi-e-real&id=010130260109)
-- [Descoberto s�lido que conduz �ons t�o bem quanto os l�quidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solido-conduz-ions&id=010115260109)
-- [Controle magn�tico do l�tio cria uma "bateria dos sonhos"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-dos-sonhos&id=010115260108)
-- [Manto de invisibilidade magn�tico proteger� tecnologias sens�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=manto-invisibilidade-magnetico&id=010160260108)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
