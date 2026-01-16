@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador qu�ntico pode chegar a 100.000 qubits at�micos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-atomicos&id=010150260116)
+- [Rob� move os l�bios corretamente quando fala](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-move-labios-sincronia-fala&id=010180260116)
 - [Agora � poss�vel fazer backup de dados dos computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=backup-computadores-quanticos&id=010150260115)
 - [Truque �ptico torna LEDs mais brilhantes e eficientes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-mais-brilhantes-eficientes&id=010115260115)
 - [Bateria de zinco, �gua e bambu supera 1.000 ciclos de recarregamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-zinco-agua-bambu&id=010115260114)
 - [Esta nova tecnologia de imagem supera as regras da �ptica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-imagem-supera-regras-optica&id=010150260114)
 - [Brasileira descobre como aumentar energia �til extra�da da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aumentar-energia-util-extraida-luz&id=020115260113)
-- [Novo OLED dobra o brilho e reduz o aquecimento das telas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=oled-dobra-brilho-telas&id=010115260113)
-- [Brasileiros descobrem cristal com condutividade t�rmica de vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-condutividade-termica-vidro&id=010110260113)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
