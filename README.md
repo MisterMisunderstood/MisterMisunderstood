@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Este processador demonstra na pr�tica a computa��o anal�gica na mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-demonstra-pratica-computacao-analogica-memoria&id=010150260122)
+- [Blocos essenciais da vida n�o exigem condi��es especiais no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=blocos-essenciais-vida-espaco&id=010130260122)
 - [Mem�ria qu�ntica � feita com luz presa em gaiolas de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-quantica-gaiolas-luz&id=010110260121)
 - [Papel de nota fiscal feito de madeira elimina contaminantes perigosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=papel-termico-madeira&id=010160260121)
 - [Processador inspirado no c�rebro surpreende, aprendendo na velocidade da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-aprende-velocidade-luz&id=010150260120)
 - [Hidrog�nio solar agora dispensa a car�ssima platina](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-solar-sem-platina&id=010115260120)
 - [Barra de ferro deixa Nebulosa do Anel parecida com cabe�a de parafuso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=barra-ferro-nebulosa-anel&id=010130260120)
-- [Brasil sofreu grande colis�o c�smica h� 6 milh�es de anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasil-colisao-cosmica&id=010130260119)
-- [Impress�o 3D cria lentes para microsc�pio de super-resolu��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-impressao-microscopio&id=010165260119)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
