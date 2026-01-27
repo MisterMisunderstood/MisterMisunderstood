@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criados transistores 3D macios, capazes de abrigar c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-3d-macios&id=010110260127)
+- [Aglomerado de gal�xias antigo e quente questiona modelos cosmol�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerado-galaxias-questiona-cosmologia&id=010130260127)
+- [Megapragas h�bridas evoluem no Brasil e amea�am agricultura mundial, diz revista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=megapragas&id=010125260127)
 - [Madeira transparente regula temperatura e raios UV sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=janela-madeira-transparente&id=010125260126)
 - [Menor capacitor do mundo impulsiona as medi��es qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrologia-quantica&id=010165260126)
 - [Supercondutividade: Descoberta uma ordem escondida no caos qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pseudolacuna&id=010115260126)
 - [Comp�sito que se autoconserta pode durar s�culos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=composito-autoconserta&id=010170260123)
-- [Para um tecido rob�tico mais forte, use ponto em X](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecido-robotico-ponto-certo&id=010180260123)
-- [Este processador demonstra na pr�tica a computa��o anal�gica na mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-demonstra-pratica-computacao-analogica-memoria&id=010150260122)
-- [Blocos essenciais da vida n�o exigem condi��es especiais no espa�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=blocos-essenciais-vida-espaco&id=010130260122)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
