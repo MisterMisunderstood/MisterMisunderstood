@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Tens�o de Hubble surge da f�sica real, e n�o de erros de medi��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tensao-hubble-surge-fisica-real&id=010130260128)
-- [Esta c�lula solar nem precisa ficar no Sol para gerar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-interiores&id=010115260128)
+- [Esta c�lula solar nem precisa ficar ao Sol para gerar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-interiores&id=010115260128)
 - [Criados transistores 3D macios, capazes de abrigar c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-3d-macios&id=010110260127)
 - [Aglomerado de gal�xias antigo e quente questiona modelos cosmol�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerado-galaxias-questiona-cosmologia&id=010130260127)
 - [Megapragas h�bridas evoluem no Brasil e amea�am agricultura mundial, diz revista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=megapragas&id=010125260127)
