@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Criados tubos de metal que flutuam na �gua e nunca afundam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tubos-metal-nunca-afundam&id=010170260129)
+- [Propriedades recordistas do grafeno s�o encontradas em material 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propriedade-grafeno-material-3d&id=010110260129)
 - [Tens�o de Hubble surge da f�sica real, e n�o de erros de medi��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tensao-hubble-surge-fisica-real&id=010130260128)
 - [Esta c�lula solar nem precisa ficar ao Sol para gerar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-interiores&id=010115260128)
 - [Criados transistores 3D macios, capazes de abrigar c�lulas vivas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-3d-macios&id=010110260127)
 - [Aglomerado de gal�xias antigo e quente questiona modelos cosmol�gicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aglomerado-galaxias-questiona-cosmologia&id=010130260127)
 - [Megapragas h�bridas evoluem no Brasil e amea�am agricultura mundial, diz revista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=megapragas&id=010125260127)
-- [Madeira transparente regula temperatura e raios UV sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=janela-madeira-transparente&id=010125260126)
-- [Menor capacitor do mundo impulsiona as medi��es qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrologia-quantica&id=010165260126)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
