@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Luz � focalizada e desfocada no espa�o livre, sem lentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-focalizada-desfocada-espaco-livre&id=020115260203)
-- [Bateria de ni�bio criada na USP apresenta alta densidade de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-niobio&id=010115260203)
+- [Bateria de ni�bio in�dita � criada na USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-niobio&id=010115260203)
 - [Engenharia de origami viabiliza microm�quinas totalmente control�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-origami&id=010180260203)
 - [Computador neurom�rfico conecta matem�tica, intelig�ncia e neuroci�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conexao-matematica-inteligencia-neurociencia&id=010150260202)
 - [Projetado primeiro detector de gr�vitons, as part�culas da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detector-gravitons&id=010130260202)
