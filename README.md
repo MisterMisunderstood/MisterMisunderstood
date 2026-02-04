@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ser� que agora a eletr�nica de diamante decola?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-diamante&id=010110260204)
+- [Laser de som cria terremoto dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-terremoto-chip&id=010170260204)
 - [Luz � focalizada e desfocada no espa�o livre, sem lentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-focalizada-desfocada-espaco-livre&id=020115260203)
 - [Bateria de ni�bio in�dita � criada na USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-niobio&id=010115260203)
 - [Engenharia de origami viabiliza microm�quinas totalmente control�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-origami&id=010180260203)
 - [Computador neurom�rfico conecta matem�tica, intelig�ncia e neuroci�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conexao-matematica-inteligencia-neurociencia&id=010150260202)
 - [Projetado primeiro detector de gr�vitons, as part�culas da gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detector-gravitons&id=010130260202)
-- [Ultrassonografia agora revela o que h� no interior das estruturas de concreto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultrassonografia-banda-larga-mostra-interior-estruturas-concreto&id=010170260202)
-- [O segredo magn�tico do a�o n�o est� no ferro, mas no carbono](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=segredo-magnetico-aco&id=010160260130)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
