@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Buracos de minhoca n�o existem, Big Bang � um portal e o tempo vai e vem, prop�em f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-nao-existem&id=010130260206)
+- [Dois avan�os colocam baterias de estado s�lido mais pr�ximas da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avancos-baterias-estado-solido&id=010115260206)
 - [Bateria t�rmica feita de sementes de nim armazena calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-termica-biocarvao&id=010125260205)
 - [Escultura eletr�nica: Componentes t�m propriedades ditadas pela geometria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoescultura-eletronicos-geometria&id=010165260205)
 - [Ser� que agora a eletr�nica de diamante decola?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-diamante&id=010110260204)
 - [Laser de som cria terremoto dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-terremoto-chip&id=010170260204)
 - [Luz � focalizada e desfocada no espa�o livre, sem lentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-focalizada-desfocada-espaco-livre&id=020115260203)
-- [Bateria de ni�bio in�dita � criada na USP](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-niobio&id=010115260203)
-- [Engenharia de origami viabiliza microm�quinas totalmente control�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=engenharia-origami&id=010180260203)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
