@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Descoberto material met�lico com condutividade t�rmica recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condutividade-termica-recorde-metal&id=010170260209)
+- [Como projetar juntas rob�ticas t�o eficientes quanto nossos joelhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=juntas-roboticas-eficientes-joelhos&id=010180260209)
+- [Um micromotor preciso o suficiente para microcirurgias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atuador-linear-microcirurgia&id=020170260209)
 - [Buracos de minhoca n�o existem, Big Bang � um portal e o tempo vai e vem, prop�em f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-nao-existem&id=010130260206)
 - [Dois avan�os colocam baterias de estado s�lido mais pr�ximas da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avancos-baterias-estado-solido&id=010115260206)
 - [Bateria t�rmica feita de sementes de nim armazena calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-termica-biocarvao&id=010125260205)
 - [Escultura eletr�nica: Componentes t�m propriedades ditadas pela geometria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoescultura-eletronicos-geometria&id=010165260205)
-- [Ser� que agora a eletr�nica de diamante decola?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-diamante&id=010110260204)
-- [Laser de som cria terremoto dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-som-terremoto-chip&id=010170260204)
-- [Luz � focalizada e desfocada no espa�o livre, sem lentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-focalizada-desfocada-espaco-livre&id=020115260203)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
