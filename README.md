@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cristal do tempo levita e desafia Terceira Lei de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-terceira-lei-newton&id=020160260210)
+- [Processador fot�nico roda por horas a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-temperatura-ambiente&id=010150260210)
+- [Complex�mero: Conhe�a o h�brido entre o pl�stico e o vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compleximero-hibrido-plastico-vidro&id=010160260210)
 - [Descoberto material met�lico com condutividade t�rmica recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condutividade-termica-recorde-metal&id=010170260209)
 - [Como projetar juntas rob�ticas t�o eficientes quanto nossos joelhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=juntas-roboticas-eficientes-joelhos&id=010180260209)
 - [Um micromotor preciso o suficiente para microcirurgias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atuador-linear-microcirurgia&id=020170260209)
 - [Buracos de minhoca n�o existem, Big Bang � um portal e o tempo vai e vem, prop�em f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-nao-existem&id=010130260206)
-- [Dois avan�os colocam baterias de estado s�lido mais pr�ximas da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=avancos-baterias-estado-solido&id=010115260206)
-- [Bateria t�rmica feita de sementes de nim armazena calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-termica-biocarvao&id=010125260205)
-- [Escultura eletr�nica: Componentes t�m propriedades ditadas pela geometria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoescultura-eletronicos-geometria&id=010165260205)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
