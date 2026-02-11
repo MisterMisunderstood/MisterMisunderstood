@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Calor d� marcha-a-r�, uma descoberta com impactos dif�ceis de prever](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-marcha-re&id=010115260211)
+- [Exames de ultrassom agora em cores e muito mais detalhes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exames-ultrassom-cores&id=010165260211)
 - [Cristal do tempo levita e desafia Terceira Lei de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-terceira-lei-newton&id=020160260210)
 - [Processador fot�nico roda por horas a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-temperatura-ambiente&id=010150260210)
 - [Complex�mero: Conhe�a o h�brido entre o pl�stico e o vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compleximero-hibrido-plastico-vidro&id=010160260210)
 - [Descoberto material met�lico com condutividade t�rmica recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condutividade-termica-recorde-metal&id=010170260209)
 - [Como projetar juntas rob�ticas t�o eficientes quanto nossos joelhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=juntas-roboticas-eficientes-joelhos&id=010180260209)
-- [Um micromotor preciso o suficiente para microcirurgias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atuador-linear-microcirurgia&id=020170260209)
-- [Buracos de minhoca n�o existem, Big Bang � um portal e o tempo vai e vem, prop�em f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buracos-minhoca-nao-existem&id=010130260206)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
