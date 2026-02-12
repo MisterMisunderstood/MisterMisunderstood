@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Calor d� marcha-a-r�, uma descoberta com impactos dif�ceis de prever](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-marcha-re&id=010115260211)
+- [Exames de ultrassom agora em cores e muito mais detalhes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exames-ultrassom-cores&id=010165260211)
+- [Cristal do tempo levita e desafia Terceira Lei de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-terceira-lei-newton&id=020160260210)
+- [Processador fot�nico roda por horas a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-temperatura-ambiente&id=010150260210)
+- [Complex�mero: Conhe�a o h�brido entre o pl�stico e o vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compleximero-hibrido-plastico-vidro&id=010160260210)
+- [Descoberto material met�lico com condutividade t�rmica recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=condutividade-termica-recorde-metal&id=010170260209)
+- [Como projetar juntas rob�ticas t�o eficientes quanto nossos joelhos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=juntas-roboticas-eficientes-joelhos&id=010180260209)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
