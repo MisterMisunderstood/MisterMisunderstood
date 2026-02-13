@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria de ferrugem melhora com o tempo, guardando cada vez mais carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ferrugem&id=010115260213)
+- [Descoberta "bateria espacial" que alimenta as auroras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-espacial-alimenta-auroras&id=010130260213)
 - [Um feixe de luz vira dois com caracter�sticas completamente diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=feixe-luz-vira-dois&id=010160260212)
 - [Blindagem eletromagn�tica pode ser instalada em janela transparente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=blindagem-eletromagnetica-janela&id=010110260212)
 - [Calor d� marcha-a-r�, uma descoberta com impactos dif�ceis de prever](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-marcha-re&id=010115260211)
 - [Exames de ultrassom agora em cores e muito mais detalhes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exames-ultrassom-cores&id=010165260211)
 - [Cristal do tempo levita e desafia Terceira Lei de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-terceira-lei-newton&id=020160260210)
-- [Processador fot�nico roda por horas a temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-temperatura-ambiente&id=010150260210)
-- [Complex�mero: Conhe�a o h�brido entre o pl�stico e o vidro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compleximero-hibrido-plastico-vidro&id=010160260210)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
