@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tempo qu�ntico pode ser medido sem um rel�gio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-quantico-medido-sem-relogio&id=010165260220)
+- [Minera��o espacial ser� feita por bact�rias e fungos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineracao-espacial-bacterias-fungos&id=010130260220)
 - [Energia das ondas � extra�da com efici�ncia �tima usando girosc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-giroscopios&id=010115260219)
 - [Cola revers�vel facilitar� reciclagem e reaproveitamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cola-reversivel&id=010160260219)
 - [Armazenar dados em DNA � mais f�cil do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenar-dados-dna-mais-facil-se-pensava&id=010150260218)
 - [Corros�o inesperada: Os riscos de lixar o a�o inoxid�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=riscos-lixar-aco-inoxidavel&id=010170260218)
 - [Bateria de ferrugem melhora com o tempo, guardando cada vez mais carga](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ferrugem&id=010115260213)
-- [Descoberta "bateria espacial" que alimenta as auroras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-espacial-alimenta-auroras&id=010130260213)
-- [Um feixe de luz vira dois com caracter�sticas completamente diferentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=feixe-luz-vira-dois&id=010160260212)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
