@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lente plana gera uma imagem para a frente e outra para tr�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imageador-assimetrico&id=010160260224)
+- [Baterias "macias" podem fazer a ponte entre as atuais e as s�lidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-macias&id=010115260224)
+- [Dispositivo fotoel�trico-i�nico impulsiona computa��o neurom�rfica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotoeletrico-ionico-neuromorfico&id=010110260224)
 - [Computa��o com luz � �timo, mas como fazer a luz pensar em n�meros negativos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-pensar-numeros-negativos&id=010150260223)
 - [Refrigera��o criog�nica � feita com metais comuns, sem terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-criogenica&id=010170260223)
 - [Como sua vis�o de mundo e seus valores afetam a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-mundo-valores-afetam-terra&id=010125260223)
 - [Tempo qu�ntico pode ser medido sem um rel�gio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-quantico-medido-sem-relogio&id=010165260220)
-- [Minera��o espacial ser� feita por bact�rias e fungos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineracao-espacial-bacterias-fungos&id=010130260220)
-- [Energia das ondas � extra�da com efici�ncia �tima usando girosc�pios](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-giroscopios&id=010115260219)
-- [Cola revers�vel facilitar� reciclagem e reaproveitamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cola-reversivel&id=010160260219)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
