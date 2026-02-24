@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de navegação do React Native: stacks, tabs e drawer](https://www.alura.com.br/artigos/padroes-de-navegacao-react-native)
-- [Validação contínua: ambiente de produção para evoluir o seu produto](https://www.alura.com.br/artigos/validacao-continua)
-- [Como criar um dashboard com Amzon: use QuickSight e Redshift](https://www.alura.com.br/artigos/como-construir-dashboard-com-amazon)
-- [Alura Stars: programa de embaixadores que fortalece a comunidade tech](https://www.alura.com.br/artigos/alura-stars)
-- [Análise de dados com AWS: resolva problemas com Redshift Spectrum](https://www.alura.com.br/artigos/analise-de-dados-com-aws)
-- [Ferramentas de pesquisa e inspiração essenciais para todo designer](https://www.alura.com.br/artigos/ferramentas-de-pesquisa)
-- [DeepSeek: desvendando a IA que pensa antes de responder](https://www.alura.com.br/artigos/deepseek)
+- [Lente plana gera uma imagem para a frente e outra para tr�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imageador-assimetrico&id=010160260224)
+- [Baterias "macias" podem fazer a ponte entre as atuais e as s�lidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-macias&id=010115260224)
+- [Sinapse artificial de luz impulsiona computa��o neurom�rfica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotoeletrico-ionico-neuromorfico&id=010110260224)
+- [Computa��o com luz � �timo, mas como fazer a luz pensar em n�meros negativos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-pensar-numeros-negativos&id=010150260223)
+- [Refrigera��o criog�nica � feita com metais comuns, sem terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-criogenica&id=010170260223)
+- [Como sua vis�o de mundo e seus valores afetam a Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-mundo-valores-afetam-terra&id=010125260223)
+- [Tempo qu�ntico pode ser medido sem um rel�gio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-quantico-medido-sem-relogio&id=010165260220)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
