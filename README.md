@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nanolixa: Lixa mais fina do mundo tem granulometria de 1 bilh�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixa-mais-fina-mundo&id=010165260226)
+- [Magnetismo � a chave para o armazenamento de hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetismo-armazenamento-hidrogenio&id=010115260226)
 - [LEDs finos como fios de cabelo podem substituir os lasers](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=leds-finos-como-fios-cabelo-substituir-lasers&id=010115260225)
 - [Origami simplifica transmiss�o de energia em sat�lites espaciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=origami-energia-satelites&id=010130260225)
 - [Lente plana gera uma imagem para a frente e outra para tr�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imageador-assimetrico&id=010160260224)
 - [Baterias "macias" podem fazer a ponte entre as atuais e as s�lidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-macias&id=010115260224)
 - [Sinapse artificial de luz impulsiona computa��o neurom�rfica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotoeletrico-ionico-neuromorfico&id=010110260224)
-- [Computa��o com luz � �timo, mas como fazer a luz pensar em n�meros negativos?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-pensar-numeros-negativos&id=010150260223)
-- [Refrigera��o criog�nica � feita com metais comuns, sem terras raras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=refrigeracao-criogenica&id=010170260223)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
