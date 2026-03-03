@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Uma tor��o na fibra �ptica cria um caminho protegido para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-torcida&id=010150260303)
+- [Sistema especial de c�lulas solares produz eletricidade e calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-eletricidade-calor&id=010115260303)
+- [Envelope bioeletr�nico ouve e fala com minic�rebros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=envelope-bioeletronico-minicerebros&id=010110260303)
 - [Para extrair energia osm�tica, basta lubrificar o filtro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-osmotica-lubrificar-filtro&id=010115260302)
 - [Laser microsc�pico reduz consumo de computadores pela metade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-microscopico&id=010110260302)
 - [Gelo da Groenl�ndia mostra movimento estranho e inesperado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gelo-groenlandia&id=010125260302)
 - [Chip qu�ntico acomoda at� 2 milh�es de qubits por mm2](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-quantico&id=010150260227)
-- [Resfriamento barocal�rico oferece novo caminho para a refrigera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=resfriamento-barocalorico&id=010170260227)
-- [Nanolixa: Lixa mais fina do mundo tem granulometria de 1 bilh�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lixa-mais-fina-mundo&id=010165260226)
-- [Magnetismo � a chave para o armazenamento de hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnetismo-armazenamento-hidrogenio&id=010115260226)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
