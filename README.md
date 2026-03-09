@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Turbina sem compressor gera eletricidade por tempo recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbina-sem-compressor&id=010170260309)
+- [Hidrog�nio e oxig�nio s�o produzidos simultaneamente com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-oxigenio-unico-atomo&id=010160260309)
+- [Capturando a luz no ar: Vazios intensificam intera��o entre luz e mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturando-luz-ar&id=010115260309)
 - [Bateria de s�dio armazena o dobro de energia e dessaliniza �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-dessalinizacao&id=010115260306)
 - [Diamantes s�o cultivados em um chip - usando sementes de diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-plantados-sementes-diamante&id=010165260306)
 - [Computa��o magn�tica ter� componentes reconfigur�veis em tempo de voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-magnetica-componentes-reconfiguraveis&id=010110260305)
 - [Gerador hidrovoltaico produz eletricidade cont�nua a partir da evapora��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-hidrovoltaico&id=010115260305)
-- [C�lulas solares: Recordes de efici�ncia n�o s�o o melhor caminho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-recorde-nao-suficiente&id=010115260304)
-- [Rob� de origami inspirado na biologia carrega 1.700x seu peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-origami-inspirado-biologia&id=010180260304)
-- [Uma tor��o na fibra �ptica cria um caminho protegido para a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-torcida&id=010150260303)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
