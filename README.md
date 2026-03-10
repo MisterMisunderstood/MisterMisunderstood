@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutua��es do v�cuo qu�ntico alteram material � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flutuacoes-vacuo-quantico-alteram-material-distancia&id=010165260310)
+- [Descoberto um novo qubit no sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-silicio&id=010150260310)
+- [Criado um plugue para chips que funcionam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conector-chips-fotonicos&id=010110260310)
 - [Turbina sem compressor gera eletricidade por tempo recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbina-sem-compressor&id=010170260309)
 - [Hidrog�nio e oxig�nio s�o produzidos simultaneamente com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-oxigenio-unico-atomo&id=010160260309)
 - [Capturando a luz no ar: Vazios intensificam intera��o entre luz e mat�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturando-luz-ar&id=010115260309)
 - [O espectro das ferramentas de codificação assistida por IA](https://www.alura.com.br/artigos/o-espectro-das-ferramentas-de-codificacao-assistida-por-ia)
-- [Bateria de s�dio armazena o dobro de energia e dessaliniza �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-sodio-dessalinizacao&id=010115260306)
-- [Diamantes s�o cultivados em um chip - usando sementes de diamante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantes-plantados-sementes-diamante&id=010165260306)
-- [Reactive forms vs Template-driven forms: qual escolher?](https://www.alura.com.br/artigos/reactive-forms-vs-template-driven)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
