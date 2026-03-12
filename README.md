@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Lente plana tem vis�o ampla ou detalhada sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-visao-sob-demanda&id=010160260312)
+- [Dilema da mesoescala: Por que o meso pode ser melhor que o macro e o micro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dilema-mesoescala&id=010170260312)
 - [Painel solar/pluvial extrai energia do Sol e da chuva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=painel-solar-pluvial&id=010115260311)
 - [Menor rob� program�vel do mundo comprova: � poss�vel miniaturizar a rob�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizar-robotica&id=010180260311)
 - [Flutua��es do v�cuo qu�ntico alteram material � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flutuacoes-vacuo-quantico-alteram-material-distancia&id=010165260310)
 - [Descoberto um novo qubit no sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-silicio&id=010150260310)
 - [Criado um plugue para chips que funcionam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conector-chips-fotonicos&id=010110260310)
-- [Turbina sem compressor gera eletricidade por tempo recorde](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=turbina-sem-compressor&id=010170260309)
-- [Hidrog�nio e oxig�nio s�o produzidos simultaneamente com um �nico �tomo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-oxigenio-unico-atomo&id=010160260309)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
