@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Dilema da mesoescala: Por que o meso pode ser melhor que o macro e o micro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dilema-mesoescala&id=010170260312)
 - [Painel solar/pluvial extrai energia do Sol e da chuva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=painel-solar-pluvial&id=010115260311)
 - [Menor rob� program�vel do mundo comprova: � poss�vel miniaturizar a rob�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizar-robotica&id=010180260311)
+- [Martech: o que é e como a tecnologia transforma o marketing](https://www.alura.com.br/artigos/martech)
 - [Flutua��es do v�cuo qu�ntico alteram material � dist�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flutuacoes-vacuo-quantico-alteram-material-distancia&id=010165260310)
 - [Descoberto um novo qubit no sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubit-silicio&id=010150260310)
-- [Criado um plugue para chips que funcionam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conector-chips-fotonicos&id=010110260310)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
