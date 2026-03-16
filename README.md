@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Minic�rebros vivos s�o treinados para resolver tarefas de engenharia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=organoides-cerebrais-treinados&id=010150260316)
+- [Tamb�m para os transistores, esque�a os recordes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-esqueca-recordes&id=010110260316)
+- [Agrivoltaica pode aumentar ou reduzir produtividade das lavouras e lucros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-agrivoltaica&id=010125260316)
 - [IA para criar vídeos em 2026: nosso guia completo para profissionais](https://www.alura.com.br/artigos/ia-para-criar-videos)
 - [Supercondutor bate recorde de temperatura depois de 30 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-temperatura-supercondutividade&id=010115260313)
 - [Como salvar a Terra sem precisar acordar ningu�m](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alerta-astronomico-eventos-cosmicos&id=010130260313)
 - [Automação para marketing em 2026: o guia completo para profissionais da área](https://www.alura.com.br/artigos/automacao-para-marketing)
-- [Lente plana tem vis�o ampla ou detalhada sob demanda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-plana-visao-sob-demanda&id=010160260312)
-- [Dilema da mesoescala: Por que o meso pode ser melhor que o macro e o micro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dilema-mesoescala&id=010170260312)
-- [Painel solar/pluvial extrai energia do Sol e da chuva](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=painel-solar-pluvial&id=010115260311)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
