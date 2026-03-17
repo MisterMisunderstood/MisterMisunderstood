@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria solar recarreg�vel supera baterias de �ons de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-solar-recarregavel&id=010115260317)
+- [Material mutante: Criado um s�lido que � tamb�m fluido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solido-fluido&id=010160260317)
+- [Luz sai pulando de lado, exatamente como os el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-hall-luz&id=010165260317)
 - [Minic�rebros vivos s�o treinados para resolver tarefas de engenharia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=organoides-cerebrais-treinados&id=010150260316)
 - [Tamb�m para os transistores, esque�a os recordes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-esqueca-recordes&id=010110260316)
 - [Agrivoltaica pode aumentar ou reduzir produtividade das lavouras e lucros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-agrivoltaica&id=010125260316)
 - [IA para criar vídeos em 2026: nosso guia completo para profissionais](https://www.alura.com.br/artigos/ia-para-criar-videos)
-- [Supercondutor bate recorde de temperatura depois de 30 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-temperatura-supercondutividade&id=010115260313)
-- [Como salvar a Terra sem precisar acordar ningu�m](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alerta-astronomico-eventos-cosmicos&id=010130260313)
-- [Automação para marketing em 2026: o guia completo para profissionais da área](https://www.alura.com.br/artigos/automacao-para-marketing)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
