@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Trans�stor de luz "macio" liga e desliga luz usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz&id=010115260319)
 - [Sinais alien�genas s�o distorcidos pelo clima espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-distorcidos&id=010130260319)
+- [IA para análise de dados em 2026: ferramentas, tipos e guia prático](https://www.alura.com.br/artigos/ia-para-analise-de-dados)
 - [Asteroides atiram pedras uns contra os outros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroides-atiram-pedras&id=010130260318)
 - [Cientistas criam biorrob� vivo com sistema nervoso primitivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biorrobo-vivo-sistema-nervoso&id=010180260318)
+- [IA para criação de conteúdo em 2026: ferramentas, dicas e guia prático](https://www.alura.com.br/artigos/ia-para-criacao-de-conteudo)
 - [Bateria solar recarreg�vel supera baterias de �ons de l�tio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-solar-recarregavel&id=010115260317)
-- [Material mutante: Criado um s�lido que � tamb�m fluido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=solido-fluido&id=010160260317)
-- [Luz sai pulando de lado, exatamente como os el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-hall-luz&id=010165260317)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
