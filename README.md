@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Campos el�tricos invis�veis melhoram luminosidade de nova classe de LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=campos-eletricos-invisiveis-lecs&id=010115260320)
-- [Produzido diamante hexagonal, mais duro que diamantes comuns](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-hexagonal&id=010160260320)
-- [Trans�stor de luz "macio" liga e desliga luz usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz&id=010115260319)
-- [Sinais alien�genas s�o distorcidos pelo clima espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-distorcidos&id=010130260319)
 - [IA para análise de dados em 2026: ferramentas, tipos e guia prático](https://www.alura.com.br/artigos/ia-para-analise-de-dados)
-- [Asteroides atiram pedras uns contra os outros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asteroides-atiram-pedras&id=010130260318)
-- [Cientistas criam biorrob� vivo com sistema nervoso primitivo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biorrobo-vivo-sistema-nervoso&id=010180260318)
+- [IA para criação de conteúdo em 2026: ferramentas, dicas e guia prático](https://www.alura.com.br/artigos/ia-para-criacao-de-conteudo)
+- [IA para criar vídeos em 2026: nosso guia completo para profissionais](https://www.alura.com.br/artigos/ia-para-criar-videos)
+- [Automação para marketing em 2026: o guia completo para profissionais da área](https://www.alura.com.br/artigos/automacao-para-marketing)
+- [Martech: o que é e como a tecnologia transforma o marketing](https://www.alura.com.br/artigos/martech)
+- [O espectro das ferramentas de codificação assistida por IA](https://www.alura.com.br/artigos/o-espectro-das-ferramentas-de-codificacao-assistida-por-ia)
+- [Reactive forms vs Template-driven forms: qual escolher?](https://www.alura.com.br/artigos/reactive-forms-vs-template-driven)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
