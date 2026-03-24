@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA para SEO em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-seo)
 - [As part�culas podem n�o seguir os caminhos previstos por Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-caminhos-einstein&id=010130260324)
 - [Vidro ideal � criado pela primeira vez... matematicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-ideal&id=010160260324)
 - [Cer�mica transporta calor 3x mais r�pido com controle el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-controle-eletrico&id=010115260324)
 - [Chip que imita o c�rebro faz computa��o espa�o-temporal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-espaco-temporal&id=010150260323)
 - [Descoberta matem�tica cria vers�o magn�tica do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-cria-versao-magnetica-grafeno&id=010110260323)
 - [Fibras macias funcionam como motores para tecnologia vest�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-macias-tecnologia-vestivel&id=010180260323)
-- [Campos el�tricos invis�veis melhoram luminosidade de nova classe de LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=campos-eletricos-invisiveis-lecs&id=010115260320)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
