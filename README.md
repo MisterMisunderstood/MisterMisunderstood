@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [As part�culas podem n�o seguir os caminhos previstos por Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-caminhos-einstein&id=010130260324)
+- [Vidro ideal � criado pela primeira vez... matematicamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-ideal&id=010160260324)
+- [Cer�mica transporta calor 3x mais r�pido com controle el�trico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-controle-eletrico&id=010115260324)
 - [Chip que imita o c�rebro faz computa��o espa�o-temporal](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-espaco-temporal&id=010150260323)
 - [Descoberta matem�tica cria vers�o magn�tica do grafeno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-cria-versao-magnetica-grafeno&id=010110260323)
 - [Fibras macias funcionam como motores para tecnologia vest�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-macias-tecnologia-vestivel&id=010180260323)
 - [Campos el�tricos invis�veis melhoram luminosidade de nova classe de LEDs](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=campos-eletricos-invisiveis-lecs&id=010115260320)
-- [Produzido diamante hexagonal, mais duro que diamantes comuns](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamante-hexagonal&id=010160260320)
-- [Trans�stor de luz "macio" liga e desliga luz usando apenas luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-luz&id=010115260319)
-- [Sinais alien�genas s�o distorcidos pelo clima espacial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-distorcidos&id=010130260319)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
