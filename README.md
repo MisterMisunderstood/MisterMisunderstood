@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Antimat�ria � transportada de caminh�o pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-transportada-caminhao&id=010115260325)
+- [Antimat�ria � transportada pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-transportada-caminhao&id=010115260325)
 - [Velas de luz para naves espaciais feitas com cristais fot�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-espaciais-cristais-fotonicos&id=010130260325)
 - [IA para SEO em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-seo)
 - [As part�culas podem n�o seguir os caminhos previstos por Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-caminhos-einstein&id=010130260324)
