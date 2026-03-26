@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA para prototipação em 2026: o guia completo para profissionais de design e produto](https://www.alura.com.br/artigos/ia-para-prototipacao)
 - [Computador termodin�mico se alimenta do ru�do e do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-termodinamica&id=010150260326)
 - [Bateria inspirada nas enguias ter� uso biom�dico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-inspirada-enguias&id=010115260326)
 - [CSS border: o que você realmente precisa saber antes de pedir para o agente fazer](https://www.alura.com.br/artigos/css-border-com-agente)
 - [Antimat�ria � transportada pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-transportada-caminhao&id=010115260325)
 - [Velas de luz para naves espaciais feitas com cristais fot�nicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=velas-luz-espaciais-cristais-fotonicos&id=010130260325)
 - [IA para SEO em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-seo)
-- [As part�culas podem n�o seguir os caminhos previstos por Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-caminhos-einstein&id=010130260324)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
