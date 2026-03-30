@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Superespuma h�brida � 10 vezes melhor que espuma comum](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superespuma-hibrida-10-vezes-melhor-espuma-comum&id=010160260330)
+- [Descoberta matem�tica interpreta atmosferas de exoplanetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-atmosferas-exoplanetas&id=010130260330)
 - [El�trons aproximam-se da velocidade da luz e mudam energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-velocidade-luz&id=010115260327)
 - [Semicondutor usa hidrog�nio para imitar o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-hidrogenio&id=010110260327)
 - [IA para prototipação em 2026: o guia completo para profissionais de design e produto](https://www.alura.com.br/artigos/ia-para-prototipacao)
 - [Computador termodin�mico se alimenta do ru�do e do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-termodinamica&id=010150260326)
 - [Bateria inspirada nas enguias ter� uso biom�dico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-inspirada-enguias&id=010115260326)
-- [CSS border: o que você realmente precisa saber antes de pedir para o agente fazer](https://www.alura.com.br/artigos/css-border-com-agente)
-- [Antimat�ria � transportada pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-transportada-caminhao&id=010115260325)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
