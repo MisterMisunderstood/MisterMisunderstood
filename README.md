@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Geometria oculta curva el�trons como a gravidade curva a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geometria-oculta-curva-eletrons&id=010115260331)
+- [Rob�s ganham tato quase humano imitando a vis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-robotica-inspirada-olhos&id=010180260331)
+- [Tecnologias qu�nticas avan�am, mas continuam longe das f�bricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-quanticas-longe-fabricas&id=010150260331)
 - [A escurid�o pode ser mais r�pida do que a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escuridao-mais-rapida-luz&id=010115260330)
 - [Superespuma h�brida � 10 vezes melhor que espuma comum](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superespuma-hibrida-10-vezes-melhor-espuma-comum&id=010160260330)
 - [Descoberta matem�tica interpreta atmosferas de exoplanetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-atmosferas-exoplanetas&id=010130260330)
 - [El�trons aproximam-se da velocidade da luz e mudam energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrons-velocidade-luz&id=010115260327)
-- [Semicondutor usa hidrog�nio para imitar o c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-hidrogenio&id=010110260327)
-- [IA para prototipação em 2026: o guia completo para profissionais de design e produto](https://www.alura.com.br/artigos/ia-para-prototipacao)
-- [Computador termodin�mico se alimenta do ru�do e do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-termodinamica&id=010150260326)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
