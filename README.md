@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [IA para UX em 2026: nosso guia para profissionais de design](https://www.alura.com.br/artigos/ia-para-ux)
 - [C�smico afeta o infinitesimal: Ondas gravitacionais alteram luz emitida pelos �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-gravitacionais-alteram-atomos&id=010130260402)
 - [C�lulas solares superam limite fundamental e chegam a 130% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-superam-limite-fundamental&id=010115260402)
-- [Vibe coding na prática com Claude Code: SEO, emojis e tráfego orgânico do zero](https://www.alura.com.br/artigos/claude-code-para-criar-site)
 - [Descoberta nova forma de atrito que contradiz lei da f�sica de 300 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-forma-atrito-contradiz-lei-amontons&id=010170260401)
 - [Lavar frutas e verduras na banheira? � quase isso, s� que melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-limpam-frutas-verduras&id=010125260401)
-- [IA para criar persona em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-criar-persona)
+- [Geometria oculta curva el�trons como a gravidade curva a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=geometria-oculta-curva-eletrons&id=010115260331)
+- [Rob�s ganham tato quase humano imitando a vis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-robotica-inspirada-olhos&id=010180260331)
+- [Tecnologias qu�nticas avan�am, mas continuam longe das f�bricas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-quanticas-longe-fabricas&id=010150260331)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
