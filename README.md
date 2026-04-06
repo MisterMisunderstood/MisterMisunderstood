@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Motores el�tricos se organizam sozinhos em rede, imitando m�sculos reais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-motores-eletricos&id=010170260406)
+- [Amplificador �ptico intensifica a luz em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amplificador-optico-chip&id=010110260406)
+- [Micro e nanofabrica��o 3D de �ltima gera��o agora de qualquer material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micro-nanofabricacao-3d&id=010165260406)
 - [IA para UX em 2026: nosso guia para profissionais de design](https://www.alura.com.br/artigos/ia-para-ux)
 - [C�smico afeta o infinitesimal: Ondas gravitacionais alteram luz emitida pelos �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-gravitacionais-alteram-atomos&id=010130260402)
 - [C�lulas solares superam limite fundamental e chegam a 130% de efici�ncia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-superam-limite-fundamental&id=010115260402)
 - [Vibe coding na prática com Claude Code: SEO, emojis e tráfego orgânico do zero](https://www.alura.com.br/artigos/claude-code-para-criar-site)
-- [Descoberta nova forma de atrito que contradiz lei da f�sica de 300 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-forma-atrito-contradiz-lei-amontons&id=010170260401)
-- [Lavar frutas e verduras na banheira? � quase isso, s� que melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bolhas-limpam-frutas-verduras&id=010125260401)
-- [IA para criar persona em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-criar-persona)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
