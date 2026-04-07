@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 5: o que é, novidades, comparação e como usar em 2026](https://www.alura.com.br/artigos/o-que-e-chatgpt5)
 - [Componente fot�nico l� 80 mil HDs de uma vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-fotonico-80-mil-hds&id=010150260407)
 - [Teoria da gravidade quadr�tica reformula vis�o do Big Bang](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-gravidade-quadratica&id=010130260407)
 - [Descoberta uma curva de temperatura universal que rege toda a vida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=curva-universal-temperatura&id=010125260407)
 - [Motores el�tricos se organizam sozinhos em rede, imitando m�sculos reais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-motores-eletricos&id=010170260406)
 - [Amplificador �ptico intensifica a luz em 100 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amplificador-optico-chip&id=010110260406)
 - [Micro e nanofabrica��o 3D de �ltima gera��o agora de qualquer material](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micro-nanofabricacao-3d&id=010165260406)
-- [IA para UX em 2026: nosso guia para profissionais de design](https://www.alura.com.br/artigos/ia-para-ux)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
