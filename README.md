@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventada uma tinta que n�o pinga no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-que-nao-pinga&id=020160260410)
-- [Tecido autolimpante dispensa detergente na lavagem de roupas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-lavar-roupas-sem-sabao&id=010160260410)
 - [OpenAI: o que é, produtos, estrutura e tudo sobre a empresa por trás do ChatGPT](https://www.alura.com.br/artigos/o-que-e-openai)
-- [Nova t�cnica hologr�fica guarda dados em tr�s dimens�es da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-tres-dimensoes-luz&id=010150260409)
-- [Descoberta a estrela mais primitiva j� vista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-estrela-mais-primitiva&id=010130260409)
 - [Engenharia de software na era da IA: novo jogo, novas regras](https://www.alura.com.br/artigos/engenharia-de-software-na-era-da-ia)
-- [Inesperado: L�quidos podem se quebrar exatamente como os s�lidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquidos-se-quebram&id=010170260408)
+- [ChatGPT 5: o que é, novidades, comparação e como usar em 2026](https://www.alura.com.br/artigos/o-que-e-chatgpt5)
+- [IA para UX em 2026: nosso guia para profissionais de design](https://www.alura.com.br/artigos/ia-para-ux)
+- [Vibe coding na prática com Claude Code: SEO, emojis e tráfego orgânico do zero](https://www.alura.com.br/artigos/claude-code-para-criar-site)
+- [IA para criar persona em 2026: o guia completo para profissionais de marketing](https://www.alura.com.br/artigos/ia-para-criar-persona)
+- [IA para prototipação em 2026: o guia completo para profissionais de design e produto](https://www.alura.com.br/artigos/ia-para-prototipacao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
