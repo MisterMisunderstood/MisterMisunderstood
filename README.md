@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O tempo � controlado: Experimentos v�o rumo ao passado ou ao futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controles-remodelam-seta-tempo&id=010130260413)
+- [Placas magn�ticas abrem em sequ�ncia e absorvem 30% mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=placas-elasticas-abrem-sequencia&id=010180260413)
+- [Revolu��o na espectrometria: De umas poucas para bilh�es de mol�culas analisadas simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-espectrometria&id=010165260413)
 - [Inventada uma tinta que n�o pinga no ch�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-que-nao-pinga&id=020160260410)
 - [Tecido autolimpante dispensa detergente na lavagem de roupas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=como-lavar-roupas-sem-sabao&id=010160260410)
 - [OpenAI: o que é, produtos, estrutura e tudo sobre a empresa por trás do ChatGPT](https://www.alura.com.br/artigos/o-que-e-openai)
 - [Nova t�cnica hologr�fica guarda dados em tr�s dimens�es da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dados-tres-dimensoes-luz&id=010150260409)
-- [Descoberta a estrela mais primitiva j� vista](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-estrela-mais-primitiva&id=010130260409)
-- [Engenharia de software na era da IA: novo jogo, novas regras](https://www.alura.com.br/artigos/engenharia-de-software-na-era-da-ia)
-- [Inesperado: L�quidos podem se quebrar exatamente como os s�lidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liquidos-se-quebram&id=010170260408)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
