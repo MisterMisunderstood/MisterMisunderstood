@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Feito de molas e parafusos, computador mec�nico n�o precisa de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-mecanico-nao-precisa-eletricidade&id=010150260415)
+- [Rel�gio at�mico mant�m precis�o a bordo de um navio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-testado-mar&id=010110260415)
 - [Como escolher uma linguagem de programação para back-end](https://www.alura.com.br/artigos/como-escolher-linguagem-de-programacao-back-end)
 - [Baterias de semente de girassol poder�o alimentar nosso futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=baterias-sementes-girassol&id=010115260414)
 - [Computadores qu�nticos podem ter limita��es dr�sticas, diz f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-quanticos-limite-fundamental&id=010150260414)
 - [Revestimento de tecido mant�m calor interno sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-tecido-fototermico&id=010125260414)
 - [O tempo � controlado: Experimentos v�o rumo ao passado ou ao futuro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=controles-remodelam-seta-tempo&id=010130260413)
-- [Placas magn�ticas abrem em sequ�ncia e absorvem 30% mais energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=placas-elasticas-abrem-sequencia&id=010180260413)
-- [Revolu��o na espectrometria: De umas poucas para bilh�es de mol�culas analisadas simultaneamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-espectrometria&id=010165260413)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
