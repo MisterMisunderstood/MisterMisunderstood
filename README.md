@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Calor amolece metais, mas calor extremo torna metais muito mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-extremo-fortalece-metais-puros&id=010170260417)
+- [Estado ex�tico da mat�ria � criado com luz dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supersolido-luz-chip&id=010160260417)
 - [Pensamento Computacional: o que é, benefícios de possuir e ferramentas](https://www.alura.com.br/artigos/pensamento-computacional)
 - [Serragem de madeira � transformada em material resistente ao fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=serragem-madeira-resistente-fogo&id=010160260416)
 - [Rede de lasers viabiliza explora��o da Lua com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-lasers-viabiliza-exploracao-lua-energia-solar&id=010130260416)
 - [Dev sênior: o que diferencia um desenvolvedor sênior de uma pessoa experiente](https://www.alura.com.br/artigos/caracteristicas-desenvolvedor-senior)
 - [Feito de molas e parafusos, computador mec�nico n�o precisa de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-mecanico-nao-precisa-eletricidade&id=010150260415)
-- [Rel�gio at�mico mant�m precis�o a bordo de um navio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-atomico-testado-mar&id=010110260415)
-- [Como escolher uma linguagem de programação para back-end](https://www.alura.com.br/artigos/como-escolher-linguagem-de-programacao-back-end)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
