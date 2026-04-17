@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Calor amolece metais, mas calor extremo torna metais muito mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-extremo-fortalece-metais-puros&id=010170260417)
+- [Calor amolece metais, mas muito calor torna metais muito mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-extremo-fortalece-metais-puros&id=010170260417)
 - [Estado ex�tico da mat�ria � criado com luz dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supersolido-luz-chip&id=010160260417)
 - [Pensamento Computacional: o que é, benefícios de possuir e ferramentas](https://www.alura.com.br/artigos/pensamento-computacional)
 - [Serragem de madeira � transformada em material resistente ao fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=serragem-madeira-resistente-fogo&id=010160260416)
