@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Citizen developer: o que é, como se tornar um e por que as empresas precisam disso](https://www.alura.com.br/artigos/citizen-developer)
+- [Ultrassom cria luz no interior do corpo para aplica��es m�dicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultrassom-cria-luz-interior-corpo&id=010165260420)
+- [Materiais inertes aprendem a mudar de forma e se movimentam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-inertes-aprendem-mudar-forma&id=010180260420)
 - [Calor amolece metais, mas muito calor torna metais muito mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-extremo-fortalece-metais-puros&id=010170260417)
 - [Estado ex�tico da mat�ria � criado com luz dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supersolido-luz-chip&id=010160260417)
 - [Pensamento Computacional: o que é, benefícios de possuir e ferramentas](https://www.alura.com.br/artigos/pensamento-computacional)
 - [Serragem de madeira � transformada em material resistente ao fogo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=serragem-madeira-resistente-fogo&id=010160260416)
-- [Rede de lasers viabiliza explora��o da Lua com energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-lasers-viabiliza-exploracao-lua-energia-solar&id=010130260416)
-- [Dev sênior: o que diferencia um desenvolvedor sênior de uma pessoa experiente](https://www.alura.com.br/artigos/caracteristicas-desenvolvedor-senior)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
