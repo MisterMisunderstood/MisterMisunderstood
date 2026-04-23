@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA para finanças em 2026: o guia completo para profissionais do setor financeiro](https://www.alura.com.br/artigos/ia-para-financas)
 - [Este experimento ir� dizer se a gravidade obedece a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-gravidade-segue-mecanica-quantica&id=010130260422)
 - [Vidro em equil�brio desmente mito das janelas das catedrais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-equilibrio&id=010160260422)
 - [Citizen developer: o que é, como se tornar um e por que as empresas precisam disso](https://www.alura.com.br/artigos/citizen-developer)
 - [Ultrassom cria luz no interior do corpo para aplica��es m�dicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultrassom-cria-luz-interior-corpo&id=010165260420)
 - [Materiais inertes aprendem a mudar de forma e se movimentam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-inertes-aprendem-mudar-forma&id=010180260420)
 - [Calor amolece metais, mas muito calor torna metais muito mais fortes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-extremo-fortalece-metais-puros&id=010170260417)
-- [Estado ex�tico da mat�ria � criado com luz dentro de um chip](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supersolido-luz-chip&id=010160260417)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
