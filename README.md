@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Criada uma mem�ria t�rmica: O fluxo de calor � controlado eletricamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-termica&id=010115260423)
-- [Medimos a for�a da gravidade de novo. E o resultado n�o bateu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicao-g-forca-gravidade&id=010130260423)
 - [IA para finanças em 2026: o guia completo para profissionais do setor financeiro](https://www.alura.com.br/artigos/ia-para-financas)
-- [Este experimento ir� dizer se a gravidade obedece a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-gravidade-segue-mecanica-quantica&id=010130260422)
-- [Vidro em equil�brio desmente mito das janelas das catedrais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vidro-equilibrio&id=010160260422)
 - [Citizen developer: o que é, como se tornar um e por que as empresas precisam disso](https://www.alura.com.br/artigos/citizen-developer)
-- [Ultrassom cria luz no interior do corpo para aplica��es m�dicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ultrassom-cria-luz-interior-corpo&id=010165260420)
+- [Pensamento Computacional: o que é, benefícios de possuir e ferramentas](https://www.alura.com.br/artigos/pensamento-computacional)
+- [Dev sênior: o que diferencia um desenvolvedor sênior de uma pessoa experiente](https://www.alura.com.br/artigos/caracteristicas-desenvolvedor-senior)
+- [Como escolher uma linguagem de programação para back-end](https://www.alura.com.br/artigos/como-escolher-linguagem-de-programacao-back-end)
+- [OpenAI: o que é, produtos, estrutura e tudo sobre a empresa por trás do ChatGPT](https://www.alura.com.br/artigos/o-que-e-openai)
+- [Engenharia de software na era da IA: novo jogo, novas regras](https://www.alura.com.br/artigos/engenharia-de-software-na-era-da-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
