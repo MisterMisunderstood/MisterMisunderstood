@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gerador in�dito produz eletricidade consumindo gases de efeito estufa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-consumindo-gases-efeito-estufa&id=010115260427)
+- [Chips cerebrais v�o se dissolver depois de fazerem seu trabalho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-cerebrais-dissolver&id=010110260427)
+- [Luz manipula a mat�ria de maneiras inesperadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-manipula-materia&id=010165260427)
 - [Pel�cula transparente esfria o carro sem gastar bateria ou combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pelicula-transparente-esfria-carro&id=010125260424)
 - [Material tem rigidez alterada remotamente por ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rigidez-alterada-ondas-sonoras&id=010170260424)
 - [NestJS: o que é, como usar, para que serve, como instalar](https://www.alura.com.br/artigos/o-que-e-nestjs)
 - [Criada uma mem�ria t�rmica: O fluxo de calor � controlado eletricamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-termica&id=010115260423)
-- [Medimos a for�a da gravidade de novo. E o resultado n�o bateu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=medicao-g-forca-gravidade&id=010130260423)
-- [IA para finanças em 2026: o guia completo para profissionais do setor financeiro](https://www.alura.com.br/artigos/ia-para-financas)
-- [Este experimento ir� dizer se a gravidade obedece a mec�nica qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=experimento-gravidade-segue-mecanica-quantica&id=010130260422)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
