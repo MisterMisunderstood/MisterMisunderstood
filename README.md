@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Filme pl�stico com nanotecnologia destr�i v�rus por contato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filme-plastico-destroi-virus&id=010160260428)
+- [Esta nova c�mera captura eventos que duram um trilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-captura-trilionesimo-segundo&id=010150260428)
+- [Astr�nomos encontram fronteira final da forma��o de estrelas na Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-formacao-estrelas-via-lactea&id=010130260428)
 - [Gerador in�dito produz eletricidade consumindo gases de efeito estufa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-consumindo-gases-efeito-estufa&id=010115260427)
 - [Chips cerebrais v�o se dissolver depois de fazerem seu trabalho](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chips-cerebrais-dissolver&id=010110260427)
 - [Luz manipula a mat�ria de maneiras inesperadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-manipula-materia&id=010165260427)
 - [Pel�cula transparente esfria o carro sem gastar bateria ou combust�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pelicula-transparente-esfria-carro&id=010125260424)
-- [Material tem rigidez alterada remotamente por ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rigidez-alterada-ondas-sonoras&id=010170260424)
-- [NestJS: o que é, como usar, para que serve, como instalar](https://www.alura.com.br/artigos/o-que-e-nestjs)
-- [Criada uma mem�ria t�rmica: O fluxo de calor � controlado eletricamente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-termica&id=010115260423)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
