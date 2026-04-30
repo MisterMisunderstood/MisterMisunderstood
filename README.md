@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [⁠Claude Design: a IA que quer transformar o jeito de criar interfaces e protótipos](https://www.alura.com.br/artigos/claude-design-ia)
 - [�m� que n�o gruda far� a diferen�a na computa��o magn�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-nao-gruda&id=010110260429)
 - [Detector in�dito vai capturar part�culas que n�o interagem com quase nada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detector-particulas-nao-interagem&id=010130260429)
 - [Estilização em React: do CSS tradicional ao Tailwind CSS](https://www.alura.com.br/artigos/estilizacao-em-react-tailwind)
 - [Filme pl�stico com nanotecnologia destr�i v�rus por contato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filme-plastico-destroi-virus&id=010160260428)
 - [Esta nova c�mera captura eventos que duram um trilion�simo de segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-captura-trilionesimo-segundo&id=010150260428)
 - [Astr�nomos encontram fronteira final da forma��o de estrelas na Via L�ctea](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fronteira-formacao-estrelas-via-lactea&id=010130260428)
-- [Gerador in�dito produz eletricidade consumindo gases de efeito estufa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletricidade-consumindo-gases-efeito-estufa&id=010115260427)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
