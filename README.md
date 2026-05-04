@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [O tempo � cont�nuo ou discreto? Rel�gios at�micos v�o responder](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fluxo-tempo-quantico&id=010130260504)
+- [Ind�stria de semicondutores est� apostando em materiais 2D inadequados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-2d-inadequados&id=010110260504)
 - [Selo no LinkedIn: o que é, como verificar perfil e benefícios](https://www.alura.com.br/artigos/selo-azul-do-linkedin)
+- [Esta bomba bombeia sem motor, sem barulho e sem lubrificante](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bomba-macia-sem-motor&id=010170260430)
+- [Processador biol�gico-eletr�nico usa c�lulas cerebrais vivas para computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-cerebrais-vivas-computacao&id=010150260430)
 - [⁠Claude Design: a IA que cria interfaces e protótipos](https://www.alura.com.br/artigos/claude-design-ia)
-- [Estilização em React: do CSS tradicional ao Tailwind CSS](https://www.alura.com.br/artigos/estilizacao-em-react-tailwind)
-- [NestJS: o que é, como usar, para que serve, como instalar](https://www.alura.com.br/artigos/o-que-e-nestjs)
-- [IA para finanças em 2026: o guia completo](https://www.alura.com.br/artigos/ia-para-financas)
-- [Citizen developer: o que é, benefícios e como começar](https://www.alura.com.br/artigos/citizen-developer)
-- [Pensamento Computacional: o que é, benefícios e ferramentas](https://www.alura.com.br/artigos/pensamento-computacional)
+- [�m� que n�o gruda far� a diferen�a na computa��o magn�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-nao-gruda&id=010110260429)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
