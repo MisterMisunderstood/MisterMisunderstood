@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [GEO: o que é Generative Engine Optimization e como otimizar conteúdo para IAs](https://www.alura.com.br/artigos/geo-generative-engine-optimization)
 - [Calor do corpo humano gera eletricidade de modo pr�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-fino-flexivel-converte-calor-corpo-humano-eletricidade&id=010115260506)
 - [Descoberto pequeno objeto com atmosfera nos confins do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=objeto-atmosfera-confins-sistema-solar&id=010130260506)
 - [Nano Banana: O que é, como usar e exemplos de prompts](https://www.alura.com.br/artigos/o-que-e-nano-banana)
 - [Pot�ncia dos lasers � multiplicada por espelho de plasma](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=potencia-lasers-espelho-plasma&id=010115260505)
 - [Computadores qu�nticos saltam para dimens�es mais elevadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-quanticos-dimensoes-elevadas&id=010150260505)
 - [O tempo � cont�nuo ou discreto? Rel�gios at�micos v�o responder](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fluxo-tempo-quantico&id=010130260504)
-- [Ind�stria de semicondutores est� apostando em materiais 2D inadequados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-2d-inadequados&id=010110260504)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
