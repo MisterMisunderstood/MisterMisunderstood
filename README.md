@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar rob�s inteligentes como os da fic��o cient�fica?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-inteligentes-ficcao-cientifica&id=010180260508)
+- [Cal�ados esportivos de alta tecnologia feitos de um material s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tenis-esportivos-monomaterial&id=010160260508)
 - [Qualidade de software na era em que a IA escreve o código](https://www.alura.com.br/artigos/qualidade-de-software-com-ia)
+- [Descoberto um novo e surpreendente modo de controlar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-modo-controlar-luz&id=010115260507)
+- [Internet corporal conecta dispositivos m�dicos inger�veis e melhora exames](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=rede-corporal-dispositivos-medicos-ingerir&id=010150260507)
 - [GEO: o que é Generative Engine Optimization e como otimizar conteúdo para IAs](https://www.alura.com.br/artigos/geo-generative-engine-optimization)
-- [Nano Banana: O que é, como usar e exemplos de prompts](https://www.alura.com.br/artigos/o-que-e-nano-banana)
-- [Selo no LinkedIn: o que é, como verificar perfil e benefícios](https://www.alura.com.br/artigos/selo-azul-do-linkedin)
-- [⁠Claude Design: a IA que cria interfaces e protótipos](https://www.alura.com.br/artigos/claude-design-ia)
-- [Estilização em React: do CSS tradicional ao Tailwind CSS](https://www.alura.com.br/artigos/estilizacao-em-react-tailwind)
-- [NestJS: o que é, como usar, para que serve, como instalar](https://www.alura.com.br/artigos/o-que-e-nestjs)
+- [Calor do corpo humano gera eletricidade de modo pr�tico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-fino-flexivel-converte-calor-corpo-humano-eletricidade&id=010115260506)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
