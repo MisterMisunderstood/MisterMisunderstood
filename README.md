@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tit�nio fica ainda mais forte com pulso el�trico ultrarr�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=titanio-mais-forte-pulso-eletrico&id=010170260512)
+- [Computa��o com luz pulsada atinge 10 THz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-pulsada&id=010150260512)
+- [Pl�stico vivo nasce programado para morrer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-vivo&id=010125260512)
 - [Vis�o de raios X enxerga dentro de chips em funcionamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-raios-x-eletronicos&id=010110260511)
 - [Intera��o da luz com ondas gravitacionais pode detectar part�culas de gravidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=interacao-luz-ondas-gravitacionais&id=010130260511)
 - [Gerador termoel�trico projetado por computador fica 8x mais eficiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-termoeletrico-projetado-computador&id=010115260511)
 - [Como criar rob�s inteligentes como os da fic��o cient�fica?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-inteligentes-ficcao-cientifica&id=010180260508)
-- [Cal�ados esportivos de alta tecnologia feitos de um material s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tenis-esportivos-monomaterial&id=010160260508)
-- [Qualidade de software na era em que a IA escreve o código](https://www.alura.com.br/artigos/qualidade-de-software-com-ia)
-- [Descoberto um novo e surpreendente modo de controlar a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-modo-controlar-luz&id=010115260507)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
