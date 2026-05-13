@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [⁠Claude, Gamma e Canva: como usar IA para criar materiais de comunicação visual do zero](https://www.alura.com.br/artigos/ia-para-materiais-visuais)
 - [Escudo ultrafino bloqueia ondas eletromagn�ticas e radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-ondas-eletromagneticas-radiacao&id=010160260513)
 - [Metalurgia qu�ntica promete manipular a mat�ria em escalas impens�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalurgia-quantica&id=010165260513)
 - [TypeScript: quando usar unknown em vez de any?](https://www.alura.com.br/artigos/typescript-unknown-ou-any)
 - [Tit�nio fica ainda mais forte com pulso el�trico ultrarr�pido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=titanio-mais-forte-pulso-eletrico&id=010170260512)
 - [Computa��o com luz pulsada atinge 10 THz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-pulsada&id=010150260512)
 - [Pl�stico vivo nasce programado para morrer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plastico-vivo&id=010125260512)
-- [Vis�o de raios X enxerga dentro de chips em funcionamento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visao-raios-x-eletronicos&id=010110260511)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
