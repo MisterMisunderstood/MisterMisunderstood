@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cometa Halley foi batizado com o nome da pessoa errada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-halley-batizado-nome-errado&id=010130260515)
+- [C�lulas solares quase invis�veis para vidros de carros e janelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-quase-invisiveis&id=010115260515)
 - [Usos de IA em marketing: da automação de conteúdo à orquestração de dados em larga escala](https://www.alura.com.br/artigos/uso-da-ia-em-marketing)
 - [Estruturas de fibra de carbono igualam alum�nio com 1/100 do peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-carbono-desempenho-aluminio&id=010170260514)
 - [Metapropuls�o movida a luz pode nos levar �s estrelas em 20 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metapropulsao-movida-luz&id=010130260514)
 - [⁠Claude, Gamma e Canva: como usar IA para criar materiais de comunicação visual do zero](https://www.alura.com.br/artigos/ia-para-materiais-visuais)
 - [Escudo ultrafino bloqueia ondas eletromagn�ticas e radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-ondas-eletromagneticas-radiacao&id=010160260513)
-- [Metalurgia qu�ntica promete manipular a mat�ria em escalas impens�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metalurgia-quantica&id=010165260513)
-- [TypeScript: quando usar unknown em vez de any?](https://www.alura.com.br/artigos/typescript-unknown-ou-any)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
