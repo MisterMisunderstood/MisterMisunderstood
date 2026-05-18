@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Menor energia j� medida permitir� contar f�tons um por um](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-energia-ja-medida&id=010115260518)
+- [Fita adesiva comum tem mem�ria �til at� para computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fita-adesiva-tem-memoria&id=010160260518)
+- [Mem�ria bate recorde de desempenho em altas temperaturas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-recorde-alta-temperatura&id=010110260518)
 - [Cometa Halley foi batizado com o nome da pessoa errada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-halley-batizado-nome-errado&id=010130260515)
 - [C�lulas solares quase invis�veis para vidros de carros e janelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-quase-invisiveis&id=010115260515)
 - [Usos de IA em marketing: da automação de conteúdo à orquestração de dados em larga escala](https://www.alura.com.br/artigos/uso-da-ia-em-marketing)
 - [Estruturas de fibra de carbono igualam alum�nio com 1/100 do peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-carbono-desempenho-aluminio&id=010170260514)
-- [Metapropuls�o movida a luz pode nos levar �s estrelas em 20 anos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metapropulsao-movida-luz&id=010130260514)
-- [⁠Claude, Gamma e Canva: como usar IA para criar materiais de comunicação visual do zero](https://www.alura.com.br/artigos/ia-para-materiais-visuais)
-- [Escudo ultrafino bloqueia ondas eletromagn�ticas e radia��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-ondas-eletromagneticas-radiacao&id=010160260513)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
