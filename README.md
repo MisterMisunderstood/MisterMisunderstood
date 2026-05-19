@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [F�sicos descobrem uma falha no pr�prio tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=falha-proprio-tempo&id=020130260519)
+- [Superinox: O a�o que pode viabilizar Economia do Hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superinox&id=010170260519)
+- [O inferno de Dante Alighieri pode retratar impacto de asteroide, defendem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inferno-dante-alighieri-impacto-planetario&id=010130260519)
 - [Menor energia j� medida permitir� contar f�tons um por um](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-energia-ja-medida&id=010115260518)
 - [Fita adesiva comum tem mem�ria �til at� para computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fita-adesiva-tem-memoria&id=010160260518)
 - [Mem�ria bate recorde de desempenho em altas temperaturas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-recorde-alta-temperatura&id=010110260518)
 - [Cometa Halley foi batizado com o nome da pessoa errada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-halley-batizado-nome-errado&id=010130260515)
-- [C�lulas solares quase invis�veis para vidros de carros e janelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-quase-invisiveis&id=010115260515)
-- [Usos de IA em marketing: da automação de conteúdo à orquestração de dados em larga escala](https://www.alura.com.br/artigos/uso-da-ia-em-marketing)
-- [Estruturas de fibra de carbono igualam alum�nio com 1/100 do peso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-carbono-desempenho-aluminio&id=010170260514)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
