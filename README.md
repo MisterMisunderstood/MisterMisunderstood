@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [⁠Canva 2.0 em 2026: novas ferramentas e fluxos de design](https://www.alura.com.br/artigos/canva-evolucao)
-- [Computador alternativo de sil�cio resolve problemas intrat�veis hoje](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-alternativo-silicio&id=010150260520)
-- [Crateras da Lua viabilizar�o lasers mais precisos j� constru�dos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laser-cratera-lua&id=010130260520)
 - [Segurança da informação: o que é, fundamentos e como aplicar em 2026](https://www.alura.com.br/artigos/seguranca-da-informacao)
-- [F�sicos descobrem uma falha no pr�prio tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=falha-proprio-tempo&id=020130260519)
-- [Superinox: O a�o que pode viabilizar Economia do Hidrog�nio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superinox&id=010170260519)
-- [O inferno de Dante Alighieri pode retratar impacto de asteroide, defendem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inferno-dante-alighieri-impacto-planetario&id=010130260519)
+- [Usos de IA em marketing: da automação de conteúdo à orquestração de dados em larga escala](https://www.alura.com.br/artigos/uso-da-ia-em-marketing)
+- [⁠Claude, Gamma e Canva: como usar IA para criar materiais de comunicação visual do zero](https://www.alura.com.br/artigos/ia-para-materiais-visuais)
+- [TypeScript: quando usar unknown em vez de any?](https://www.alura.com.br/artigos/typescript-unknown-ou-any)
+- [Qualidade de software na era em que a IA escreve o código](https://www.alura.com.br/artigos/qualidade-de-software-com-ia)
+- [GEO: o que é Generative Engine Optimization e como otimizar conteúdo para IAs](https://www.alura.com.br/artigos/geo-generative-engine-optimization)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
