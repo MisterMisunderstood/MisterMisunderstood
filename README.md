@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [1 Bi devs: o perfil builder](https://www.alura.com.br/artigos/1-bi-devs-builders)
 - [Nova t�cnica reprograma a mat�ria rearranjando rapidamente seus �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reprogramar-materia-rearranjando-atomos&id=010165260522)
 - [Computador qu�ntico de luz tritura recorde de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-luz-recorde&id=010150260522)
 - [6 ferramentas de IA para advogados em 2026: um guia completo](https://www.alura.com.br/artigos/ia-para-advogados)
 - [Seda s�lida iguala comp�sitos avan�ados e impulsiona redes 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seda-solidificada-6g&id=010160260521)
 - [M�sculo artificial inteligente integra sensibilidade e movimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-inteligente&id=010180260521)
 - [⁠Canva 2.0 em 2026: novas ferramentas e fluxos de design](https://www.alura.com.br/artigos/canva-evolucao)
-- [Computador alternativo de sil�cio resolve problemas intrat�veis hoje](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-alternativo-silicio&id=010150260520)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
