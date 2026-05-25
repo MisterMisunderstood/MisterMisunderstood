@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dissipador de cobre otimizado derruba consumo de energia dos computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dissipador-cobre-otimizado&id=010150260525)
+- [Novo reator transforma CO2 e eletricidade limpa em metano renov�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-metano-renovavel&id=010125260525)
+- [Vida extraterrestre envolve mais do que mol�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-extraterrestre-envolve-mais-procurar-moleculas&id=010130260525)
 - [1 Bi devs: o perfil builder](https://www.alura.com.br/artigos/1-bi-devs-builders)
 - [Nova t�cnica reprograma a mat�ria rearranjando rapidamente seus �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reprogramar-materia-rearranjando-atomos&id=010165260522)
 - [Computador qu�ntico de luz tritura recorde de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-luz-recorde&id=010150260522)
 - [6 ferramentas de IA para advogados em 2026: um guia completo](https://www.alura.com.br/artigos/ia-para-advogados)
-- [Seda s�lida iguala comp�sitos avan�ados e impulsiona redes 6G](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=seda-solidificada-6g&id=010160260521)
-- [M�sculo artificial inteligente integra sensibilidade e movimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-inteligente&id=010180260521)
-- [⁠Canva 2.0 em 2026: novas ferramentas e fluxos de design](https://www.alura.com.br/artigos/canva-evolucao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
