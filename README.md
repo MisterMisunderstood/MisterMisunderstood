@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como levantar 2.500 toneladas sem precisar de um guindaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levantar-toneladas-sem-guindaste&id=010170260526)
+- [Miniaturiza��o por encolhimento cria dispositivos que computam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-encolhimento&id=010165260526)
+- [Plumas de vapor na lua Europa s�o contestadas por novos dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plumas-vapor-lua-europa&id=010130260526)
 - [Dissipador de cobre otimizado derruba consumo de energia dos computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dissipador-cobre-otimizado&id=010150260525)
 - [Novo reator transforma CO2 e eletricidade limpa em metano renov�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-metano-renovavel&id=010125260525)
 - [Vida extraterrestre envolve mais do que mol�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-extraterrestre-envolve-mais-procurar-moleculas&id=010130260525)
 - [1 Bi devs: o perfil builder](https://www.alura.com.br/artigos/1-bi-devs-builders)
-- [Nova t�cnica reprograma a mat�ria rearranjando rapidamente seus �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reprogramar-materia-rearranjando-atomos&id=010165260522)
-- [Computador qu�ntico de luz tritura recorde de velocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-luz-recorde&id=010150260522)
-- [6 ferramentas de IA para advogados em 2026: um guia completo](https://www.alura.com.br/artigos/ia-para-advogados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
