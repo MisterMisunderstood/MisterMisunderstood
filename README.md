@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Google AI Mode: o que é e impactos no SEO](https://www.alura.com.br/artigos/google-ai-mode)
 - [Hidrog�nio poder� ser coletado por minera��o, com custo m�nimo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-branco&id=010115260527)
 - [Novo tipo de magnetismo d� impulso definitivo � computa��o magn�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=altermagnetismo-computacao-magnetica&id=010110260527)
 - [Alura: uma nova versão para um novo mundo tech](https://www.alura.com.br/artigos/alura-uma-nova-versao)
 - [Anthropic: o que é, missão, produtos e tudo sobre a empresa do Claude](https://www.alura.com.br/artigos/o-que-e-anthropic)
 - [Como levantar 2.500 toneladas sem precisar de um guindaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levantar-toneladas-sem-guindaste&id=010170260526)
 - [Miniaturiza��o por encolhimento cria dispositivos que computam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-encolhimento&id=010165260526)
-- [Plumas de vapor na lua Europa s�o contestadas por novos dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plumas-vapor-lua-europa&id=010130260526)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
