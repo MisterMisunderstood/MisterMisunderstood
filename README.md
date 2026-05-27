@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Alura: uma nova versão para um novo mundo tech](https://www.alura.com.br/artigos/alura-uma-nova-versao)
+- [Anthropic: o que é, missão, produtos e tudo sobre a empresa do Claude](https://www.alura.com.br/artigos/o-que-e-anthropic)
 - [Como levantar 2.500 toneladas sem precisar de um guindaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levantar-toneladas-sem-guindaste&id=010170260526)
 - [Miniaturiza��o por encolhimento cria dispositivos que computam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-encolhimento&id=010165260526)
 - [Plumas de vapor na lua Europa s�o contestadas por novos dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=plumas-vapor-lua-europa&id=010130260526)
 - [Dissipador de cobre otimizado derruba consumo de energia dos computadores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dissipador-cobre-otimizado&id=010150260525)
 - [Novo reator transforma CO2 e eletricidade limpa em metano renov�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reator-metano-renovavel&id=010125260525)
-- [Vida extraterrestre envolve mais do que mol�culas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-extraterrestre-envolve-mais-procurar-moleculas&id=010130260525)
-- [1 Bi devs: o perfil builder](https://www.alura.com.br/artigos/1-bi-devs-builders)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
