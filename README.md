@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Mode: o que é e impactos no SEO](https://www.alura.com.br/artigos/google-ai-mode)
-- [Hidrog�nio poder� ser coletado por minera��o, com custo m�nimo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=hidrogenio-branco&id=010115260527)
-- [Novo tipo de magnetismo d� impulso definitivo � computa��o magn�tica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=altermagnetismo-computacao-magnetica&id=010110260527)
-- [Alura: uma nova versão para um novo mundo tech](https://www.alura.com.br/artigos/alura-uma-nova-versao)
-- [Anthropic: o que é, missão, produtos e tudo sobre a empresa do Claude](https://www.alura.com.br/artigos/o-que-e-anthropic)
-- [Como levantar 2.500 toneladas sem precisar de um guindaste](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levantar-toneladas-sem-guindaste&id=010170260526)
-- [Miniaturiza��o por encolhimento cria dispositivos que computam com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=miniaturizacao-encolhimento&id=010165260526)
+- [Anthropic descobre que emoções simuladas mudam o comportamento do Claude](https://www.alura.com.br/artigos/anthropic-descobre-emocoes-simuladas-mudam-comportamento-do-claude)
+- [Anthropic reduz limites de uso do Claude e gera revolta na comunidade](https://www.alura.com.br/artigos/anthropic-reduz-limites-de-uso-claude)
+- [Código-fonte do Claude Code vaza no npm e chega ao GitHub](https://www.alura.com.br/artigos/codigo-fonte-claude-code-vaza-e-chega-ao-github)
+- [IA supera médicos em triagem de emergência, aponta estudo de Harvard](https://www.alura.com.br/artigos/ia-supera-medicos-em-triagem-segundo-estudo-de-harvard)
+- [Tribunal da China proíbe demissões para substituição por IA](https://www.alura.com.br/artigos/tribunal-china-proibe-demissoes-para-substituicao-por-ia)
+- [Richard Dawkins sugeriu que IA pode ter algum nível de consciência](https://www.alura.com.br/artigos/richard-dawkinks-sugeriu-que-ia-pode-ser-algum-nivel-de-consciencia)
+- [IA da OpenAI resolve problema matemático aberto há 80 anos](https://www.alura.com.br/artigos/openai-resolve-problema-matematico-aberto-ha-80-anos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
