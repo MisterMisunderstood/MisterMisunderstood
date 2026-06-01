@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Carrinho de m�o com IA reduz for�a para empurrar em 90%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carrinho-mao-ia&id=010170260601)
+- [Ouro l�quido a temperatura ambiente? � quase isso, com muitas aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-liquido-temperatura-ambiente&id=010165260601)
+- [M�gnons: Quasipart�cula abre caminho para miniaturizar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnons-computadores-quanticos-miniatura&id=010150260601)
 - [NASA testa c�lula a combust�vel para gerar energia na Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-celula-combustivel-gerar-energia-lua&id=010130260529)
 - [Nova rota qu�mica produz mais biocombust�veis das mesmas plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-rota-quimica-biocombustiveis&id=010125260529)
 - [Manus: o que é, recursos e como usar o agente de IA autônomo](https://www.alura.com.br/artigos/o-que-e-manus)
 - [Tecnologia inovadora otimiza �m�s para motores de �ltima gera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-inovadora-otimiza-imas-motores-ultima-geracao&id=010160260528)
-- [Sensor de luz para rob�s m�dicos surpreende e ir� para ind�stria e automa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-luz-robos-industria-automacao&id=010180260528)
-- [Anthropic descobre que emoções simuladas mudam o comportamento do Claude](https://www.alura.com.br/artigos/anthropic-descobre-emocoes-simuladas-mudam-comportamento-do-claude)
-- [Anthropic reduz limites de uso do Claude e gera revolta na comunidade](https://www.alura.com.br/artigos/anthropic-reduz-limites-de-uso-claude)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
