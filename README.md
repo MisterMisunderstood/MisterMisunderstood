@@ -126,7 +126,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Transfer�ncia de calor � amplificada por material artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fluxo-calor-amplificado&id=010115260602)
 - [Aleatoriedade perfeita � alcan�ada pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-numeros-aleatorios-perfeito&id=010150260602)
-- [Tatus inspiram nova tecnologia de prote��o de m�quinas delicadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-inspirado-tatus&id=010180260602)
+- [Tatus inspiram tecnologia para prote��o de m�quinas delicadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-inspirado-tatus&id=010180260602)
 - [Carrinho de m�o com IA reduz for�a para empurrar em 90%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carrinho-mao-ia&id=010170260601)
 - [Ouro l�quido a temperatura ambiente? � quase isso, com muitas aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-liquido-temperatura-ambiente&id=010165260601)
 - [M�gnons: Quasipart�cula abre caminho para miniaturizar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=magnons-computadores-quanticos-miniatura&id=010150260601)
