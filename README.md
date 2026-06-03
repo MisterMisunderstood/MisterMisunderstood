@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Computador probabil�stico � fabricado com tecnologia de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-silicio&id=010150260603)
+- [Cola revers�vel ganha vers�o el�trica e substitui solda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cola-condutora-reversivel&id=010110260603)
+- [Papa Leão XIV publica encíclica sobre IA e pede "desarmamento" da tecnologia](https://www.alura.com.br/artigos/papa-publica-enciclica-sobre-ia)
+- [Cursor: velocidade de desenvolvimento com IA dobrou em um ano](https://www.alura.com.br/artigos/produtividade-de-codigos-aumenta-com-ia)
 - [Anthropic lança Claude Opus 4.8 com melhorias em agentes e honestidade](https://www.alura.com.br/artigos/noticias-anthropic-lanca-claude-opus-4-8)
 - [Kimi K2 + OpenCode: uma IA alternativa para devs com budget apertado?](https://www.alura.com.br/artigos/kimi-k2-opencode)
 - [Transfer�ncia de calor � amplificada por material artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fluxo-calor-amplificado&id=010115260602)
-- [Aleatoriedade perfeita � alcan�ada pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gerador-numeros-aleatorios-perfeito&id=010150260602)
-- [Tatus inspiram tecnologia para prote��o de m�quinas delicadas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escudo-inspirado-tatus&id=010180260602)
-- [Carrinho de m�o com IA reduz for�a para empurrar em 90%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carrinho-mao-ia&id=010170260601)
-- [Ouro l�quido a temperatura ambiente? � quase isso, com muitas aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ouro-liquido-temperatura-ambiente&id=010165260601)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
