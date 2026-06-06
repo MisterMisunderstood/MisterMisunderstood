@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cores vivas sem tintas criam estrat�gia de criptografia visual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-visual&id=010160260605)
-- [Detectada pela primeira vez atividade magn�tica em exoplanetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atividade-magnetica-exoplaneta&id=010130260605)
 - [6 ferramentas de IA para diagnóstico médico em 2026](https://www.alura.com.br/artigos/ia-para-diagnostico-medico)
 - [Gerenciamento de Estado em React: por que e como usar o Zustand](https://www.alura.com.br/artigos/gerenciamento-de-estado-react)
-- [Computador probabil�stico � fabricado com tecnologia de sil�cio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-probabilistico-silicio&id=010150260603)
-- [Cola revers�vel ganha vers�o el�trica e substitui solda](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cola-condutora-reversivel&id=010110260603)
 - [Papa Leão XIV publica encíclica sobre IA e pede "desarmamento" da tecnologia](https://www.alura.com.br/artigos/papa-publica-enciclica-sobre-ia)
+- [Cursor: velocidade de desenvolvimento com IA dobrou em um ano](https://www.alura.com.br/artigos/produtividade-de-codigos-aumenta-com-ia)
+- [Anthropic lança Claude Opus 4.8 com melhorias em agentes e honestidade](https://www.alura.com.br/artigos/noticias-anthropic-lanca-claude-opus-4-8)
+- [Kimi K2 + OpenCode: uma IA alternativa para devs com budget apertado?](https://www.alura.com.br/artigos/kimi-k2-opencode)
+- [Manus: o que é, recursos e como usar o agente de IA autônomo](https://www.alura.com.br/artigos/o-que-e-manus)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
