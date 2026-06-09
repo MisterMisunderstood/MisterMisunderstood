@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Material artificial guia vibra��es por trajet�rias predefinidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-artificial-guia-vibracoes&id=010170260609)
+- [Cometa interestelar n�o � sonda alien�gena, conclui SETI](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-interestelar-nao-e-alienigena&id=010130260609)
 - [Al�m dos f�tons: Quasipart�cula faz computa��o inteiramente com luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quasiparticula-computacao-luz&id=020150260608)
 - [Matem�tica desvenda arte abstrata e revela pseudoarte feita por IA](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-desvenda-arte&id=010150260608)
 - [Tecnologia p�s-bin�ria: Material magn�tico armazena quatro bits](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologia-pos-binaria-magnetica&id=010110260608)
 - [Cores vivas sem tintas criam estrat�gia de criptografia visual](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=criptografia-visual&id=010160260605)
 - [Detectada pela primeira vez atividade magn�tica em exoplanetas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atividade-magnetica-exoplaneta&id=010130260605)
-- [6 ferramentas de IA para diagnóstico médico em 2026](https://www.alura.com.br/artigos/ia-para-diagnostico-medico)
-- [Gerenciamento de Estado em React: por que e como usar o Zustand](https://www.alura.com.br/artigos/gerenciamento-de-estado-react)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
