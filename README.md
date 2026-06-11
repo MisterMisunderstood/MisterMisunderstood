@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [PyAutoGUI: o que é, como instalar, como usar e principais funcionalidades](https://www.alura.com.br/artigos/o-que-e-pyautogui)
 - [Metacristais direcionam sinais sem fio por ambientes complexos - sem energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metacristais&id=010150260610)
 - [Propulsor h�brido qu�mico-i�nico acelera e barateia pequenos sat�lites](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsor-hibrido-quimico-ionico&id=010130260610)
 - [IA no futebol: as inovações de tecnologia na Copa do Mundo de 2026](https://www.alura.com.br/artigos/ia-no-futebol)
 - [Estudo de Stanford: IA supera professores de direito em avaliação cega](https://www.alura.com.br/artigos/ia-supera-professores-de-direito-em-avaliacao)
 - [Scorsese vira advisor de startup de IA e defende seu uso no cinema](https://www.alura.com.br/artigos/scorsese-vira-advisor-de-startup)
 - [Anthropic defende pausa em IA e revela que Claude escreve 80% do próprio código](https://www.alura.com.br/artigos/anthropic-defende-pausa-em-ia)
-- [Material artificial guia vibra��es por trajet�rias predefinidas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-artificial-guia-vibracoes&id=010170260609)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
