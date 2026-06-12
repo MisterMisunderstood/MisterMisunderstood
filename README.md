@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Para descobrir novas leis da f�sica, IA precisa desaprender teorias atuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-descobrir-novas-leis-fisica&id=010150260612)
+- [Tecnologias macias e flex�veis eliminam barreira entre humanos e m�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-macias-barreira-humanos-maquinas&id=010180260612)
 - [Harness: o que é, como funciona e por que virou a palavra de 2026](https://www.alura.com.br/artigos/o-que-e-harness)
 - [Capacitor revolucion�rio usa �gua para armazenar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capacitor-base-agua&id=010115260611)
 - [C�mera At�mica: Um �nico �tomo funciona como microsc�pio para ver a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camera-atomica&id=010165260611)
 - [PyAutoGUI: o que é, como instalar, como usar e principais funcionalidades](https://www.alura.com.br/artigos/o-que-e-pyautogui)
 - [Metacristais direcionam sinais sem fio por ambientes complexos - sem energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metacristais&id=010150260610)
-- [Propulsor h�brido qu�mico-i�nico acelera e barateia pequenos sat�lites](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsor-hibrido-quimico-ionico&id=010130260610)
-- [IA no futebol: as inovações de tecnologia na Copa do Mundo de 2026](https://www.alura.com.br/artigos/ia-no-futebol)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
