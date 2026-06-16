@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria in�dita armazena hidrog�nio ou eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-hidrogenio-gas-solida&id=010115260616)
+- [Mini-universos II: O tempo emerge naturalmente, sem rel�gio externo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-emerge-mini-universo&id=020130260616)
+- [Mini-universos podem surgir dentro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mini-universos-surgem-dentro-estrelas&id=010130260616)
 - [Espelho m�gico fica transparente se for virado, revolucionando a fot�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelho-fica-transparente&id=010160260615)
 - [Dessaliniza��o solar n�o gera salmoura e extrai l�tio para baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizacao-sem-salmoura&id=010125260615)
 - [Componente multifuncional � h�brido de trans�stor, mem�ria e LED](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-memoria-led&id=010110260615)
 - [Para descobrir novas leis da f�sica, IA precisa desaprender teorias atuais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-descobrir-novas-leis-fisica&id=010150260612)
-- [Tecnologias macias e flex�veis eliminam barreira entre humanos e m�quinas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tecnologias-macias-barreira-humanos-maquinas&id=010180260612)
-- [Harness: o que é, como funciona e por que virou a palavra de 2026](https://www.alura.com.br/artigos/o-que-e-harness)
-- [Capacitor revolucion�rio usa �gua para armazenar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capacitor-base-agua&id=010115260611)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
