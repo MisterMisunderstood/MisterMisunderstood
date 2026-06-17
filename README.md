@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nova t�cnica de combust�o viabiliza motores alimentados por am�nia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-combustao-amonia&id=010170260617)
+- [Bola de futebol com 80 �tomos de boro desafia teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bola-futebol-80-atomos-boro&id=010165260617)
 - [Como usar a IA sem saber programar: confira o guia prático!](https://www.alura.com.br/artigos/como-usar-ia-sem-saber-programar)
 - [Bateria in�dita armazena hidrog�nio ou eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-hidrogenio-gas-solida&id=010115260616)
 - [Mini-universos II: O tempo emerge naturalmente, sem rel�gio externo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-emerge-mini-universo&id=020130260616)
 - [Mini-universos podem surgir dentro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mini-universos-surgem-dentro-estrelas&id=010130260616)
 - [Espelho m�gico fica transparente se for virado, revolucionando a fot�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelho-fica-transparente&id=010160260615)
-- [Dessaliniza��o solar n�o gera salmoura e extrai l�tio para baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dessalinizacao-sem-salmoura&id=010125260615)
-- [Componente multifuncional � h�brido de trans�stor, mem�ria e LED](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-memoria-led&id=010110260615)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
