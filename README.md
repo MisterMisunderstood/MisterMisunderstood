@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind e Palmeiras firmam parceria para usar IA que prevê jogadas 8 segundos antes](https://www.alura.com.br/artigos/google-deepmind-palmeiras-tacticai-futebol-ia)
+- [EUA bloqueiam Claude Fable 5 e Mythos 5 três dias após lançamento](https://www.alura.com.br/artigos/noticias-eua-bloqueiam-acesso-claude-fable-5-mythos-5)
+- [Anthropic lança Claude Fable 5 e Mythos 5: os modelos mais capazes já lançados pela empresa](https://www.alura.com.br/artigos/noticias-anthropic-lanca-claude-fable-5-mythos-5)
+- [n8n vs Zapier: qual é a melhor ferramenta de automação?](https://www.alura.com.br/artigos/n8n-vs-zapier)
 - [Nova t�cnica de combust�o viabiliza motores alimentados por am�nia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nova-tecnica-combustao-amonia&id=010170260617)
 - [Bola de futebol com 80 �tomos de boro desafia teorias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bola-futebol-80-atomos-boro&id=010165260617)
 - [Como usar a IA sem saber programar: confira o guia prático!](https://www.alura.com.br/artigos/como-usar-ia-sem-saber-programar)
-- [Bateria in�dita armazena hidrog�nio ou eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-ions-hidrogenio-gas-solida&id=010115260616)
-- [Mini-universos II: O tempo emerge naturalmente, sem rel�gio externo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempo-emerge-mini-universo&id=020130260616)
-- [Mini-universos podem surgir dentro de estrelas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mini-universos-surgem-dentro-estrelas&id=010130260616)
-- [Espelho m�gico fica transparente se for virado, revolucionando a fot�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelho-fica-transparente&id=010160260615)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
