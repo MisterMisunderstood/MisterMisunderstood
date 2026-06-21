@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Neurotrans�stor simula e refor�a mem�ria e esquecimento do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuro-foto-transistor&id=010110260619)
+- [Esque�a as garrafinhas: Sua roupa vai coletar �gua do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-coleta-agua-ar&id=010125260619)
 - [Modelo preditivo: o guia completo para começar do zero](https://www.alura.com.br/artigos/modelo-preditivo)
+- [Revolu��o na refrigera��o de chips: 10 vezes melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-refrigeracao-chips&id=010150260618)
+- [Rob� omnidirecional aproxima-se da efici�ncia m�xima poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-eficiencia-maxima&id=010180260618)
 - [Google DeepMind e Palmeiras firmam parceria para usar IA que prevê jogadas 8 segundos antes](https://www.alura.com.br/artigos/google-deepmind-palmeiras-tacticai-futebol-ia)
 - [EUA bloqueiam Claude Fable 5 e Mythos 5 três dias após lançamento](https://www.alura.com.br/artigos/noticias-eua-bloqueiam-acesso-claude-fable-5-mythos-5)
-- [Anthropic lança Claude Fable 5 e Mythos 5: os modelos mais capazes já lançados pela empresa](https://www.alura.com.br/artigos/noticias-anthropic-lanca-claude-fable-5-mythos-5)
-- [n8n vs Zapier: qual é a melhor ferramenta de automação?](https://www.alura.com.br/artigos/n8n-vs-zapier)
-- [Como usar a IA sem saber programar: confira o guia prático!](https://www.alura.com.br/artigos/como-usar-ia-sem-saber-programar)
-- [Harness: o que é, como funciona e por que virou a palavra de 2026](https://www.alura.com.br/artigos/o-que-e-harness)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
