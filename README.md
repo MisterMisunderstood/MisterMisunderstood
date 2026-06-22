@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Rel�gio qu�ntico de p�ndulo supera limites de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-pendulo-quantico&id=010130260622)
+- [Trans�stor inspirado no c�rebro vai impulsionar computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-criogenico-inspirado-cerebro&id=010150260622)
+- [Fotoss�ntese artificial fica aut�noma e dispensa baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fotossintese-artificial-sem-baterias&id=010115260622)
 - [Neurotrans�stor simula e refor�a mem�ria e esquecimento do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neuro-foto-transistor&id=010110260619)
 - [Esque�a as garrafinhas: Sua roupa vai coletar �gua do ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupa-coleta-agua-ar&id=010125260619)
 - [Modelo preditivo: o guia completo para começar do zero](https://www.alura.com.br/artigos/modelo-preditivo)
 - [Revolu��o na refrigera��o de chips: 10 vezes melhor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revolucao-refrigeracao-chips&id=010150260618)
-- [Rob� omnidirecional aproxima-se da efici�ncia m�xima poss�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-eficiencia-maxima&id=010180260618)
-- [Google DeepMind e Palmeiras firmam parceria para usar IA que prevê jogadas 8 segundos antes](https://www.alura.com.br/artigos/google-deepmind-palmeiras-tacticai-futebol-ia)
-- [EUA bloqueiam Claude Fable 5 e Mythos 5 três dias após lançamento](https://www.alura.com.br/artigos/noticias-eua-bloqueiam-acesso-claude-fable-5-mythos-5)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
