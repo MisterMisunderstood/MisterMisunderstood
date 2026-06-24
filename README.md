@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como passar pela IA em processos seletivos em 2026](https://www.alura.com.br/artigos/como-passar-pela-ia-no-processo-seletivo)
 - [Fatia de mercado do ChatGPT cai abaixo de 50% pela primeira vez](https://www.alura.com.br/artigos/chatgpt-market-share-abaixo-50-por-cento-gemini-claude)
 - [Microsoft considera DeepSeek no Copilot Cowork para cortar custos](https://www.alura.com.br/artigos/microsoft-deepseek-copilot-cowork-custo)
 - [Midjourney lança scanner corporal por ultrassom e planeja rede de spas](https://www.alura.com.br/artigos/midjourney-scanner-corporal-ultrassom-spa-hardware)
 - [M�trica in�dita de complexidade permite projetar materiais melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrica-de-complexidade&id=010160260623)
 - [Part�culas emaranhadas criam materiais multifuncionais fortes e desmont�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-emaranhadas-materiais-multifuncionais&id=010170260623)
 - [Ampulheta de grafeno cria qubits robustos para computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanografeno-forma-ampulheta&id=010165260623)
-- [Rel�gio qu�ntico de p�ndulo supera limites de precis�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=relogio-pendulo-quantico&id=010130260622)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
