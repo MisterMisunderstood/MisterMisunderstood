@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Agente de IA integrado com Google Sheets no n8n](https://www.alura.com.br/artigos/agente-de-ia-com-n8n)
 - [V�lvulas eletr�nicas renascem e superam transistores em 1.000 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valvulas-eletronicas-renascem&id=010110260624)
 - [M�sculo artificial amplifica movimento e memoriza toque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-elastomagnetico&id=010180260624)
 - [Como passar pela IA em processos seletivos em 2026](https://www.alura.com.br/artigos/como-passar-pela-ia-no-processo-seletivo)
 - [Fatia de mercado do ChatGPT cai abaixo de 50% pela primeira vez](https://www.alura.com.br/artigos/chatgpt-market-share-abaixo-50-por-cento-gemini-claude)
 - [Microsoft considera DeepSeek no Copilot Cowork para cortar custos](https://www.alura.com.br/artigos/microsoft-deepseek-copilot-cowork-custo)
 - [Midjourney lança scanner corporal por ultrassom e planeja rede de spas](https://www.alura.com.br/artigos/midjourney-scanner-corporal-ultrassom-spa-hardware)
-- [M�trica in�dita de complexidade permite projetar materiais melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrica-de-complexidade&id=010160260623)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
