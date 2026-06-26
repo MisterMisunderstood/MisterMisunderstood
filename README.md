@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [Computa��o qu�ntica hiperdimensional � 500 vezes mais r�pida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-hiperdimensional&id=010150260626)
 - [Luz funciona como freio, imitando um atrito f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-funciona-como-freio&id=010115260626)
-- [Conheça 16 ferramentas de IA para trabalho em 2026](https://www.alura.com.br/artigos/ferramentas-de-ia-para-trabalho)
 - [Matem�ticos provam que energia escura � um erro de interpreta��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematicos-provam-energia-escura-erro&id=010130260625)
 - [Neblina � um ambiente repleto de vida. E vida ben�fica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-neblina&id=010125260625)
-- [Agente de IA integrado com Google Sheets no n8n](https://www.alura.com.br/artigos/agente-de-ia-com-n8n)
 - [V�lvulas eletr�nicas renascem e superam transistores em 1.000 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valvulas-eletronicas-renascem&id=010110260624)
+- [M�sculo artificial amplifica movimento e memoriza toque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-elastomagnetico&id=010180260624)
+- [M�trica in�dita de complexidade permite projetar materiais melhores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metrica-de-complexidade&id=010160260623)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
