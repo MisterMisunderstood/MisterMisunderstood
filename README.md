@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça 16 ferramentas de IA para trabalho em 2026](https://www.alura.com.br/artigos/ferramentas-de-ia-para-trabalho)
 - [Matem�ticos provam que energia escura � um erro de interpreta��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematicos-provam-energia-escura-erro&id=010130260625)
 - [Neblina � um ambiente repleto de vida. E vida ben�fica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bacterias-neblina&id=010125260625)
 - [Agente de IA integrado com Google Sheets no n8n](https://www.alura.com.br/artigos/agente-de-ia-com-n8n)
 - [V�lvulas eletr�nicas renascem e superam transistores em 1.000 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=valvulas-eletronicas-renascem&id=010110260624)
 - [M�sculo artificial amplifica movimento e memoriza toque](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-elastomagnetico&id=010180260624)
 - [Como passar pela IA em processos seletivos em 2026](https://www.alura.com.br/artigos/como-passar-pela-ia-no-processo-seletivo)
-- [Fatia de mercado do ChatGPT cai abaixo de 50% pela primeira vez](https://www.alura.com.br/artigos/chatgpt-market-share-abaixo-50-por-cento-gemini-claude)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
