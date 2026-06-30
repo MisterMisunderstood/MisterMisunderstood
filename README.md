@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz faz metais vibrarem 1 trilh�o de vezes por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-metais-vibrarem&id=010170260630)
+- [Laser gira amostras sem contato em microsc�pio 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopia-3d&id=010165260630)
+- [Nanorrob� imita foguete espacial, com m�dulos de propuls�o e carga reutiliz�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanorrobo-imita-foguete-espacial&id=010180260630)
 - [Tinta de nanotubos promete carros mais pretos do mundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=carro-mais-preto-do-mundo&id=010160260629)
 - [Luz grava mem�ria magn�tica com um pulso, derrubando consumo de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria--magnetica-acionada-luz&id=010110260629)
 - [Cristais de espa�o-tempo podem criar buracos negros microsc�picos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-espaco-tempo-criam-buracos-negros&id=010130260629)
 - [Computa��o qu�ntica hiperdimensional � 500 vezes mais r�pida](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-quantica-hiperdimensional&id=010150260626)
-- [Luz funciona como freio, imitando um atrito f�sico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-funciona-como-freio&id=010115260626)
-- [Conheça 16 ferramentas de IA para trabalho em 2026](https://www.alura.com.br/artigos/ferramentas-de-ia-para-trabalho)
-- [Matem�ticos provam que energia escura � um erro de interpreta��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematicos-provam-energia-escura-erro&id=010130260625)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
