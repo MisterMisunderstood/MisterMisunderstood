@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz na garrafa: L�quido captura e armazena energia de m�ltiplas fontes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-captura-armazena-energia&id=010115260701)
+- [Reator solar recicla pl�stico e produz hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-plastico-energia-solar&id=010125260701)
 - [Maritaca AI lança Sabiá-4 Thinking, modelo de raciocínio feito para o Brasil](https://www.alura.com.br/artigos/maritaca-ai-lanca-sabia-4-thinking-modelo-raciocinio-brasileiro)
 - [Anthropic lança Claude Tag, IA que aprende cultura organizacional](https://www.alura.com.br/artigos/anthropic-lanca-claude-tag-slack-ia-empresas)
 - [ByteDance lança Seedance 2.5 com vídeos de 30s em 4K nativo](https://www.alura.com.br/artigos/bytedance-seedance-2-5-video-4k-30-segundos)
 - [Como fazer um currículo: guia completo em 2026](https://www.alura.com.br/artigos/como-fazer-curriculo)
 - [Luz faz metais vibrarem 1 trilh�o de vezes por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-faz-metais-vibrarem&id=010170260630)
-- [Laser gira amostras sem contato em microsc�pio 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopia-3d&id=010165260630)
-- [Nanorrob� imita foguete espacial, com m�dulos de propuls�o e carga reutiliz�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanorrobo-imita-foguete-espacial&id=010180260630)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
