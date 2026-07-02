@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Suas telas v�o ver voc� gra�as a um novo tipo de p�xel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-tipo-pixel&id=010150260702)
+- [Principal ind�cio observacional da mat�ria escura cai por terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cai-indicio-observacional-materia-escura&id=010130260702)
 - [LLMs: o que são, como funcionam, tipos e regulamentação](https://www.alura.com.br/artigos/o-que-sao-llms)
 - [Luz na garrafa: L�quido captura e armazena energia de m�ltiplas fontes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-captura-armazena-energia&id=010115260701)
 - [Reator solar recicla pl�stico e produz hidrog�nio limpo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=reciclagem-plastico-energia-solar&id=010125260701)
 - [Maritaca AI lança Sabiá-4 Thinking, modelo de raciocínio feito para o Brasil](https://www.alura.com.br/artigos/maritaca-ai-lanca-sabia-4-thinking-modelo-raciocinio-brasileiro)
 - [Anthropic lança Claude Tag, IA que aprende cultura organizacional](https://www.alura.com.br/artigos/anthropic-lanca-claude-tag-slack-ia-empresas)
-- [ByteDance lança Seedance 2.5 com vídeos de 30s em 4K nativo](https://www.alura.com.br/artigos/bytedance-seedance-2-5-video-4k-30-segundos)
-- [Como fazer um currículo: guia completo em 2026](https://www.alura.com.br/artigos/como-fazer-curriculo)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
