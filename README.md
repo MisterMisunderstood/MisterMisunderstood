@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Observa��o de mol�culas alcan�a limite qu�ntico fundamental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-limite-quantico-fundamental&id=010165260706)
+- [Dopagem com luz aumenta desempenho de transistores em 63 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dopagem-luz-transistores&id=010110260706)
+- [Ver o som, em vez de ouvi-lo, revela segredos das ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visualizando-som-ver-som&id=010170260706)
 - [Propriedade inusitada do arroz cria material inteligente anti-impacto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arroz-material-anti-impacto&id=010160260703)
 - [Trans�stor com mem�ria: Componente multifuncional suporta m�ltiplas computa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-memoria-multifuncional&id=010110260703)
 - [8 ferramentas de IA para gestão de projetos em 2026](https://www.alura.com.br/artigos/ia-para-gestao-de-projetos)
 - [Suas telas v�o ver voc� gra�as a um novo tipo de p�xel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-tipo-pixel&id=010150260702)
-- [Principal ind�cio observacional da mat�ria escura cai por terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cai-indicio-observacional-materia-escura&id=010130260702)
-- [LLMs: o que são, como funcionam, tipos e regulamentação](https://www.alura.com.br/artigos/o-que-sao-llms)
-- [Luz na garrafa: L�quido captura e armazena energia de m�ltiplas fontes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-captura-armazena-energia&id=010115260701)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
