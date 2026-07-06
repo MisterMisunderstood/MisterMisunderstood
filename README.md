@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cometa interestelar 3I/ATLAS � mais velho que o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-interestelar-mais-velho-sol&id=010130260706)
-- [Observa��o de mol�culas alcan�a limite qu�ntico fundamental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-limite-quantico-fundamental&id=010165260706)
-- [Dopagem com luz aumenta desempenho de transistores em 63 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dopagem-luz-transistores&id=010110260706)
-- [Ver o som, em vez de ouvi-lo, revela segredos das ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visualizando-som-ver-som&id=010170260706)
-- [Propriedade inusitada do arroz cria material inteligente anti-impacto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=arroz-material-anti-impacto&id=010160260703)
-- [Trans�stor com mem�ria: Componente multifuncional suporta m�ltiplas computa��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-memoria-multifuncional&id=010110260703)
 - [8 ferramentas de IA para gestão de projetos em 2026](https://www.alura.com.br/artigos/ia-para-gestao-de-projetos)
+- [LLMs: o que são, como funcionam, tipos e regulamentação](https://www.alura.com.br/artigos/o-que-sao-llms)
+- [Maritaca AI lança Sabiá-4 Thinking, modelo de raciocínio feito para o Brasil](https://www.alura.com.br/artigos/maritaca-ai-lanca-sabia-4-thinking-modelo-raciocinio-brasileiro)
+- [Anthropic lança Claude Tag, IA que aprende cultura organizacional](https://www.alura.com.br/artigos/anthropic-lanca-claude-tag-slack-ia-empresas)
+- [ByteDance lança Seedance 2.5 com vídeos de 30s em 4K nativo](https://www.alura.com.br/artigos/bytedance-seedance-2-5-video-4k-30-segundos)
+- [Como fazer um currículo: guia completo em 2026](https://www.alura.com.br/artigos/como-fazer-curriculo)
+- [Conheça 16 ferramentas de IA para trabalho em 2026](https://www.alura.com.br/artigos/ferramentas-de-ia-para-trabalho)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
