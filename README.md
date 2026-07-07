@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Avan�o na computa��o cl�ssica coloca em xeque conceito de supremacia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-classica-supremacia-quantica&id=010150260707)
+- [Esta bateria � �tima, mas ir� pegar fogo se voc� tentar deslig�-la](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-com-autodestruicao&id=010115260707)
+- [P�ssaro rob�tico ajuda a desvendar mist�rios da turbul�ncia em voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=passaro-robotico-turbulencia&id=010180260707)
 - [OpenAI anuncia GPT-5.6 com novas atualizações: Sol, Terra e Luna](https://www.alura.com.br/artigos/openai-anuncia-gpt-5-6)
 - [Claude Fable 5 volta a ficar disponível após suspensão](https://www.alura.com.br/artigos/claude-fable-5-volta-ficar-disponivel)
 - [ChatGPT alerta autoridades sobre plano de pai matar filho no ES](https://www.alura.com.br/artigos/chatgpt-alerta-autoridades)
 - [Cometa interestelar 3I/ATLAS � mais velho que o Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometa-interestelar-mais-velho-sol&id=010130260706)
-- [Observa��o de mol�culas alcan�a limite qu�ntico fundamental](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moleculas-limite-quantico-fundamental&id=010165260706)
-- [Dopagem com luz aumenta desempenho de transistores em 63 vezes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=dopagem-luz-transistores&id=010110260706)
-- [Ver o som, em vez de ouvi-lo, revela segredos das ondas sonoras](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=visualizando-som-ver-som&id=010170260706)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
