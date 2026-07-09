@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ondas de el�trons amplificam em 100 vezes o controle eletr�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-eletrons&id=010110260709)
+- [Equa��es transformam troncos irregulares em elementos estruturais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tronco-madeira-irregular-estrutural&id=010125260709)
 - [Como debugar com IA: guia prático para resolver bugs mais rápido](https://www.alura.com.br/artigos/como-debugar-com-ia)
 - [Filtro revolucion�rio vai limpar as refinarias de petr�leo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-revolucionario-refinarias-petroleo&id=010160260708)
 - [Processador fot�nico de 192 dimens�es faz computa��o massivamente paralela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=processador-fotonico-192-dimensoes&id=010150260708)
 - [IA para LinkedIn: como otimizar seu perfil em 2026](https://www.alura.com.br/artigos/ia-para-linkedin)
 - [Avan�o na computa��o cl�ssica coloca em xeque conceito de supremacia qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-classica-supremacia-quantica&id=010150260707)
-- [Esta bateria � �tima, mas ir� pegar fogo se voc� tentar deslig�-la](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-com-autodestruicao&id=010115260707)
-- [P�ssaro rob�tico ajuda a desvendar mist�rios da turbul�ncia em voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=passaro-robotico-turbulencia&id=010180260707)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
