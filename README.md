@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI lança GPT-5.6 Sol, Terra e Luna: nova família de IA](https://www.alura.com.br/artigos/openai-lanca-gpt-5-6-sol-terra-luna)
+- [OpenAI lança GPT-Live, novo modelo de voz que torna conversas com o ChatGPT mais naturais](https://www.alura.com.br/artigos/openai-lanca-gpt-live-modelo-de-voz-chatgpt)
 - [Folha artificial medicinal alimenta implante biom�dico usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-medicinal&id=010115260713)
 - [Ligas aeroespaciais de alum�nio e magn�sio agora tamb�m por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ligas-aluminio-magnesio-impressao-3d&id=010170260713)
 - [Nanotubos de molibdenita alcan�am dimens�o recorde de 1 nan�metro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-molibdenita&id=010165260713)
 - [Curativo faz computa��o com intelig�ncia artificial diretamente na pele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=curativo-faz-computacao-ia-pele&id=010150260710)
 - [Captado som do horizonte de eventos de um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-horizonte-eventos-buraco-negro&id=010130260710)
-- [Como usar a IA para fazer currículo: guia completo em 2026](https://www.alura.com.br/artigos/ia-para-fazer-curriculo)
-- [Ondas de el�trons amplificam em 100 vezes o controle eletr�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-eletrons&id=010110260709)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
