@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceXAI lança Grok 4.5, modelo de IA com nível Opus e menor custo](https://www.alura.com.br/artigos/spacexai-lanca-grok-4-5-modelo-ia-opus)
+- [Cobre aplicado na forma de tinta revoluciona ind�stria eletroeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-de-cobre&id=010160260714)
+- [Esc�ner at�mico faz mapa 3D de campos eletromagn�ticos de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escaner-mapa-campos-eletromagneticos&id=010110260714)
+- [Como detectar vida al�m da Terra sem saber como ela se parece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-alem-terra-sem-saber-como-ela-e&id=010130260714)
 - [OpenAI lança GPT-5.6 Sol, Terra e Luna: nova família de IA](https://www.alura.com.br/artigos/openai-lanca-gpt-5-6-sol-terra-luna)
 - [OpenAI lança GPT-Live, novo modelo de voz que torna conversas com o ChatGPT mais naturais](https://www.alura.com.br/artigos/openai-lanca-gpt-live-modelo-de-voz-chatgpt)
 - [Folha artificial medicinal alimenta implante biom�dico usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-medicinal&id=010115260713)
-- [Ligas aeroespaciais de alum�nio e magn�sio agora tamb�m por impress�o 3D](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ligas-aluminio-magnesio-impressao-3d&id=010170260713)
-- [Nanotubos de molibdenita alcan�am dimens�o recorde de 1 nan�metro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanotubos-molibdenita&id=010165260713)
-- [Curativo faz computa��o com intelig�ncia artificial diretamente na pele](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=curativo-faz-computacao-ia-pele&id=010150260710)
-- [Captado som do horizonte de eventos de um buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-horizonte-eventos-buraco-negro&id=010130260710)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
