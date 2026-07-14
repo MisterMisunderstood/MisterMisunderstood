@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude vs ChatGPT: qual a melhor IA em 2026?](https://www.alura.com.br/artigos/claude-vs-chatgpt)
 - [SpaceXAI lança Grok 4.5, modelo de IA com nível Opus e menor custo](https://www.alura.com.br/artigos/spacexai-lanca-grok-4-5-modelo-ia-opus)
 - [Cobre aplicado na forma de tinta revoluciona ind�stria eletroeletr�nica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tinta-de-cobre&id=010160260714)
 - [Esc�ner at�mico faz mapa 3D de campos eletromagn�ticos de chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=escaner-mapa-campos-eletromagneticos&id=010110260714)
 - [Como detectar vida al�m da Terra sem saber como ela se parece](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vida-alem-terra-sem-saber-como-ela-e&id=010130260714)
 - [OpenAI lança GPT-5.6 Sol, Terra e Luna: nova família de IA](https://www.alura.com.br/artigos/openai-lanca-gpt-5-6-sol-terra-luna)
 - [OpenAI lança GPT-Live, novo modelo de voz que torna conversas com o ChatGPT mais naturais](https://www.alura.com.br/artigos/openai-lanca-gpt-live-modelo-de-voz-chatgpt)
-- [Folha artificial medicinal alimenta implante biom�dico usando luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=folha-artificial-medicinal&id=010115260713)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
