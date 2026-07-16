@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- ["A IA tem que ser copiloto, nunca piloto": Felipe Iszlaji, da Clarice, sobre criatividade na era das LLMs](https://www.alura.com.br/artigos/felipe-iszlaji-ia)
+- [Google Veo 3: o que é e como usar a IA de vídeo](https://www.alura.com.br/artigos/o-que-e-google-veo-3)
 - [Energia das ondas: Sistema passivo simples estabiliza barca�as](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-estabilizar-barcacas&id=010115260716)
 - [�gua � capturada do ar ambiente com luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturar-agua-ar-luz-solar&id=010125260716)
 - [9 ferramentas de IA para transcrever áudios em 2026](https://www.alura.com.br/artigos/ia-para-transcrever-audios)
 - [Metapainel solar controla comunica��es sem fio com sobra de energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficie-solar&id=010150260715)
 - [Rob�s piezoel�tricos autoconectam-se em m�ltiplas formas e s�o muito r�pidos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robos-piezoeletricos&id=010180260715)
-- [Claude vs ChatGPT: qual a melhor IA em 2026?](https://www.alura.com.br/artigos/claude-vs-chatgpt)
-- [SpaceXAI lança Grok 4.5, modelo de IA com nível Opus e menor custo](https://www.alura.com.br/artigos/spacexai-lanca-grok-4-5-modelo-ia-opus)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
