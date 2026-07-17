@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [T�nel fantasma guia o som numa dire��o e � invis�vel ao som noutra dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tunel-fantasma-guia-som&id=010170260717)
+- [Luz e mat�ria dan�ando juntas turbinam tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-materia-danca&id=010165260717)
 - [A coisa mais subestimada em quem usa IA no dia a dia: janela de contexto](https://www.alura.com.br/artigos/ia-janela-de-contexto)
 - [Experimentando o Headroom para otimização de uso de tokens](https://www.alura.com.br/artigos/experimentando-o-headroom)
 - [A IA não é consciente. Mas agora sabemos onde ela "pensaria", se fosse](https://www.alura.com.br/artigos/a-ia-nao-e-consciente)
 - [14 perguntas sobre IA e o futuro do dev, respondidas sem futurologia de internet](https://www.alura.com.br/artigos/14-perguntas-sobre-ia)
 - ["A IA tem que ser copiloto, nunca piloto": Felipe Iszlaji, da Clarice, sobre criatividade na era das LLMs](https://www.alura.com.br/artigos/felipe-iszlaji-ia)
-- [Google Veo 3: o que é e como usar a IA de vídeo](https://www.alura.com.br/artigos/o-que-e-google-veo-3)
-- [Energia das ondas: Sistema passivo simples estabiliza barca�as](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-estabilizar-barcacas&id=010115260716)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
