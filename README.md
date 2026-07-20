@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Espuma de serragem de madeira � alternativa sustent�vel ao poliestireno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-serragem-madeira-poliestireno&id=010160260720)
+- [Nasce o primeiro componente orbitr�nico puro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-orbitronico-puro&id=010110260720)
+- [Detectar natureza qu�ntica da gravidade � mais dif�cil do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectar-natureza-quantica-gravidade&id=010130260720)
 - [T�nel fantasma guia o som numa dire��o e � invis�vel ao som noutra dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tunel-fantasma-guia-som&id=010170260717)
 - [Luz e mat�ria dan�ando juntas turbinam tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-materia-danca&id=010165260717)
 - [A coisa mais subestimada em quem usa IA no dia a dia: janela de contexto](https://www.alura.com.br/artigos/ia-janela-de-contexto)
 - [Experimentando o Headroom para otimização de uso de tokens](https://www.alura.com.br/artigos/experimentando-o-headroom)
-- [A IA não é consciente. Mas agora sabemos onde ela "pensaria", se fosse](https://www.alura.com.br/artigos/a-ia-nao-e-consciente)
-- [14 perguntas sobre IA e o futuro do dev, respondidas sem futurologia de internet](https://www.alura.com.br/artigos/14-perguntas-sobre-ia)
-- ["A IA tem que ser copiloto, nunca piloto": Felipe Iszlaji, da Clarice, sobre criatividade na era das LLMs](https://www.alura.com.br/artigos/felipe-iszlaji-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
