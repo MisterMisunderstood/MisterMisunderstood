@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Detectar natureza qu�ntica da gravidade � mais dif�cil do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectar-natureza-quantica-gravidade&id=010130260720)
 - [T�nel fantasma guia o som numa dire��o e � invis�vel ao som noutra dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tunel-fantasma-guia-som&id=010170260717)
 - [Luz e mat�ria dan�ando juntas turbinam tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-materia-danca&id=010165260717)
-- [A coisa mais subestimada em quem usa IA no dia a dia: janela de contexto](https://www.alura.com.br/artigos/ia-janela-de-contexto)
-- [Experimentando o Headroom para otimização de uso de tokens](https://www.alura.com.br/artigos/experimentando-o-headroom)
+- [Energia das ondas: Sistema passivo simples estabiliza barca�as](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-estabilizar-barcacas&id=010115260716)
+- [�gua � capturada do ar ambiente com luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturar-agua-ar-luz-solar&id=010125260716)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
