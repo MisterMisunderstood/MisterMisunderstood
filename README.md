@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dividir para conquistar: o que é e como aplicar essa estratégia](https://www.alura.com.br/artigos/dividir-para-conquistar)
+- [Moonshot AI lança Kimi K3, o maior modelo aberto de IA do mundo](https://www.alura.com.br/artigos/moonshot-ai-lanca-kimi-k3)
 - [Demis Hassabis propõe órgão independente para controlar IA de fronteira](https://www.alura.com.br/artigos/demis-hassabis-propoe-orgao-para-controlar-ia)
 - [Grok Build da xAI enviava repositórios sem permissão](https://www.alura.com.br/artigos/grok-build-enviava-repositorios)
 - [Processadores probabil�sticos desafiam computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=probabilisticos-desafiam-quanticos&id=010150260721)
 - [Drone girat�rio fica quase invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-quase-invisivel&id=010180260721)
 - [Terra possui um termostato natural baseado no fosfato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-termostato-natural&id=010125260721)
-- [Espuma de serragem de madeira � alternativa sustent�vel ao poliestireno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-serragem-madeira-poliestireno&id=010160260720)
-- [Nasce o primeiro componente orbitr�nico puro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-orbitronico-puro&id=010110260720)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
