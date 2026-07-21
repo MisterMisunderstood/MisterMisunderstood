@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Processadores probabil�sticos desafiam computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=probabilisticos-desafiam-quanticos&id=010150260721)
+- [Drone girat�rio fica quase invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-quase-invisivel&id=010180260721)
+- [Terra possui um termostato natural baseado no fosfato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-termostato-natural&id=010125260721)
 - [Espuma de serragem de madeira � alternativa sustent�vel ao poliestireno](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-serragem-madeira-poliestireno&id=010160260720)
 - [Nasce o primeiro componente orbitr�nico puro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-orbitronico-puro&id=010110260720)
 - [Detectar natureza qu�ntica da gravidade � mais dif�cil do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=detectar-natureza-quantica-gravidade&id=010130260720)
 - [T�nel fantasma guia o som numa dire��o e � invis�vel ao som noutra dire��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tunel-fantasma-guia-som&id=010170260717)
-- [Luz e mat�ria dan�ando juntas turbinam tecnologias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-materia-danca&id=010165260717)
-- [Energia das ondas: Sistema passivo simples estabiliza barca�as](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=energia-ondas-estabilizar-barcacas&id=010115260716)
-- [�gua � capturada do ar ambiente com luz solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capturar-agua-ar-luz-solar&id=010125260716)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
