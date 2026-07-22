@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Moonshot AI lança Kimi K3, o maior modelo aberto de IA do mundo](https://www.alura.com.br/artigos/moonshot-ai-lanca-kimi-k3)
 - [Demis Hassabis propõe órgão independente para controlar IA de fronteira](https://www.alura.com.br/artigos/demis-hassabis-propoe-orgao-para-controlar-ia)
 - [Grok Build da xAI enviava repositórios sem permissão](https://www.alura.com.br/artigos/grok-build-enviava-repositorios)
-- [Processadores probabil�sticos desafiam computa��o qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=probabilisticos-desafiam-quanticos&id=010150260721)
-- [Drone girat�rio fica quase invis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-quase-invisivel&id=010180260721)
-- [Terra possui um termostato natural baseado no fosfato](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=terra-termostato-natural&id=010125260721)
+- [A coisa mais subestimada em quem usa IA no dia a dia: janela de contexto](https://www.alura.com.br/artigos/ia-janela-de-contexto)
+- [Experimentando o Headroom para otimização de uso de tokens](https://www.alura.com.br/artigos/experimentando-o-headroom)
+- [A IA não é consciente. Mas agora sabemos onde ela "pensaria", se fosse](https://www.alura.com.br/artigos/a-ia-nao-e-consciente)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
