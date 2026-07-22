@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Coudflare: o que é, como usar e benefícios](https://www.alura.com.br/artigos/coudflare)
-- [Bot�es mec�nicos acionados por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=botoes-mecanicos-acionados-luz&id=010170260722)
-- [Circuitos eletr�nicos cin�ticos movem-se e se interconectam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-cineticos&id=010110260722)
 - [Dividir para conquistar: o que é e como aplicar essa estratégia](https://www.alura.com.br/artigos/dividir-para-conquistar)
 - [Moonshot AI lança Kimi K3, o maior modelo aberto de IA do mundo](https://www.alura.com.br/artigos/moonshot-ai-lanca-kimi-k3)
 - [Demis Hassabis propõe órgão independente para controlar IA de fronteira](https://www.alura.com.br/artigos/demis-hassabis-propoe-orgao-para-controlar-ia)
 - [Grok Build da xAI enviava repositórios sem permissão](https://www.alura.com.br/artigos/grok-build-enviava-repositorios)
+- [A coisa mais subestimada em quem usa IA no dia a dia: janela de contexto](https://www.alura.com.br/artigos/ia-janela-de-contexto)
+- [Experimentando o Headroom para otimização de uso de tokens](https://www.alura.com.br/artigos/experimentando-o-headroom)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
