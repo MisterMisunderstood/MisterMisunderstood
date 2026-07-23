@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [IA Conference Brasil 2026: vem aí a maior edição do evento!](https://www.alura.com.br/artigos/ia-conference-brasil-2026)
 - [Atualizações da Alura: entenda como as novas formações e ferramentas podem acelerar sua carreira](https://www.alura.com.br/artigos/alura-commit-novidades-da-plataforma)
 - [Calor agora pode ser direcionado e totalmente controlado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-direcionado-controlado&id=010115260723)
 - [Pequenos pontos vermelhos podem ser aglomerados globulares nascendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-pontos-vermelhos&id=010130260723)
 - [Coudflare: o que é, como usar e benefícios](https://www.alura.com.br/artigos/coudflare)
 - [Bot�es mec�nicos acionados por luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=botoes-mecanicos-acionados-luz&id=010170260722)
 - [Circuitos eletr�nicos cin�ticos movem-se e se interconectam](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=circuitos-eletronicos-cineticos&id=010110260722)
-- [Dividir para conquistar: o que é e como aplicar essa estratégia](https://www.alura.com.br/artigos/dividir-para-conquistar)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
