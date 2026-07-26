@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Tapete m�gico demonstra levita��o magn�tica sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-sem-energia&id=010160260724)
-- [Regulamenta��o forte da IA � melhor para consumidores e empresas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=regulamentacao-forte-ia&id=010150260724)
-- [Exolua, a lua de um exoplaneta, desafia defini��es c�smicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exolua-desafia-definicoes&id=010130260724)
 - [IA Conference Brasil 2026: vem aí a maior edição do evento!](https://www.alura.com.br/artigos/ia-conference-brasil-2026)
 - [Atualizações da Alura: entenda como as novas formações e ferramentas podem acelerar sua carreira](https://www.alura.com.br/artigos/alura-commit-novidades-da-plataforma)
-- [Calor agora pode ser direcionado e totalmente controlado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-direcionado-controlado&id=010115260723)
-- [Pequenos pontos vermelhos podem ser aglomerados globulares nascendo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pequenos-pontos-vermelhos&id=010130260723)
+- [Coudflare: o que é, como usar e benefícios](https://www.alura.com.br/artigos/coudflare)
+- [Dividir para conquistar: o que é e como aplicar essa estratégia](https://www.alura.com.br/artigos/dividir-para-conquistar)
+- [Moonshot AI lança Kimi K3, o maior modelo aberto de IA do mundo](https://www.alura.com.br/artigos/moonshot-ai-lanca-kimi-k3)
+- [Demis Hassabis propõe órgão independente para controlar IA de fronteira](https://www.alura.com.br/artigos/demis-hassabis-propoe-orgao-para-controlar-ia)
+- [Grok Build da xAI enviava repositórios sem permissão](https://www.alura.com.br/artigos/grok-build-enviava-repositorios)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
