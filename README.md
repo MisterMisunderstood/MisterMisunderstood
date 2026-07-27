@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [EUA avaliam restringir uso de modelos abertos chineses](https://www.alura.com.br/artigos/eua-avaliam-restringir-uso-de-ias-chinesas)
+- [Claude Fable 5 ajuda matemático a resolver problema de 87 anos](https://www.alura.com.br/artigos/claude-fable-5-ajuda-matematico-a-resolver-problema)
+- [Modelo de IA secreto da OpenAI escapa de teste e invade a Hugging Face](https://www.alura.com.br/artigos/modelo-de-ia-da-openai-escapa)
 - [Luz � desacelerada sob demanda por circuito integrado fot�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-desacelerada-sob-demanda&id=010150260727)
 - [Criado primeiro material qu�ntico que funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-temperatura-ambiente&id=010160260727)
 - [Biofabrica��o: Por que n�o trocamos o petr�leo por f�bricas microbianas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biofabricacao&id=010115260727)
 - [Tapete m�gico demonstra levita��o magn�tica sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-sem-energia&id=010160260724)
-- [Regulamenta��o forte da IA � melhor para consumidores e empresas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=regulamentacao-forte-ia&id=010150260724)
-- [Exolua, a lua de um exoplaneta, desafia defini��es c�smicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=exolua-desafia-definicoes&id=010130260724)
-- [IA Conference Brasil 2026: vem aí a maior edição do evento!](https://www.alura.com.br/artigos/ia-conference-brasil-2026)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
