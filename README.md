@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Idade do Ferro II: Que tal queimar ferro em vez de petr�leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=queimar-ferro&id=010125260728)
+- [Farol de el�trons usa luz para criar e guiar feixes de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=farol-eletrons&id=010110260728)
+- [Motor qu�ntico supercondutor vai turbinar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supercondutor&id=010165260728)
 - [EUA avaliam restringir uso de modelos abertos chineses](https://www.alura.com.br/artigos/eua-avaliam-restringir-uso-de-ias-chinesas)
 - [Claude Fable 5 ajuda matemático a resolver problema de 87 anos](https://www.alura.com.br/artigos/claude-fable-5-ajuda-matematico-a-resolver-problema)
 - [Modelo de IA secreto da OpenAI escapa de teste e invade a Hugging Face](https://www.alura.com.br/artigos/modelo-de-ia-da-openai-escapa)
 - [Luz � desacelerada sob demanda por circuito integrado fot�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-desacelerada-sob-demanda&id=010150260727)
-- [Criado primeiro material qu�ntico que funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-temperatura-ambiente&id=010160260727)
-- [Biofabrica��o: Por que n�o trocamos o petr�leo por f�bricas microbianas?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biofabricacao&id=010115260727)
-- [Tapete m�gico demonstra levita��o magn�tica sem energia externa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=levitacao-magnetica-sem-energia&id=010160260724)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
