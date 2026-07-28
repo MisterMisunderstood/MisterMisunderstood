@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP: o que é, como funciona e diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
+- [Idade do Ferro II: Que tal queimar ferro em vez de petr�leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=queimar-ferro&id=010125260728)
+- [Farol de el�trons usa luz para criar e guiar feixes de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=farol-eletrons&id=010110260728)
+- [Motor qu�ntico supercondutor vai turbinar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supercondutor&id=010165260728)
 - [EUA avaliam restringir uso de modelos abertos chineses](https://www.alura.com.br/artigos/eua-avaliam-restringir-uso-de-ias-chinesas)
 - [Claude Fable 5 ajuda matemático a resolver problema de 87 anos](https://www.alura.com.br/artigos/claude-fable-5-ajuda-matematico-a-resolver-problema)
 - [Modelo de IA secreto da OpenAI escapa de teste e invade a Hugging Face](https://www.alura.com.br/artigos/modelo-de-ia-da-openai-escapa)
-- [IA Conference Brasil 2026: vem aí a maior edição do evento!](https://www.alura.com.br/artigos/ia-conference-brasil-2026)
-- [Atualizações da Alura: entenda como as novas formações e ferramentas podem acelerar sua carreira](https://www.alura.com.br/artigos/alura-commit-novidades-da-plataforma)
-- [Coudflare: o que é, como usar e benefícios](https://www.alura.com.br/artigos/coudflare)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
