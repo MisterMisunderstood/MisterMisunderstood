@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [⁠Product Design: tendências e oportunidades para 2026](https://www.alura.com.br/artigos/product-design-tendencias)
 - [Mudou tudo: Expans�o do Universo parece estar se desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-parece-estar-desacelerando&id=010130260729)
 - [Mem�ria vibrat�ria torna computadores qu�nticos mais poderosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-memoria-vibratoria&id=010150260729)
+- [MCP: o que é, como funciona e principais diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
 - [Idade do Ferro II: Que tal queimar ferro em vez de petr�leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=queimar-ferro&id=010125260728)
 - [Farol de el�trons usa luz para criar e guiar feixes de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=farol-eletrons&id=010110260728)
 - [Motor qu�ntico supercondutor vai turbinar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supercondutor&id=010165260728)
-- [Luz � desacelerada sob demanda por circuito integrado fot�nico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-desacelerada-sob-demanda&id=010150260727)
-- [Criado primeiro material qu�ntico que funciona � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=material-quantico-temperatura-ambiente&id=010160260727)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
