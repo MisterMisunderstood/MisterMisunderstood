@@ -124,7 +124,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP: o que é, como funciona e diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
+- [MCP: o que é, como funciona e principais diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
 - [Idade do Ferro II: Que tal queimar ferro em vez de petr�leo?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=queimar-ferro&id=010125260728)
 - [Farol de el�trons usa luz para criar e guiar feixes de eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=farol-eletrons&id=010110260728)
 - [Motor qu�ntico supercondutor vai turbinar computadores qu�nticos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=motor-quantico-supercondutor&id=010165260728)
