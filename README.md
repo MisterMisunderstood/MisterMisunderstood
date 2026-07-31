@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Manto da invisibilidade t�rmica 3D oculta objetos do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-termica&id=010170260731)
+- [Super seda n�o encolhe e � 50% mais resistente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=super-seda-nao-encolhe&id=010160260731)
 - [Builder: o que é e como se tornar um na era da IA](https://www.alura.com.br/artigos/builder)
 - [Sinais alien�genas podem estar em outras esta��es de r�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-canais-radio&id=010130260730)
 - [P�ndulo de Newton empurrra computadores qu�nticos para novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pendulo-quantico-newton&id=010150260730)
 - [⁠Product Design: tendências e oportunidades para 2026](https://www.alura.com.br/artigos/product-design-tendencias)
 - [Mudou tudo: Expans�o do Universo parece estar se desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-parece-estar-desacelerando&id=010130260729)
-- [Mem�ria vibrat�ria torna computadores qu�nticos mais poderosos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-memoria-vibratoria&id=010150260729)
-- [MCP: o que é, como funciona e principais diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
