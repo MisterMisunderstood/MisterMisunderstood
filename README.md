@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Manto da invisibilidade t�rmica 3D oculta objetos do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-termica&id=010170260731)
+- [Super seda n�o encolhe e � 50% mais resistente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=super-seda-nao-encolhe&id=010160260731)
 - [Builder: o que é e como se tornar um na era da IA](https://www.alura.com.br/artigos/builder)
+- [Sinais alien�genas podem estar em outras esta��es de r�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-canais-radio&id=010130260730)
+- [P�ndulo de Newton empurrra computadores qu�nticos para novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pendulo-quantico-newton&id=010150260730)
 - [⁠Product Design: tendências e oportunidades para 2026](https://www.alura.com.br/artigos/product-design-tendencias)
-- [MCP: o que é, como funciona e principais diferenças](https://www.alura.com.br/artigos/mcp-o-que-e)
-- [EUA avaliam restringir uso de modelos abertos chineses](https://www.alura.com.br/artigos/eua-avaliam-restringir-uso-de-ias-chinesas)
-- [Claude Fable 5 ajuda matemático a resolver problema de 87 anos](https://www.alura.com.br/artigos/claude-fable-5-ajuda-matematico-a-resolver-problema)
-- [Modelo de IA secreto da OpenAI escapa de teste e invade a Hugging Face](https://www.alura.com.br/artigos/modelo-de-ia-da-openai-escapa)
-- [IA Conference Brasil 2026: vem aí a maior edição do evento!](https://www.alura.com.br/artigos/ia-conference-brasil-2026)
+- [Mudou tudo: Expans�o do Universo parece estar se desacelerando](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=universo-parece-estar-desacelerando&id=010130260729)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
