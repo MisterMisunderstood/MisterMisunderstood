@@ -129,8 +129,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Nanorreator imita c�lulas vivas para otimizar fotoss�ntese artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanorreator-fotossintese-artificial&id=010165260803)
 - [Manto da invisibilidade t�rmica 3D oculta objetos do calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=camuflagem-termica&id=010170260731)
 - [Super seda n�o encolhe e � 50% mais resistente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=super-seda-nao-encolhe&id=010160260731)
+- [Builder: o que é e como se tornar um na era da IA](https://www.alura.com.br/artigos/builder)
 - [Sinais alien�genas podem estar em outras esta��es de r�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinais-alienigenas-canais-radio&id=010130260730)
-- [P�ndulo de Newton empurrra computadores qu�nticos para novo patamar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pendulo-quantico-newton&id=010150260730)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
