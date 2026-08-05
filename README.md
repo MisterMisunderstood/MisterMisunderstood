@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Construa sobre a rocha, mas proteja seus edif�cios com areia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amortecedores-areia-edificios&id=010170260805)
+- [Frio do g�s liquefeito pode ser reciclado e virar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=frio-gas-liquefeito-reciclado-virar-eletricidade&id=010115260805)
 - [Estratégia de dados com IA: o que é e como aplicar](https://www.alura.com.br/artigos/estrategia-de-dados-com-ia)
 - [LinkedIn cria botão para denunciar posts feitos por IA](https://www.alura.com.br/artigos/linkedin-cria-botao-para-denunciar-ia)
 - [Professor usa comando oculto e reprova 32 alunos por colar com IA](https://www.alura.com.br/artigos/professor-usa-comando-oculto)
 - [Anthropic lança Claude Opus 5 para empresas e programação](https://www.alura.com.br/artigos/anthropic-lanca-claude-opus-5-para-empresas-e-programacao)
 - [Lente in�dita viabiliza imageamento com n�utrons, superior aos raios X](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imageamento-neutrons&id=010160260804)
-- [Computadores qu�nticos tamb�m sofrer�o da tela azul da morte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computadores-quanticos-vao-travar&id=010150260804)
-- [Novos conhecimentos sobre Universo exigir�o ouvir som dos buracos negros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=som-dos-buracos-negros&id=010130260804)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
