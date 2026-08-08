@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [A elite da IA está deixando a Google? | Fabrício Carraro opina](https://www.alura.com.br/artigos/a-elite-da-ia-esta-deixando-a-google)
 - [Buracos negros podem expulsar at� metade da mat�ria que cai neles](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-expulsa-materia-cai-nele&id=010130260807)
 - [Entrela�amento qu�ntico � gerado usando luz do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-luz-solar&id=010150260807)
-- [MVP com IA: o que é e como criar o seu passo a passo](https://www.alura.com.br/artigos/mvp-com-ia)
 - [Fibra optoac�stica carrega luz e som para computa��o neurom�rfica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibra-optica-optoacustica&id=010110260806)
 - [Efeitos qu�nticos est�o viabilizando materiais tudo em um](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-tudo-um&id=010165260806)
-- [Como usar o Claude Code no Windows para aumentar produtividade?](https://www.alura.com.br/artigos/como-usar-o-claude-code-no-windows)
+- [Construa sobre a rocha, mas proteja seus edif�cios com areia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=amortecedores-areia-edificios&id=010170260805)
+- [Frio do g�s liquefeito pode ser reciclado e virar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=frio-gas-liquefeito-reciclado-virar-eletricidade&id=010115260805)
+- [Lente in�dita viabiliza imageamento com n�utrons, superior aos raios X](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imageamento-neutrons&id=010160260804)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
