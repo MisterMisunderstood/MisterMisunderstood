@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Reestruturação no Google DeepMind muda comando da divisão de IA](https://www.alura.com.br/artigos/reestruturacao-no-google-deepmind)
+- [ChatGPT começa a testar anúncios para usuários no Brasil](https://www.alura.com.br/artigos/chatgpt-comeca-a-testar-anuncios-para-usuarios-no-brasil)
+- [OpenAI revela Astra, modelo que avançou em dez problemas matemáticos](https://www.alura.com.br/artigos/openai-revela-astra)
 - [Computa��o f�sica � feita por part�culas soltas em um l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-fisica-particulas-liquido&id=010150260810)
 - [Micromotor a �gua faz tecelagem e microfabrica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micromotor-agua&id=010170260810)
 - [Conhe�a os biometais, mais um presente da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-biometal&id=010160260810)
 - [A elite da IA está deixando a Google? | Fabrício Carraro opina](https://www.alura.com.br/artigos/a-elite-da-ia-esta-deixando-a-google)
-- [Buracos negros podem expulsar at� metade da mat�ria que cai neles](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-expulsa-materia-cai-nele&id=010130260807)
-- [Entrela�amento qu�ntico � gerado usando luz do Sol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-quantico-luz-solar&id=010150260807)
-- [MVP com IA: o que é e como criar o seu passo a passo](https://www.alura.com.br/artigos/mvp-com-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
