@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Gota de metal energizada triplica for�a de m�sculos artificiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-metal-energizada&id=010180260811)
+- [Propriedade oculta da luz protege informa��o qu�ntica at� mesmo do caos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propriedade-oculta-luz&id=010150260811)
+- [Fun��o de onda do el�tron � fotografada em 3D pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=funcao-onda-eletrons&id=010165260811)
 - [Reestruturação no Google DeepMind muda comando da divisão de IA](https://www.alura.com.br/artigos/reestruturacao-no-google-deepmind)
 - [ChatGPT começa a testar anúncios para usuários no Brasil](https://www.alura.com.br/artigos/chatgpt-comeca-a-testar-anuncios-para-usuarios-no-brasil)
 - [OpenAI revela Astra, modelo que avançou em dez problemas matemáticos](https://www.alura.com.br/artigos/openai-revela-astra)
 - [Computa��o f�sica � feita por part�culas soltas em um l�quido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-fisica-particulas-liquido&id=010150260810)
-- [Micromotor a �gua faz tecelagem e microfabrica��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=micromotor-agua&id=010170260810)
-- [Conhe�a os biometais, mais um presente da natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-biometal&id=010160260810)
-- [A elite da IA está deixando a Google? | Fabrício Carraro opina](https://www.alura.com.br/artigos/a-elite-da-ia-esta-deixando-a-google)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
