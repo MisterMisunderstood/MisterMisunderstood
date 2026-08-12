@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira](https://www.alura.com.br/artigos/atualizacoes-da-alura-2)
 - ["Trabalhar de forma síncrona com 20 agentes vai te deixar exausto", diz Matt Velloso, ex-Meta, Microsoft e Google](https://www.alura.com.br/artigos/trabalhar-de-forma-sincrona-com-20-agentes-vai-te-deixar-exausto)
 - [Extra��o de energia de buraco negro come�a a ser testada em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=extracao-energia-buraco-negro&id=010170260812)
 - [Tijolo de cer�mica porosa esfria casas sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tijolo-ceramica-esfria-sem-gastar-energia&id=010125260812)
 - [Como preparar dados para aplicações com LLMs: o guia completo](https://www.alura.com.br/artigos/estrategia-de-dados-para-llm)
 - [Um guia prático de problemas que podem ser resolvidos com IA](https://www.alura.com.br/artigos/problemas-que-podem-ser-resolvidos-com-ia)
 - [Entenda a diferença entre engenharia de prompt vs engenharia de agentes](https://www.alura.com.br/artigos/engenharia-de-prompt-vs-engenharia-de-agentes)
-- [Gota de metal energizada triplica for�a de m�sculos artificiais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=gota-metal-energizada&id=010180260811)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
