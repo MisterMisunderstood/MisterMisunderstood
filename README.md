@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- ["Ética em IA também é engenharia", diz Andressa Freires, da diversiData](https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia)
 - [Criado primeiro maser semicondutor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maser-semicondutor&id=010115260813)
 - [Trans�stor org�nico adapta-se para monitorar sua sa�de](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-organico-adaptativo&id=010110260813)
-- [Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira](https://www.alura.com.br/artigos/atualizacoes-da-alura-2)
+- [Atualizações da Alura #2: IA, carreiras e funcionalidades para sua jornada](https://www.alura.com.br/artigos/atualizacoes-da-alura-2)
 - ["Trabalhar de forma síncrona com 20 agentes vai te deixar exausto", diz Matt Velloso, ex-Meta, Microsoft e Google](https://www.alura.com.br/artigos/trabalhar-de-forma-sincrona-com-20-agentes-vai-te-deixar-exausto)
 - [Extra��o de energia de buraco negro come�a a ser testada em laborat�rio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=extracao-energia-buraco-negro&id=010170260812)
 - [Tijolo de cer�mica porosa esfria casas sem gastar energia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tijolo-ceramica-esfria-sem-gastar-energia&id=010125260812)
-- [Como preparar dados para aplicações com LLMs: o guia completo](https://www.alura.com.br/artigos/estrategia-de-dados-para-llm)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
