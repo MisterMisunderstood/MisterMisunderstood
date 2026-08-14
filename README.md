@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- ["O gargalo hoje é saber o que fazer", diz Filipe Lauar, engenheiro de IA na Enter e host do podcast Vida com IA](https://www.alura.com.br/artigos/o-gargalo-hoje-e-saber-o-que-fazer-diz-filipe-lauar)
 - [Astr�nomos prop�em exist�ncia de estrela buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-buraco-negro&id=010130260814)
 - [Lente flex�vel ajusta o foco de modo parecido com olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-flexivel-ajusta-foco-eletronicamente&id=010160260814)
 - ["Ética em IA também é engenharia", diz Andressa Freires, da diversiData](https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia)
 - [Criado primeiro maser semicondutor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maser-semicondutor&id=010115260813)
 - [Trans�stor org�nico adapta-se para monitorar sua sa�de](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-organico-adaptativo&id=010110260813)
 - [Atualizações da Alura #2: IA, carreiras e funcionalidades para sua jornada](https://www.alura.com.br/artigos/atualizacoes-da-alura-2)
-- ["Trabalhar de forma síncrona com 20 agentes vai te deixar exausto", diz Matt Velloso, ex-Meta, Microsoft e Google](https://www.alura.com.br/artigos/trabalhar-de-forma-sincrona-com-20-agentes-vai-te-deixar-exausto)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
