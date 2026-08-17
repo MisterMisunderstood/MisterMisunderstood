@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI lança modo Ultrafast do GPT-5.6 Sol, 14x mais rápido](https://www.alura.com.br/artigos/openai-lanca-modo-ultrafast)
+- [Google DeepMind testa IA médica que analisa vídeo em tempo real](https://www.alura.com.br/artigos/google-deepmind-testa-ia-medica)
+- [Google DeepMind lança IA que traduz língua de sinais em texto](https://www.alura.com.br/artigos/ia-que-traduz-lingua-de-sinais-em-texto)
+- [Anthropic irá marcar textos de IA do Claude com marca d'água invisível](https://www.alura.com.br/artigos/anthropic-ira-marcar-textos-de-ia-do-claude-com-marca-dagua-invisivel)
 - [T�mpera por luz muda metais alterando seus el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tempera-luz&id=010170260817)
 - [Metassuperf�cies ganham p�xeis e inauguram fot�nica interativa](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metassuperficies-ganham-pixeis&id=010150260817)
 - [Detectado buraco negro "errante" na borda de uma gal�xia](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=buraco-negro-errante&id=010130260817)
-- ["O gargalo hoje é saber o que fazer", diz Filipe Lauar, engenheiro de IA na Enter e host do podcast Vida com IA](https://www.alura.com.br/artigos/o-gargalo-hoje-e-saber-o-que-fazer-diz-filipe-lauar)
-- [Astr�nomos prop�em exist�ncia de estrela buraco negro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estrela-buraco-negro&id=010130260814)
-- [Lente flex�vel ajusta o foco de modo parecido com olho humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lente-flexivel-ajusta-foco-eletronicamente&id=010160260814)
-- ["Ética em IA também é engenharia", diz Andressa Freires, da diversiData](https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
