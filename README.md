@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Quality: o que é e como garantir dados confiáveis](https://www.alura.com.br/artigos/qualidades-dos-dados)
 - [Microsc�pio computacional captura 25 bilh�es de p�xeis por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-computacional&id=010165260818)
 - [Sensor mecanocr�mico funde vis�o e tato em um �nico sentido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-mecanocromico&id=010180260818)
 - [Cristal do tempo fot�nico molda a luz em ultravelocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-fotonico&id=010160260818)
 - [OpenAI lança modo Ultrafast do GPT-5.6 Sol, 14x mais rápido](https://www.alura.com.br/artigos/openai-lanca-modo-ultrafast)
 - [Google DeepMind testa IA médica que analisa vídeo em tempo real](https://www.alura.com.br/artigos/google-deepmind-testa-ia-medica)
 - [Google DeepMind lança IA que traduz língua de sinais em texto](https://www.alura.com.br/artigos/ia-que-traduz-lingua-de-sinais-em-texto)
-- [Anthropic irá marcar textos de IA do Claude com marca d'água invisível](https://www.alura.com.br/artigos/anthropic-ira-marcar-textos-de-ia-do-claude-com-marca-dagua-invisivel)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
