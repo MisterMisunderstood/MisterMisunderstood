@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Apagador: Criado componente semicondutor especializado em esquecer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-semicondutor-esquece&id=010110260820)
+- [Enzima artificial faz qu�mica com oxig�nio, gerando apenas �gua como res�duo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enzima-artificial&id=010125260820)
 - [Tipos de agentes de IA: exemplos práticos e ferramentas](https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia)
 - [Flexoeletricidade: Enrugar o grafeno produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flexoeletricidade-enrugar-grafeno-produz-eletricidade&id=010115260819)
 - [Catalisador barato converte CO2 em etanol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=catalisador-converte-co2-etanol&id=010125260819)
 - [Data Quality: o que é e como garantir dados confiáveis](https://www.alura.com.br/artigos/qualidades-dos-dados)
 - [Microsc�pio computacional captura 25 bilh�es de p�xeis por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-computacional&id=010165260818)
-- [Sensor mecanocr�mico funde vis�o e tato em um �nico sentido](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-mecanocromico&id=010180260818)
-- [Cristal do tempo fot�nico molda a luz em ultravelocidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-fotonico&id=010160260818)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
