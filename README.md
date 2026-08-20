@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Apagador: Criado componente semicondutor especializado em esquecer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-semicondutor-esquece&id=010110260820)
+- [Enzima artificial faz qu�mica com oxig�nio, gerando apenas �gua como res�duo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enzima-artificial&id=010125260820)
 - [Tipos de agentes de IA: exemplos práticos e ferramentas](https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia)
+- [Flexoeletricidade: Enrugar o grafeno produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flexoeletricidade-enrugar-grafeno-produz-eletricidade&id=010115260819)
+- [Catalisador barato converte CO2 em etanol](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=catalisador-converte-co2-etanol&id=010125260819)
 - [Data Quality: o que é e como garantir dados confiáveis](https://www.alura.com.br/artigos/qualidades-dos-dados)
-- [OpenAI lança modo Ultrafast do GPT-5.6 Sol, 14x mais rápido](https://www.alura.com.br/artigos/openai-lanca-modo-ultrafast)
-- [Google DeepMind testa IA médica que analisa vídeo em tempo real](https://www.alura.com.br/artigos/google-deepmind-testa-ia-medica)
-- [Google DeepMind lança IA que traduz língua de sinais em texto](https://www.alura.com.br/artigos/ia-que-traduz-lingua-de-sinais-em-texto)
-- [Anthropic irá marcar textos de IA do Claude com marca d'água invisível](https://www.alura.com.br/artigos/anthropic-ira-marcar-textos-de-ia-do-claude-com-marca-dagua-invisivel)
-- ["O gargalo hoje é saber o que fazer", diz Filipe Lauar, engenheiro de IA na Enter e host do podcast Vida com IA](https://www.alura.com.br/artigos/o-gargalo-hoje-e-saber-o-que-fazer-diz-filipe-lauar)
+- [Microsc�pio computacional captura 25 bilh�es de p�xeis por segundo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-computacional&id=010165260818)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
