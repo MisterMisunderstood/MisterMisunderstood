@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Liga de alum�nio fundido atinge n�vel para aplica��es automotivas e aeron�uticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=liga-aluminio-fundido&id=010170260821)
+- [Para uma nanotecnologia melhor, troque a fita adesiva por mica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mica-impulsiona-nanotecnologia&id=010165260821)
 - [8 ferramentas de IA para pesquisa científica e como usar](https://www.alura.com.br/artigos/ia-para-pesquisa-cientifica)
+- [Apagador: Criado componente semicondutor especializado em esquecer](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-semicondutor-esquece&id=010110260820)
+- [Enzima artificial faz qu�mica com oxig�nio, gerando apenas �gua como res�duo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=enzima-artificial&id=010125260820)
 - [Tipos de agentes de IA: exemplos práticos e ferramentas](https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia)
-- [Data Quality: o que é e como garantir dados confiáveis](https://www.alura.com.br/artigos/qualidades-dos-dados)
-- [OpenAI lança modo Ultrafast do GPT-5.6 Sol, 14x mais rápido](https://www.alura.com.br/artigos/openai-lanca-modo-ultrafast)
-- [Google DeepMind testa IA médica que analisa vídeo em tempo real](https://www.alura.com.br/artigos/google-deepmind-testa-ia-medica)
-- [Google DeepMind lança IA que traduz língua de sinais em texto](https://www.alura.com.br/artigos/ia-que-traduz-lingua-de-sinais-em-texto)
-- [Anthropic irá marcar textos de IA do Claude com marca d'água invisível](https://www.alura.com.br/artigos/anthropic-ira-marcar-textos-de-ia-do-claude-com-marca-dagua-invisivel)
+- [Flexoeletricidade: Enrugar o grafeno produz eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=flexoeletricidade-enrugar-grafeno-produz-eletricidade&id=010115260819)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
