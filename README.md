@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Arquitetura de dados para IA: um guia para construir soluções escaláveis e confiáveis](https://www.alura.com.br/artigos/arquitetura-de-dados-para-ia)
+- [Voc� est� pronto para comer um biscoito de pl�stico reciclado?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biscoito-comestivel-plastico-reciclado&id=010125260825)
+- [Eletr�nica molecular finalmente chega ao n�vel dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-molecular-chips&id=010110260825)
+- [LHC cria mini Big Bang para estudar nascimento do Universo e dos �tomos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mini-big-bang-lhc&id=010130260825)
 - [Brasil anuncia pacote de R$ 2,5 bi para IA e supercomputador no RN](https://www.alura.com.br/artigos/brasil-anuncia-pacote-de-r-25-bi-para-ia-e-supercomputador-no-rn)
 - [Google libera Gemini gratuitamente para estudantes por 12 meses](https://www.alura.com.br/artigos/google-libera-gemini-gratuitamente-para-estudantes-por-12-meses)
 - [Brasil lidera o mundo em mensagens e criação de imagens no ChatGPT](https://www.alura.com.br/artigos/brasil-lidera-uso-no-chatgpt)
-- [8 ferramentas de IA para pesquisa científica e como usar](https://www.alura.com.br/artigos/ia-para-pesquisa-cientifica)
-- [Tipos de agentes de IA: exemplos práticos e ferramentas](https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia)
-- [Data Quality: o que é e como garantir dados confiáveis](https://www.alura.com.br/artigos/qualidades-dos-dados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
