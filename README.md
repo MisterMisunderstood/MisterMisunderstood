@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Estratégia de dados para LLM: guia completo](https://www.alura.com.br/artigos/estrategia-de-dados-para-llm-guia-completo)
-- [Sistema de energia h�brido produz eletricidade, aquecimento e refrigera��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistema-energia-hibrido&id=010115260826)
-- [Entrela�amento qu�ntico demonstrado em cristal que cabe na palma da m�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=entrelacamento-cristal-palma-mao&id=010165260826)
-- [O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science](https://www.alura.com.br/artigos/o-ecossistema-de-oci-ai)
-- [Arquitetura de dados para IA: um guia para construir soluções escaláveis e confiáveis](https://www.alura.com.br/artigos/arquitetura-de-dados-para-ia)
-- [Voc� est� pronto para comer um biscoito de pl�stico reciclado?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biscoito-comestivel-plastico-reciclado&id=010125260825)
-- [Eletr�nica molecular finalmente chega ao n�vel dos chips](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronica-molecular-chips&id=010110260825)
+- [Agentic Engineering: o curso de agentes da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-agentic-engineering)
+- [Alura Signals Experience: 2 dias para aprender a ler os sinais da IA](https://www.alura.com.br/artigos/alura-signals-experience)
+- [AI Data Strategy: o curso de dados com IA da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-ai-data-strategy)
+- [Building AI Products: o curso de produtos com IA da Alura](https://www.alura.com.br/artigos/o-que-e-building-ai-products)
+- [ROI com IA: como medir o retorno dos investimentos com Inteligência Artificial](https://www.alura.com.br/artigos/como-medir-roi-de-ai-data-strategy)
+- [Trov�omoto: Ge�logos medem terremotos gerados por trov�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trovaomoto&id=010125260827)
+- [Revestimento transforma defeito em vantagem e retira 5,5 vezes mais calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-retira-5-5-vezes-mais-calor&id=010170260827)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
