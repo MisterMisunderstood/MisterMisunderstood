@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Vantagem dos computadores qu�nticos est� mais distante do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vantagem-quantica-mais-distante&id=010150260828)
+- [Diamante � caro? Ent�o que tal um comp�sito de diamante?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compositos-diamante&id=010160260828)
 - [Agentic Engineering: o curso de agentes da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-agentic-engineering)
 - [Alura Signals Experience: 2 dias para aprender a ler os sinais da IA](https://www.alura.com.br/artigos/alura-signals-experience)
 - [AI Data Strategy: o curso de dados com IA da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-ai-data-strategy)
 - [Building AI Products: o curso de produtos com IA da Alura](https://www.alura.com.br/artigos/o-que-e-building-ai-products)
 - [ROI com IA: como medir o retorno dos investimentos com Inteligência Artificial](https://www.alura.com.br/artigos/como-medir-roi-de-ai-data-strategy)
-- [Trov�omoto: Ge�logos medem terremotos gerados por trov�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=trovaomoto&id=010125260827)
-- [Revestimento transforma defeito em vantagem e retira 5,5 vezes mais calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=revestimento-retira-5-5-vezes-mais-calor&id=010170260827)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
