@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor", diz Gabriel Pimenta, da Dharma-AI](https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai)
 - [“Soberania não se mede por onde o servidor está e sim por quanto custa mudar de ideia", diz Ana Paula Appel, da Red Hat](https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat)
 - [''Especializar um modelo aberto quase sempre é mais barato, mas isso nos deixa dependentes", diz Thiago Laitz, do Sabiá](https://www.alura.com.br/artigos/especializar-um-modelo-aberto-thiago-laitz-do-sabia)
+- [Vantagem dos computadores qu�nticos est� mais distante do que se pensava](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vantagem-quantica-mais-distante&id=010150260828)
+- [Diamante � caro? Ent�o que tal um comp�sito de diamante?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=compositos-diamante&id=010160260828)
 - [Agentic Engineering: o curso de agentes da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-agentic-engineering)
-- [Alura Signals Experience: 2 dias para aprender a ler os sinais da IA](https://www.alura.com.br/artigos/alura-signals-experience)
-- [AI Data Strategy: o curso de dados com IA da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-ai-data-strategy)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
