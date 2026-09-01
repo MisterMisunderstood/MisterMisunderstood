@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA compra Hugging Face por US$ 12,9 bilhões](https://www.alura.com.br/artigos/nvidia-compra-hugging-face)
+- [Como abrir Claude Code no Windows](https://www.alura.com.br/artigos/como-abrir-claude-code-no-windows)
+- [ChatGPT agora faz login em sites para realizar tarefas por você](https://www.alura.com.br/artigos/chatgpt-agora-faz-login-em-sites)
 - [Agentes de IA da OpenAI driblam testes e invadem Hugging Face](https://www.alura.com.br/artigos/agentes-de-ia-da-openai-driblam-testes)
-- ["O gargalo hoje é treinamento e acesso a ferramentas de ponta", diz Luiz Felipe Couto, embaixador da Anthropic no Brasil](https://www.alura.com.br/artigos/o-gargalo-hoje-e-treinamento-e-acesso-a-ferramentas-de-ponta-luiz-felipe-couto)
-- [''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor", diz Gabriel Pimenta, da Dharma-AI](https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai)
-- [“Soberania não se mede por onde o servidor está e sim por quanto custa mudar de ideia", diz Ana Paula Appel, da Red Hat](https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat)
-- [''Especializar um modelo aberto quase sempre é mais barato, mas isso nos deixa dependentes", diz Thiago Laitz, do Sabiá](https://www.alura.com.br/artigos/especializar-um-modelo-aberto-thiago-laitz-do-sabia)
-- [Agentic Engineering: o curso de agentes da Alura + FIAP](https://www.alura.com.br/artigos/o-que-e-agentic-engineering)
-- [Alura Signals Experience: 2 dias para aprender a ler os sinais da IA](https://www.alura.com.br/artigos/alura-signals-experience)
+- [Espa�o n�o � vazio e altera comportamento da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vacuo-altera-comportamento-luz&id=010130260901)
+- [Sabe o efeito na bola de futebol? Ele tamb�m acontece no reino qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-magnus-quantico&id=010165260901)
+- [Rob�-peixe pode crescer sem mudan�as no projeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-cresce-sem-mudar-projeto&id=010180260901)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
