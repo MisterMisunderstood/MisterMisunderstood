@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Atualizações da Alura #3: carreiras, eventos e novas comunidades](https://www.alura.com.br/artigos/atualizacoes-da-alura-3-carreiras-eventos-e-novas-comunidades)
 - [Como otimizar a lógica interna de produtos de IA](https://www.alura.com.br/artigos/como-otimizar-logica-interna-do-produto-de-ia)
+- [Eletrodos de bismuto extraem magn�sio da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=extrair-magnesio-agua-mar&id=010160260902)
+- [Nova teoria permitir� projetar motores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-motores-luz&id=010170260902)
 - [NVIDIA compra Hugging Face por US$ 12,9 bilhões](https://www.alura.com.br/artigos/nvidia-compra-hugging-face)
 - [Como abrir Claude Code no Windows](https://www.alura.com.br/artigos/como-abrir-claude-code-no-windows)
 - [ChatGPT agora faz login em sites para realizar tarefas por você](https://www.alura.com.br/artigos/chatgpt-agora-faz-login-em-sites)
-- [Agentes de IA da OpenAI driblam testes e invadem Hugging Face](https://www.alura.com.br/artigos/agentes-de-ia-da-openai-driblam-testes)
-- ["O gargalo hoje é treinamento e acesso a ferramentas de ponta", diz Luiz Felipe Couto, embaixador da Anthropic no Brasil](https://www.alura.com.br/artigos/o-gargalo-hoje-e-treinamento-e-acesso-a-ferramentas-de-ponta-luiz-felipe-couto)
-- [''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor", diz Gabriel Pimenta, da Dharma-AI](https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
