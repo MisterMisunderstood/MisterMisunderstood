@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Eletrodos de bismuto extraem magn�sio da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=extrair-magnesio-agua-mar&id=010160260902)
+- [Nova teoria permitir� projetar motores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-motores-luz&id=010170260902)
 - [NVIDIA compra Hugging Face por US$ 12,9 bilhões](https://www.alura.com.br/artigos/nvidia-compra-hugging-face)
 - [Como abrir Claude Code no Windows](https://www.alura.com.br/artigos/como-abrir-claude-code-no-windows)
 - [ChatGPT agora faz login em sites para realizar tarefas por você](https://www.alura.com.br/artigos/chatgpt-agora-faz-login-em-sites)
 - [Agentes de IA da OpenAI driblam testes e invadem Hugging Face](https://www.alura.com.br/artigos/agentes-de-ia-da-openai-driblam-testes)
 - [Espa�o n�o � vazio e altera comportamento da luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=vacuo-altera-comportamento-luz&id=010130260901)
-- [Sabe o efeito na bola de futebol? Ele tamb�m acontece no reino qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=efeito-magnus-quantico&id=010165260901)
-- [Rob�-peixe pode crescer sem mudan�as no projeto](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-cresce-sem-mudar-projeto&id=010180260901)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
