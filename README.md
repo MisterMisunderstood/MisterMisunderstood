@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Princ�pio da equival�ncia de Einstein � comprovado na escala qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=principio-equivalencia-einstein-reino-quantico&id=010130260903)
+- [Luz e escurid�o controlam estrutura de material optoeletr�nico promissor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-escuridao-controlam-material&id=010110260903)
 - [Atualizações da Alura #3: carreiras, eventos e novas comunidades](https://www.alura.com.br/artigos/atualizacoes-da-alura-3-carreiras-eventos-e-novas-comunidades)
 - [Como otimizar a lógica interna de produtos de IA](https://www.alura.com.br/artigos/como-otimizar-logica-interna-do-produto-de-ia)
 - [Eletrodos de bismuto extraem magn�sio da �gua do mar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=extrair-magnesio-agua-mar&id=010160260902)
 - [Nova teoria permitir� projetar motores de luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-motores-luz&id=010170260902)
 - [NVIDIA compra Hugging Face por US$ 12,9 bilhões](https://www.alura.com.br/artigos/nvidia-compra-hugging-face)
-- [Como abrir Claude Code no Windows](https://www.alura.com.br/artigos/como-abrir-claude-code-no-windows)
-- [ChatGPT agora faz login em sites para realizar tarefas por você](https://www.alura.com.br/artigos/chatgpt-agora-faz-login-em-sites)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
