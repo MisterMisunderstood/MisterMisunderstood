@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Propuls�o s�nica impulsiona rob�s sem motores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsao-sonica-robos&id=010180260908)
+- [Bug em software invalida questionamento sobre descobertas cient�ficas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ciencia-disruptiva&id=010150260908)
 - [Nanoci�ncia une-se aos cristais l�quidos para criar materiais multifuncionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanociencia-une-se-cristais-liquidos&id=010165260904)
 - [�ltima unidade baseada na percep��o humana, candela mostra seus limites](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=candela-unidade-internacional-luz&id=010115260904)
 - [Agente de IA vs. chatbot: como se relacionam e quando usar cada um](https://www.alura.com.br/artigos/agente-de-ia-vs-chatbot-diferencas-usos-e-integracao)
 - [Princ�pio da equival�ncia de Einstein � comprovado na escala qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=principio-equivalencia-einstein-reino-quantico&id=010130260903)
 - [Luz e escurid�o controlam estrutura de material optoeletr�nico promissor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-escuridao-controlam-material&id=010110260903)
-- [Atualizações da Alura #3: carreiras, eventos e novas comunidades](https://www.alura.com.br/artigos/atualizacoes-da-alura-3-carreiras-eventos-e-novas-comunidades)
-- [Como otimizar a lógica interna de produtos de IA](https://www.alura.com.br/artigos/como-otimizar-logica-interna-do-produto-de-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
