@@ -124,8 +124,8 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Criado tit�nio que flutua na �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=titanio-flutuante&id=010170260909)
-- [Como as f�bricas de cimento podem remover CO2 da atmosfera?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricas-cimento-remover-co2-atmosfera&id=010125260909)
+- [Alura abre imersão gratuita de engenharia de dados com IA](https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao)
+- [Token de IA: o que é, como funciona e por que importa hoje](https://www.alura.com.br/artigos/token-de-ia)
 - [DeepMind: o que é, como funciona e aplicações práticas](https://www.alura.com.br/artigos/google-deepmind)
 - ["A IA pode apoiar a decisão, mas o julgamento e a responsabilidade final permanecem humanos", diz Vinícius Caridá, especialista executivo de IA e Dados do Itaú](https://www.alura.com.br/artigos/a-ia-pode-apoiar-a-decisao-mas-o-julgamento-e-a-responsabilidade-final-permanecem-humanos)
 - [OpenAI lança GPT-6 Astra e supera Claude Fable em benchmarks](https://www.alura.com.br/artigos/openai-lanca-gpt-6-astra-e-supera-claude-fable-em-benchmarks)
