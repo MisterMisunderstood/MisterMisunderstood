@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Anthropic lança Claude Fable 5.1 com foco em programação e ciência](https://www.alura.com.br/artigos/anthropic-lanca-claude-fable-5-1-com-foco-em-programacao-e-ciencia)
 - [Google lança Gemini 3.8 Flash focado em agentes e cibersegurança](https://www.alura.com.br/artigos/google-lanca-gemini-3-8-flash-focado-em-agentes-e-ciberseguranca)
 - [Google mapeia o cérebro completo de uma mosca com ajuda de IA](https://www.alura.com.br/artigos/google-mapeia-o-cerebro-completo-de-uma-mosca-com-ajuda-de-ia)
-- [Propuls�o s�nica impulsiona rob�s sem motores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=propulsao-sonica-robos&id=010180260908)
+- [Agente de IA vs. chatbot: como se relacionam e quando usar cada um](https://www.alura.com.br/artigos/agente-de-ia-vs-chatbot-diferencas-usos-e-integracao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
