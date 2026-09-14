@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Freio magn�tico breca naves na reentrada na atmosfera](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=freio-magnetico-naves-reentrada&id=010130260911)
-- [Improv�vel trans�stor de bismuto rompe limite f�sico dos semicondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=improvavel-transistor-bismuto&id=010110260911)
 - [Como usar IA para revisar código: guia completo de code review](https://www.alura.com.br/artigos/como-usar-ia-para-revisar-codigo)
-- [Cor sem tinta fica brilhante, dur�vel e pronta para carros e avi�es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cor-estrutural-carros-avioes&id=010165260910)
-- [Cascas de ovos inspiram material anti-impacto para naves e sat�lites](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovos-anti-impacto&id=010170260910)
 - [Alura abre imersão gratuita de engenharia de dados com IA](https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao)
 - [Token de IA: o que é, como funciona e por que importa hoje](https://www.alura.com.br/artigos/token-de-ia)
+- [DeepMind: o que é, como funciona e aplicações práticas](https://www.alura.com.br/artigos/google-deepmind)
+- ["A IA pode apoiar a decisão, mas o julgamento e a responsabilidade final permanecem humanos", diz Vinícius Caridá, especialista executivo de IA e Dados do Itaú](https://www.alura.com.br/artigos/a-ia-pode-apoiar-a-decisao-mas-o-julgamento-e-a-responsabilidade-final-permanecem-humanos)
+- [OpenAI lança GPT-6 Astra e supera Claude Fable em benchmarks](https://www.alura.com.br/artigos/openai-lanca-gpt-6-astra-e-supera-claude-fable-em-benchmarks)
+- [Anthropic lança Claude Fable 5.1 com foco em programação e ciência](https://www.alura.com.br/artigos/anthropic-lanca-claude-fable-5-1-com-foco-em-programacao-e-ciencia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
