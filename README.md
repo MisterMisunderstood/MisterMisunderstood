@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI pode ter resolvido o problema de Navier-Stokes](https://www.alura.com.br/artigos/openai-pode-ter-resolvido-o-problema-de-navier-stokes)
 - [DeepSeek lança nova IA mais rápida e com custo reduzido](https://www.alura.com.br/artigos/deepseek-lanca-nova-ia-mais-rapida-e-com-custo-reduzido)
 - [Pesquisador da Anthropic se demite alegando risco de IA descontrolada](https://www.alura.com.br/artigos/pesquisador-da-anthropic-se-demite-alegando-risco-de-ia-descontrolada)
 - [Mem�ria na mat�ria tem plasticidade e n�o perde dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=memoria-associativa-plasticidade&id=010150260914)
 - [Luz gera magnetismo sem �m�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-gera-magnetismo-sem-imas&id=010115260914)
 - [Impress�o 3D com gelo tem aplica��es, derretam ou n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=impressao-3d-gelo-tem-aplicacoes-derretam-ou-nao&id=010170260914)
 - [Freio magn�tico breca naves na reentrada na atmosfera](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=freio-magnetico-naves-reentrada&id=010130260911)
-- [Improv�vel trans�stor de bismuto rompe limite f�sico dos semicondutores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=improvavel-transistor-bismuto&id=010110260911)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
