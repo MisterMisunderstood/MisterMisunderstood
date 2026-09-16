@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Proliferação de agentes de IA: entenda o agent sprawl](https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia)
-- [Para-choques de espuma met�lica tornam carros mais seguros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-choque-espuma-metalica&id=010170260915)
-- [LEDs permitem que arque�logos vejam o passado sob uma nova luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-arqueologia-multiespectral&id=010125260915)
-- [Baterias de fluxo melhoram 50% com eletrodo inspirado na natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrodo-baterias-fluxo&id=010115260915)
 - [OpenAI pode ter resolvido o problema de Navier-Stokes](https://www.alura.com.br/artigos/openai-pode-ter-resolvido-o-problema-de-navier-stokes)
 - [DeepSeek lança nova IA mais rápida e com custo reduzido](https://www.alura.com.br/artigos/deepseek-lanca-nova-ia-mais-rapida-e-com-custo-reduzido)
 - [Pesquisador da Anthropic se demite alegando risco de IA descontrolada](https://www.alura.com.br/artigos/pesquisador-da-anthropic-se-demite-alegando-risco-de-ia-descontrolada)
+- [Como usar IA para revisar código: guia completo de code review](https://www.alura.com.br/artigos/como-usar-ia-para-revisar-codigo)
+- [Alura abre imersão gratuita de engenharia de dados com IA](https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao)
+- [Token de IA: o que é, como funciona e por que importa hoje](https://www.alura.com.br/artigos/token-de-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
