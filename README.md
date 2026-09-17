@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
 - [Branco estrutural dispensa qu�micos e traz outras vantagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=branco-estrutural&id=010160260916)
 - [Rob� flex�vel movido a luz continua pulando para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-flexivel-movido-luz-continua-pulando-sempre&id=010180260916)
 - [Proliferação de agentes de IA: entenda o agent sprawl](https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia)
 - [Para-choques de espuma met�lica tornam carros mais seguros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=para-choque-espuma-metalica&id=010170260915)
 - [LEDs permitem que arque�logos vejam o passado sob uma nova luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-arqueologia-multiespectral&id=010125260915)
 - [Baterias de fluxo melhoram 50% com eletrodo inspirado na natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletrodo-baterias-fluxo&id=010115260915)
-- [OpenAI pode ter resolvido o problema de Navier-Stokes](https://www.alura.com.br/artigos/openai-pode-ter-resolvido-o-problema-de-navier-stokes)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
