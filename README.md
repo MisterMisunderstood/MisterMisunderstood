@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
 - [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
 - [Proliferação de agentes de IA: entenda o agent sprawl](https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia)
 - [OpenAI pode ter resolvido o problema de Navier-Stokes](https://www.alura.com.br/artigos/openai-pode-ter-resolvido-o-problema-de-navier-stokes)
 - [DeepSeek lança nova IA mais rápida e com custo reduzido](https://www.alura.com.br/artigos/deepseek-lanca-nova-ia-mais-rapida-e-com-custo-reduzido)
 - [Pesquisador da Anthropic se demite alegando risco de IA descontrolada](https://www.alura.com.br/artigos/pesquisador-da-anthropic-se-demite-alegando-risco-de-ia-descontrolada)
 - [Como usar IA para revisar código: guia completo de code review](https://www.alura.com.br/artigos/como-usar-ia-para-revisar-codigo)
-- [Alura abre imersão gratuita de engenharia de dados com IA](https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
