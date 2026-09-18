@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
+- [Calor vira frio diretamente em refrigera��o sem eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-vira-frio-diretamente&id=010170260917)
+- [Part�culas que causam auroras s�o recriadas no LHC](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-auroras-lhc&id=010130260917)
 - [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
+- [Branco estrutural dispensa qu�micos e traz outras vantagens](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=branco-estrutural&id=010160260916)
+- [Rob� flex�vel movido a luz pula para sempre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-flexivel-movido-luz-continua-pulando-sempre&id=010180260916)
 - [Proliferação de agentes de IA: entenda o agent sprawl](https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia)
-- [OpenAI pode ter resolvido o problema de Navier-Stokes](https://www.alura.com.br/artigos/openai-pode-ter-resolvido-o-problema-de-navier-stokes)
-- [DeepSeek lança nova IA mais rápida e com custo reduzido](https://www.alura.com.br/artigos/deepseek-lanca-nova-ia-mais-rapida-e-com-custo-reduzido)
-- [Pesquisador da Anthropic se demite alegando risco de IA descontrolada](https://www.alura.com.br/artigos/pesquisador-da-anthropic-se-demite-alegando-risco-de-ia-descontrolada)
-- [Como usar IA para revisar código: guia completo de code review](https://www.alura.com.br/artigos/como-usar-ia-para-revisar-codigo)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
