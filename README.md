@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo semicondutor leva transistores aos 4.000 volts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-4-000-volts&id=010110260921)
+- [PVC reciclado vira lubrificante para motores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pvc-reciclado-lubrificante&id=010125260921)
+- [Madeira piezoel�trica gera eletricidade renov�vel e ecol�gica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=madeira-piezoeletrica&id=010115260921)
 - [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
 - [Computador de DNA roda programas sem gastar eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-dna-sem-eletricidade&id=010150260918)
 - [Microsc�pio eletr�nico � integrado com computador qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=microscopio-eletronico-integrado-computador-quantico&id=010165260918)
 - [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
-- [Calor vira frio diretamente em refrigera��o sem eletricidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-vira-frio-diretamente&id=010170260917)
-- [Part�culas que causam auroras s�o recriadas no LHC](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-auroras-lhc&id=010130260917)
-- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
