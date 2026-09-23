@@ -128,9 +128,9 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
 - [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
 - [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
-- [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
-- [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
-- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
+- [Alto-falante rotativo cria sistema revolucion�rio de efeitos sonoros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alto-falante-rotativo&id=010150260922)
+- [Novo isolante t�rmico supera qualquer material encontrado na natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-isolante-termico&id=010170260922)
+- [Lasers ficaram t�o potentes que est�o exigindo lentes de g�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lentes-gas&id=010160260922)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
