@@ -126,11 +126,11 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 <!-- BLOG-POST-LIST:START -->
 - [ETCRAM: Mem�rias anal�gicas tornar�o aparelhos mais inteligentes localmente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=etcram-memoria-analogica&id=010110260923)
 - [Sensor de diamante mede campos magn�ticos do cora��o e do c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-diamante-coracao-cerebro&id=010165260923)
+- [Modelo interno da OpenAI inseriu instruções no próprio treinamento](https://www.alura.com.br/artigos/modelo-interno-da-openai-inseriu-instrucoes-no-proprio-treinamento)
+- [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
+- [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
+- [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
 - [Alto-falante rotativo cria sistema revolucion�rio de efeitos sonoros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alto-falante-rotativo&id=010150260922)
-- [Novo isolante t�rmico supera qualquer material encontrado na natureza](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-isolante-termico&id=010170260922)
-- [Lasers ficaram t�o potentes que est�o exigindo lentes de g�s](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=lentes-gas&id=010160260922)
-- [Novo semicondutor leva transistores aos 4.000 volts](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-4-000-volts&id=010110260921)
-- [PVC reciclado vira lubrificante para motores](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pvc-reciclado-lubrificante&id=010125260921)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
