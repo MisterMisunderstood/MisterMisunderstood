@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolu��o do Calor: O calor tem mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-tem-memoria&id=010170260928)
-- [LED de nanofios n�o esquenta porque emite toda a luz que produz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-nanofios&id=010115260928)
-- [Metade dos pequenos agricultores pode alimentar humanidade e restaurar biodiversidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agricultura-regenerativa&id=010125260928)
-- [M�ons podem desafiar teoria da gravidade de Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=muons-teoria-gravidade-einstein&id=010130260925)
-- [Computa��o inspirada em fungos resolve problemas intrat�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-inspirada-fungos&id=010150260925)
-- [Diamantino: Criado um diamante poroso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantino-diamante-poroso&id=010160260924)
-- [Rob� saltitante demonstra propuls�o por hastes el�sticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-saltitante&id=010180260924)
+- [Modelo interno da OpenAI inseriu instruções no próprio treinamento](https://www.alura.com.br/artigos/modelo-interno-da-openai-inseriu-instrucoes-no-proprio-treinamento)
+- [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
+- [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
+- [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
+- [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
+- [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
+- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
