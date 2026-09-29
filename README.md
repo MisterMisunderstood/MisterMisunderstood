@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Em vez de tijolos e cimento, astronautas levar�o gelatina e fermento para Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construcao-3d-marte&id=010130260929)
+- [Salto qu�ntico no som � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=salto-quantico-som&id=010110260929)
+- [Sistemas homog�neos podem ser surpreendentemente fr�geis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistemas-homogeneos-frageis&id=010165260929)
 - [Revolu��o do Calor: O calor tem mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-tem-memoria&id=010170260928)
 - [LED de nanofios n�o esquenta porque emite toda a luz que produz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-nanofios&id=010115260928)
 - [Metade dos pequenos agricultores pode alimentar humanidade e restaurar biodiversidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agricultura-regenerativa&id=010125260928)
 - [M�ons podem desafiar teoria da gravidade de Einstein](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=muons-teoria-gravidade-einstein&id=010130260925)
-- [Computa��o inspirada em fungos resolve problemas intrat�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-inspirada-fungos&id=010150260925)
-- [Diamantino: Criado um diamante poroso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diamantino-diamante-poroso&id=010160260924)
-- [Rob� saltitante demonstra propuls�o por hastes el�sticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-saltitante&id=010180260924)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
