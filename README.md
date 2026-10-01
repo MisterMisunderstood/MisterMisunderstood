@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Semicondutor program�vel com luz cria chips reconfigur�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-programavel-luz&id=010110261001)
+- [Drone com um �nico motor e uma �nica asa voa de modo controlado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-inspirado-semente&id=010180261001)
 - [Luz cl�ssica comum vira m�quina qu�ntica para computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=classica-vira-maquina-quantica&id=010150260930)
 - [Matem�tica que viabiliza mantos de invisibilidade ficou mais simples](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-ondas&id=010160260930)
 - [Em vez de tijolos e cimento, astronautas levar�o gelatina e fermento para Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construcao-3d-marte&id=010130260929)
 - [Salto qu�ntico no som � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=salto-quantico-som&id=010110260929)
 - [Sistemas homog�neos podem ser surpreendentemente fr�geis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistemas-homogeneos-frageis&id=010165260929)
-- [Revolu��o do Calor: O calor tem mem�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=calor-tem-memoria&id=010170260928)
-- [LED de nanofios n�o esquenta porque emite toda a luz que produz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=led-nanofios&id=010115260928)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
