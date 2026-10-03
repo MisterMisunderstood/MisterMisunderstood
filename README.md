@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Modelo interno da OpenAI inseriu instruções no próprio treinamento](https://www.alura.com.br/artigos/modelo-interno-da-openai-inseriu-instrucoes-no-proprio-treinamento)
-- [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
-- [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
-- [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
-- [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
-- [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
-- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
+- [Superf�cies vibrantes ajustam aerodin�mica em tempo de voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficies-vibrantes-aerodinamica&id=010170261002)
+- [C�lulas solares de estanho superam limite te�rico de efici�ncia de 33%](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celulas-solares-estanho-limite-eficiencia&id=010115261002)
+- [Semicondutor program�vel com luz cria chips reconfigur�veis](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=semicondutor-programavel-luz&id=010110261001)
+- [Drone com um �nico motor e uma �nica asa voa de modo controlado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-inspirado-semente&id=010180261001)
+- [Luz cl�ssica comum vira m�quina qu�ntica para computa��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=classica-vira-maquina-quantica&id=010150260930)
+- [Matem�tica que viabiliza mantos de invisibilidade ficou mais simples](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-ondas&id=010160260930)
+- [Em vez de tijolos e cimento, astronautas levar�o gelatina e fermento para Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=construcao-3d-marte&id=010130260929)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
