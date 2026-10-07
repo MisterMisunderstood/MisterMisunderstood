@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Modelo interno da OpenAI inseriu instruções no próprio treinamento](https://www.alura.com.br/artigos/modelo-interno-da-openai-inseriu-instrucoes-no-proprio-treinamento)
-- [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
-- [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
-- [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
-- [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
-- [Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic](https://www.alura.com.br/artigos/claude-cowork-o-que-e)
-- [Como aprender online: guia prático para estudar com eficácia](https://www.alura.com.br/artigos/como-aprender-online)
+- [Supercondutividade � otimizada usando apenas o espa�o vazio, o v�cuo qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-melhorado-vacuo&id=010115261006)
+- [Cascas de ovos tornam ligas met�licas mais fortes e mais leves](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovos-ligas-metalicas&id=010170261006)
+- [Cristal s�lido converte micro-ondas em luz para fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conversao-micro-ondas-luz&id=010110261006)
+- [Tela �ptica converte diretamente luz infravermelha em imagem vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-optica-converte-infravermelho-visivel&id=010150261005)
+- [Blindagem multifuncional bloqueia ondas eletromagn�ticas e esconde o calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=blindagem-multifuncional&id=010160261005)
+- [CO2 do mar transformado em pedra para n�o retornar � atmosfera](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=co2-mar-vira-pedra&id=010125261005)
+- [Superf�cies vibrantes ajustam aerodin�mica em tempo de voo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=superficies-vibrantes-aerodinamica&id=010170261002)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
