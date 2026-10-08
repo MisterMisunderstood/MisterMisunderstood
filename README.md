@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bambu vira escudo contra interfer�ncias, fogo e ainda gera aquecimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-bambu-escudo&id=010160261008)
+- [Nem todos os meteoritos caem na Terra do mesmo jeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fases-queda-meteoritos&id=010130261008)
 - [Antena de plasma inovadora transmite e recebe ondas de r�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-plasma&id=010110261007)
 - [Supercapacitor de cimento fornece energia para edif�cios inteligentes](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercapacitor-cimento&id=010115261007)
 - [Supercondutividade � otimizada usando apenas o espa�o vazio, o v�cuo qu�ntico](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=supercondutor-melhorado-vacuo&id=010115261006)
 - [Cascas de ovos tornam ligas met�licas mais fortes e mais leves](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cascas-ovos-ligas-metalicas&id=010170261006)
 - [Cristal s�lido converte micro-ondas em luz para fibras �pticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=conversao-micro-ondas-luz&id=010110261006)
-- [Tela �ptica converte diretamente luz infravermelha em imagem vis�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-optica-converte-infravermelho-visivel&id=010150261005)
-- [Blindagem multifuncional bloqueia ondas eletromagn�ticas e esconde o calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=blindagem-multifuncional&id=010160261005)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
