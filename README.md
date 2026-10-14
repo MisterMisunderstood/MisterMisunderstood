@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Laje de madeira � mais fina e mais sustent�vel que laje de concreto armado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laje-madeira&id=010170261014)
+- [Biomassa vira combust�vel e qu�micos valiosos na pancada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piezocatalise&id=010125261014)
+- [Rob� cai girando como uma semente e navega como um barco a vela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-semente-navega-barco-vela&id=010180261014)
 - [Em parceria com Google, Alura abre imersão gratuita de engenharia de software com IA](https://www.alura.com.br/artigos/parceria-com-google-imersao-dev-na-era-ia)
 - [De onde vem a aleatoriedade na mec�nica qu�ntica?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=aleatoriedade-mecanica-quantica&id=010165261009)
 - [Armazenamento magn�tico acionado por luz mais perto da realidade](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=armazenamento-magnetico-acionado-luz&id=010150261009)
 - [Como migramos do Spring Boot 2 para o 4 com ajuda de IA](https://www.alura.com.br/artigos/como-migramos-do-spring-boot-2-para-o-4-com-ajuda-de-ia)
-- [Bambu vira escudo contra interfer�ncias, fogo e ainda gera aquecimento](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espuma-bambu-escudo&id=010160261008)
-- [Nem todos os meteoritos caem na Terra do mesmo jeito](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fases-queda-meteoritos&id=010130261008)
-- [Antena de plasma inovadora transmite e recebe ondas de r�dio](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antena-plasma&id=010110261007)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
