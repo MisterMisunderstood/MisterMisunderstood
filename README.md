@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Material rob�tico vibra como se fosse vivo e vira cristal do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-mecatronico&id=010160261015)
+- [�m� com oito polos � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-oito-polos&id=010110261015)
+- [C�rebro de luz demonstra potencial da "intelig�ncia �ptica"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cerebro-luz&id=010150261015)
+- [Laje de madeira � mais fina e mais sustent�vel que laje de concreto armado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laje-madeira&id=010170261014)
+- [Biomassa vira combust�vel e qu�micos valiosos na pancada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piezocatalise&id=010125261014)
+- [Rob� cai girando como uma semente e navega como um barco a vela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-semente-navega-barco-vela&id=010180261014)
 - [Em parceria com Google, Alura abre imersão gratuita de engenharia de software com IA](https://www.alura.com.br/artigos/parceria-com-google-imersao-dev-na-era-ia)
-- [Como migramos do Spring Boot 2 para o 4 com ajuda de IA](https://www.alura.com.br/artigos/como-migramos-do-spring-boot-2-para-o-4-com-ajuda-de-ia)
-- [Modelo interno da OpenAI inseriu instruções no próprio treinamento](https://www.alura.com.br/artigos/modelo-interno-da-openai-inseriu-instrucoes-no-proprio-treinamento)
-- [Anthropic unifica Claude Chat, Cowork, Artifacts e Design](https://www.alura.com.br/artigos/anthropic-unifica-claude-chat-cowork-artifacts-e-design)
-- [Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk](https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk)
-- [Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev](https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev)
-- [Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia](https://www.alura.com.br/artigos/alura-no-vale-do-silicio-5-aprendizados)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
