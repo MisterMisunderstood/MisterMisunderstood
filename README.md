@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [A incerteza � real nas baterias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-real-baterias-quanticas&id=010115261016)
+- [Confinamento c�smico garante que nosso Universo � est�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confinamento-cosmico-universo-estavel&id=010130261016)
 - [Material rob�tico vibra como se fosse vivo e vira cristal do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-mecatronico&id=010160261015)
 - [�m� com oito polos � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-oito-polos&id=010110261015)
 - [C�rebro de luz demonstra potencial da "intelig�ncia �ptica"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cerebro-luz&id=010150261015)
 - [Laje de madeira � mais fina e mais sustent�vel que laje de concreto armado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laje-madeira&id=010170261014)
 - [Biomassa vira combust�vel e qu�micos valiosos na pancada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piezocatalise&id=010125261014)
-- [Rob� cai girando como uma semente e navega como um barco a vela](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-semente-navega-barco-vela&id=010180261014)
-- [Em parceria com Google, Alura abre imersão gratuita de engenharia de software com IA](https://www.alura.com.br/artigos/parceria-com-google-imersao-dev-na-era-ia)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
