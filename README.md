@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Minera��o sem buracos extrai magn�sio da salmoura de dessaliniza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineracao-liquida&id=010170261019)
+- [Nanodiamantes de qualidade in�dita s�o produzidos com laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodiamantes-laser&id=010165261019)
+- [Filtro usa luz para purificar o ar e turbinar m�scaras faciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-luz-purificar-ar&id=010125261019)
 - [A incerteza � real nas baterias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-real-baterias-quanticas&id=010115261016)
 - [Confinamento c�smico garante que nosso Universo � est�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confinamento-cosmico-universo-estavel&id=010130261016)
 - [Material rob�tico vibra como se fosse vivo e vira cristal do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-mecatronico&id=010160261015)
 - [�m� com oito polos � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-oito-polos&id=010110261015)
-- [C�rebro de luz demonstra potencial da "intelig�ncia �ptica"](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cerebro-luz&id=010150261015)
-- [Laje de madeira � mais fina e mais sustent�vel que laje de concreto armado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laje-madeira&id=010170261014)
-- [Biomassa vira combust�vel e qu�micos valiosos na pancada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=piezocatalise&id=010125261014)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
