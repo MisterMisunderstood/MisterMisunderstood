@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bra�o rob�tico inspirado nos polvos tem um �nico m�sculo artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-polvo-musculo-artificial&id=010180261020)
+- [Part�culas tran�adas viabilizam computadores qu�nticos universais e sem erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-exoticas-trancadas&id=010150261020)
+- [Cristais l�quidos tornam computa��o com luz reprogram�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-reprogramavel&id=010160261020)
 - [Minera��o sem buracos extrai magn�sio da salmoura de dessaliniza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineracao-liquida&id=010170261019)
 - [Nanodiamantes de qualidade in�dita s�o produzidos com laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodiamantes-laser&id=010165261019)
 - [Filtro usa luz para purificar o ar e turbinar m�scaras faciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=filtro-luz-purificar-ar&id=010125261019)
 - [A incerteza � real nas baterias qu�nticas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=incerteza-real-baterias-quanticas&id=010115261016)
-- [Confinamento c�smico garante que nosso Universo � est�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=confinamento-cosmico-universo-estavel&id=010130261016)
-- [Material rob�tico vibra como se fosse vivo e vira cristal do tempo](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristal-tempo-mecatronico&id=010160261015)
-- [�m� com oito polos � observado pela primeira vez](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ima-oito-polos&id=010110261015)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
