@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Componente p�s-trans�stor opera com ondas de magnetismo e som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-pos-transistor&id=010110261022)
+- [NASA apresenta vers�es finais dos rob�s que ir�o � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-robos-lunares&id=010130261022)
 - [Tubo virtual de som guia mat�ria livremente pelo ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tubo-virtual-ultrassom&id=010170261021)
 - [Neutrino ignorado pode explicar exist�ncia do Universo, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrino-desacoplado&id=010130261021)
-- [Bra�o rob�tico inspirado nos polvos tem um �nico m�sculo artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-polvo-musculo-artificial&id=010180261020)
+- [Bra�o rob�tico inspirado nos polvos usa um �nico m�sculo artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-polvo-musculo-artificial&id=010180261020)
 - [Part�culas tran�adas viabilizam computadores qu�nticos universais e sem erros](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=particulas-exoticas-trancadas&id=010150261020)
 - [Cristais l�quidos tornam computa��o com luz reprogram�vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computacao-luz-reprogramavel&id=010160261020)
-- [Minera��o sem buracos extrai magn�sio da salmoura de dessaliniza��o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=mineracao-liquida&id=010170261019)
-- [Nanodiamantes de qualidade in�dita s�o produzidos com laser](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanodiamantes-laser&id=010165261019)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
