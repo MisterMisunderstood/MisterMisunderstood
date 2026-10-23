@@ -125,7 +125,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Areia do deserto vira "areia viva" para agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=areia-viva-agricultura&id=010125261023)
-- [Como um astronauta consegue pingar um col�rio no olho?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colirio-astronauta&id=010165261023)
+- [Como um astronauta consegue pingar col�rio no olho?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colirio-astronauta&id=010165261023)
 - [Componente p�s-trans�stor opera com ondas de magnetismo e som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-pos-transistor&id=010110261022)
 - [NASA apresenta vers�es finais dos rob�s que ir�o � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-robos-lunares&id=010130261022)
 - [Tubo virtual de som guia mat�ria livremente pelo ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tubo-virtual-ultrassom&id=010170261021)
