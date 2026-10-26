@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Tela sens�vel ao toque de tecido abre universo de aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-sensivel-toque-tecido&id=010150261026)
+- [Pele condutora, magn�tica e com autocura serve para rob�s, blindagem e mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-condutora-magnetica&id=010180261026)
+- [P�s revolucion�rias para helic�pteros que voar�o em Marte](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pas-revolucionarias-helicopteros-marte&id=010170261026)
 - [Areia do deserto vira "areia viva" para agricultura](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=areia-viva-agricultura&id=010125261023)
 - [Como um astronauta consegue pingar col�rio no olho?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=colirio-astronauta&id=010165261023)
 - [Componente p�s-trans�stor opera com ondas de magnetismo e som](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=componente-pos-transistor&id=010110261022)
 - [NASA apresenta vers�es finais dos rob�s que ir�o � Lua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-robos-lunares&id=010130261022)
-- [Tubo virtual de som guia mat�ria livremente pelo ar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tubo-virtual-ultrassom&id=010170261021)
-- [Neutrino ignorado pode explicar exist�ncia do Universo, dizem f�sicos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=neutrino-desacoplado&id=010130261021)
-- [Bra�o rob�tico inspirado nos polvos usa um �nico m�sculo artificial](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=robo-polvo-musculo-artificial&id=010180261020)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
