@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Luz 3D: Criados campos de luz tridimensionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-3d&id=010115261029)
+- [Cometas trouxeram a vida para a Terra? Provavelmente n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometas-vida-terra&id=010130261029)
 - [Asa de borboleta inspira supermaterial antirradar e antirru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asa-borboleta-supermaterial&id=010170261028)
 - [Cristais inusitados t�m formato e flexibilidade de uma mola](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cristais-forma-mola&id=010165261028)
 - [Caminh�o h�brido el�trico-hidrog�nio come�a a ser testado](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=caminhao-hibrido-eletrico-hidrogenio&id=010170261027)
 - [A �gua pelo Universo n�o se parece com a �gua na Terra](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=agua-cosmica&id=010130261027)
 - [Sinapse artificial �mida avan�a computa��o similar ao c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sinapse-artificial-umida&id=010110261027)
-- [Tela sens�vel ao toque de tecido abre universo de aplica��es](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tela-sensivel-toque-tecido&id=010150261026)
-- [Pele condutora, magn�tica e com autocura serve para rob�s, blindagem e mais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-condutora-magnetica&id=010180261026)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
