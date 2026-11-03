@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nasce um trans�stor fruto da alquimia moderna](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alquimia-transistor&id=010110261103)
+- [Emiss�es de carbono das hidrel�tricas est�o superestimadas, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=emissoes-carbono-hidreletricas&id=010125261103)
 - [PHP2Shell: quando uma requisição basta para dominar um servidor](https://www.alura.com.br/artigos/php2shell)
 - [Computa��o bioeletr�nica: Minic�rebros aprendem a ler Braille](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=minicerebros-aprendem-ler-braille&id=010150261030)
 - [Madeira fica flex�vel e pode ser dobrada e moldada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=moldar-madeira&id=010160261030)
 - [Estratégia de carreira em tecnologia: guia prático completo](https://www.alura.com.br/artigos/estrategia-de-desenvolvimento-de-carreira)
 - [Luz 3D: Criados campos de luz tridimensionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=luz-3d&id=010115261029)
-- [Cometas trouxeram a vida para a Terra? Provavelmente n�o](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=cometas-vida-terra&id=010130261029)
-- [Asa de borboleta inspira supermaterial antirradar e antirru�do](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=asa-borboleta-supermaterial&id=010170261028)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
