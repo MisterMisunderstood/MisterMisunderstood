@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Eletr�nicos s�o resfriados sem eletricidade ou �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-resfriados&id=010170261106)
+- [Matem�tica das conchas marinhas simplifica processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-conchas-marinhas&id=010160261106)
 - [Trans�stor criptogr�fico s� libera informa��o na hora marcada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-criptografico&id=010150261105)
 - [Padr�o matem�tico abstrato revela conex�o inesperada com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=padrao-matematico-conexao-luz&id=010115261105)
 - [Nanom�quina: Parafuso de Arquimedes feito de uma �nica mol�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=parafuso-arquimedes-molecular&id=010165261104)
 - [Pele de rob� coleta energia, dispensando as baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-robo-coleta-energia&id=010180261104)
 - [Nasce um trans�stor fruto da alquimia moderna](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=alquimia-transistor&id=010110261103)
-- [Emiss�es de carbono das hidrel�tricas est�o superestimadas, dizem cientistas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=emissoes-carbono-hidreletricas&id=010125261103)
-- [PHP2Shell: quando uma requisição basta para dominar um servidor](https://www.alura.com.br/artigos/php2shell)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
