@@ -125,12 +125,12 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 
 <!-- BLOG-POST-LIST:START -->
 - [Do Photoshop ao GTA VI: se a IA acelera o desenvolvimento de softwares, o que acontece com o hype dos games?](https://www.alura.com.br/artigos/gta-e-ia-no-desenvolvimento-de-jogos)
-- [PHP2Shell: quando uma requisição basta para dominar um servidor](https://www.alura.com.br/artigos/php2shell)
-- [Estratégia de carreira em tecnologia: guia prático completo](https://www.alura.com.br/artigos/estrategia-de-desenvolvimento-de-carreira)
-- [Como se tornar freelancer: guia para tech freelancing](https://www.alura.com.br/artigos/como-se-tornar-freelancer)
-- [Desafios de código: onde praticar para processos seletivos](https://www.alura.com.br/artigos/desafios-de-codigo-onde-praticar)
-- [Testando sistemas agênticos: aprendendo com o passado para testar o futuro](https://www.alura.com.br/artigos/como-testar-sistemas-agenticos)
-- [Como a IA está mudando os processos seletivos em tech e o que recrutadores esperam agora?](https://www.alura.com.br/artigos/ia-nos-processos-seletivos-em-tech)
+- [Eletr�nicos s�o resfriados sem eletricidade ou �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-resfriados&id=010170261106)
+- [Matem�tica das conchas marinhas simplifica processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-conchas-marinhas&id=010160261106)
+- [Trans�stor criptogr�fico s� libera informa��o na hora marcada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-criptografico&id=010150261105)
+- [Padr�o matem�tico abstrato revela conex�o inesperada com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=padrao-matematico-conexao-luz&id=010115261105)
+- [Nanom�quina: Parafuso de Arquimedes feito de uma �nica mol�cula](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=parafuso-arquimedes-molecular&id=010165261104)
+- [Pele de rob� coleta energia, dispensando as baterias](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pele-robo-coleta-energia&id=010180261104)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
