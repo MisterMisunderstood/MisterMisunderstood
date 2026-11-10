@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [C�lula solar de bismuto romper� limita��o cr�tica da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-bismuto&id=010115261110)
+- [Chip de luz interliga telesc�pios e produz detalhes in�ditos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-interliga-telescopios&id=010130261110)
+- [Fertilizante � produzido diretamente na fazenda usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fertilizante-produzido-fazenda&id=010125261110)
 - [LED pisca mais r�pido no mundo para verdejar centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-led-pisca-mais-rapido-mundo&id=010110261109)
 - [Sensor de 10 d�lares promete um laborat�rio m�dico no seu pulso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laboratorio-medico-seu-pulso&id=010150261109)
 - [Sistemas qu�nticos nunca se esquecem de onde vieram](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistemas-quanticos-nunca-esquecem&id=010165261109)
-- [Eletr�nicos s�o resfriados sem eletricidade ou �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-resfriados&id=010170261106)
-- [Matem�tica das conchas marinhas simplifica processos industriais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-conchas-marinhas&id=010160261106)
-- [Trans�stor criptogr�fico s� libera informa��o na hora marcada](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-criptografico&id=010150261105)
-- [Padr�o matem�tico abstrato revela conex�o inesperada com a luz](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=padrao-matematico-conexao-luz&id=010115261105)
+- [Do Photoshop ao GTA VI: se a IA acelera o desenvolvimento de softwares, o que acontece com o hype dos games?](https://www.alura.com.br/artigos/gta-e-ia-no-desenvolvimento-de-jogos)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
