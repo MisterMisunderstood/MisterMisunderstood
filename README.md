@@ -130,7 +130,7 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 - [LED pisca mais r�pido no mundo para verdejar centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-led-pisca-mais-rapido-mundo&id=010110261109)
 - [Sensor de 10 d�lares promete um laborat�rio m�dico no seu pulso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laboratorio-medico-seu-pulso&id=010150261109)
 - [Sistemas qu�nticos nunca se esquecem de onde vieram](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sistemas-quanticos-nunca-esquecem&id=010165261109)
-- [Do Photoshop ao GTA VI: se a IA acelera o desenvolvimento de softwares, o que acontece com o hype dos games?](https://www.alura.com.br/artigos/gta-e-ia-no-desenvolvimento-de-jogos)
+- [Eletr�nicos s�o resfriados sem eletricidade ou �gua](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=eletronicos-resfriados&id=010170261106)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
