@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [N�o s�o s� passos: Rel�gios v�o compreender cada movimento seu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-movimento-tempo&id=010180261111)
+- [Biocomputador cresce seus pr�prios processadores adicionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biocomputador-cresce-processadores-adicionais&id=010150261112)
+- [Teoria do Universo duas vezes mais antigo passa em testes cruciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-universo-dobro-idade&id=010130261112)
+- [N�o s�o s� passos: Aparelhos v�o compreender cada movimento seu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-movimento-tempo&id=010180261111)
 - [Roupas s�o fabricadas com fibras de grama](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupas-de-grama&id=010160261111)
 - [C�lula solar de bismuto romper� limita��o cr�tica da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-bismuto&id=010115261110)
 - [Chip de luz interliga telesc�pios e produz detalhes in�ditos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-interliga-telescopios&id=010130261110)
 - [Fertilizante � produzido diretamente na fazenda usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fertilizante-produzido-fazenda&id=010125261110)
-- [LED pisca mais r�pido no mundo para verdejar centrais de dados](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=este-led-pisca-mais-rapido-mundo&id=010110261109)
-- [Sensor de 10 d�lares promete um laborat�rio m�dico no seu pulso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=laboratorio-medico-seu-pulso&id=010150261109)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
