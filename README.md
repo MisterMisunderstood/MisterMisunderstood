@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria recarreg�vel funciona com vitamina B12](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-vitamina-b12&id=010115261113)
+- [O que � ci�ncia? Os cientistas n�o chegaram a um consenso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-ciencia&id=010150261113)
 - [Biocomputador cresce seus pr�prios processadores adicionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biocomputador-cresce-processadores-adicionais&id=010150261112)
 - [Teoria do Universo duas vezes mais antigo passa em testes cruciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-universo-dobro-idade&id=010130261112)
 - [N�o s�o s� passos: Aparelhos v�o compreender cada movimento seu](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=sensor-movimento-tempo&id=010180261111)
 - [Roupas s�o fabricadas com fibras de grama](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=roupas-de-grama&id=010160261111)
 - [C�lula solar de bismuto romper� limita��o cr�tica da energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=celula-solar-bismuto&id=010115261110)
-- [Chip de luz interliga telesc�pios e produz detalhes in�ditos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=chip-luz-interliga-telescopios&id=010130261110)
-- [Fertilizante � produzido diretamente na fazenda usando energia solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fertilizante-produzido-fazenda&id=010125261110)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
