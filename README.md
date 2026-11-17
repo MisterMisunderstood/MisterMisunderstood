@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Bateria viva extrai eletricidade de c�lulas humanas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-viva&id=010115261117)
+- [Limite espa�o-temporal: Aqui e agora s�o indefin�veis para os el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limite-espaco-temporal&id=010165261117)
+- [Luz e mat�ria interagindo em fibras �pticas conectam f�sicas cl�ssica e qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-conectam-fisicas-classica-quantica&id=010110261117)
 - [Espelhos s�o fabricados com plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelhos-plantas&id=010160261116)
 - [Causa e efeito s�o encontrados sem precisar realizar experimentos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=causa-efeito-sem-experimentos&id=010150261116)
 - [Ondas gravitacionais de Einstein agora conversam com mar�s de Newton](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ondas-gravitacionais-einstein-mares-newton&id=010130261116)
 - [Bateria recarreg�vel funciona com vitamina B12](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-vitamina-b12&id=010115261113)
-- [O que � ci�ncia? Os cientistas n�o chegaram a um consenso](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=o-que-e-ciencia&id=010150261113)
-- [Biocomputador cresce seus pr�prios processadores adicionais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biocomputador-cresce-processadores-adicionais&id=010150261112)
-- [Teoria do Universo duas vezes mais antigo passa em testes cruciais](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-universo-dobro-idade&id=010130261112)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
