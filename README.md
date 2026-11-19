@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
-- [Existem alguns infinitos maiores do que os outros?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=infinitos-colocados-fila&id=010130261119)
-- [F�rum Econ�mico Mundial anuncia 10 tecnologias energ�ticas para a sa�de planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=10-tecnologias-energia&id=010115261119)
-- [Calor � armazenado aos poucos e liberado de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capacitor-de-calor&id=010170261118)
-- [A IA pode aprender a compreender a natureza?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-compreender-natureza&id=010125261118)
-- [Bateria viva extrai eletricidade de c�lulas humanas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-viva&id=010115261117)
-- [Limite espa�o-temporal: Aqui e agora s�o indefin�veis para os el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limite-espaco-temporal&id=010165261117)
-- [Luz e mat�ria interagindo em fibras �pticas conectam f�sicas cl�ssica e qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-conectam-fisicas-classica-quantica&id=010110261117)
+- [Estratégia de carreira em tecnologia: guia prático completo](https://www.alura.com.br/artigos/estrategia-de-desenvolvimento-de-carreira)
+- [Como se tornar freelancer: guia para tech freelancing](https://www.alura.com.br/artigos/como-se-tornar-freelancer)
+- [Desafios de código: onde praticar para processos seletivos](https://www.alura.com.br/artigos/desafios-de-codigo-onde-praticar)
+- [Testando sistemas agênticos: aprendendo com o passado para testar o futuro](https://www.alura.com.br/artigos/como-testar-sistemas-agenticos)
+- [Como a IA está mudando os processos seletivos em tech e o que recrutadores esperam agora?](https://www.alura.com.br/artigos/ia-nos-processos-seletivos-em-tech)
+- [O que é live coding e como se preparar para essa etapa](https://www.alura.com.br/artigos/live-coding-entrevista)
+- [5G: entenda a quinta geração da internet móvel e seus usos](https://www.alura.com.br/artigos/5g)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
