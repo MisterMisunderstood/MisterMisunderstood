@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Existem alguns infinitos maiores do que os outros?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=infinitos-colocados-fila&id=010130261119)
+- [F�rum Econ�mico Mundial anuncia 10 tecnologias energ�ticas para a sa�de planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=10-tecnologias-energia&id=010115261119)
 - [Calor � armazenado aos poucos e liberado de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capacitor-de-calor&id=010170261118)
 - [A IA pode aprender a compreender a natureza?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=ia-compreender-natureza&id=010125261118)
 - [Bateria viva extrai eletricidade de c�lulas humanas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=bateria-viva&id=010115261117)
 - [Limite espa�o-temporal: Aqui e agora s�o indefin�veis para os el�trons](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=limite-espaco-temporal&id=010165261117)
 - [Luz e mat�ria interagindo em fibras �pticas conectam f�sicas cl�ssica e qu�ntica](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fibras-opticas-conectam-fisicas-classica-quantica&id=010110261117)
-- [Espelhos s�o fabricados com plantas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=espelhos-plantas&id=010160261116)
-- [Causa e efeito s�o encontrados sem precisar realizar experimentos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=causa-efeito-sem-experimentos&id=010150261116)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
