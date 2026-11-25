@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Estado qu�ntico da mat�ria � demonstrado � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estado-quantico-temperatura-ambiente&id=010160261125)
+- [M�sculo artificial sensorial detecta e agarra objetos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-sensorial&id=010180261125)
 - [Planeta X2: Nova hip�tese redefine planeta oculto do Sistema Solar](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=planeta-x2&id=010130261124)
 - [Biobaterias s�o inspiradas no intestino delgado humano](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=biobaterias-intestino-humano&id=010115261124)
 - [Twistr�nica salta para terceira dimens�o, funcionando no espa�o livre](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=twistronica-3d&id=010110261123)
 - [Previsibilidade e consist�ncia na IA � matematicamente inalcan��vel](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=matematica-previsibilidade-ia&id=010150261123)
 - [Existem alguns infinitos maiores do que os outros?](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=infinitos-colocados-fila&id=010130261119)
-- [F�rum Econ�mico Mundial anuncia 10 tecnologias energ�ticas para a sa�de planet�ria](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=10-tecnologias-energia&id=010115261119)
-- [Calor � armazenado aos poucos e liberado de uma vez s�](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=capacitor-de-calor&id=010170261118)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
