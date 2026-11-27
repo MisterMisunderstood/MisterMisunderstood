@@ -124,13 +124,13 @@ Estou iniciando nessa jornada e feliz por fazer parte da <i>guilda</i> de progra
 &nbsp; <br> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Got�culas formam processador l�quido para computa��o inspirada no c�rebro](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=goticulas-processador-liquido&id=010150261127)
+- [Sat�lites come�am a enxergar abaixo da superf�cie dos oceanos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelites-enxergam-abaixo-superficie-oceanos&id=010125261127)
 - [Como testar aplicações com apoio de inteligência artificial sem abrir mão de qualidade](https://www.alura.com.br/artigos/como-testar-aplicacoes-com-apoio-de-inteligencia-artificial)
 - [Pasteuriza��o el�trica: Leite em p� � produzido sem calor](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=pasteurizacao-eletrica&id=010170261126)
 - [Trocar mol�culas por nanopart�culas interconectadas cria materiais in�ditos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nanoparticulas-interconectadas&id=010165261126)
 - [Como funciona a sincronização em tempo real no modelo cliente-servidor](https://www.alura.com.br/artigos/sincronizacao-em-tempo-real-no-modelo-cliente-servidor)
 - [Estado qu�ntico da mat�ria � demonstrado � temperatura ambiente](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=estado-quantico-temperatura-ambiente&id=010160261125)
-- [M�sculo artificial sensorial detecta e agarra objetos](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=musculo-artificial-sensorial&id=010180261125)
-- [O que é Forward Deployed Engineer (FDE) e como se tornar um](https://www.alura.com.br/artigos/forward-deployed-engineer-fde)
 <!-- BLOG-POST-LIST:END -->
 
   </td>
